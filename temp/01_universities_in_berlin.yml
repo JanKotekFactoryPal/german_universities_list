@@ -17,6 +17,12 @@ Universität_(University):
       - Department_of_Physics
       - Department_of_Political_and_Social_Sciences
       - Department_of_Veterinary_Medicine
+  - University_of_Potsdam:
+      - Faculty_of_Humanities
+      - Faculty_of_Economics_and_Social_Sciences
+      - Faculty_of_Science
+      - Faculty_of_Law
+      - Faculty_of_Education
 
 Technische_Universität_(Technical_University):
   - Technische_Universität_Berlin_(TU_Berlin):
@@ -27,6 +33,30 @@ Technische_Universität_(Technical_University):
       - Faculty_of_Mechanical_Engineering_and_Transport_Systems
       - Faculty_of_Planning_Building_Environment
       - Faculty_of_Process_Sciences
+  - Brandenburg_University_of_Technology_Cottbus-Senftenberg:
+      - Faculty_of_Business,_Law_and_Social_Sciences
+      - Faculty_of_Health_Sciences
+      - Faculty_of_Engineering
+      - Faculty_of_Natural_Sciences
+
+Fachhochschule_(University_of_Applied_Sciences):
+  - Berlin_University_of_Applied_Sciences_(HTW_Berlin):
+      - School_of_Engineering
+      - School_of_Economics
+      - School_of_Design_and_Culture
+      - School_of_Life_Sciences
+  - Technical_University_of_Applied_Sciences_Wildau:
+      - Faculty_of_Engineering_and_Natural_Sciences
+      - Faculty_of_Business,_Computing_and_Law
+  - University_of_Applied_Sciences_Potsdam:
+      - Faculty_of_Architecture_and_Urban_Design
+      - Faculty_of_Civil_Engineering
+      - Faculty_of_Design
+      - Faculty_of_Social_and_Educational_Sciences
+  - SRH_University_of_Applied_Sciences_Berlin:
+      - Faculty_of_Management
+      - Faculty_of_Engineering_and_Technology
+      - Faculty_of_Social_Sciences
 
 Kunsthochschule_(Academy_of_Fine_Arts):
   - Berlin_University_of_the_Arts_(UdK):
@@ -34,6 +64,16 @@ Kunsthochschule_(Academy_of_Fine_Arts):
       - Faculty_of_Design
       - Faculty_of_Music
       - Faculty_of_Performing_Arts
+  - Weißensee_Academy_of_Art_Berlin:
+      - Department_of_Fine_Arts
+      - Department_of_Design
+
+Musikhochschule_(Academy_of_Music):
+  - Hanns_Eisler_School_of_Music_Berlin:
+      - Department_of_Vocal_Studies
+      - Department_of_Instrumental_Studies
+      - Department_of_Conducting
+      - Department_of_Music_Theory_and_Composition
 
 Wirtschaftshochschule_(Business_School):
   - Berlin_School_of_Economics_and_Law_(HWR_Berlin):
@@ -41,3 +81,18 @@ Wirtschaftshochschule_(Business_School):
       - Department_of_Public_Administration
       - Department_of_Legal_Studies
       - Department_of_Police_and_Security_Management
+  - European_School_of_Management_and_Technology_(ESMT_Berlin):
+      - Department_of_Management
+      - Department_of_Innovation_and_Entrepreneurship
+      - Department_of_Finance
+
+Privatuniversität_(Private_University):
+  - Hertie_School_of_Governance:
+      - Department_of_Public_Policy
+      - Department_of_International_Affairs
+  - Bard_College_Berlin:
+      - Department_of_Humanities
+      - Department_of_Social_Sciences
+  - Steinbeis_University_Berlin:
+      - Faculty_of_Business_and_Economics
+      - Faculty_of_Engineering_and_Technology
