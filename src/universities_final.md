@@ -1,8 +1,8 @@
 # Berlin University of Applied Sciences (HTW Berlin) / School of Design and Culture
 
-> **Matching Score:** 9
+> **Matching Score - ChatGPT:** 9
 > **Matching Score - Copilot:** 9
-> **Matching Reason:** This faculty is closely aligned with Barbora's interest in design and architecture, which she is passionate about. It offers practical learning, which is important to her, and the focus on creativity and hands-on experience makes it a good match.
+> **Matching Reason: - ChatGPT:** This faculty is closely aligned with Barbora's interest in design and architecture, which she is passionate about. It offers practical learning, which is important to her, and the focus on creativity and hands-on experience makes it a good match.
 > **Matching Reason - Copilot:** The strong emphasis on practical projects and industry connections aligns well with Barbora's preference for hands-on learning and real-world experience.
 
 - **University Type:** Fachhochschule (University of Applied Sciences)
@@ -33,9 +33,9 @@
 
 # University of Applied Sciences Potsdam / Faculty of Architecture and Urban Design
 
-> **Matching Score:** 9
+> **Matching Score - ChatGPT:** 9
 > **Matching Score - Copilot:** 8
-> **Matching Reason:** This faculty is closely aligned with Barbora's interest in design and architecture, which she is passionate about. It offers practical learning, which is important to her, and the focus on creativity and hands-on experience makes it a good match.
+> **Matching Reason: - ChatGPT:** This faculty is closely aligned with Barbora's interest in design and architecture, which she is passionate about. It offers practical learning, which is important to her, and the focus on creativity and hands-on experience makes it a good match.
 > **Matching Reason - Copilot:** While the faculty offers strong practical learning opportunities, the competitive admission process and limited international student ratio might be challenging for Barbora.
 
 - **University Type:** Fachhochschule (University of Applied Sciences)
@@ -63,9 +63,9 @@
 
 # University of Applied Sciences Potsdam / Faculty of Design
 
-> **Matching Score:** 9
+> **Matching Score - ChatGPT:** 9
 > **Matching Score - Copilot:** 8
-> **Matching Reason:** This faculty is closely aligned with Barbora's interest in design and architecture, which she is passionate about. It offers practical learning, which is important to her, and the focus on creativity and hands-on experience makes it a good match.
+> **Matching Reason: - ChatGPT:** This faculty is closely aligned with Barbora's interest in design and architecture, which she is passionate about. It offers practical learning, which is important to her, and the focus on creativity and hands-on experience makes it a good match.
 > **Matching Reason - Copilot:** Similar to the Faculty of Architecture and Urban Design, this faculty offers strong practical learning but may have challenges with competitive admission and limited international student ratio.
 
 - **University Type:** Fachhochschule (University of Applied Sciences)
@@ -95,9 +95,9 @@
 
 # Berlin University of the Arts (UdK) / Faculty of Design
 
-> **Matching Score:** 9
+> **Matching Score - ChatGPT:** 9
 > **Matching Score - Copilot:** 10
-> **Matching Reason:** This faculty is closely aligned with Barbora's interest in design and architecture, which she is passionate about. It offers practical learning, which is important to her, and the focus on creativity and hands-on experience makes it a good match.
+> **Matching Reason: - ChatGPT:** This faculty is closely aligned with Barbora's interest in design and architecture, which she is passionate about. It offers practical learning, which is important to her, and the focus on creativity and hands-on experience makes it a good match.
 > **Matching Reason - Copilot:** The strong emphasis on creativity, practical projects, and international partnerships makes this faculty an excellent fit for Barbora's interests and career goals.
 
 - **University Type:** Kunsthochschule (Academy of Fine Arts)
@@ -128,9 +128,9 @@
 
 # Weißensee Academy of Art Berlin / Department of Design
 
-> **Matching Score:** 9
+> **Matching Score - ChatGPT:** 9
 > **Matching Score - Copilot:** 9
-> **Matching Reason:** This faculty is closely aligned with Barbora's interest in design and architecture, which she is passionate about. It offers practical learning, which is important to her, and the focus on creativity and hands-on experience makes it a good match.
+> **Matching Reason: - ChatGPT:** This faculty is closely aligned with Barbora's interest in design and architecture, which she is passionate about. It offers practical learning, which is important to her, and the focus on creativity and hands-on experience makes it a good match.
 > **Matching Reason - Copilot:** The focus on practical and creative aspects of design, along with strong international partnerships, aligns well with Barbora's preferences.
 
 - **University Type:** Kunsthochschule (Academy of Fine Arts)
@@ -161,9 +161,9 @@
 
 # Berlin University of Applied Sciences (HTW Berlin) / School of Engineering
 
-> **Matching Score:** 8
+> **Matching Score - ChatGPT:** 8
 > **Matching Score - Copilot:** 8
-> **Matching Reason:** This faculty is closely related to Barbora's interest in engineering. Engineering is a field she values, especially when it offers practical training. The faculty provides hands-on experience, which aligns well with her preferences.
+> **Matching Reason: - ChatGPT:** This faculty is closely related to Barbora's interest in engineering. Engineering is a field she values, especially when it offers practical training. The faculty provides hands-on experience, which aligns well with her preferences.
 > **Matching Reason - Copilot:** The practical focus and strong industry connections make this faculty a good fit for Barbora's interest in engineering, though it may not align as closely with her primary passion for design.
 
 - **University Type:** Fachhochschule (University of Applied Sciences)
@@ -195,9 +195,9 @@
 
 # SRH University of Applied Sciences Berlin / Faculty of Engineering and Technology
 
-> **Matching Score:** 8
+> **Matching Score - ChatGPT:** 8
 > **Matching Score - Copilot:** 8
-> **Matching Reason:** This faculty is closely related to Barbora's interest in engineering. Engineering is a field she values, especially when it offers practical training. The faculty provides hands-on experience, which aligns well with her preferences.
+> **Matching Reason: - ChatGPT:** This faculty is closely related to Barbora's interest in engineering. Engineering is a field she values, especially when it offers practical training. The faculty provides hands-on experience, which aligns well with her preferences.
 > **Matching Reason - Copilot:** The combination of theoretical knowledge and practical experience, along with strong industry connections, makes this faculty a good fit for Barbora's engineering interests.
 
 - **University Type:** Fachhochschule (University of Applied Sciences)
@@ -228,9 +228,9 @@
 
 # Technical University of Applied Sciences Wildau / Faculty of Engineering and Natural Sciences
 
-> **Matching Score:** 8
+> **Matching Score - ChatGPT:** 8
 > **Matching Score - Copilot:** 8
-> **Matching Reason:** This faculty is closely related to Barbora's interest in engineering. Engineering is a field she values, especially when it offers practical training. The faculty provides hands-on experience, which aligns well with her preferences.
+> **Matching Reason: - ChatGPT:** This faculty is closely related to Barbora's interest in engineering. Engineering is a field she values, especially when it offers practical training. The faculty provides hands-on experience, which aligns well with her preferences.
 > **Matching Reason - Copilot:** The practical focus and interdisciplinary approach make this faculty a good fit for Barbora's engineering interests.
 
 - **University Type:** Fachhochschule (University of Applied Sciences)
@@ -261,9 +261,9 @@
 
 # University of Applied Sciences Potsdam / Faculty of Civil Engineering
 
-> **Matching Score:** 8
+> **Matching Score - ChatGPT:** 8
 > **Matching Score - Copilot:** 8
-> **Matching Reason:** This faculty is closely related to Barbora's interest in engineering. Engineering is a field she values, especially when it offers practical training. The faculty provides hands-on experience, which aligns well with her preferences.
+> **Matching Reason: - ChatGPT:** This faculty is closely related to Barbora's interest in engineering. Engineering is a field she values, especially when it offers practical training. The faculty provides hands-on experience, which aligns well with her preferences.
 > **Matching Reason - Copilot:** The faculty offers a strong practical focus and dual study programs, which align well with Barbora's preference for hands-on learning and real-world experience.
 
 - **University Type:** Fachhochschule (University of Applied Sciences)
@@ -293,9 +293,9 @@
 
 # Steinbeis University Berlin / Faculty of Engineering and Technology
 
-> **Matching Score:** 8
+> **Matching Score - ChatGPT:** 8
 > **Matching Score - Copilot:** 8
-> **Matching Reason:** This faculty is closely related to Barbora's interest in engineering. Engineering is a field she values, especially when it offers practical training. The faculty provides hands-on experience, which aligns well with her preferences.
+> **Matching Reason: - ChatGPT:** This faculty is closely related to Barbora's interest in engineering. Engineering is a field she values, especially when it offers practical training. The faculty provides hands-on experience, which aligns well with her preferences.
 > **Matching Reason - Copilot:** The combination of theoretical knowledge and practical experience, along with strong industry connections, makes this faculty a good fit for Barbora's engineering interests.
 
 - **University Type:** Privatuniversität (Private University)
@@ -326,9 +326,9 @@
 
 # Brandenburg University of Technology Cottbus-Senftenberg / Faculty of Engineering
 
-> **Matching Score:** 8
+> **Matching Score - ChatGPT:** 8
 > **Matching Score - Copilot:** 8
-> **Matching Reason:** This faculty is closely related to Barbora's interest in engineering. Engineering is a field she values, especially when it offers practical training. The faculty provides hands-on experience, which aligns well with her preferences.
+> **Matching Reason: - ChatGPT:** This faculty is closely related to Barbora's interest in engineering. Engineering is a field she values, especially when it offers practical training. The faculty provides hands-on experience, which aligns well with her preferences.
 > **Matching Reason - Copilot:** The practical focus and interdisciplinary approach make this faculty a good fit for Barbora's engineering interests.
 
 - **University Type:** Technische Universität (Technical University)
@@ -359,9 +359,9 @@
 
 # Technische Universität Berlin (TU Berlin) / Faculty of Electrical Engineering and Computer Science
 
-> **Matching Score:** 8
+> **Matching Score - ChatGPT:** 8
 > **Matching Score - Copilot:** 9
-> **Matching Reason:** This faculty is closely related to Barbora's interest in engineering. Engineering is a field she values, especially when it offers practical training. The faculty provides hands-on experience, which aligns well with her preferences.
+> **Matching Reason: - ChatGPT:** This faculty is closely related to Barbora's interest in engineering. Engineering is a field she values, especially when it offers practical training. The faculty provides hands-on experience, which aligns well with her preferences.
 > **Matching Reason - Copilot:** The strong emphasis on practical projects, interdisciplinary learning, and international partnerships makes this faculty an excellent fit for Barbora's interests and career goals.
 
 - **University Type:** Technische Universität (Technical University)
@@ -393,9 +393,9 @@
 
 # Technische Universität Berlin (TU Berlin) / Faculty of Mechanical Engineering and Transport Systems
 
-> **Matching Score:** 8
+> **Matching Score - ChatGPT:** 8
 > **Matching Score - Copilot:** 9
-> **Matching Reason:** This faculty is closely related to Barbora's interest in engineering. Engineering is a field she values, especially when it offers practical training. The faculty provides hands-on experience, which aligns well with her preferences.
+> **Matching Reason: - ChatGPT:** This faculty is closely related to Barbora's interest in engineering. Engineering is a field she values, especially when it offers practical training. The faculty provides hands-on experience, which aligns well with her preferences.
 > **Matching Reason - Copilot:** The strong emphasis on practical projects, interdisciplinary learning, and international partnerships makes this faculty an excellent fit for Barbora's interests and career goals.
 
 - **University Type:** Technische Universität (Technical University)
@@ -425,9 +425,9 @@
 
 # SRH University of Applied Sciences Berlin / Faculty of Management
 
-> **Matching Score:** 7
+> **Matching Score - ChatGPT:** 7
 > **Matching Score - Copilot:** 7
-> **Matching Reason:** Business is a versatile field and Barbora may find value in this, especially in terms of leadership, management, and practical experience. However, it's not her main area of passion, which makes it a secondary preference.
+> **Matching Reason: - ChatGPT:** Business is a versatile field and Barbora may find value in this, especially in terms of leadership, management, and practical experience. However, it's not her main area of passion, which makes it a secondary preference.
 > **Matching Reason - Copilot:** While business management offers valuable skills, it may not align as closely with Barbora's primary interests in design and engineering.
 
 - **University Type:** Fachhochschule (University of Applied Sciences)
@@ -457,9 +457,9 @@
 
 # Steinbeis University Berlin / Faculty of Business and Economics
 
-> **Matching Score:** 7
+> **Matching Score - ChatGPT:** 7
 > **Matching Score - Copilot:** 7
-> **Matching Reason:** Business is a versatile field and Barbora may find value in this, especially in terms of leadership, management, and practical experience. However, it's not her main area of passion, which makes it a secondary preference.
+> **Matching Reason: - ChatGPT:** Business is a versatile field and Barbora may find value in this, especially in terms of leadership, management, and practical experience. However, it's not her main area of passion, which makes it a secondary preference.
 > **Matching Reason - Copilot:** While business management offers valuable skills, it may not align as closely with Barbora's primary interests in design and engineering.
 
 - **University Type:** Privatuniversität (Private University)
@@ -488,9 +488,9 @@
 
 # Technische Universität Berlin (TU Berlin) / Faculty of Economics and Management
 
-> **Matching Score:** 7
+> **Matching Score - ChatGPT:** 7
 > **Matching Score - Copilot:** 7
-> **Matching Reason:** Business is a versatile field and Barbora may find value in this, especially in terms of leadership, management, and practical experience. However, it's not her main area of passion, which makes it a secondary preference.
+> **Matching Reason: - ChatGPT:** Business is a versatile field and Barbora may find value in this, especially in terms of leadership, management, and practical experience. However, it's not her main area of passion, which makes it a secondary preference.
 > **Matching Reason - Copilot:** While business management offers valuable skills, it may not align as closely with Barbora's primary interests in design and engineering.
 
 - **University Type:** Technische Universität (Technical University)
@@ -520,9 +520,9 @@
 
 # Berlin School of Economics and Law (HWR Berlin) / Department of Business and Economics
 
-> **Matching Score:** 7
+> **Matching Score - ChatGPT:** 7
 > **Matching Score - Copilot:** 7
-> **Matching Reason:** Business is a versatile field and Barbora may find value in this, especially in terms of leadership, management, and practical experience. However, it's not her main area of passion, which makes it a secondary preference.
+> **Matching Reason: - ChatGPT:** Business is a versatile field and Barbora may find value in this, especially in terms of leadership, management, and practical experience. However, it's not her main area of passion, which makes it a secondary preference.
 > **Matching Reason - Copilot:** While business management offers valuable skills, it may not align as closely with Barbora's primary interests in design and engineering.
 
 - **University Type:** Wirtschaftshochschule (Business School)
@@ -552,9 +552,9 @@
 
 # Berlin School of Economics and Law (HWR Berlin) / Department of Police and Security Management
 
-> **Matching Score:** 7
+> **Matching Score - ChatGPT:** 7
 > **Matching Score - Copilot:** 7
-> **Matching Reason:** Business is a versatile field and Barbora may find value in this, especially in terms of leadership, management, and practical experience. However, it's not her main area of passion, which makes it a secondary preference.
+> **Matching Reason: - ChatGPT:** Business is a versatile field and Barbora may find value in this, especially in terms of leadership, management, and practical experience. However, it's not her main area of passion, which makes it a secondary preference.
 > **Matching Reason - Copilot:** While the field of police and security management offers valuable skills, it may not align as closely with Barbora's primary interests in design and engineering.
 
 - **University Type:** Wirtschaftshochschule (Business School)
@@ -584,9 +584,9 @@
 
 # European School of Management and Technology (ESMT Berlin) / Department of Management
 
-> **Matching Score:** 7
+> **Matching Score - ChatGPT:** 7
 > **Matching Score - Copilot:** 7
-> **Matching Reason:** Business is a versatile field and Barbora may find value in this, especially in terms of leadership, management, and practical experience. However, it's not her main area of passion, which makes it a secondary preference.
+> **Matching Reason: - ChatGPT:** Business is a versatile field and Barbora may find value in this, especially in terms of leadership, management, and practical experience. However, it's not her main area of passion, which makes it a secondary preference.
 > **Matching Reason - Copilot:** While business management offers valuable skills, it may not align as closely with Barbora's primary interests in design and engineering.
 
 - **University Type:** Wirtschaftshochschule (Business School)
@@ -615,9 +615,9 @@
 
 # SRH University of Applied Sciences Berlin / Faculty of Social Sciences
 
-> **Matching Score:** 6
+> **Matching Score - ChatGPT:** 6
 > **Matching Score - Copilot:** 6
-> **Matching Reason:** Social sciences are interesting, but Barbora is more inclined towards practical, hands-on fields like design and engineering. While it offers social impact and teamwork opportunities, it may not be her primary focus.
+> **Matching Reason: - ChatGPT:** Social sciences are interesting, but Barbora is more inclined towards practical, hands-on fields like design and engineering. While it offers social impact and teamwork opportunities, it may not be her primary focus.
 > **Matching Reason - Copilot:** While social sciences offer valuable insights into human behavior and society, they may not align as closely with Barbora's primary interests in design and engineering.
 
 - **University Type:** Fachhochschule (University of Applied Sciences)
@@ -646,9 +646,9 @@
 
 # Bard College Berlin / Department of Social Sciences
 
-> **Matching Score:** 6
+> **Matching Score - ChatGPT:** 6
 > **Matching Score - Copilot:** 6
-> **Matching Reason:** Social sciences are interesting, but Barbora is more inclined towards practical, hands-on fields like design and engineering. While it offers social impact and teamwork opportunities, it may not be her primary focus.
+> **Matching Reason: - ChatGPT:** Social sciences are interesting, but Barbora is more inclined towards practical, hands-on fields like design and engineering. While it offers social impact and teamwork opportunities, it may not be her primary focus.
 > **Matching Reason - Copilot:** While social sciences offer valuable insights into human behavior and society, they may not align as closely with Barbora's primary interests in design and engineering.
 
 - **University Type:** Privatuniversität (Private University)
@@ -676,9 +676,9 @@
 
 # Freie Universität Berlin (FU Berlin) / Department of Political and Social Sciences
 
-> **Matching Score:** 6
+> **Matching Score - ChatGPT:** 6
 > **Matching Score - Copilot:** 6
-> **Matching Reason:** Social sciences are interesting, but Barbora is more inclined towards practical, hands-on fields like design and engineering. While it offers social impact and teamwork opportunities, it may not be her primary focus.
+> **Matching Reason: - ChatGPT:** Social sciences are interesting, but Barbora is more inclined towards practical, hands-on fields like design and engineering. While it offers social impact and teamwork opportunities, it may not be her primary focus.
 > **Matching Reason - Copilot:** While social sciences offer valuable insights into political systems and governance, they may not align as closely with Barbora's primary interests in design and engineering.
 
 - **University Type:** Universität (University)
@@ -708,9 +708,9 @@
 
 # Humboldt University of Berlin (HU Berlin) / Faculty of Social Sciences
 
-> **Matching Score:** 6
+> **Matching Score - ChatGPT:** 6
 > **Matching Score - Copilot:** 6
-> **Matching Reason:** Social sciences are interesting, but Barbora is more inclined towards practical, hands-on fields like design and engineering. While it offers social impact and teamwork opportunities, it may not be her primary focus.
+> **Matching Reason: - ChatGPT:** Social sciences are interesting, but Barbora is more inclined towards practical, hands-on fields like design and engineering. While it offers social impact and teamwork opportunities, it may not be her primary focus.
 > **Matching Reason - Copilot:** While social sciences offer valuable insights into human behavior and society, they may not align as closely with Barbora's primary interests in design and engineering.
 
 - **University Type:** Universität (University)
@@ -738,9 +738,9 @@
 
 # University of Potsdam / Faculty of Economics and Social Sciences
 
-> **Matching Score:** 6
+> **Matching Score - ChatGPT:** 6
 > **Matching Score - Copilot:** 6
-> **Matching Reason:** Social sciences are interesting, but Barbora is more inclined towards practical, hands-on fields like design and engineering. While it offers social impact and teamwork opportunities, it may not be her primary focus.
+> **Matching Reason: - ChatGPT:** Social sciences are interesting, but Barbora is more inclined towards practical, hands-on fields like design and engineering. While it offers social impact and teamwork opportunities, it may not be her primary focus.
 > **Matching Reason - Copilot:** While social sciences offer valuable insights into human behavior and society, they may not align as closely with Barbora's primary interests in design and engineering.
 
 - **University Type:** Universität (University)
@@ -770,9 +770,9 @@
 
 # Berlin University of Applied Sciences (HTW Berlin) / School of Economics
 
-> **Matching Score:** 4
+> **Matching Score - ChatGPT:** 4
 > **Matching Score - Copilot:** 4
-> **Matching Reason:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
+> **Matching Reason: - ChatGPT:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
 > **Matching Reason - Copilot:** The focus on economics and business administration does not align closely with Barbora's primary interests in design, engineering, and architecture.
 
 - **University Type:** Fachhochschule (University of Applied Sciences)
@@ -802,9 +802,9 @@
 
 # Berlin University of Applied Sciences (HTW Berlin) / School of Life Sciences
 
-> **Matching Score:** 4
+> **Matching Score - ChatGPT:** 4
 > **Matching Score - Copilot:** 4
-> **Matching Reason:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
+> **Matching Reason: - ChatGPT:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
 > **Matching Reason - Copilot:** The focus on life sciences and natural sciences does not align closely with Barbora's primary interests in design, engineering, and architecture.
 
 - **University Type:** Fachhochschule (University of Applied Sciences)
@@ -834,9 +834,9 @@
 
 # Technical University of Applied Sciences Wildau / Faculty of Business, Computing and Law
 
-> **Matching Score:** 4
+> **Matching Score - ChatGPT:** 4
 > **Matching Score - Copilot:** 4
-> **Matching Reason:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
+> **Matching Reason: - ChatGPT:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
 > **Matching Reason - Copilot:** The focus on business, computing, and law does not align closely with Barbora's primary interests in design, engineering, and architecture.
 
 - **University Type:** Fachhochschule (University of Applied Sciences)
@@ -867,9 +867,9 @@
 
 # University of Applied Sciences Potsdam / Faculty of Social and Educational Sciences
 
-> **Matching Score:** 4
+> **Matching Score - ChatGPT:** 4
 > **Matching Score - Copilot:** 4
-> **Matching Reason:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
+> **Matching Reason: - ChatGPT:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
 > **Matching Reason - Copilot:** The focus on social and educational sciences does not align closely with Barbora's primary interests in design, engineering, and architecture.
 
 - **University Type:** Fachhochschule (University of Applied Sciences)
@@ -899,9 +899,9 @@
 
 # Berlin University of the Arts (UdK) / Faculty of Fine Arts
 
-> **Matching Score:** 4
+> **Matching Score - ChatGPT:** 4
 > **Matching Score - Copilot:** 4
-> **Matching Reason:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
+> **Matching Reason: - ChatGPT:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
 > **Matching Reason - Copilot:** The focus on fine arts does not align closely with Barbora's primary interests in design, engineering, and architecture.
 
 - **University Type:** Kunsthochschule (Academy of Fine Arts)
@@ -930,9 +930,9 @@
 
 # Berlin University of the Arts (UdK) / Faculty of Music
 
-> **Matching Score:** 4
+> **Matching Score - ChatGPT:** 4
 > **Matching Score - Copilot:** 4
-> **Matching Reason:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
+> **Matching Reason: - ChatGPT:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
 > **Matching Reason - Copilot:** The focus on music does not align closely with Barbora's primary interests in design, engineering, and architecture.
 
 - **University Type:** Kunsthochschule (Academy of Fine Arts)
@@ -961,9 +961,9 @@
 
 # Berlin University of the Arts (UdK) / Faculty of Performing Arts
 
-> **Matching Score:** 4
+> **Matching Score - ChatGPT:** 4
 > **Matching Score - Copilot:** 4
-> **Matching Reason:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
+> **Matching Reason: - ChatGPT:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
 > **Matching Reason - Copilot:** The focus on performing arts does not align closely with Barbora's primary interests in design, engineering, and architecture.
 
 - **University Type:** Kunsthochschule (Academy of Fine Arts)
@@ -992,9 +992,9 @@
 
 # Weißensee Academy of Art Berlin / Department of Fine Arts
 
-> **Matching Score:** 4
+> **Matching Score - ChatGPT:** 4
 > **Matching Score - Copilot:** 4
-> **Matching Reason:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
+> **Matching Reason: - ChatGPT:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
 > **Matching Reason - Copilot:** The focus on fine arts does not align closely with Barbora's primary interests in design, engineering, and architecture.
 
 - **University Type:** Kunsthochschule (Academy of Fine Arts)
@@ -1023,9 +1023,9 @@
 
 # Hanns Eisler School of Music Berlin / Department of Conducting
 
-> **Matching Score:** 4
+> **Matching Score - ChatGPT:** 4
 > **Matching Score - Copilot:** 4
-> **Matching Reason:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
+> **Matching Reason: - ChatGPT:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
 > **Matching Reason - Copilot:** The focus on conducting does not align closely with Barbora's primary interests in design, engineering, and architecture.
 
 - **University Type:** Musikhochschule (Academy of Music)
@@ -1055,9 +1055,9 @@
 
 # Hanns Eisler School of Music Berlin / Department of Instrumental Studies
 
-> **Matching Score:** 4
+> **Matching Score - ChatGPT:** 4
 > **Matching Score - Copilot:** 4
-> **Matching Reason:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
+> **Matching Reason: - ChatGPT:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
 > **Matching Reason - Copilot:** The focus on instrumental studies does not align closely with Barbora's primary interests in design, engineering, and architecture.
 
 - **University Type:** Musikhochschule (Academy of Music)
@@ -1087,9 +1087,9 @@
 
 # Hanns Eisler School of Music Berlin / Department of Music Theory and Composition
 
-> **Matching Score:** 4
+> **Matching Score - ChatGPT:** 4
 > **Matching Score - Copilot:** 4
-> **Matching Reason:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
+> **Matching Reason: - ChatGPT:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
 > **Matching Reason - Copilot:** The focus on music theory and composition does not align closely with Barbora's primary interests in design, engineering, and architecture.
 
 - **University Type:** Musikhochschule (Academy of Music)
@@ -1119,9 +1119,9 @@
 
 # Hanns Eisler School of Music Berlin / Department of Vocal Studies
 
-> **Matching Score:** 4
+> **Matching Score - ChatGPT:** 4
 > **Matching Score - Copilot:** 4
-> **Matching Reason:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
+> **Matching Reason: - ChatGPT:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
 > **Matching Reason - Copilot:** The focus on vocal studies does not align closely with Barbora's primary interests in design, engineering, and architecture.
 
 - **University Type:** Musikhochschule (Academy of Music)
@@ -1151,9 +1151,9 @@
 
 # Bard College Berlin / Department of Humanities
 
-> **Matching Score:** 4
+> **Matching Score - ChatGPT:** 4
 > **Matching Score - Copilot:** 4
-> **Matching Reason:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
+> **Matching Reason: - ChatGPT:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
 > **Matching Reason - Copilot:** The focus on humanities does not align closely with Barbora's primary interests in design, engineering, and architecture.
 
 - **University Type:** Privatuniversität (Private University)
@@ -1181,9 +1181,9 @@
 
 # Hertie School of Governance / Department of International Affairs
 
-> **Matching Score:** 4
+> **Matching Score - ChatGPT:** 4
 > **Matching Score - Copilot:** 4
-> **Matching Reason:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
+> **Matching Reason: - ChatGPT:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
 > **Matching Reason - Copilot:** The focus on international affairs does not align closely with Barbora's primary interests in design, engineering, and architecture.
 
 - **University Type:** Privatuniversität (Private University)
@@ -1211,9 +1211,9 @@
 
 # Hertie School of Governance / Department of Public Policy
 
-> **Matching Score:** 4
+> **Matching Score - ChatGPT:** 4
 > **Matching Score - Copilot:** 4
-> **Matching Reason:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
+> **Matching Reason: - ChatGPT:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
 > **Matching Reason - Copilot:** The focus on public policy does not align closely with Barbora's primary interests in design, engineering, and architecture.
 
 - **University Type:** Privatuniversität (Private University)
@@ -1241,9 +1241,9 @@
 
 # Brandenburg University of Technology Cottbus-Senftenberg / Faculty of Business, Law and Social Sciences
 
-> **Matching Score:** 4
+> **Matching Score - ChatGPT:** 4
 > **Matching Score - Copilot:** 4
-> **Matching Reason:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
+> **Matching Reason: - ChatGPT:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
 > **Matching Reason - Copilot:** The focus on business, law, and social sciences does not align closely with Barbora's primary interests in design, engineering, and architecture.
 
 - **University Type:** Technische Universität (Technical University)
@@ -1273,9 +1273,9 @@
 
 # Brandenburg University of Technology Cottbus-Senftenberg / Faculty of Health Sciences
 
-> **Matching Score:** 4
+> **Matching Score - ChatGPT:** 4
 > **Matching Score - Copilot:** 4
-> **Matching Reason:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
+> **Matching Reason: - ChatGPT:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
 > **Matching Reason - Copilot:** The focus on health sciences does not align closely with Barbora's primary interests in design, engineering, and architecture.
 
 - **University Type:** Technische Universität (Technical University)
@@ -1304,9 +1304,9 @@
 
 # Brandenburg University of Technology Cottbus-Senftenberg / Faculty of Natural Sciences
 
-> **Matching Score:** 4
+> **Matching Score - ChatGPT:** 4
 > **Matching Score - Copilot:** 4
-> **Matching Reason:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
+> **Matching Reason: - ChatGPT:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
 > **Matching Reason - Copilot:** The focus on natural sciences does not align closely with Barbora's primary interests in design, engineering, and architecture.
 
 - **University Type:** Technische Universität (Technical University)
@@ -1336,9 +1336,9 @@
 
 # Technische Universität Berlin (TU Berlin) / Faculty of Humanities
 
-> **Matching Score:** 4
+> **Matching Score - ChatGPT:** 4
 > **Matching Score - Copilot:** 4
-> **Matching Reason:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
+> **Matching Reason: - ChatGPT:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
 > **Matching Reason - Copilot:** The focus on humanities does not align closely with Barbora's primary interests in design, engineering, and architecture.
 
 - **University Type:** Technische Universität (Technical University)
@@ -1367,9 +1367,9 @@
 
 # Technische Universität Berlin (TU Berlin) / Faculty of Mathematics and Natural Sciences
 
-> **Matching Score:** 4
+> **Matching Score - ChatGPT:** 4
 > **Matching Score - Copilot:** 4
-> **Matching Reason:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
+> **Matching Reason: - ChatGPT:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
 > **Matching Reason - Copilot:** The focus on mathematics and natural sciences does not align closely with Barbora's primary interests in design, engineering, and architecture.
 
 - **University Type:** Technische Universität (Technical University)
@@ -1401,9 +1401,9 @@
 
 # Technische Universität Berlin (TU Berlin) / Faculty of Planning Building Environment
 
-> **Matching Score:** 4
+> **Matching Score - ChatGPT:** 4
 > **Matching Score - Copilot:** 9
-> **Matching Reason:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
+> **Matching Reason: - ChatGPT:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
 > **Matching Reason - Copilot:** The faculty offers strong programs in architecture and urban planning, which align well with Barbora's interests in design and practical learning.
 
 - **University Type:** Technische Universität (Technical University)
@@ -1437,9 +1437,9 @@
 
 # Technische Universität Berlin (TU Berlin) / Faculty of Process Sciences
 
-> **Matching Score:** 4
+> **Matching Score - ChatGPT:** 4
 > **Matching Score - Copilot:** 8
-> **Matching Reason:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
+> **Matching Reason: - ChatGPT:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
 > **Matching Reason - Copilot:** The faculty offers strong programs in process engineering and environmental systems, which align well with Barbora's interests in practical and interdisciplinary learning.
 
 - **University Type:** Technische Universität (Technical University)
@@ -1469,9 +1469,9 @@
 
 # Freie Universität Berlin (FU Berlin) / Department of Biology, Chemistry, and Pharmacy
 
-> **Matching Score:** 4
+> **Matching Score - ChatGPT:** 4
 > **Matching Score - Copilot:** 7
-> **Matching Reason:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
+> **Matching Reason: - ChatGPT:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
 > **Matching Reason - Copilot:** The department offers strong programs in biological sciences, chemistry, and pharmacy, which may provide valuable interdisciplinary knowledge but do not align closely with Barbora's primary interests.
 
 - **University Type:** Universität (University)
@@ -1503,9 +1503,9 @@
 
 # Freie Universität Berlin (FU Berlin) / Department of Earth Sciences
 
-> **Matching Score:** 4
+> **Matching Score - ChatGPT:** 4
 > **Matching Score - Copilot:** 7
-> **Matching Reason:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
+> **Matching Reason: - ChatGPT:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
 > **Matching Reason - Copilot:** The department offers strong programs in geosciences and environmental systems, which may provide valuable interdisciplinary knowledge but do not align closely with Barbora's primary interests.
 
 - **University Type:** Universität (University)
@@ -1535,9 +1535,9 @@
 
 # Freie Universität Berlin (FU Berlin) / Department of Education and Psychology
 
-> **Matching Score:** 4
+> **Matching Score - ChatGPT:** 4
 > **Matching Score - Copilot:** 4
-> **Matching Reason:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
+> **Matching Reason: - ChatGPT:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
 > **Matching Reason - Copilot:** The focus on psychology and education sciences does not align closely with Barbora's primary interests in design, engineering, and architecture.
 
 - **University Type:** Universität (University)
@@ -1567,9 +1567,9 @@
 
 # Freie Universität Berlin (FU Berlin) / Department of History and Cultural Studies
 
-> **Matching Score:** 4
+> **Matching Score - ChatGPT:** 4
 > **Matching Score - Copilot:** 4
-> **Matching Reason:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
+> **Matching Reason: - ChatGPT:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
 > **Matching Reason - Copilot:** The focus on history and cultural studies does not align closely with Barbora's primary interests in design, engineering, and architecture.
 
 - **University Type:** Universität (University)
@@ -1599,9 +1599,9 @@
 
 # Freie Universität Berlin (FU Berlin) / Department of Law
 
-> **Matching Score:** 4
+> **Matching Score - ChatGPT:** 4
 > **Matching Score - Copilot:** 4
-> **Matching Reason:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
+> **Matching Reason: - ChatGPT:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
 > **Matching Reason - Copilot:** The focus on law does not align closely with Barbora's primary interests in design, engineering, and architecture.
 
 - **University Type:** Universität (University)
@@ -1630,9 +1630,9 @@
 
 # Freie Universität Berlin (FU Berlin) / Department of Mathematics and Computer Science
 
-> **Matching Score:** 4
+> **Matching Score - ChatGPT:** 4
 > **Matching Score - Copilot:** 4
-> **Matching Reason:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
+> **Matching Reason: - ChatGPT:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
 > **Matching Reason - Copilot:** The focus on mathematics and computer science does not align closely with Barbora's primary interests in design, engineering, and architecture.
 
 - **University Type:** Universität (University)
@@ -1662,9 +1662,9 @@
 
 # Freie Universität Berlin (FU Berlin) / Department of Philosophy and Humanities
 
-> **Matching Score:** 4
+> **Matching Score - ChatGPT:** 4
 > **Matching Score - Copilot:** 4
-> **Matching Reason:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
+> **Matching Reason: - ChatGPT:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
 > **Matching Reason - Copilot:** The focus on philosophy and humanities does not align closely with Barbora's primary interests in design, engineering, and architecture.
 
 - **University Type:** Universität (University)
@@ -1694,9 +1694,9 @@
 
 # Freie Universität Berlin (FU Berlin) / Department of Physics
 
-> **Matching Score:** 4
+> **Matching Score - ChatGPT:** 4
 > **Matching Score - Copilot:** 7
-> **Matching Reason:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
+> **Matching Reason: - ChatGPT:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
 > **Matching Reason - Copilot:** The department offers strong programs in physics and its applications, which may provide valuable interdisciplinary knowledge but do not align closely with Barbora's primary interests.
 
 - **University Type:** Universität (University)
@@ -1725,9 +1725,9 @@
 
 # Freie Universität Berlin (FU Berlin) / Department of Veterinary Medicine
 
-> **Matching Score:** 4
+> **Matching Score - ChatGPT:** 4
 > **Matching Score - Copilot:** 4
-> **Matching Reason:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
+> **Matching Reason: - ChatGPT:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
 > **Matching Reason - Copilot:** The focus on veterinary medicine does not align closely with Barbora's primary interests in design, engineering, and architecture.
 
 - **University Type:** Universität (University)
@@ -1756,9 +1756,9 @@
 
 # Humboldt University of Berlin (HU Berlin) / Faculty of Arts and Humanities
 
-> **Matching Score:** 4
+> **Matching Score - ChatGPT:** 4
 > **Matching Score - Copilot:** 4
-> **Matching Reason:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
+> **Matching Reason: - ChatGPT:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
 > **Matching Reason - Copilot:** The focus on arts and humanities does not align closely with Barbora's primary interests in design, engineering, and architecture.
 
 - **University Type:** Universität (University)
@@ -1790,9 +1790,9 @@
 
 # Humboldt University of Berlin (HU Berlin) / Faculty of Law
 
-> **Matching Score:** 4
+> **Matching Score - ChatGPT:** 4
 > **Matching Score - Copilot:** 4
-> **Matching Reason:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
+> **Matching Reason: - ChatGPT:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
 > **Matching Reason - Copilot:** The focus on law does not align closely with Barbora's primary interests in design, engineering, and architecture.
 
 - **University Type:** Universität (University)
@@ -1821,9 +1821,9 @@
 
 # Humboldt University of Berlin (HU Berlin) / Faculty of Life Sciences
 
-> **Matching Score:** 4
+> **Matching Score - ChatGPT:** 4
 > **Matching Score - Copilot:** 4
-> **Matching Reason:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
+> **Matching Reason: - ChatGPT:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
 > **Matching Reason - Copilot:** The focus on life sciences does not align closely with Barbora's primary interests in design, engineering, and architecture.
 
 - **University Type:** Universität (University)
@@ -1855,9 +1855,9 @@
 
 # Humboldt University of Berlin (HU Berlin) / Faculty of Mathematics and Natural Sciences
 
-> **Matching Score:** 4
+> **Matching Score - ChatGPT:** 4
 > **Matching Score - Copilot:** 4
-> **Matching Reason:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
+> **Matching Reason: - ChatGPT:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
 > **Matching Reason - Copilot:** The focus on mathematics and natural sciences does not align closely with Barbora's primary interests in design, engineering, and architecture.
 
 - **University Type:** Universität (University)
@@ -1889,9 +1889,9 @@
 
 # Humboldt University of Berlin (HU Berlin) / Faculty of Medicine (Charité Universitätsmedizin Berlin)
 
-> **Matching Score:** 4
+> **Matching Score - ChatGPT:** 4
 > **Matching Score - Copilot:** 3
-> **Matching Reason:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
+> **Matching Reason: - ChatGPT:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
 > **Matching Reason - Copilot:** The focus on medicine and health does not align with Barbora's primary interests in creative and technical fields. However, the interdisciplinary nature of some health sciences programs might offer some relevance.
 
 - **University Type:** Universität (University)
@@ -1921,9 +1921,9 @@
 
 # University of Potsdam / Faculty of Education
 
-> **Matching Score:** 4
+> **Matching Score - ChatGPT:** 4
 > **Matching Score - Copilot:** 3
-> **Matching Reason:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
+> **Matching Reason: - ChatGPT:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
 > **Matching Reason - Copilot:** The focus on educational sciences and teacher training does not align with Barbora's primary interests. However, the emphasis on practical teaching experience might offer some transferable skills.
 
 - **University Type:** Universität (University)
@@ -1952,9 +1952,9 @@
 
 # University of Potsdam / Faculty of Humanities
 
-> **Matching Score:** 4
+> **Matching Score - ChatGPT:** 4
 > **Matching Score - Copilot:** 3
-> **Matching Reason:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
+> **Matching Reason: - ChatGPT:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
 > **Matching Reason - Copilot:** The focus on cultural studies, languages, history, and philosophy does not align with Barbora's primary interests. However, interdisciplinary research might offer some relevant insights.
 
 - **University Type:** Universität (University)
@@ -1983,9 +1983,9 @@
 
 # University of Potsdam / Faculty of Law
 
-> **Matching Score:** 4
+> **Matching Score - ChatGPT:** 4
 > **Matching Score - Copilot:** 3
-> **Matching Reason:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
+> **Matching Reason: - ChatGPT:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
 > **Matching Reason - Copilot:** The focus on legal studies does not align with Barbora's primary interests. However, the analytical skills developed in law might offer some transferable benefits.
 
 - **University Type:** Universität (University)
@@ -2014,9 +2014,9 @@
 
 # Beuth University of Applied Sciences Berlin / Faculty of Mathematics and Natural Sciences
 
-> **Matching Score:** 8
+> **Matching Score - ChatGPT:** 8
 > **Matching Score - Copilot:** 8
-> **Matching Reason:** This faculty aligns well with Barbora's strong skills in mathematics and her interest in practical applications.
+> **Matching Reason: - ChatGPT:** This faculty aligns well with Barbora's strong skills in mathematics and her interest in practical applications.
 > **Matching Reason - Copilot:** The focus on applied mathematics and natural sciences offers a solid foundation for Barbora's technical and analytical skills, which are crucial for her career goals.
 
 - **University Type:** Fachhochschule (University of Applied Sciences)
@@ -2045,9 +2045,9 @@
 
 # Beuth University of Applied Sciences Berlin / Faculty of Architecture and Civil Engineering
 
-> **Matching Score:** 9
+> **Matching Score - ChatGPT:** 9
 > **Matching Score - Copilot:** 9
-> **Matching Reason:** This faculty is closely aligned with Barbora's interest in architecture and engineering, offering practical and creative programs.
+> **Matching Reason: - ChatGPT:** This faculty is closely aligned with Barbora's interest in architecture and engineering, offering practical and creative programs.
 > **Matching Reason - Copilot:** The strong emphasis on practical projects and sustainable design aligns well with Barbora's preference for hands-on learning and real-world experience.
 
 - **University Type:** Fachhochschule (University of Applied Sciences)
@@ -2076,9 +2076,9 @@
 
 # Hochschule für Medien, Kommunikation und Wirtschaft (HMKW) Berlin / Faculty of Design
 
-> **Matching Score:** 8
+> **Matching Score - ChatGPT:** 8
 > **Matching Score - Copilot:** 8
-> **Matching Reason:** This faculty aligns well with Barbora's creative talents and interest in design, offering interdisciplinary and practical programs.
+> **Matching Reason: - ChatGPT:** This faculty aligns well with Barbora's creative talents and interest in design, offering interdisciplinary and practical programs.
 > **Matching Reason - Copilot:** The focus on visual communication and practical projects aligns well with Barbora's preference for hands-on learning and creative expression.
 
 - **University Type:** Private University of Applied Sciences
@@ -2107,9 +2107,9 @@
 
 # Hochschule für Medien, Kommunikation und Wirtschaft (HMKW) Berlin / Faculty of Engineering
 
-> **Matching Score:** 7
+> **Matching Score - ChatGPT:** 7
 > **Matching Score - Copilot:** 7
-> **Matching Reason:** This faculty offers programs that combine engineering with media and communication, which could be relevant to Barbora's interdisciplinary interests.
+> **Matching Reason: - ChatGPT:** This faculty offers programs that combine engineering with media and communication, which could be relevant to Barbora's interdisciplinary interests.
 > **Matching Reason - Copilot:** The interdisciplinary approach and focus on practical applications align well with Barbora's preference for hands-on learning and real-world experience.
 
 - **University Type:** Private University of Applied Sciences
@@ -2138,9 +2138,9 @@
 
 # University of Applied Sciences Europe (UE) / Faculty of Art & Design
 
-> **Matching Score:** 9
+> **Matching Score - ChatGPT:** 9
 > **Matching Score - Copilot:** 9
-> **Matching Reason:** This faculty is closely aligned with Barbora's interest in art and design, offering creative and interdisciplinary programs.
+> **Matching Reason: - ChatGPT:** This faculty is closely aligned with Barbora's interest in art and design, offering creative and interdisciplinary programs.
 > **Matching Reason - Copilot:** The strong emphasis on creative industries and practical projects aligns well with Barbora's preference for hands-on learning and creative expression.
 
 - **University Type:** Private University of Applied Sciences
@@ -2169,9 +2169,9 @@
 
 # University of Applied Sciences Europe (UE) / Faculty of Art & Design
 
-> **Matching Score:** 9
+> **Matching Score - ChatGPT:** 9
 > **Matching Score - Copilot:** 9
-> **Matching Reason:** This faculty is closely aligned with Barbora's interest in art and design, offering creative and interdisciplinary programs.
+> **Matching Reason: - ChatGPT:** This faculty is closely aligned with Barbora's interest in art and design, offering creative and interdisciplinary programs.
 > **Matching Reason - Copilot:** The strong emphasis on creative industries and practical projects aligns well with Barbora's preference for hands-on learning and creative expression.
 
 - **University Type:** Private University of Applied Sciences
@@ -2200,9 +2200,9 @@
 
 # University of Applied Sciences Europe (UE) / Faculty of Engineering
 
-> **Matching Score:** 8
+> **Matching Score - ChatGPT:** 8
 > **Matching Score - Copilot:** 8
-> **Matching Reason:** This faculty offers programs that combine engineering with digital innovation, which could be relevant to Barbora's interdisciplinary interests.
+> **Matching Reason: - ChatGPT:** This faculty offers programs that combine engineering with digital innovation, which could be relevant to Barbora's interdisciplinary interests.
 > **Matching Reason - Copilot:** The interdisciplinary approach and focus on practical applications align well with Barbora's preference for hands-on learning and real-world experience.
 
 - **University Type:** Private University of Applied Sciences
@@ -2231,9 +2231,9 @@
 
 # Hochschule für nachhaltige Entwicklung Eberswalde (HNEE) / Faculty of Sustainable Business
 
-> **Matching Score:** 8
+> **Matching Score - ChatGPT:** 8
 > **Matching Score - Copilot:** 8
-> **Matching Reason:** This faculty aligns well with Barbora's interest in sustainable and future-proof fields, offering programs focused on sustainable business practices.
+> **Matching Reason: - ChatGPT:** This faculty aligns well with Barbora's interest in sustainable and future-proof fields, offering programs focused on sustainable business practices.
 > **Matching Reason - Copilot:** The emphasis on sustainability and practical applications aligns well with Barbora's preference for hands-on learning and societal impact.
 
 - **University Type:** Fachhochschule (University of Applied Sciences)
