@@ -2011,3 +2011,251 @@
 - **Master of Laws (LL.M.):** Advanced studies in international law, human rights, and European law.
 
 ---
+
+# Beuth University of Applied Sciences Berlin / Faculty of Mathematics and Natural Sciences
+
+> **Matching Score:** 8
+> **Matching Score - Copilot:** 8
+> **Matching Reason:** This faculty aligns well with Barbora's strong skills in mathematics and her interest in practical applications.
+> **Matching Reason - Copilot:** The focus on applied mathematics and natural sciences offers a solid foundation for Barbora's technical and analytical skills, which are crucial for her career goals.
+
+- **University Type:** Fachhochschule (University of Applied Sciences)
+- **Description:** Offers programs in applied mathematics, scientific computing, and natural sciences, emphasizing practical applications and industry relevance.
+- **Subject:** Mathematics and Natural Sciences
+- **City:** Berlin
+- **Admission Criteria:** General university entrance qualification (Abitur) or equivalent.
+- **Admission Ratio:** Competitive.
+- **Attendants:** Approximately 12,000 students.
+- **Average Rating:** 4.0/5.
+- **Best Rating Comment:** "Strong emphasis on practical applications and industry connections."
+- **Cooperating Companies:** Siemens, Deutsche Telekom, and various research institutions.
+- **Dual Ausbildung:** Available in some programs.
+- **International Students Ratio:** Around 20%.
+- **Study Abroad Opportunities:** Partner universities include University of Helsinki, University of Oslo, and University of Vienna.
+- **Language of Instruction:** German, with some courses/modules offered in English.
+- **Global Ranking:** Well-regarded in applied sciences.
+- **Faculty Webpage:** Faculty of Mathematics and Natural Sciences - Beuth University
+
+**Study Programs:**
+- **Bachelor of Science in Applied Mathematics:** Focuses on mathematical modeling, statistics, and computational methods.
+- **Master of Science in Data Science:** Advanced studies in data analysis, machine learning, and big data technologies.
+- **Bachelor of Science in Scientific Computing:** Emphasizes numerical methods, simulation, and software development.
+
+---
+
+# Beuth University of Applied Sciences Berlin / Faculty of Architecture and Civil Engineering
+
+> **Matching Score:** 9
+> **Matching Score - Copilot:** 9
+> **Matching Reason:** This faculty is closely aligned with Barbora's interest in architecture and engineering, offering practical and creative programs.
+> **Matching Reason - Copilot:** The strong emphasis on practical projects and sustainable design aligns well with Barbora's preference for hands-on learning and real-world experience.
+
+- **University Type:** Fachhochschule (University of Applied Sciences)
+- **Description:** Focuses on architecture, civil engineering, and building services, with a strong emphasis on sustainability and practical experience.
+- **Subject:** Architecture and Civil Engineering
+- **City:** Berlin
+- **Admission Criteria:** General university entrance qualification (Abitur) or equivalent, participation in an aptitude test.
+- **Admission Ratio:** Competitive.
+- **Attendants:** Approximately 12,000 students.
+- **Average Rating:** 4.2/5.
+- **Best Rating Comment:** "Excellent facilities and strong industry connections."
+- **Cooperating Companies:** Siemens, Deutsche Bahn, and various architectural firms.
+- **Dual Ausbildung:** Available in some programs.
+- **International Students Ratio:** Around 18%.
+- **Study Abroad Opportunities:** Partner universities include Politecnico di Milano, Delft University of Technology, and University of Edinburgh.
+- **Language of Instruction:** German, with some courses/modules offered in English.
+- **Global Ranking:** Well-regarded in architecture and engineering.
+- **Faculty Webpage:** Faculty of Architecture and Civil Engineering - Beuth University
+
+**Study Programs:**
+- **Bachelor of Science in Architecture:** Covers architectural design, urban planning, and sustainable building practices.
+- **Master of Science in Civil Engineering:** Advanced studies in structural engineering, construction management, and environmental engineering.
+- **Bachelor of Engineering in Building Services:** Focuses on energy-efficient building systems, HVAC, and sustainable technologies.
+
+---
+
+# Hochschule für Medien, Kommunikation und Wirtschaft (HMKW) Berlin / Faculty of Design
+
+> **Matching Score:** 8
+> **Matching Score - Copilot:** 8
+> **Matching Reason:** This faculty aligns well with Barbora's creative talents and interest in design, offering interdisciplinary and practical programs.
+> **Matching Reason - Copilot:** The focus on visual communication and practical projects aligns well with Barbora's preference for hands-on learning and creative expression.
+
+- **University Type:** Private University of Applied Sciences
+- **Description:** Offers programs in visual communication, graphic design, and media design, with a strong emphasis on practical experience and industry relevance.
+- **Subject:** Design
+- **City:** Berlin
+- **Admission Criteria:** General university entrance qualification (Abitur) or equivalent, portfolio submission.
+- **Admission Ratio:** Competitive.
+- **Attendants:** Approximately 2,000 students.
+- **Average Rating:** 4.1/5.
+- **Best Rating Comment:** "Great focus on practical projects and industry connections."
+- **Cooperating Companies:** ZDF, Sony, and Deutsche Welle.
+- **Dual Ausbildung:** Available in some programs.
+- **International Students Ratio:** Around 25%.
+- **Study Abroad Opportunities:** Partner universities include University of the Arts London, Politecnico di Milano, and Aalto University.
+- **Language of Instruction:** German, with some courses/modules offered in English.
+- **Global Ranking:** Well-regarded in media and design.
+- **Faculty Webpage:** Faculty of Design - HMKW Berlin
+
+**Study Programs:**
+- **Bachelor of Arts in Visual Communication:** Focuses on graphic design, media design, and visual storytelling.
+- **Master of Arts in Communication Design:** Advanced studies in branding, digital media, and user experience design.
+- **Bachelor of Arts in Media and Communication Design:** Covers multimedia design, interactive media, and digital content creation.
+
+---
+
+# Hochschule für Medien, Kommunikation und Wirtschaft (HMKW) Berlin / Faculty of Engineering
+
+> **Matching Score:** 7
+> **Matching Score - Copilot:** 7
+> **Matching Reason:** This faculty offers programs that combine engineering with media and communication, which could be relevant to Barbora's interdisciplinary interests.
+> **Matching Reason - Copilot:** The interdisciplinary approach and focus on practical applications align well with Barbora's preference for hands-on learning and real-world experience.
+
+- **University Type:** Private University of Applied Sciences
+- **Description:** Offers programs in engineering with a focus on media technology, communication systems, and digital innovation.
+- **Subject:** Engineering
+- **City:** Berlin
+- **Admission Criteria:** General university entrance qualification (Abitur) or equivalent.
+- **Admission Ratio:** Competitive.
+- **Attendants:** Approximately 2,000 students.
+- **Average Rating:** 4.0/5.
+- **Best Rating Comment:** "Strong focus on practical applications and interdisciplinary projects."
+- **Cooperating Companies:** Siemens, Deutsche Telekom, and various tech startups.
+- **Dual Ausbildung:** Available in some programs.
+- **International Students Ratio:** Around 20%.
+- **Study Abroad Opportunities:** Partner universities include University of Helsinki, University of Oslo, and University of Vienna.
+- **Language of Instruction:** German, with some courses/modules offered in English.
+- **Global Ranking:** Well-regarded in media and engineering.
+- **Faculty Webpage:** Faculty of Engineering - HMKW Berlin
+
+**Study Programs:**
+- **Bachelor of Science in Media Technology:** Focuses on digital media, communication systems, and multimedia engineering.
+- **Master of Science in Digital Innovation:** Advanced studies in digital transformation, innovation management, and technology development.
+- **Bachelor of Science in Communication Systems Engineering:** Covers network engineering, wireless communication, and digital signal processing.
+
+---
+
+# University of Applied Sciences Europe (UE) / Faculty of Art & Design
+
+> **Matching Score:** 9
+> **Matching Score - Copilot:** 9
+> **Matching Reason:** This faculty is closely aligned with Barbora's interest in art and design, offering creative and interdisciplinary programs.
+> **Matching Reason - Copilot:** The strong emphasis on creative industries and practical projects aligns well with Barbora's preference for hands-on learning and creative expression.
+
+- **University Type:** Private University of Applied Sciences
+- **Description:** Offers programs in communication design, photography, illustration, and film, with a strong emphasis on creative industries and practical experience.
+- **Subject:** Art & Design
+- **City:** Berlin
+- **Admission Criteria:** General university entrance qualification (Abitur) or equivalent, portfolio submission.
+- **Admission Ratio:** Competitive.
+- **Attendants:** Approximately 1,500 students.
+- **Average Rating:** 4.3/5.
+- **Best Rating Comment:** "Excellent facilities and strong industry connections."
+- **Cooperating Companies:** Axel Springer, various design agencies, and creative startups.
+- **Dual Ausbildung:** Available in some programs.
+- **International Students Ratio:** Around 30%.
+- **Study Abroad Opportunities:** Partner universities include University of the Arts London, Politecnico di Milano, and Aalto University.
+- **Language of Instruction:** English and German.
+- **Global Ranking:** Well-regarded in art and design.
+- **Faculty Webpage:** Faculty of Art & Design - UE
+
+**Study Programs:**
+- **Bachelor of Arts in Communication Design:** Focuses on visual communication, graphic design, and media design.
+- **Master of Arts in Photography:** Advanced studies in photographic techniques, visual storytelling, and digital imaging.
+- **Bachelor of Arts in Film and Motion Design:** Covers film production, animation, and motion graphics.
+
+---
+
+# University of Applied Sciences Europe (UE) / Faculty of Art & Design
+
+> **Matching Score:** 9
+> **Matching Score - Copilot:** 9
+> **Matching Reason:** This faculty is closely aligned with Barbora's interest in art and design, offering creative and interdisciplinary programs.
+> **Matching Reason - Copilot:** The strong emphasis on creative industries and practical projects aligns well with Barbora's preference for hands-on learning and creative expression.
+
+- **University Type:** Private University of Applied Sciences
+- **Description:** Offers programs in communication design, photography, illustration, and film, with a strong emphasis on creative industries and practical experience.
+- **Subject:** Art & Design
+- **City:** Berlin
+- **Admission Criteria:** General university entrance qualification (Abitur) or equivalent, portfolio submission.
+- **Admission Ratio:** Competitive.
+- **Attendants:** Approximately 1,500 students.
+- **Average Rating:** 4.3/5.
+- **Best Rating Comment:** "Excellent facilities and strong industry connections."
+- **Cooperating Companies:** Axel Springer, various design agencies, and creative startups.
+- **Dual Ausbildung:** Available in some programs.
+- **International Students Ratio:** Around 30%.
+- **Study Abroad Opportunities:** Partner universities include University of the Arts London, Politecnico di Milano, and Aalto University.
+- **Language of Instruction:** English and German.
+- **Global Ranking:** Well-regarded in art and design.
+- **Faculty Webpage:** [Faculty of Art & Design - UE](https://www.ue-germany.com/)
+
+**Study Programs:**
+- **Bachelor of Arts in Communication Design:** Focuses on visual communication, graphic design, and media design.
+- **Master of Arts in Photography:** Advanced studies in photographic techniques, visual storytelling, and digital imaging.
+- **Bachelor of Arts in Film and Motion Design:** Covers film production, animation, and motion graphics.
+
+---
+
+# University of Applied Sciences Europe (UE) / Faculty of Engineering
+
+> **Matching Score:** 8
+> **Matching Score - Copilot:** 8
+> **Matching Reason:** This faculty offers programs that combine engineering with digital innovation, which could be relevant to Barbora's interdisciplinary interests.
+> **Matching Reason - Copilot:** The interdisciplinary approach and focus on practical applications align well with Barbora's preference for hands-on learning and real-world experience.
+
+- **University Type:** Private University of Applied Sciences
+- **Description:** Offers programs in software engineering, digital innovation, and communication systems, with a strong emphasis on practical experience and industry relevance.
+- **Subject:** Engineering
+- **City:** Berlin
+- **Admission Criteria:** General university entrance qualification (Abitur) or equivalent.
+- **Admission Ratio:** Competitive.
+- **Attendants:** Approximately 1,500 students.
+- **Average Rating:** 4.0/5.
+- **Best Rating Comment:** "Strong focus on practical applications and interdisciplinary projects."
+- **Cooperating Companies:** Siemens, Deutsche Telekom, and various tech startups.
+- **Dual Ausbildung:** Available in some programs.
+- **International Students Ratio:** Around 20%.
+- **Study Abroad Opportunities:** Partner universities include University of Helsinki, University of Oslo, and University of Vienna.
+- **Language of Instruction:** German, with some courses/modules offered in English.
+- **Global Ranking:** Well-regarded in media and engineering.
+- **Faculty Webpage:** [Faculty of Engineering - UE](https://www.ue-germany.com/programmes/master/software-engineering)
+
+**Study Programs:**
+- **Bachelor of Science in Media Technology:** Focuses on digital media, communication systems, and multimedia engineering.
+- **Master of Science in Digital Innovation:** Advanced studies in digital transformation, innovation management, and technology development.
+- **Bachelor of Science in Communication Systems Engineering:** Covers network engineering, wireless communication, and digital signal processing.
+
+---
+
+# Hochschule für nachhaltige Entwicklung Eberswalde (HNEE) / Faculty of Sustainable Business
+
+> **Matching Score:** 8
+> **Matching Score - Copilot:** 8
+> **Matching Reason:** This faculty aligns well with Barbora's interest in sustainable and future-proof fields, offering programs focused on sustainable business practices.
+> **Matching Reason - Copilot:** The emphasis on sustainability and practical applications aligns well with Barbora's preference for hands-on learning and societal impact.
+
+- **University Type:** Fachhochschule (University of Applied Sciences)
+- **Description:** Offers programs in sustainable business, focusing on sustainable development, environmental management, and green technologies.
+- **Subject:** Sustainable Business
+- **City:** Eberswalde (reachable within 60 minutes from Berlin)
+- **Admission Criteria:** General university entrance qualification (Abitur) or equivalent.
+- **Admission Ratio:** Competitive.
+- **Attendants:** Approximately 2,300 students.
+- **Average Rating:** 4.5/5.
+- **Best Rating Comment:** "Strong commitment to sustainability and practical learning."
+- **Cooperating Companies:** Various environmental organizations, green tech companies, and sustainable businesses.
+- **Dual Ausbildung:** Available in some programs.
+- **International Students Ratio:** Around 15%.
+- **Study Abroad Opportunities:** Partner universities include University of Helsinki, University of Oslo, and University of Vienna.
+- **Language of Instruction:** German, with some courses/modules offered in English.
+- **Global Ranking:** Well-regarded in sustainable development.
+- **Faculty Webpage:** Faculty of Sustainable Business - HNEE
+
+**Study Programs:**
+- **Bachelor of Arts in Sustainable Business:** Focuses on sustainable management practices, environmental economics, and green technologies.
+- **Master of Science in Sustainable Business Development:** Advanced studies in sustainable business strategies, innovation, and environmental management.
+- **Bachelor of Science in Environmental Management:** Covers environmental policy, resource management, and sustainability practices.
+
+---
