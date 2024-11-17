@@ -258,3 +258,135 @@
 - **Master of Engineering in Sustainable Engineering:** Specializations in sustainable engineering practices, renewable energy, and environmental management[^7^](https://kh-berlin.de/en/studies/applying-for-studies/ba-design-and-fine-art-programs)[^8^](https://kh-berlin.de/en/academy/profile/weissensee-academy-of-art-berlin).
 
 ---
+
+# University of Applied Sciences Potsdam / Faculty of Civil Engineering
+
+> **Matching Score:** 8
+> **Matching Score - Copilot:** 8
+> **Matching Reason:** This faculty is closely related to Barbora's interest in engineering. Engineering is a field she values, especially when it offers practical training. The faculty provides hands-on experience, which aligns well with her preferences.
+> **Matching Reason - Copilot:** The faculty offers a strong practical focus and dual study programs, which align well with Barbora's preference for hands-on learning and real-world experience.
+
+- **University Type:** Fachhochschule (University of Applied Sciences)
+- **Description:** Provides education in various engineering disciplines, including civil engineering, infrastructure systems, and urban water management.
+- **Subject:** Civil Engineering
+- **City:** Potsdam
+- **Admission Criteria:** General university entrance qualification (Abitur) or equivalent, participation in an aptitude test.
+- **Admission Ratio:** Competitive.
+- **Attendants:** Approximately 3,500 students.
+- **Average Rating:** N/A
+- **Best Rating Comment:** N/A
+- **Cooperating Companies:** Various local and international companies through internships and projects.
+- **Dual Ausbildung:** Available in collaboration with regional economic players[^1^](https://www.fh-potsdam.de/en/study-further-education/departments/civil-engineering-department/study-teaching/dual-study).
+- **International Students Ratio:** N/A
+- **Study Abroad Opportunities:** Partner universities include Politecnico di Milano, University of Copenhagen, and Delft University of Technology[^2^](https://www.fh-potsdam.de/en/study-further-education/degree-programs/civil-engineering-dual-beng).
+- **Language of Instruction:** German, with some courses/modules offered in English.
+- **Global Ranking:** Well-regarded in the field of applied sciences.
+- **Faculty Webpage:** [Faculty of Civil Engineering - FH Potsdam](https://www.fh-potsdam.de/en/study-further-education/departments/civil-engineering-department)
+
+**Study Programs:**
+- **Bachelor of Engineering in Civil Engineering:** Focuses on structural engineering, construction management, and sustainable building practices.
+- **Bachelor of Engineering in Infrastructure Systems:** Emphasizes infrastructure planning, environmental engineering, and urban development.
+- **Bachelor of Engineering in Urban Water Management:** Covers water supply systems, wastewater treatment, and environmental protection.
+- **Master of Science in Building Conservation and Construction Work on Existing Buildings:** Advanced studies in preservation techniques, structural analysis, and sustainable renovation[^1^](https://www.fh-potsdam.de/en/study-further-education/departments/civil-engineering-department/study-teaching/dual-study)[^2^](https://www.fh-potsdam.de/en/study-further-education/degree-programs/civil-engineering-dual-beng).
+
+---
+
+# Steinbeis University Berlin / Faculty of Engineering and Technology
+
+> **Matching Score:** 8
+> **Matching Score - Copilot:** 8
+> **Matching Reason:** This faculty is closely related to Barbora's interest in engineering. Engineering is a field she values, especially when it offers practical training. The faculty provides hands-on experience, which aligns well with her preferences.
+> **Matching Reason - Copilot:** The combination of theoretical knowledge and practical experience, along with strong industry connections, makes this faculty a good fit for Barbora's engineering interests.
+
+- **University Type:** Privatuniversität (Private University)
+- **Description:** Provides education in various engineering disciplines, including mechanical, civil, and electrical engineering.
+- **Subject:** Engineering
+- **City:** Berlin
+- **Admission Criteria:** General university entrance qualification (Abitur) or equivalent.
+- **Admission Ratio:** Competitive.
+- **Attendants:** Approximately 2,000 students.
+- **Average Rating:** N/A
+- **Best Rating Comment:** N/A
+- **Cooperating Companies:** Siemens, BMW, and Bosch.
+- **Dual Ausbildung:** Available in collaboration with companies like Siemens and BMW[^3^](https://www.uni-potsdam.de/en/studium/studying/organizing-your-studies/dualdegreeparallelstudies).
+- **International Students Ratio:** Around 30%.
+- **Study Abroad Opportunities:** Partner universities include University of California, Berkeley, and University of Sydney[^4^](https://www.fh-potsdam.de/en/study-further-education/departments/civil-engineering-department).
+- **Language of Instruction:** English and German.
+- **Global Ranking:** Well-regarded in the field of applied sciences.
+- **Faculty Webpage:** [Faculty of Engineering and Technology - Steinbeis University](https://www.steinbeis-next.de/admissions/)
+
+**Study Programs:**
+- **Bachelor of Engineering in Mechanical Engineering:** Focuses on mechanical design, thermodynamics, and manufacturing processes.
+- **Bachelor of Engineering in Civil Engineering:** Covers structural engineering, construction management, and sustainable building practices.
+- **Bachelor of Engineering in Electrical Engineering:** Emphasizes electrical circuits, control systems, and renewable energy technologies.
+- **Master of Engineering in Automation and Robotics:** Advanced studies in automation, robotics, and Industry 4.0 technologies.
+- **Master of Engineering in Sustainable Technology Management:** Specializations in sustainable engineering practices, renewable energy, and environmental management[^3^](https://www.uni-potsdam.de/en/studium/studying/organizing-your-studies/dualdegreeparallelstudies)[^4^](https://www.fh-potsdam.de/en/study-further-education/departments/civil-engineering-department).
+
+---
+
+# Brandenburg University of Technology Cottbus-Senftenberg / Faculty of Engineering
+
+> **Matching Score:** 8
+> **Matching Score - Copilot:** 8
+> **Matching Reason:** This faculty is closely related to Barbora's interest in engineering. Engineering is a field she values, especially when it offers practical training. The faculty provides hands-on experience, which aligns well with her preferences.
+> **Matching Reason - Copilot:** The practical focus and interdisciplinary approach make this faculty a good fit for Barbora's engineering interests.
+
+- **University Type:** Technische Universität (Technical University)
+- **Description:** Provides education in various engineering disciplines, including mechanical, civil, and electrical engineering.
+- **Subject:** Engineering
+- **City:** Cottbus and Senftenberg
+- **Admission Criteria:** General university entrance qualification (Abitur) or equivalent.
+- **Admission Ratio:** Competitive.
+- **Attendants:** Approximately 7,000 students.
+- **Average Rating:** N/A
+- **Best Rating Comment:** N/A
+- **Cooperating Companies:** Rolls-Royce, Siemens, and Deutsche Bahn.
+- **Dual Ausbildung:** Available in collaboration with companies like Rolls-Royce and Siemens[^5^](https://www.fh-potsdam.de/en/study-further-education/degree-programs/civil-engineering-beng).
+- **International Students Ratio:** Around 20%.
+- **Study Abroad Opportunities:** Partner universities include University of California, Berkeley, and University of Sydney[^6^](https://bing.com/search?q=University+of+Applied+Sciences+Potsdam+Faculty+of+Civil+Engineering+study+programs).
+- **Language of Instruction:** German, with some courses/modules offered in English.
+- **Global Ranking:** Well-regarded in the field of applied sciences.
+- **Faculty Webpage:** [Faculty of Engineering - BTU Cottbus-Senftenberg](https://www.b-tu.de/en/)
+
+**Study Programs:**
+- **Bachelor of Engineering in Mechanical Engineering:** Focuses on mechanical design, thermodynamics, and manufacturing processes.
+- **Bachelor of Engineering in Civil Engineering:** Covers structural engineering, construction management, and sustainable building practices.
+- **Bachelor of Engineering in Electrical Engineering:** Emphasizes electrical circuits, control systems, and renewable energy technologies.
+- **Master of Engineering in Technical Management:** Advanced studies in technical management, project management, and innovation.
+- **Master of Engineering in Sustainable Engineering:** Specializations in sustainable engineering practices, renewable energy, and environmental management[^5^](https://www.fh-potsdam.de/en/study-further-education/degree-programs/civil-engineering-beng)[^6^](https://bing.com/search?q=University+of+Applied+Sciences+Potsdam+Faculty+of+Civil+Engineering+study+programs).
+
+---
+
+# Technische Universität Berlin (TU Berlin) / Faculty of Electrical Engineering and Computer Science
+
+> **Matching Score:** 8
+> **Matching Score - Copilot:** 9
+> **Matching Reason:** This faculty is closely related to Barbora's interest in engineering. Engineering is a field she values, especially when it offers practical training. The faculty provides hands-on experience, which aligns well with her preferences.
+> **Matching Reason - Copilot:** The strong emphasis on practical projects, interdisciplinary learning, and international partnerships makes this faculty an excellent fit for Barbora's interests and career goals.
+
+- **University Type:** Technische Universität (Technical University)
+- **Description:** Provides education in various engineering disciplines, including electrical engineering, computer science, and information systems.
+- **Subject:** Electrical Engineering and Computer Science
+- **City:** Berlin
+- **Admission Criteria:** General university entrance qualification (Abitur) or equivalent, participation in an aptitude test.
+- **Admission Ratio:** Highly competitive.
+- **Attendants:** Approximately 34,000 students.
+- **Average Rating:** 4.2/5.
+- **Best Rating Comment:** "Excellent program with a strong focus on sustainability and innovation."
+- **Cooperating Companies:** Siemens, Deutsche Telekom, and Bosch.
+- **Dual Ausbildung:** Not typically offered.
+- **International Students Ratio:** Around 20%.
+- **Study Abroad Opportunities:** Partner universities include University of California, Berkeley, and University of Sydney[^7^](https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-applied-sciences-potsdam-civil-engineering-g6126/?hec-id=g6126).
+- **Language of Instruction:** German, with some courses/modules offered in English.
+- **Global Ranking:** Ranked 18th globally in the "Architecture & Built Environment" category[^7^](https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-applied-sciences-potsdam-civil-engineering-g6126/?hec-id=g6126).
+- **Faculty Webpage:** [Faculty of Electrical Engineering and Computer Science - TU Berlin](https://www.tu.berlin/en/eecs/)
+
+**Study Programs:**
+- **Bachelor of Science in Electrical Engineering:** Focuses on electrical circuits, control systems, and renewable energy technologies.
+- **Bachelor of Science in Computer Science:** Covers algorithms, data structures, and software engineering.
+- **Bachelor of Science in Information Systems Management:** Emphasizes information systems, business processes, and digital transformation.
+- **Master of Science in Electrical Engineering:** Advanced studies in electrical systems, automation, and smart grid technologies.
+- **Master of Science in Computer Science:** Specializations in artificial intelligence, machine learning, and data science.
+- **Master of Science in Information Systems Management:** Focuses on advanced information systems, digital innovation, and business analytics[^7^](https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-applied-sciences-potsdam-civil-engineering-g6126/?hec-id=g6126)[^8^](https://www.fh-potsdam.de/en/campus-services/international/international-students/incoming-exchange-students).
+
+---
