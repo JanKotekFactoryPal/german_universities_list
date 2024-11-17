@@ -1,13 +1,17 @@
 import pyyed
 import yaml
 
+
 def load_yaml(file_path):
     with open(file_path, 'r') as file:
         return yaml.safe_load(file)
 
+
 def create_node(graph, node_id, label, shape, shape_fill):
     if node_id not in graph.existing_entities:
-        graph.add_node(node_id, label=label, shape=shape, shape_fill=shape_fill)
+        return graph.add_node(node_id, label=label, shape=shape, shape_fill=shape_fill)
+    return None
+
 
 def generate_graphml(data):
     graph = pyyed.Graph()
@@ -37,33 +41,33 @@ def generate_graphml(data):
         for university in universities:
             uni_name = university['Name']
             uni_node_id = uni_name.replace(" ", "_")
-            uni_group = graph.add_group(uni_node_id, label=uni_name)
-            create_node(graph, uni_node_id, uni_name, "rectangle", "#FFCC00")
+            uni_group: pyyed.Group = group.add_group(uni_node_id, label=uni_name)
 
             for faculty in university['Faculties']:
                 faculty_name = faculty['Faculty']
                 faculty_node_id = f"{uni_node_id}_{faculty_name.replace(' ', '_')}"
-                create_node(graph, faculty_node_id, faculty_name, "ellipse", "#99CCFF")
-
-                # Create edges between university and faculty
-                graph.add_edge(uni_node_id, faculty_node_id)
-
-                # Create edges between faculty's subject and Enumerations.Subjects
-                subject_node_id = subjects[faculty['Subject']]
-                graph.add_edge(faculty_node_id, subject_node_id)
-
-                # Create edges between faculty's city and Enumerations.Cities
-                city_node_id = cities[faculty['City']]
-                graph.add_edge(faculty_node_id, city_node_id)
-
+                node = create_node(graph, faculty_node_id, faculty_name, "ellipse", "#9999FF")
+                if node:
+                    faculty_node = uni_group
+                    faculty_node.add_node(node)
+                    #
+                    # # Create edges between faculty's subject and Enumerations.Subjects
+                    # subject_node_id = subjects[faculty['Subject']]
+                    # graph.add_edge(faculty_node_id, subject_node_id)
+                    #
+                    # # Create edges between faculty's city and Enumerations.Cities
+                    # city_node_id = cities[faculty['City']]
+                    # graph.add_edge(faculty_node_id, city_node_id)
 
     return graph
+
 
 def main():
     yaml_file_path = 'universities.yml'
     data = load_yaml(yaml_file_path)
     graph = generate_graphml(data)
     graph.write_graph('universities.graphml')
+
 
 if __name__ == "__main__":
     main()
