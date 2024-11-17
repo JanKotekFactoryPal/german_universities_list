@@ -1,640 +1,717 @@
-Enumerations:
-  Cities:
-    - BERLIN
-    - POTSDAM
-    - PRAGUE
-  Subjects:
-    - Arts
-    - Design
-    - Architecture
-    - Computer Science & IT
-    - Engineering
-    - Humanities
-    - Hospitality Tourism & Sports
-    - Medicine & Health
-    - Natural Sciences & Mathematics
-    - Social Sciences
-    - Law
-    - Economics
-    - Music
 Universities:
   Fachhochschule_(University_of_Applied_Sciences):
-    - Faculties:
-        - Address: Unknown
-          City: Unknown
-          Description: Unknown
-          Email: admissions@example.com
-          Faculty: School of Engineering
-          Phone: +49 30 123456789
-          Subject: Unknown
-          Webpage: https://example.com/faculty-info
-        - Address: Unknown
-          City: Unknown
-          Description: Unknown
-          Email: admissions@example.com
-          Faculty: School of Economics
-          Phone: +49 30 123456789
-          Subject: Unknown
-          Webpage: https://example.com/faculty-info
-        - Address: Unknown
-          City: Unknown
-          Description: Unknown
-          Email: admissions@example.com
-          Faculty: School of Design and Culture
-          Phone: +49 30 123456789
-          Subject: Unknown
-          Webpage: https://example.com/faculty-info
-        - Address: Unknown
-          City: Unknown
-          Description: Unknown
-          Email: admissions@example.com
-          Faculty: School of Life Sciences
-          Phone: +49 30 123456789
-          Subject: Unknown
-          Webpage: https://example.com/faculty-info
-      Name: Berlin University of Applied Sciences (HTW Berlin)
-    - Faculties:
-        - Address: Unknown
-          City: Unknown
-          Description: Unknown
-          Email: admissions@example.com
-          Faculty: Faculty of Engineering and Natural Sciences
-          Phone: +49 30 123456789
-          Subject: Unknown
-          Webpage: https://example.com/faculty-info
-        - Address: Unknown
-          City: Unknown
-          Description: Unknown
-          Email: admissions@example.com
-          Faculty: Faculty of Business, Computing and Law
-          Phone: +49 30 123456789
-          Subject: Unknown
-          Webpage: https://example.com/faculty-info
-      Name: Technical University of Applied Sciences Wildau
-    - Faculties:
-        - Address: Unknown
-          City: Unknown
-          Description: Unknown
-          Email: admissions@example.com
-          Faculty: Faculty of Architecture and Urban Design
-          Phone: +49 30 123456789
-          Subject: Unknown
-          Webpage: https://example.com/faculty-info
-        - Address: Unknown
-          City: Unknown
-          Description: Unknown
-          Email: admissions@example.com
-          Faculty: Faculty of Civil Engineering
-          Phone: +49 30 123456789
-          Subject: Unknown
-          Webpage: https://example.com/faculty-info
-        - Address: Unknown
-          City: Unknown
-          Description: Unknown
-          Email: admissions@example.com
-          Faculty: Faculty of Design
-          Phone: +49 30 123456789
-          Subject: Unknown
-          Webpage: https://example.com/faculty-info
-        - Address: Unknown
-          City: Unknown
-          Description: Unknown
-          Email: admissions@example.com
-          Faculty: Faculty of Social and Educational Sciences
-          Phone: +49 30 123456789
-          Subject: Unknown
-          Webpage: https://example.com/faculty-info
-      Name: University of Applied Sciences Potsdam
-    - Faculties:
-        - Address: Unknown
-          City: Unknown
-          Description: Unknown
-          Email: admissions@example.com
-          Faculty: Faculty of Management
-          Phone: +49 30 123456789
-          Subject: Unknown
-          Webpage: https://example.com/faculty-info
-        - Address: Unknown
-          City: Unknown
-          Description: Unknown
-          Email: admissions@example.com
-          Faculty: Faculty of Engineering and Technology
-          Phone: +49 30 123456789
-          Subject: Unknown
-          Webpage: https://example.com/faculty-info
-        - Address: Unknown
-          City: Unknown
-          Description: Unknown
-          Email: admissions@example.com
-          Faculty: Faculty of Social Sciences
-          Phone: +49 30 123456789
-          Subject: Unknown
-          Webpage: https://example.com/faculty-info
-      Name: SRH University of Applied Sciences Berlin
+    - School of Engineering:
+        Address: Unknown
+        City: Unknown
+        Description: Unknown
+        Email: admissions@example.com
+        Name: Berlin University of Applied Sciences (HTW Berlin)
+        Phone: +49 30 123456789
+        Subject: Unknown
+        Type: Unknown
+        Webpage: https://example.com/faculty-info
+    - School of Economics:
+        Address: Unknown
+        City: Unknown
+        Description: Unknown
+        Email: admissions@example.com
+        Name: Berlin University of Applied Sciences (HTW Berlin)
+        Phone: +49 30 123456789
+        Subject: Unknown
+        Type: Unknown
+        Webpage: https://example.com/faculty-info
+    - School of Design and Culture:
+        Address: Unknown
+        City: Unknown
+        Description: Unknown
+        Email: admissions@example.com
+        Name: Berlin University of Applied Sciences (HTW Berlin)
+        Phone: +49 30 123456789
+        Subject: Unknown
+        Type: Unknown
+        Webpage: https://example.com/faculty-info
+    - School of Life Sciences:
+        Address: Unknown
+        City: Unknown
+        Description: Unknown
+        Email: admissions@example.com
+        Name: Berlin University of Applied Sciences (HTW Berlin)
+        Phone: +49 30 123456789
+        Subject: Unknown
+        Type: Unknown
+        Webpage: https://example.com/faculty-info
+    - Faculty of Engineering and Natural Sciences:
+        Address: Unknown
+        City: Unknown
+        Description: Unknown
+        Email: admissions@example.com
+        Name: Technical University of Applied Sciences Wildau
+        Phone: +49 30 123456789
+        Subject: Unknown
+        Type: Unknown
+        Webpage: https://example.com/faculty-info
+    - Faculty of Business, Computing and Law:
+        Address: Unknown
+        City: Unknown
+        Description: Unknown
+        Email: admissions@example.com
+        Name: Technical University of Applied Sciences Wildau
+        Phone: +49 30 123456789
+        Subject: Unknown
+        Type: Unknown
+        Webpage: https://example.com/faculty-info
+    - Faculty of Architecture and Urban Design:
+        Address: Unknown
+        City: Unknown
+        Description: Unknown
+        Email: admissions@example.com
+        Name: University of Applied Sciences Potsdam
+        Phone: +49 30 123456789
+        Subject: Unknown
+        Type: Unknown
+        Webpage: https://example.com/faculty-info
+    - Faculty of Civil Engineering:
+        Address: Unknown
+        City: Unknown
+        Description: Unknown
+        Email: admissions@example.com
+        Name: University of Applied Sciences Potsdam
+        Phone: +49 30 123456789
+        Subject: Unknown
+        Type: Unknown
+        Webpage: https://example.com/faculty-info
+    - Faculty of Design:
+        Address: Unknown
+        City: Unknown
+        Description: Unknown
+        Email: admissions@example.com
+        Name: University of Applied Sciences Potsdam
+        Phone: +49 30 123456789
+        Subject: Unknown
+        Type: Unknown
+        Webpage: https://example.com/faculty-info
+    - Faculty of Social and Educational Sciences:
+        Address: Unknown
+        City: Unknown
+        Description: Unknown
+        Email: admissions@example.com
+        Name: University of Applied Sciences Potsdam
+        Phone: +49 30 123456789
+        Subject: Unknown
+        Type: Unknown
+        Webpage: https://example.com/faculty-info
+    - Faculty of Management:
+        Address: Unknown
+        City: Unknown
+        Description: Unknown
+        Email: admissions@example.com
+        Name: SRH University of Applied Sciences Berlin
+        Phone: +49 30 123456789
+        Subject: Unknown
+        Type: Unknown
+        Webpage: https://example.com/faculty-info
+    - Faculty of Engineering and Technology:
+        Address: Unknown
+        City: Unknown
+        Description: Unknown
+        Email: admissions@example.com
+        Name: SRH University of Applied Sciences Berlin
+        Phone: +49 30 123456789
+        Subject: Unknown
+        Type: Unknown
+        Webpage: https://example.com/faculty-info
+    - Faculty of Social Sciences:
+        Address: Unknown
+        City: Unknown
+        Description: Unknown
+        Email: admissions@example.com
+        Name: SRH University of Applied Sciences Berlin
+        Phone: +49 30 123456789
+        Subject: Unknown
+        Type: Unknown
+        Webpage: https://example.com/faculty-info
   Kunsthochschule_(Academy_of_Fine_Arts):
-    - Faculties:
-        - Address: Unknown
-          City: Unknown
-          Description: Unknown
-          Email: admissions@example.com
-          Faculty: Faculty of Fine Arts
-          Phone: +49 30 123456789
-          Subject: Unknown
-          Webpage: https://example.com/faculty-info
-        - Address: Unknown
-          City: Unknown
-          Description: Unknown
-          Email: admissions@example.com
-          Faculty: Faculty of Design
-          Phone: +49 30 123456789
-          Subject: Unknown
-          Webpage: https://example.com/faculty-info
-        - Address: Unknown
-          City: Unknown
-          Description: Unknown
-          Email: admissions@example.com
-          Faculty: Faculty of Music
-          Phone: +49 30 123456789
-          Subject: Unknown
-          Webpage: https://example.com/faculty-info
-        - Address: Unknown
-          City: Unknown
-          Description: Unknown
-          Email: admissions@example.com
-          Faculty: Faculty of Performing Arts
-          Phone: +49 30 123456789
-          Subject: Unknown
-          Webpage: https://example.com/faculty-info
-      Name: Berlin University of the Arts (UdK)
-    - Faculties:
-        - Address: Unknown
-          City: Unknown
-          Description: Unknown
-          Email: admissions@example.com
-          Faculty: Department of Fine Arts
-          Phone: +49 30 123456789
-          Subject: Unknown
-          Webpage: https://example.com/faculty-info
-        - Address: Unknown
-          City: Unknown
-          Description: Unknown
-          Email: admissions@example.com
-          Faculty: Department of Design
-          Phone: +49 30 123456789
-          Subject: Unknown
-          Webpage: https://example.com/faculty-info
-      Name: Weißensee Academy of Art Berlin
+    - Faculty of Fine Arts:
+        Address: Unknown
+        City: Unknown
+        Description: Unknown
+        Email: admissions@example.com
+        Name: Berlin University of the Arts (UdK)
+        Phone: +49 30 123456789
+        Subject: Unknown
+        Type: Unknown
+        Webpage: https://example.com/faculty-info
+    - Faculty of Design:
+        Address: Unknown
+        City: Unknown
+        Description: Unknown
+        Email: admissions@example.com
+        Name: Berlin University of the Arts (UdK)
+        Phone: +49 30 123456789
+        Subject: Unknown
+        Type: Unknown
+        Webpage: https://example.com/faculty-info
+    - Faculty of Music:
+        Address: Unknown
+        City: Unknown
+        Description: Unknown
+        Email: admissions@example.com
+        Name: Berlin University of the Arts (UdK)
+        Phone: +49 30 123456789
+        Subject: Unknown
+        Type: Unknown
+        Webpage: https://example.com/faculty-info
+    - Faculty of Performing Arts:
+        Address: Unknown
+        City: Unknown
+        Description: Unknown
+        Email: admissions@example.com
+        Name: Berlin University of the Arts (UdK)
+        Phone: +49 30 123456789
+        Subject: Unknown
+        Type: Unknown
+        Webpage: https://example.com/faculty-info
+    - Department of Fine Arts:
+        Address: Unknown
+        City: Unknown
+        Description: Unknown
+        Email: admissions@example.com
+        Name: Weißensee Academy of Art Berlin
+        Phone: +49 30 123456789
+        Subject: Unknown
+        Type: Unknown
+        Webpage: https://example.com/faculty-info
+    - Department of Design:
+        Address: Unknown
+        City: Unknown
+        Description: Unknown
+        Email: admissions@example.com
+        Name: Weißensee Academy of Art Berlin
+        Phone: +49 30 123456789
+        Subject: Unknown
+        Type: Unknown
+        Webpage: https://example.com/faculty-info
   Musikhochschule_(Academy_of_Music):
-    - Faculties:
-        - Address: Unknown
-          City: Unknown
-          Description: Unknown
-          Email: admissions@example.com
-          Faculty: Department of Vocal Studies
-          Phone: +49 30 123456789
-          Subject: Unknown
-          Webpage: https://example.com/faculty-info
-        - Address: Unknown
-          City: Unknown
-          Description: Unknown
-          Email: admissions@example.com
-          Faculty: Department of Instrumental Studies
-          Phone: +49 30 123456789
-          Subject: Unknown
-          Webpage: https://example.com/faculty-info
-        - Address: Unknown
-          City: Unknown
-          Description: Unknown
-          Email: admissions@example.com
-          Faculty: Department of Conducting
-          Phone: +49 30 123456789
-          Subject: Unknown
-          Webpage: https://example.com/faculty-info
-        - Address: Unknown
-          City: Unknown
-          Description: Unknown
-          Email: admissions@example.com
-          Faculty: Department of Music Theory and Composition
-          Phone: +49 30 123456789
-          Subject: Unknown
-          Webpage: https://example.com/faculty-info
-      Name: Hanns Eisler School of Music Berlin
+    - Department of Vocal Studies:
+        Address: Unknown
+        City: Unknown
+        Description: Unknown
+        Email: admissions@example.com
+        Name: Hanns Eisler School of Music Berlin
+        Phone: +49 30 123456789
+        Subject: Unknown
+        Type: Unknown
+        Webpage: https://example.com/faculty-info
+    - Department of Instrumental Studies:
+        Address: Unknown
+        City: Unknown
+        Description: Unknown
+        Email: admissions@example.com
+        Name: Hanns Eisler School of Music Berlin
+        Phone: +49 30 123456789
+        Subject: Unknown
+        Type: Unknown
+        Webpage: https://example.com/faculty-info
+    - Department of Conducting:
+        Address: Unknown
+        City: Unknown
+        Description: Unknown
+        Email: admissions@example.com
+        Name: Hanns Eisler School of Music Berlin
+        Phone: +49 30 123456789
+        Subject: Unknown
+        Type: Unknown
+        Webpage: https://example.com/faculty-info
+    - Department of Music Theory and Composition:
+        Address: Unknown
+        City: Unknown
+        Description: Unknown
+        Email: admissions@example.com
+        Name: Hanns Eisler School of Music Berlin
+        Phone: +49 30 123456789
+        Subject: Unknown
+        Type: Unknown
+        Webpage: https://example.com/faculty-info
   Privatuniversität_(Private_University):
-    - Faculties:
-        - Address: Unknown
-          City: Unknown
-          Description: Unknown
-          Email: admissions@example.com
-          Faculty: Department of Public Policy
-          Phone: +49 30 123456789
-          Subject: Unknown
-          Webpage: https://example.com/faculty-info
-        - Address: Unknown
-          City: Unknown
-          Description: Unknown
-          Email: admissions@example.com
-          Faculty: Department of International Affairs
-          Phone: +49 30 123456789
-          Subject: Unknown
-          Webpage: https://example.com/faculty-info
-      Name: Hertie School of Governance
-    - Faculties:
-        - Address: Unknown
-          City: Unknown
-          Description: Unknown
-          Email: admissions@example.com
-          Faculty: Department of Humanities
-          Phone: +49 30 123456789
-          Subject: Unknown
-          Webpage: https://example.com/faculty-info
-        - Address: Unknown
-          City: Unknown
-          Description: Unknown
-          Email: admissions@example.com
-          Faculty: Department of Social Sciences
-          Phone: +49 30 123456789
-          Subject: Unknown
-          Webpage: https://example.com/faculty-info
-      Name: Bard College Berlin
-    - Faculties:
-        - Address: Unknown
-          City: Unknown
-          Description: Unknown
-          Email: admissions@example.com
-          Faculty: Faculty of Business and Economics
-          Phone: +49 30 123456789
-          Subject: Unknown
-          Webpage: https://example.com/faculty-info
-        - Address: Unknown
-          City: Unknown
-          Description: Unknown
-          Email: admissions@example.com
-          Faculty: Faculty of Engineering and Technology
-          Phone: +49 30 123456789
-          Subject: Unknown
-          Webpage: https://example.com/faculty-info
-      Name: Steinbeis University Berlin
+    - Department of Public Policy:
+        Address: Unknown
+        City: Unknown
+        Description: Unknown
+        Email: admissions@example.com
+        Name: Hertie School of Governance
+        Phone: +49 30 123456789
+        Subject: Unknown
+        Type: Unknown
+        Webpage: https://example.com/faculty-info
+    - Department of International Affairs:
+        Address: Unknown
+        City: Unknown
+        Description: Unknown
+        Email: admissions@example.com
+        Name: Hertie School of Governance
+        Phone: +49 30 123456789
+        Subject: Unknown
+        Type: Unknown
+        Webpage: https://example.com/faculty-info
+    - Department of Humanities:
+        Address: Unknown
+        City: Unknown
+        Description: Unknown
+        Email: admissions@example.com
+        Name: Bard College Berlin
+        Phone: +49 30 123456789
+        Subject: Unknown
+        Type: Unknown
+        Webpage: https://example.com/faculty-info
+    - Department of Social Sciences:
+        Address: Unknown
+        City: Unknown
+        Description: Unknown
+        Email: admissions@example.com
+        Name: Bard College Berlin
+        Phone: +49 30 123456789
+        Subject: Unknown
+        Type: Unknown
+        Webpage: https://example.com/faculty-info
+    - Faculty of Business and Economics:
+        Address: Unknown
+        City: Unknown
+        Description: Unknown
+        Email: admissions@example.com
+        Name: Steinbeis University Berlin
+        Phone: +49 30 123456789
+        Subject: Unknown
+        Type: Unknown
+        Webpage: https://example.com/faculty-info
+    - Faculty of Engineering and Technology:
+        Address: Unknown
+        City: Unknown
+        Description: Unknown
+        Email: admissions@example.com
+        Name: Steinbeis University Berlin
+        Phone: +49 30 123456789
+        Subject: Unknown
+        Type: Unknown
+        Webpage: https://example.com/faculty-info
   Technische_Universität_(Technical_University):
-    - Faculties:
-        - Address: Unknown
-          City: Unknown
-          Description: Unknown
-          Email: admissions@example.com
-          Faculty: Faculty of Electrical Engineering and Computer Science
-          Phone: +49 30 123456789
-          Subject: Unknown
-          Webpage: https://example.com/faculty-info
-        - Address: Unknown
-          City: Unknown
-          Description: Unknown
-          Email: admissions@example.com
-          Faculty: Faculty of Economics and Management
-          Phone: +49 30 123456789
-          Subject: Unknown
-          Webpage: https://example.com/faculty-info
-        - Address: Unknown
-          City: Unknown
-          Description: Unknown
-          Email: admissions@example.com
-          Faculty: Faculty of Humanities
-          Phone: +49 30 123456789
-          Subject: Unknown
-          Webpage: https://example.com/faculty-info
-        - Address: Unknown
-          City: Unknown
-          Description: Unknown
-          Email: admissions@example.com
-          Faculty: Faculty of Mathematics and Natural Sciences
-          Phone: +49 30 123456789
-          Subject: Unknown
-          Webpage: https://example.com/faculty-info
-        - Address: Unknown
-          City: Unknown
-          Description: Unknown
-          Email: admissions@example.com
-          Faculty: Faculty of Mechanical Engineering and Transport Systems
-          Phone: +49 30 123456789
-          Subject: Unknown
-          Webpage: https://example.com/faculty-info
-        - Address: Unknown
-          City: Unknown
-          Description: Unknown
-          Email: admissions@example.com
-          Faculty: Faculty of Planning Building Environment
-          Phone: +49 30 123456789
-          Subject: Unknown
-          Webpage: https://example.com/faculty-info
-        - Address: Unknown
-          City: Unknown
-          Description: Unknown
-          Email: admissions@example.com
-          Faculty: Faculty of Process Sciences
-          Phone: +49 30 123456789
-          Subject: Unknown
-          Webpage: https://example.com/faculty-info
-      Name: Technische Universität Berlin (TU Berlin)
-    - Faculties:
-        - Address: Unknown
-          City: Unknown
-          Description: Unknown
-          Email: admissions@example.com
-          Faculty: Faculty of Business, Law and Social Sciences
-          Phone: +49 30 123456789
-          Subject: Unknown
-          Webpage: https://example.com/faculty-info
-        - Address: Unknown
-          City: Unknown
-          Description: Unknown
-          Email: admissions@example.com
-          Faculty: Faculty of Health Sciences
-          Phone: +49 30 123456789
-          Subject: Unknown
-          Webpage: https://example.com/faculty-info
-        - Address: Unknown
-          City: Unknown
-          Description: Unknown
-          Email: admissions@example.com
-          Faculty: Faculty of Engineering
-          Phone: +49 30 123456789
-          Subject: Unknown
-          Webpage: https://example.com/faculty-info
-        - Address: Unknown
-          City: Unknown
-          Description: Unknown
-          Email: admissions@example.com
-          Faculty: Faculty of Natural Sciences
-          Phone: +49 30 123456789
-          Subject: Unknown
-          Webpage: https://example.com/faculty-info
-      Name: Brandenburg University of Technology Cottbus-Senftenberg
+    - Faculty of Electrical Engineering and Computer Science:
+        Address: Unknown
+        City: Unknown
+        Description: Unknown
+        Email: admissions@example.com
+        Name: Technische Universität Berlin (TU Berlin)
+        Phone: +49 30 123456789
+        Subject: Unknown
+        Type: Unknown
+        Webpage: https://example.com/faculty-info
+    - Faculty of Economics and Management:
+        Address: Unknown
+        City: Unknown
+        Description: Unknown
+        Email: admissions@example.com
+        Name: Technische Universität Berlin (TU Berlin)
+        Phone: +49 30 123456789
+        Subject: Unknown
+        Type: Unknown
+        Webpage: https://example.com/faculty-info
+    - Faculty of Humanities:
+        Address: Unknown
+        City: Unknown
+        Description: Unknown
+        Email: admissions@example.com
+        Name: Technische Universität Berlin (TU Berlin)
+        Phone: +49 30 123456789
+        Subject: Unknown
+        Type: Unknown
+        Webpage: https://example.com/faculty-info
+    - Faculty of Mathematics and Natural Sciences:
+        Address: Unknown
+        City: Unknown
+        Description: Unknown
+        Email: admissions@example.com
+        Name: Technische Universität Berlin (TU Berlin)
+        Phone: +49 30 123456789
+        Subject: Unknown
+        Type: Unknown
+        Webpage: https://example.com/faculty-info
+    - Faculty of Mechanical Engineering and Transport Systems:
+        Address: Unknown
+        City: Unknown
+        Description: Unknown
+        Email: admissions@example.com
+        Name: Technische Universität Berlin (TU Berlin)
+        Phone: +49 30 123456789
+        Subject: Unknown
+        Type: Unknown
+        Webpage: https://example.com/faculty-info
+    - Faculty of Planning Building Environment:
+        Address: Unknown
+        City: Unknown
+        Description: Unknown
+        Email: admissions@example.com
+        Name: Technische Universität Berlin (TU Berlin)
+        Phone: +49 30 123456789
+        Subject: Unknown
+        Type: Unknown
+        Webpage: https://example.com/faculty-info
+    - Faculty of Process Sciences:
+        Address: Unknown
+        City: Unknown
+        Description: Unknown
+        Email: admissions@example.com
+        Name: Technische Universität Berlin (TU Berlin)
+        Phone: +49 30 123456789
+        Subject: Unknown
+        Type: Unknown
+        Webpage: https://example.com/faculty-info
+    - Faculty of Business, Law and Social Sciences:
+        Address: Unknown
+        City: Unknown
+        Description: Unknown
+        Email: admissions@example.com
+        Name: Brandenburg University of Technology Cottbus-Senftenberg
+        Phone: +49 30 123456789
+        Subject: Unknown
+        Type: Unknown
+        Webpage: https://example.com/faculty-info
+    - Faculty of Health Sciences:
+        Address: Unknown
+        City: Unknown
+        Description: Unknown
+        Email: admissions@example.com
+        Name: Brandenburg University of Technology Cottbus-Senftenberg
+        Phone: +49 30 123456789
+        Subject: Unknown
+        Type: Unknown
+        Webpage: https://example.com/faculty-info
+    - Faculty of Engineering:
+        Address: Unknown
+        City: Unknown
+        Description: Unknown
+        Email: admissions@example.com
+        Name: Brandenburg University of Technology Cottbus-Senftenberg
+        Phone: +49 30 123456789
+        Subject: Unknown
+        Type: Unknown
+        Webpage: https://example.com/faculty-info
+    - Faculty of Natural Sciences:
+        Address: Unknown
+        City: Unknown
+        Description: Unknown
+        Email: admissions@example.com
+        Name: Brandenburg University of Technology Cottbus-Senftenberg
+        Phone: +49 30 123456789
+        Subject: Unknown
+        Type: Unknown
+        Webpage: https://example.com/faculty-info
   Universität_(University):
-    - Description: A prestigious university known for its excellence in humanities,
-        sciences, and medicine.
-      Faculties:
-        - Address: Unter den Linden 6, 10099 Berlin
-          City: BERLIN
-          Description: Focuses on literature, languages, history, philosophy, and cultural
-            studies.
-          Email: admissions@example.com
-          Faculty: Faculty of Arts and Humanities
-          Phone: +49 30 123456789
-          Program:
-            - Description: Focuses on comparative and historical literary analysis.
-              Name: Literary Studies
-              URL: https://example.com/literary-studies
-            - Description: Examines cultural phenomena in their societal contexts.
-              Name: Cultural Studies
-              URL: https://example.com/cultural-studies
-          Subject: Unknown
-          Webpage: https://example.com/faculty-info
-        - Address: Bebelplatz 2, 10099 Berlin
-          City: BERLIN
-          Description: Covers legal studies, including civil law, criminal law, and international
-            law.
-          Email: admissions@example.com
-          Faculty: Faculty of Law
-          Phone: +49 30 123456789
-          Program:
-            - Description: Specializes in legal frameworks governing international relations.
-              Name: Public International Law
-              URL: https://example.com/public-international-law
-            - Description: Focuses on laws regulating business practices and corporate governance.
-              Name: Corporate Law
-              URL: https://example.com/corporate-law
-          Subject: Unknown
-          Webpage: https://example.com/faculty-info
-        - Address: Philippstr. 13, 10115 Berlin
-          City: BERLIN
-          Description: Dedicated to biology, biochemistry, and environmental sciences.
-          Email: admissions@example.com
-          Faculty: Faculty of Life Sciences
-          Phone: +49 30 123456789
-          Subject: Unknown
-          Webpage: https://example.com/faculty-info
-        - Address: Rudower Chaussee 25, 12489 Berlin
-          City: BERLIN
-          Description: Offers mathematics, physics, chemistry, and interdisciplinary scientific
-            research.
-          Email: admissions@example.com
-          Faculty: Faculty of Mathematics and Natural Sciences
-          Phone: +49 30 123456789
-          Subject: Unknown
-          Webpage: https://example.com/faculty-info
-        - Address: Charitéplatz 1, 10117 Berlin
-          City: BERLIN
-          Description: One of Europe’s leading medical faculties, partnered with Charité
-            for medical training.
-          Email: admissions@example.com
-          Faculty: Faculty of Medicine (Charité – Universitätsmedizin Berlin)
-          Phone: +49 30 123456789
-          Subject: Unknown
-          Webpage: https://example.com/faculty-info
-        - Address: Friedrichstr. 191, 10117 Berlin
-          City: BERLIN
-          Description: Explores sociology, political science, and interdisciplinary social
-            research.
-          Email: admissions@example.com
-          Faculty: Faculty of Social Sciences
-          Phone: +49 30 123456789
-          Subject: Unknown
-          Webpage: https://example.com/faculty-info
-      Name: Humboldt University of Berlin (HU Berlin)
-      Type: Public
-    - Description: Renowned for its research-driven programs across a diverse range
-        of disciplines.
-      Faculties:
-        - Address: Takustr. 3, 14195 Berlin
-          City: BERLIN
-          Description: Specializes in biological sciences, chemistry, and pharmaceutical
-            studies.
-          Email: admissions@example.com
-          Faculty: Department of Biology, Chemistry, and Pharmacy
-          Phone: +49 30 123456789
-          Subject: Unknown
-          Webpage: https://example.com/faculty-info
-        - Address: Malteserstr. 74-100, 12249 Berlin
-          City: BERLIN
-          Description: Researches geosciences, climate change, and environmental systems.
-          Email: admissions@example.com
-          Faculty: Department of Earth Sciences
-          Phone: +49 30 123456789
-          Subject: Unknown
-          Webpage: https://example.com/faculty-info
-        - Address: Habelschwerdter Allee 45, 14195 Berlin
-          City: BERLIN
-          Description: Focuses on psychology, education sciences, and human behavior studies.
-          Email: admissions@example.com
-          Faculty: Department of Education and Psychology
-          Phone: +49 30 123456789
-          Subject: Unknown
-          Webpage: https://example.com/faculty-info
-        - Address: Koserstr. 20, 14195 Berlin
-          City: BERLIN
-          Description: Covers historical research, archaeology, and cultural analysis.
-          Email: admissions@example.com
-          Faculty: Department of History and Cultural Studies
-          Phone: +49 30 123456789
-          Subject: Unknown
-          Webpage: https://example.com/faculty-info
-        - Address: Van’t-Hoff-Str. 8, 14195 Berlin
-          City: BERLIN
-          Description: Provides comprehensive legal education across national and international
-            law.
-          Email: admissions@example.com
-          Faculty: Department of Law
-          Phone: +49 30 123456789
-          Subject: Unknown
-          Webpage: https://example.com/faculty-info
-        - Address: Königin-Luise-Str. 24-26, 14195 Berlin
-          City: BERLIN
-          Description: Focuses on mathematics, informatics, and theoretical computing
-            systems.
-          Email: admissions@example.com
-          Faculty: Department of Mathematics and Computer Science
-          Phone: +49 30 123456789
-          Subject: Unknown
-          Webpage: https://example.com/faculty-info
-        - Address: Habelschwerdter Allee 45, 14195 Berlin
-          City: BERLIN
-          Description: Engages in philosophical research and interdisciplinary humanities.
-          Email: admissions@example.com
-          Faculty: Department of Philosophy and Humanities
-          Phone: +49 30 123456789
-          Subject: Unknown
-          Webpage: https://example.com/faculty-info
-        - Address: Arnimallee 14, 14195 Berlin
-          City: BERLIN
-          Description: Conducts research in physics and its applications.
-          Email: admissions@example.com
-          Faculty: Department of Physics
-          Phone: +49 30 123456789
-          Subject: Unknown
-          Webpage: https://example.com/faculty-info
-        - Address: Ihnestr. 22, 14195 Berlin
-          City: BERLIN
-          Description: Analyzes political systems, governance, and international relations.
-          Email: admissions@example.com
-          Faculty: Department of Political and Social Sciences
-          Phone: +49 30 123456789
-          Subject: Unknown
-          Webpage: https://example.com/faculty-info
-        - Address: Oertzenweg 19b, 14163 Berlin
-          City: BERLIN
-          Description: Dedicated to veterinary medicine and animal sciences.
-          Email: admissions@example.com
-          Faculty: Department of Veterinary Medicine
-          Phone: +49 30 123456789
-          Subject: Unknown
-          Webpage: https://example.com/faculty-info
-      Name: Freie Universität Berlin (FU Berlin)
-      Type: Public
-    - Faculties:
-        - Address: Unknown
-          City: Unknown
-          Description: Unknown
-          Email: admissions@example.com
-          Faculty: Faculty of Humanities
-          Phone: +49 30 123456789
-          Subject: Unknown
-          Webpage: https://example.com/faculty-info
-        - Address: Unknown
-          City: Unknown
-          Description: Unknown
-          Email: admissions@example.com
-          Faculty: Faculty of Economics and Social Sciences
-          Phone: +49 30 123456789
-          Subject: Unknown
-          Webpage: https://example.com/faculty-info
-        - Address: Unknown
-          City: Unknown
-          Description: Unknown
-          Email: admissions@example.com
-          Faculty: Faculty of Science
-          Phone: +49 30 123456789
-          Subject: Unknown
-          Webpage: https://example.com/faculty-info
-        - Address: Unknown
-          City: Unknown
-          Description: Unknown
-          Email: admissions@example.com
-          Faculty: Faculty of Law
-          Phone: +49 30 123456789
-          Program:
-            - Description: Specializes in legal frameworks governing international relations.
-              Name: Public International Law
-              URL: https://example.com/public-international-law
-            - Description: Focuses on laws regulating business practices and corporate governance.
-              Name: Corporate Law
-              URL: https://example.com/corporate-law
-          Subject: Unknown
-          Webpage: https://example.com/faculty-info
-        - Address: Unknown
-          City: Unknown
-          Description: Unknown
-          Email: admissions@example.com
-          Faculty: Faculty of Education
-          Phone: +49 30 123456789
-          Subject: Unknown
-          Webpage: https://example.com/faculty-info
-      Name: University of Potsdam
+    - Faculty of Arts and Humanities:
+        Address: Unter den Linden 6, 10099 Berlin
+        City: BERLIN
+        Description: Focuses on literature, languages, history, philosophy, and cultural
+          studies.
+        Email: admissions@example.com
+        Name: Humboldt University of Berlin (HU Berlin)
+        Phone: +49 30 123456789
+        Program:
+          - Description: Focuses on comparative and historical literary analysis.
+            Name: Literary Studies
+            URL: https://example.com/literary-studies
+          - Description: Examines cultural phenomena in their societal contexts.
+            Name: Cultural Studies
+            URL: https://example.com/cultural-studies
+        Subject: Unknown
+        Type: Public
+        Webpage: https://example.com/faculty-info
+    - Faculty of Law:
+        Address: Bebelplatz 2, 10099 Berlin
+        City: BERLIN
+        Description: Covers legal studies, including civil law, criminal law, and international
+          law.
+        Email: admissions@example.com
+        Name: Humboldt University of Berlin (HU Berlin)
+        Phone: +49 30 123456789
+        Program:
+          - Description: Specializes in legal frameworks governing international relations.
+            Name: Public International Law
+            URL: https://example.com/public-international-law
+          - Description: Focuses on laws regulating business practices and corporate governance.
+            Name: Corporate Law
+            URL: https://example.com/corporate-law
+        Subject: Unknown
+        Type: Public
+        Webpage: https://example.com/faculty-info
+    - Faculty of Life Sciences:
+        Address: Philippstr. 13, 10115 Berlin
+        City: BERLIN
+        Description: Dedicated to biology, biochemistry, and environmental sciences.
+        Email: admissions@example.com
+        Name: Humboldt University of Berlin (HU Berlin)
+        Phone: +49 30 123456789
+        Subject: Unknown
+        Type: Public
+        Webpage: https://example.com/faculty-info
+    - Faculty of Mathematics and Natural Sciences:
+        Address: Rudower Chaussee 25, 12489 Berlin
+        City: BERLIN
+        Description: Offers mathematics, physics, chemistry, and interdisciplinary scientific
+          research.
+        Email: admissions@example.com
+        Name: Humboldt University of Berlin (HU Berlin)
+        Phone: +49 30 123456789
+        Subject: Unknown
+        Type: Public
+        Webpage: https://example.com/faculty-info
+    - Faculty of Medicine (Charité – Universitätsmedizin Berlin):
+        Address: Charitéplatz 1, 10117 Berlin
+        City: BERLIN
+        Description: One of Europe’s leading medical faculties, partnered with Charité
+          for medical training.
+        Email: admissions@example.com
+        Name: Humboldt University of Berlin (HU Berlin)
+        Phone: +49 30 123456789
+        Subject: Unknown
+        Type: Public
+        Webpage: https://example.com/faculty-info
+    - Faculty of Social Sciences:
+        Address: Friedrichstr. 191, 10117 Berlin
+        City: BERLIN
+        Description: Explores sociology, political science, and interdisciplinary social
+          research.
+        Email: admissions@example.com
+        Name: Humboldt University of Berlin (HU Berlin)
+        Phone: +49 30 123456789
+        Subject: Unknown
+        Type: Public
+        Webpage: https://example.com/faculty-info
+    - Department of Biology, Chemistry, and Pharmacy:
+        Address: Takustr. 3, 14195 Berlin
+        City: BERLIN
+        Description: Specializes in biological sciences, chemistry, and pharmaceutical
+          studies.
+        Email: admissions@example.com
+        Name: Freie Universität Berlin (FU Berlin)
+        Phone: +49 30 123456789
+        Subject: Unknown
+        Type: Public
+        Webpage: https://example.com/faculty-info
+    - Department of Earth Sciences:
+        Address: Malteserstr. 74-100, 12249 Berlin
+        City: BERLIN
+        Description: Researches geosciences, climate change, and environmental systems.
+        Email: admissions@example.com
+        Name: Freie Universität Berlin (FU Berlin)
+        Phone: +49 30 123456789
+        Subject: Unknown
+        Type: Public
+        Webpage: https://example.com/faculty-info
+    - Department of Education and Psychology:
+        Address: Habelschwerdter Allee 45, 14195 Berlin
+        City: BERLIN
+        Description: Focuses on psychology, education sciences, and human behavior studies.
+        Email: admissions@example.com
+        Name: Freie Universität Berlin (FU Berlin)
+        Phone: +49 30 123456789
+        Subject: Unknown
+        Type: Public
+        Webpage: https://example.com/faculty-info
+    - Department of History and Cultural Studies:
+        Address: Koserstr. 20, 14195 Berlin
+        City: BERLIN
+        Description: Covers historical research, archaeology, and cultural analysis.
+        Email: admissions@example.com
+        Name: Freie Universität Berlin (FU Berlin)
+        Phone: +49 30 123456789
+        Subject: Unknown
+        Type: Public
+        Webpage: https://example.com/faculty-info
+    - Department of Law:
+        Address: Van’t-Hoff-Str. 8, 14195 Berlin
+        City: BERLIN
+        Description: Provides comprehensive legal education across national and international
+          law.
+        Email: admissions@example.com
+        Name: Freie Universität Berlin (FU Berlin)
+        Phone: +49 30 123456789
+        Subject: Unknown
+        Type: Public
+        Webpage: https://example.com/faculty-info
+    - Department of Mathematics and Computer Science:
+        Address: Königin-Luise-Str. 24-26, 14195 Berlin
+        City: BERLIN
+        Description: Focuses on mathematics, informatics, and theoretical computing
+          systems.
+        Email: admissions@example.com
+        Name: Freie Universität Berlin (FU Berlin)
+        Phone: +49 30 123456789
+        Subject: Unknown
+        Type: Public
+        Webpage: https://example.com/faculty-info
+    - Department of Philosophy and Humanities:
+        Address: Habelschwerdter Allee 45, 14195 Berlin
+        City: BERLIN
+        Description: Engages in philosophical research and interdisciplinary humanities.
+        Email: admissions@example.com
+        Name: Freie Universität Berlin (FU Berlin)
+        Phone: +49 30 123456789
+        Subject: Unknown
+        Type: Public
+        Webpage: https://example.com/faculty-info
+    - Department of Physics:
+        Address: Arnimallee 14, 14195 Berlin
+        City: BERLIN
+        Description: Conducts research in physics and its applications.
+        Email: admissions@example.com
+        Name: Freie Universität Berlin (FU Berlin)
+        Phone: +49 30 123456789
+        Subject: Unknown
+        Type: Public
+        Webpage: https://example.com/faculty-info
+    - Department of Political and Social Sciences:
+        Address: Ihnestr. 22, 14195 Berlin
+        City: BERLIN
+        Description: Analyzes political systems, governance, and international relations.
+        Email: admissions@example.com
+        Name: Freie Universität Berlin (FU Berlin)
+        Phone: +49 30 123456789
+        Subject: Unknown
+        Type: Public
+        Webpage: https://example.com/faculty-info
+    - Department of Veterinary Medicine:
+        Address: Oertzenweg 19b, 14163 Berlin
+        City: BERLIN
+        Description: Dedicated to veterinary medicine and animal sciences.
+        Email: admissions@example.com
+        Name: Freie Universität Berlin (FU Berlin)
+        Phone: +49 30 123456789
+        Subject: Unknown
+        Type: Public
+        Webpage: https://example.com/faculty-info
+    - Faculty of Humanities:
+        Address: Unknown
+        City: Unknown
+        Description: Unknown
+        Email: admissions@example.com
+        Name: University of Potsdam
+        Phone: +49 30 123456789
+        Subject: Unknown
+        Type: Unknown
+        Webpage: https://example.com/faculty-info
+    - Faculty of Economics and Social Sciences:
+        Address: Unknown
+        City: Unknown
+        Description: Unknown
+        Email: admissions@example.com
+        Name: University of Potsdam
+        Phone: +49 30 123456789
+        Subject: Unknown
+        Type: Unknown
+        Webpage: https://example.com/faculty-info
+    - Faculty of Science:
+        Address: Unknown
+        City: Unknown
+        Description: Unknown
+        Email: admissions@example.com
+        Name: University of Potsdam
+        Phone: +49 30 123456789
+        Subject: Unknown
+        Type: Unknown
+        Webpage: https://example.com/faculty-info
+    - Faculty of Law:
+        Address: Unknown
+        City: Unknown
+        Description: Unknown
+        Email: admissions@example.com
+        Name: University of Potsdam
+        Phone: +49 30 123456789
+        Program:
+          - Description: Specializes in legal frameworks governing international relations.
+            Name: Public International Law
+            URL: https://example.com/public-international-law
+          - Description: Focuses on laws regulating business practices and corporate governance.
+            Name: Corporate Law
+            URL: https://example.com/corporate-law
+        Subject: Unknown
+        Type: Unknown
+        Webpage: https://example.com/faculty-info
+    - Faculty of Education:
+        Address: Unknown
+        City: Unknown
+        Description: Unknown
+        Email: admissions@example.com
+        Name: University of Potsdam
+        Phone: +49 30 123456789
+        Subject: Unknown
+        Type: Unknown
+        Webpage: https://example.com/faculty-info
   Wirtschaftshochschule_(Business_School):
-    - Faculties:
-        - Address: Unknown
-          City: Unknown
-          Description: Unknown
-          Email: admissions@example.com
-          Faculty: Department of Business and Economics
-          Phone: +49 30 123456789
-          Subject: Unknown
-          Webpage: https://example.com/faculty-info
-        - Address: Unknown
-          City: Unknown
-          Description: Unknown
-          Email: admissions@example.com
-          Faculty: Department of Public Administration
-          Phone: +49 30 123456789
-          Subject: Unknown
-          Webpage: https://example.com/faculty-info
-        - Address: Unknown
-          City: Unknown
-          Description: Unknown
-          Email: admissions@example.com
-          Faculty: Department of Legal Studies
-          Phone: +49 30 123456789
-          Subject: Unknown
-          Webpage: https://example.com/faculty-info
-        - Address: Unknown
-          City: Unknown
-          Description: Unknown
-          Email: admissions@example.com
-          Faculty: Department of Police and Security Management
-          Phone: +49 30 123456789
-          Subject: Unknown
-          Webpage: https://example.com/faculty-info
-      Name: Berlin School of Economics and Law (HWR Berlin)
-    - Faculties:
-        - Address: Unknown
-          City: Unknown
-          Description: Unknown
-          Email: admissions@example.com
-          Faculty: Department of Management
-          Phone: +49 30 123456789
-          Subject: Unknown
-          Webpage: https://example.com/faculty-info
-        - Address: Unknown
-          City: Unknown
-          Description: Unknown
-          Email: admissions@example.com
-          Faculty: Department of Innovation and Entrepreneurship
-          Phone: +49 30 123456789
-          Subject: Unknown
-          Webpage: https://example.com/faculty-info
-        - Address: Unknown
-          City: Unknown
-          Description: Unknown
-          Email: admissions@example.com
-          Faculty: Department of Finance
-          Phone: +49 30 123456789
-          Subject: Unknown
-          Webpage: https://example.com/faculty-info
-      Name: European School of Management and Technology (ESMT Berlin)
+    - Department of Business and Economics:
+        Address: Unknown
+        City: Unknown
+        Description: Unknown
+        Email: admissions@example.com
+        Name: Berlin School of Economics and Law (HWR Berlin)
+        Phone: +49 30 123456789
+        Subject: Unknown
+        Type: Unknown
+        Webpage: https://example.com/faculty-info
+    - Department of Public Administration:
+        Address: Unknown
+        City: Unknown
+        Description: Unknown
+        Email: admissions@example.com
+        Name: Berlin School of Economics and Law (HWR Berlin)
+        Phone: +49 30 123456789
+        Subject: Unknown
+        Type: Unknown
+        Webpage: https://example.com/faculty-info
+    - Department of Legal Studies:
+        Address: Unknown
+        City: Unknown
+        Description: Unknown
+        Email: admissions@example.com
+        Name: Berlin School of Economics and Law (HWR Berlin)
+        Phone: +49 30 123456789
+        Subject: Unknown
+        Type: Unknown
+        Webpage: https://example.com/faculty-info
+    - Department of Police and Security Management:
+        Address: Unknown
+        City: Unknown
+        Description: Unknown
+        Email: admissions@example.com
+        Name: Berlin School of Economics and Law (HWR Berlin)
+        Phone: +49 30 123456789
+        Subject: Unknown
+        Type: Unknown
+        Webpage: https://example.com/faculty-info
+    - Department of Management:
+        Address: Unknown
+        City: Unknown
+        Description: Unknown
+        Email: admissions@example.com
+        Name: European School of Management and Technology (ESMT Berlin)
+        Phone: +49 30 123456789
+        Subject: Unknown
+        Type: Unknown
+        Webpage: https://example.com/faculty-info
+    - Department of Innovation and Entrepreneurship:
+        Address: Unknown
+        City: Unknown
+        Description: Unknown
+        Email: admissions@example.com
+        Name: European School of Management and Technology (ESMT Berlin)
+        Phone: +49 30 123456789
+        Subject: Unknown
+        Type: Unknown
+        Webpage: https://example.com/faculty-info
+    - Department of Finance:
+        Address: Unknown
+        City: Unknown
+        Description: Unknown
+        Email: admissions@example.com
+        Name: European School of Management and Technology (ESMT Berlin)
+        Phone: +49 30 123456789
+        Subject: Unknown
+        Type: Unknown
+        Webpage: https://example.com/faculty-info
