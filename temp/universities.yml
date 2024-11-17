@@ -1,3 +1,22 @@
+Enumerations:
+  Cities:
+    - BERLIN
+    - POTSDAM
+    - PRAGUE
+  Subjects:
+    - Arts
+    - Design
+    - Architecture
+    - Computer Science & IT
+    - Engineering
+    - Humanities
+    - Hospitality Tourism & Sports
+    - Medicine & Health
+    - Natural Sciences & Mathematics
+    - Social Sciences
+    - Law
+    - Economics
+    - Music
 Universities:
   Fachhochschule_(University_of_Applied_Sciences):
     - School of Engineering:
