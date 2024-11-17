@@ -20,40 +20,36 @@ Enumerations:
 Universities:
   Fachhochschule_(University_of_Applied_Sciences):
     - Faculties:
-        - Address: Address not provided. Please refer to the university's website for
-            location details.
+        - Address: Unknown
           City: Unknown
-          Description: No description available for this faculty. Please refer to the
+          Description: Unknown
             university's website for more details.
           Email: admissions@example.com
           Faculty: School of Engineering
           Phone: +49 30 123456789
           Subject: Unknown
           Webpage: https://example.com/faculty-info
-        - Address: Address not provided. Please refer to the university's website for
-            location details.
+        - Address: Unknown
           City: Unknown
-          Description: No description available for this faculty. Please refer to the
+          Description: Unknown
             university's website for more details.
           Email: admissions@example.com
           Faculty: School of Economics
           Phone: +49 30 123456789
           Subject: Unknown
           Webpage: https://example.com/faculty-info
-        - Address: Address not provided. Please refer to the university's website for
-            location details.
+        - Address: Unknown
           City: Unknown
-          Description: No description available for this faculty. Please refer to the
+          Description: Unknown
             university's website for more details.
           Email: admissions@example.com
           Faculty: School of Design and Culture
           Phone: +49 30 123456789
           Subject: Unknown
           Webpage: https://example.com/faculty-info
-        - Address: Address not provided. Please refer to the university's website for
-            location details.
+        - Address: Unknown
           City: Unknown
-          Description: No description available for this faculty. Please refer to the
+          Description: Unknown
             university's website for more details.
           Email: admissions@example.com
           Faculty: School of Life Sciences
@@ -62,20 +58,18 @@ Universities:
           Webpage: https://example.com/faculty-info
       Name: Berlin University of Applied Sciences (HTW Berlin)
     - Faculties:
-        - Address: Address not provided. Please refer to the university's website for
-            location details.
+        - Address: Unknown
           City: Unknown
-          Description: No description available for this faculty. Please refer to the
+          Description: Unknown
             university's website for more details.
           Email: admissions@example.com
           Faculty: Faculty of Engineering and Natural Sciences
           Phone: +49 30 123456789
           Subject: Unknown
           Webpage: https://example.com/faculty-info
-        - Address: Address not provided. Please refer to the university's website for
-            location details.
+        - Address: Unknown
           City: Unknown
-          Description: No description available for this faculty. Please refer to the
+          Description: Unknown
             university's website for more details.
           Email: admissions@example.com
           Faculty: Faculty of Business, Computing and Law
@@ -84,40 +78,36 @@ Universities:
           Webpage: https://example.com/faculty-info
       Name: Technical University of Applied Sciences Wildau
     - Faculties:
-        - Address: Address not provided. Please refer to the university's website for
-            location details.
+        - Address: Unknown
           City: Unknown
-          Description: No description available for this faculty. Please refer to the
+          Description: Unknown
             university's website for more details.
           Email: admissions@example.com
           Faculty: Faculty of Architecture and Urban Design
           Phone: +49 30 123456789
           Subject: Unknown
           Webpage: https://example.com/faculty-info
-        - Address: Address not provided. Please refer to the university's website for
-            location details.
+        - Address: Unknown
           City: Unknown
-          Description: No description available for this faculty. Please refer to the
+          Description: Unknown
             university's website for more details.
           Email: admissions@example.com
           Faculty: Faculty of Civil Engineering
           Phone: +49 30 123456789
           Subject: Unknown
           Webpage: https://example.com/faculty-info
-        - Address: Address not provided. Please refer to the university's website for
-            location details.
+        - Address: Unknown
           City: Unknown
-          Description: No description available for this faculty. Please refer to the
+          Description: Unknown
             university's website for more details.
           Email: admissions@example.com
           Faculty: Faculty of Design
           Phone: +49 30 123456789
           Subject: Unknown
           Webpage: https://example.com/faculty-info
-        - Address: Address not provided. Please refer to the university's website for
-            location details.
+        - Address: Unknown
           City: Unknown
-          Description: No description available for this faculty. Please refer to the
+          Description: Unknown
             university's website for more details.
           Email: admissions@example.com
           Faculty: Faculty of Social and Educational Sciences
@@ -126,30 +116,27 @@ Universities:
           Webpage: https://example.com/faculty-info
       Name: University of Applied Sciences Potsdam
     - Faculties:
-        - Address: Address not provided. Please refer to the university's website for
-            location details.
+        - Address: Unknown
           City: Unknown
-          Description: No description available for this faculty. Please refer to the
+          Description: Unknown
             university's website for more details.
           Email: admissions@example.com
           Faculty: Faculty of Management
           Phone: +49 30 123456789
           Subject: Unknown
           Webpage: https://example.com/faculty-info
-        - Address: Address not provided. Please refer to the university's website for
-            location details.
+        - Address: Unknown
           City: Unknown
-          Description: No description available for this faculty. Please refer to the
+          Description: Unknown
             university's website for more details.
           Email: admissions@example.com
           Faculty: Faculty of Engineering and Technology
           Phone: +49 30 123456789
           Subject: Unknown
           Webpage: https://example.com/faculty-info
-        - Address: Address not provided. Please refer to the university's website for
-            location details.
+        - Address: Unknown
           City: Unknown
-          Description: No description available for this faculty. Please refer to the
+          Description: Unknown
             university's website for more details.
           Email: admissions@example.com
           Faculty: Faculty of Social Sciences
@@ -159,40 +146,36 @@ Universities:
       Name: SRH University of Applied Sciences Berlin
   Kunsthochschule_(Academy_of_Fine_Arts):
     - Faculties:
-        - Address: Address not provided. Please refer to the university's website for
-            location details.
+        - Address: Unknown
           City: Unknown
-          Description: No description available for this faculty. Please refer to the
+          Description: Unknown
             university's website for more details.
           Email: admissions@example.com
           Faculty: Faculty of Fine Arts
           Phone: +49 30 123456789
           Subject: Unknown
           Webpage: https://example.com/faculty-info
-        - Address: Address not provided. Please refer to the university's website for
-            location details.
+        - Address: Unknown
           City: Unknown
-          Description: No description available for this faculty. Please refer to the
+          Description: Unknown
             university's website for more details.
           Email: admissions@example.com
           Faculty: Faculty of Design
           Phone: +49 30 123456789
           Subject: Unknown
           Webpage: https://example.com/faculty-info
-        - Address: Address not provided. Please refer to the university's website for
-            location details.
+        - Address: Unknown
           City: Unknown
-          Description: No description available for this faculty. Please refer to the
+          Description: Unknown
             university's website for more details.
           Email: admissions@example.com
           Faculty: Faculty of Music
           Phone: +49 30 123456789
           Subject: Unknown
           Webpage: https://example.com/faculty-info
-        - Address: Address not provided. Please refer to the university's website for
-            location details.
+        - Address: Unknown
           City: Unknown
-          Description: No description available for this faculty. Please refer to the
+          Description: Unknown
             university's website for more details.
           Email: admissions@example.com
           Faculty: Faculty of Performing Arts
@@ -201,63 +184,57 @@ Universities:
           Webpage: https://example.com/faculty-info
       Name: Berlin University of the Arts (UdK)
     - Faculties:
-        - Address: Address not provided. Please refer to the university's website for
-            location details.
+        - Address: Unknown
           City: Unknown
-          Description: No description available for this faculty. Please refer to the
+          Description: Unknown
             university's website for more details.
           Email: admissions@example.com
           Faculty: Department of Fine Arts
           Phone: +49 30 123456789
           Subject: Unknown
           Webpage: https://example.com/faculty-info
-        - Address: Address not provided. Please refer to the university's website for
-            location details.
+        - Address: Unknown
           City: Unknown
-          Description: No description available for this faculty. Please refer to the
+          Description: Unknown
             university's website for more details.
           Email: admissions@example.com
           Faculty: Department of Design
           Phone: +49 30 123456789
           Subject: Unknown
           Webpage: https://example.com/faculty-info
-      Name: WeiÃŸensee Academy of Art Berlin
+      Name: Weißensee Academy of Art Berlin
   Musikhochschule_(Academy_of_Music):
     - Faculties:
-        - Address: Address not provided. Please refer to the university's website for
-            location details.
+        - Address: Unknown
           City: Unknown
-          Description: No description available for this faculty. Please refer to the
+          Description: Unknown
             university's website for more details.
           Email: admissions@example.com
           Faculty: Department of Vocal Studies
           Phone: +49 30 123456789
           Subject: Unknown
           Webpage: https://example.com/faculty-info
-        - Address: Address not provided. Please refer to the university's website for
-            location details.
+        - Address: Unknown
           City: Unknown
-          Description: No description available for this faculty. Please refer to the
+          Description: Unknown
             university's website for more details.
           Email: admissions@example.com
           Faculty: Department of Instrumental Studies
           Phone: +49 30 123456789
           Subject: Unknown
           Webpage: https://example.com/faculty-info
-        - Address: Address not provided. Please refer to the university's website for
-            location details.
+        - Address: Unknown
           City: Unknown
-          Description: No description available for this faculty. Please refer to the
+          Description: Unknown
             university's website for more details.
           Email: admissions@example.com
           Faculty: Department of Conducting
           Phone: +49 30 123456789
           Subject: Unknown
           Webpage: https://example.com/faculty-info
-        - Address: Address not provided. Please refer to the university's website for
-            location details.
+        - Address: Unknown
           City: Unknown
-          Description: No description available for this faculty. Please refer to the
+          Description: Unknown
             university's website for more details.
           Email: admissions@example.com
           Faculty: Department of Music Theory and Composition
@@ -265,22 +242,20 @@ Universities:
           Subject: Unknown
           Webpage: https://example.com/faculty-info
       Name: Hanns Eisler School of Music Berlin
-  PrivatuniversitÃ¤t_(Private_University):
+  Privatuniversität_(Private_University):
     - Faculties:
-        - Address: Address not provided. Please refer to the university's website for
-            location details.
+        - Address: Unknown
           City: Unknown
-          Description: No description available for this faculty. Please refer to the
+          Description: Unknown
             university's website for more details.
           Email: admissions@example.com
           Faculty: Department of Public Policy
           Phone: +49 30 123456789
           Subject: Unknown
           Webpage: https://example.com/faculty-info
-        - Address: Address not provided. Please refer to the university's website for
-            location details.
+        - Address: Unknown
           City: Unknown
-          Description: No description available for this faculty. Please refer to the
+          Description: Unknown
             university's website for more details.
           Email: admissions@example.com
           Faculty: Department of International Affairs
@@ -289,20 +264,18 @@ Universities:
           Webpage: https://example.com/faculty-info
       Name: Hertie School of Governance
     - Faculties:
-        - Address: Address not provided. Please refer to the university's website for
-            location details.
+        - Address: Unknown
           City: Unknown
-          Description: No description available for this faculty. Please refer to the
+          Description: Unknown
             university's website for more details.
           Email: admissions@example.com
           Faculty: Department of Humanities
           Phone: +49 30 123456789
           Subject: Unknown
           Webpage: https://example.com/faculty-info
-        - Address: Address not provided. Please refer to the university's website for
-            location details.
+        - Address: Unknown
           City: Unknown
-          Description: No description available for this faculty. Please refer to the
+          Description: Unknown
             university's website for more details.
           Email: admissions@example.com
           Faculty: Department of Social Sciences
@@ -311,20 +284,18 @@ Universities:
           Webpage: https://example.com/faculty-info
       Name: Bard College Berlin
     - Faculties:
-        - Address: Address not provided. Please refer to the university's website for
-            location details.
+        - Address: Unknown
           City: Unknown
-          Description: No description available for this faculty. Please refer to the
+          Description: Unknown
             university's website for more details.
           Email: admissions@example.com
           Faculty: Faculty of Business and Economics
           Phone: +49 30 123456789
           Subject: Unknown
           Webpage: https://example.com/faculty-info
-        - Address: Address not provided. Please refer to the university's website for
-            location details.
+        - Address: Unknown
           City: Unknown
-          Description: No description available for this faculty. Please refer to the
+          Description: Unknown
             university's website for more details.
           Email: admissions@example.com
           Faculty: Faculty of Engineering and Technology
@@ -332,114 +303,103 @@ Universities:
           Subject: Unknown
           Webpage: https://example.com/faculty-info
       Name: Steinbeis University Berlin
-  Technische_UniversitÃ¤t_(Technical_University):
+  Technische_Universität_(Technical_University):
     - Faculties:
-        - Address: Address not provided. Please refer to the university's website for
-            location details.
+        - Address: Unknown
           City: Unknown
-          Description: No description available for this faculty. Please refer to the
+          Description: Unknown
             university's website for more details.
           Email: admissions@example.com
           Faculty: Faculty of Electrical Engineering and Computer Science
           Phone: +49 30 123456789
           Subject: Unknown
           Webpage: https://example.com/faculty-info
-        - Address: Address not provided. Please refer to the university's website for
-            location details.
+        - Address: Unknown
           City: Unknown
-          Description: No description available for this faculty. Please refer to the
+          Description: Unknown
             university's website for more details.
           Email: admissions@example.com
           Faculty: Faculty of Economics and Management
           Phone: +49 30 123456789
           Subject: Unknown
           Webpage: https://example.com/faculty-info
-        - Address: Address not provided. Please refer to the university's website for
-            location details.
+        - Address: Unknown
           City: Unknown
-          Description: No description available for this faculty. Please refer to the
+          Description: Unknown
             university's website for more details.
           Email: admissions@example.com
           Faculty: Faculty of Humanities
           Phone: +49 30 123456789
           Subject: Unknown
           Webpage: https://example.com/faculty-info
-        - Address: Address not provided. Please refer to the university's website for
-            location details.
+        - Address: Unknown
           City: Unknown
-          Description: No description available for this faculty. Please refer to the
+          Description: Unknown
             university's website for more details.
           Email: admissions@example.com
           Faculty: Faculty of Mathematics and Natural Sciences
           Phone: +49 30 123456789
           Subject: Unknown
           Webpage: https://example.com/faculty-info
-        - Address: Address not provided. Please refer to the university's website for
-            location details.
+        - Address: Unknown
           City: Unknown
-          Description: No description available for this faculty. Please refer to the
+          Description: Unknown
             university's website for more details.
           Email: admissions@example.com
           Faculty: Faculty of Mechanical Engineering and Transport Systems
           Phone: +49 30 123456789
           Subject: Unknown
           Webpage: https://example.com/faculty-info
-        - Address: Address not provided. Please refer to the university's website for
-            location details.
+        - Address: Unknown
           City: Unknown
-          Description: No description available for this faculty. Please refer to the
+          Description: Unknown
             university's website for more details.
           Email: admissions@example.com
           Faculty: Faculty of Planning Building Environment
           Phone: +49 30 123456789
           Subject: Unknown
           Webpage: https://example.com/faculty-info
-        - Address: Address not provided. Please refer to the university's website for
-            location details.
+        - Address: Unknown
           City: Unknown
-          Description: No description available for this faculty. Please refer to the
+          Description: Unknown
             university's website for more details.
           Email: admissions@example.com
           Faculty: Faculty of Process Sciences
           Phone: +49 30 123456789
           Subject: Unknown
           Webpage: https://example.com/faculty-info
-      Name: Technische UniversitÃ¤t Berlin (TU Berlin)
+      Name: Technische Universität Berlin (TU Berlin)
     - Faculties:
-        - Address: Address not provided. Please refer to the university's website for
-            location details.
+        - Address: Unknown
           City: Unknown
-          Description: No description available for this faculty. Please refer to the
+          Description: Unknown
             university's website for more details.
           Email: admissions@example.com
           Faculty: Faculty of Business, Law and Social Sciences
           Phone: +49 30 123456789
           Subject: Unknown
           Webpage: https://example.com/faculty-info
-        - Address: Address not provided. Please refer to the university's website for
-            location details.
+        - Address: Unknown
           City: Unknown
-          Description: No description available for this faculty. Please refer to the
+          Description: Unknown
             university's website for more details.
           Email: admissions@example.com
           Faculty: Faculty of Health Sciences
           Phone: +49 30 123456789
           Subject: Unknown
           Webpage: https://example.com/faculty-info
-        - Address: Address not provided. Please refer to the university's website for
-            location details.
+        - Address: Unknown
           City: Unknown
-          Description: No description available for this faculty. Please refer to the
+          Description: Unknown
             university's website for more details.
           Email: admissions@example.com
           Faculty: Faculty of Engineering
           Phone: +49 30 123456789
           Subject: Unknown
           Webpage: https://example.com/faculty-info
-        - Address: Address not provided. Please refer to the university's website for
-            location details.
+        - Address: Unknown
           City: Unknown
-          Description: No description available for this faculty. Please refer to the
+          Description: Unknown
             university's website for more details.
           Email: admissions@example.com
           Faculty: Faculty of Natural Sciences
@@ -447,7 +407,7 @@ Universities:
           Subject: Unknown
           Webpage: https://example.com/faculty-info
       Name: Brandenburg University of Technology Cottbus-Senftenberg
-  UniversitÃ¤t_(University):
+  Universität_(University):
     - Description: A prestigious university known for its excellence in humanities,
         sciences, and medicine.
       Faculties:
@@ -500,12 +460,12 @@ Universities:
           Phone: +49 30 123456789
           Subject: Unknown
           Webpage: https://example.com/faculty-info
-        - Address: CharitÃ©platz 1, 10117 Berlin
+        - Address: Charitéplatz 1, 10117 Berlin
           City: BERLIN
-          Description: One of Europeâ€™s leading medical faculties, partnered with CharitÃ©
+          Description: One of Europe’s leading medical faculties, partnered with Charité
             for medical training.
           Email: admissions@example.com
-          Faculty: Faculty of Medicine (CharitÃ© â€“ UniversitÃ¤tsmedizin Berlin)
+          Faculty: Faculty of Medicine (Charité – Universitätsmedizin Berlin)
           Phone: +49 30 123456789
           Subject: Unknown
           Webpage: https://example.com/faculty-info
@@ -556,7 +516,7 @@ Universities:
           Phone: +49 30 123456789
           Subject: Unknown
           Webpage: https://example.com/faculty-info
-        - Address: Vanâ€™t-Hoff-Str. 8, 14195 Berlin
+        - Address: Van’t-Hoff-Str. 8, 14195 Berlin
           City: BERLIN
           Description: Provides comprehensive legal education across national and international
             law.
@@ -565,7 +525,7 @@ Universities:
           Phone: +49 30 123456789
           Subject: Unknown
           Webpage: https://example.com/faculty-info
-        - Address: KÃ¶nigin-Luise-Str. 24-26, 14195 Berlin
+        - Address: Königin-Luise-Str. 24-26, 14195 Berlin
           City: BERLIN
           Description: Focuses on mathematics, informatics, and theoretical computing
             systems.
@@ -606,43 +566,39 @@ Universities:
           Phone: +49 30 123456789
           Subject: Unknown
           Webpage: https://example.com/faculty-info
-      Name: Freie UniversitÃ¤t Berlin (FU Berlin)
+      Name: Freie Universität Berlin (FU Berlin)
       Type: Public
     - Faculties:
-        - Address: Address not provided. Please refer to the university's website for
-            location details.
+        - Address: Unknown
           City: Unknown
-          Description: No description available for this faculty. Please refer to the
+          Description: Unknown
             university's website for more details.
           Email: admissions@example.com
           Faculty: Faculty of Humanities
           Phone: +49 30 123456789
           Subject: Unknown
           Webpage: https://example.com/faculty-info
-        - Address: Address not provided. Please refer to the university's website for
-            location details.
+        - Address: Unknown
           City: Unknown
-          Description: No description available for this faculty. Please refer to the
+          Description: Unknown
             university's website for more details.
           Email: admissions@example.com
           Faculty: Faculty of Economics and Social Sciences
           Phone: +49 30 123456789
           Subject: Unknown
           Webpage: https://example.com/faculty-info
-        - Address: Address not provided. Please refer to the university's website for
-            location details.
+        - Address: Unknown
           City: Unknown
-          Description: No description available for this faculty. Please refer to the
+          Description: Unknown
             university's website for more details.
           Email: admissions@example.com
           Faculty: Faculty of Science
           Phone: +49 30 123456789
           Subject: Unknown
           Webpage: https://example.com/faculty-info
-        - Address: Address not provided. Please refer to the university's website for
-            location details.
+        - Address: Unknown
           City: Unknown
-          Description: No description available for this faculty. Please refer to the
+          Description: Unknown
             university's website for more details.
           Email: admissions@example.com
           Faculty: Faculty of Law
@@ -656,10 +612,9 @@ Universities:
               URL: https://example.com/corporate-law
           Subject: Unknown
           Webpage: https://example.com/faculty-info
-        - Address: Address not provided. Please refer to the university's website for
-            location details.
+        - Address: Unknown
           City: Unknown
-          Description: No description available for this faculty. Please refer to the
+          Description: Unknown
             university's website for more details.
           Email: admissions@example.com
           Faculty: Faculty of Education
@@ -669,40 +624,36 @@ Universities:
       Name: University of Potsdam
   Wirtschaftshochschule_(Business_School):
     - Faculties:
-        - Address: Address not provided. Please refer to the university's website for
-            location details.
+        - Address: Unknown
           City: Unknown
-          Description: No description available for this faculty. Please refer to the
+          Description: Unknown
             university's website for more details.
           Email: admissions@example.com
           Faculty: Department of Business and Economics
           Phone: +49 30 123456789
           Subject: Unknown
           Webpage: https://example.com/faculty-info
-        - Address: Address not provided. Please refer to the university's website for
-            location details.
+        - Address: Unknown
           City: Unknown
-          Description: No description available for this faculty. Please refer to the
+          Description: Unknown
             university's website for more details.
           Email: admissions@example.com
           Faculty: Department of Public Administration
           Phone: +49 30 123456789
           Subject: Unknown
           Webpage: https://example.com/faculty-info
-        - Address: Address not provided. Please refer to the university's website for
-            location details.
+        - Address: Unknown
           City: Unknown
-          Description: No description available for this faculty. Please refer to the
+          Description: Unknown
             university's website for more details.
           Email: admissions@example.com
           Faculty: Department of Legal Studies
           Phone: +49 30 123456789
           Subject: Unknown
           Webpage: https://example.com/faculty-info
-        - Address: Address not provided. Please refer to the university's website for
-            location details.
+        - Address: Unknown
           City: Unknown
-          Description: No description available for this faculty. Please refer to the
+          Description: Unknown
             university's website for more details.
           Email: admissions@example.com
           Faculty: Department of Police and Security Management
@@ -711,30 +662,27 @@ Universities:
           Webpage: https://example.com/faculty-info
       Name: Berlin School of Economics and Law (HWR Berlin)
     - Faculties:
-        - Address: Address not provided. Please refer to the university's website for
-            location details.
+        - Address: Unknown
           City: Unknown
-          Description: No description available for this faculty. Please refer to the
+          Description: Unknown
             university's website for more details.
           Email: admissions@example.com
           Faculty: Department of Management
           Phone: +49 30 123456789
           Subject: Unknown
           Webpage: https://example.com/faculty-info
-        - Address: Address not provided. Please refer to the university's website for
-            location details.
+        - Address: Unknown
           City: Unknown
-          Description: No description available for this faculty. Please refer to the
+          Description: Unknown
             university's website for more details.
           Email: admissions@example.com
           Faculty: Department of Innovation and Entrepreneurship
           Phone: +49 30 123456789
           Subject: Unknown
           Webpage: https://example.com/faculty-info
-        - Address: Address not provided. Please refer to the university's website for
-            location details.
+        - Address: Unknown
           City: Unknown
-          Description: No description available for this faculty. Please refer to the
+          Description: Unknown
             university's website for more details.
           Email: admissions@example.com
           Faculty: Department of Finance
