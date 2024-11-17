@@ -9,15 +9,6 @@
 - **Subject:** Design
 - **City:** BERLIN
 
-- **Admission Criteria:** N/A
-- **Admission Ratio:** N/A
-- **Attendants:** N/A
-- **Average Rating:** N/A
-- **Best Rating Comment:** N/A
-- **Cooperating Companies:** 
-- **Dual Ausbildung:** N/A
-- **International Students Ratio:** N/A
-
 * * *
 
 # University of Applied Sciences Potsdam / Faculty of Architecture and Urban Design
@@ -30,15 +21,6 @@
 - **Description:** Focuses on the creative and practical aspects of design, including graphic, industrial, and digital design.
 - **Subject:** Design
 - **City:** BERLIN
-
-- **Admission Criteria:** N/A
-- **Admission Ratio:** N/A
-- **Attendants:** N/A
-- **Average Rating:** N/A
-- **Best Rating Comment:** N/A
-- **Cooperating Companies:** 
-- **Dual Ausbildung:** N/A
-- **International Students Ratio:** N/A
 
 * * *
 
@@ -53,15 +35,6 @@
 - **Subject:** Design
 - **City:** BERLIN
 
-- **Admission Criteria:** N/A
-- **Admission Ratio:** N/A
-- **Attendants:** N/A
-- **Average Rating:** N/A
-- **Best Rating Comment:** N/A
-- **Cooperating Companies:** 
-- **Dual Ausbildung:** N/A
-- **International Students Ratio:** N/A
-
 * * *
 
 # Berlin University of the Arts (UdK) / Faculty of Design
@@ -74,15 +47,6 @@
 - **Description:** Focuses on the creative and practical aspects of design, including graphic, industrial, and digital design.
 - **Subject:** Design
 - **City:** BERLIN
-
-- **Admission Criteria:** N/A
-- **Admission Ratio:** N/A
-- **Attendants:** N/A
-- **Average Rating:** N/A
-- **Best Rating Comment:** N/A
-- **Cooperating Companies:** 
-- **Dual Ausbildung:** N/A
-- **International Students Ratio:** N/A
 
 * * *
 
@@ -97,15 +61,6 @@
 - **Subject:** Design
 - **City:** BERLIN
 
-- **Admission Criteria:** N/A
-- **Admission Ratio:** N/A
-- **Attendants:** N/A
-- **Average Rating:** N/A
-- **Best Rating Comment:** N/A
-- **Cooperating Companies:** 
-- **Dual Ausbildung:** N/A
-- **International Students Ratio:** N/A
-
 * * *
 
 # Berlin University of Applied Sciences (HTW Berlin) / School of Engineering
@@ -118,15 +73,6 @@
 - **Description:** Provides education in various engineering disciplines, including mechanical, civil, and electrical engineering.
 - **Subject:** Engineering
 - **City:** BERLIN
-
-- **Admission Criteria:** N/A
-- **Admission Ratio:** N/A
-- **Attendants:** N/A
-- **Average Rating:** N/A
-- **Best Rating Comment:** N/A
-- **Cooperating Companies:** 
-- **Dual Ausbildung:** N/A
-- **International Students Ratio:** N/A
 
 * * *
 
@@ -141,15 +87,6 @@
 - **Subject:** Engineering
 - **City:** BERLIN
 
-- **Admission Criteria:** N/A
-- **Admission Ratio:** N/A
-- **Attendants:** N/A
-- **Average Rating:** N/A
-- **Best Rating Comment:** N/A
-- **Cooperating Companies:** 
-- **Dual Ausbildung:** N/A
-- **International Students Ratio:** N/A
-
 * * *
 
 # Technical University of Applied Sciences Wildau / Faculty of Engineering and Natural Sciences
@@ -162,15 +99,6 @@
 - **Description:** Provides education in various engineering disciplines, including mechanical, civil, and electrical engineering.
 - **Subject:** Engineering
 - **City:** BERLIN
-
-- **Admission Criteria:** N/A
-- **Admission Ratio:** N/A
-- **Attendants:** N/A
-- **Average Rating:** N/A
-- **Best Rating Comment:** N/A
-- **Cooperating Companies:** 
-- **Dual Ausbildung:** N/A
-- **International Students Ratio:** N/A
 
 * * *
 
@@ -185,15 +113,6 @@
 - **Subject:** Engineering
 - **City:** BERLIN
 
-- **Admission Criteria:** N/A
-- **Admission Ratio:** N/A
-- **Attendants:** N/A
-- **Average Rating:** N/A
-- **Best Rating Comment:** N/A
-- **Cooperating Companies:** 
-- **Dual Ausbildung:** N/A
-- **International Students Ratio:** N/A
-
 * * *
 
 # Steinbeis University Berlin / Faculty of Engineering and Technology
@@ -206,15 +125,6 @@
 - **Description:** Provides education in various engineering disciplines, including mechanical, civil, and electrical engineering.
 - **Subject:** Engineering
 - **City:** BERLIN
-
-- **Admission Criteria:** N/A
-- **Admission Ratio:** N/A
-- **Attendants:** N/A
-- **Average Rating:** N/A
-- **Best Rating Comment:** N/A
-- **Cooperating Companies:** 
-- **Dual Ausbildung:** N/A
-- **International Students Ratio:** N/A
 
 * * *
 
@@ -229,15 +139,6 @@
 - **Subject:** Engineering
 - **City:** BERLIN
 
-- **Admission Criteria:** N/A
-- **Admission Ratio:** N/A
-- **Attendants:** N/A
-- **Average Rating:** N/A
-- **Best Rating Comment:** N/A
-- **Cooperating Companies:** 
-- **Dual Ausbildung:** N/A
-- **International Students Ratio:** N/A
-
 * * *
 
 # Technische Universität Berlin (TU Berlin) / Faculty of Electrical Engineering and Computer Science
@@ -250,15 +151,6 @@
 - **Description:** Provides education in various engineering disciplines, including mechanical, civil, and electrical engineering.
 - **Subject:** Engineering
 - **City:** BERLIN
-
-- **Admission Criteria:** N/A
-- **Admission Ratio:** N/A
-- **Attendants:** N/A
-- **Average Rating:** N/A
-- **Best Rating Comment:** N/A
-- **Cooperating Companies:** 
-- **Dual Ausbildung:** N/A
-- **International Students Ratio:** N/A
 
 * * *
 
@@ -273,15 +165,6 @@
 - **Subject:** Engineering
 - **City:** BERLIN
 
-- **Admission Criteria:** N/A
-- **Admission Ratio:** N/A
-- **Attendants:** N/A
-- **Average Rating:** N/A
-- **Best Rating Comment:** N/A
-- **Cooperating Companies:** 
-- **Dual Ausbildung:** N/A
-- **International Students Ratio:** N/A
-
 * * *
 
 # SRH University of Applied Sciences Berlin / Faculty of Management
@@ -294,15 +177,6 @@
 - **Description:** Focuses on the fundamentals of business administration, management, and finance.
 - **Subject:** Business
 - **City:** BERLIN
-
-- **Admission Criteria:** N/A
-- **Admission Ratio:** N/A
-- **Attendants:** N/A
-- **Average Rating:** N/A
-- **Best Rating Comment:** N/A
-- **Cooperating Companies:** 
-- **Dual Ausbildung:** N/A
-- **International Students Ratio:** N/A
 
 * * *
 
@@ -317,15 +191,6 @@
 - **Subject:** Business
 - **City:** BERLIN
 
-- **Admission Criteria:** N/A
-- **Admission Ratio:** N/A
-- **Attendants:** N/A
-- **Average Rating:** N/A
-- **Best Rating Comment:** N/A
-- **Cooperating Companies:** 
-- **Dual Ausbildung:** N/A
-- **International Students Ratio:** N/A
-
 * * *
 
 # Technische Universität Berlin (TU Berlin) / Faculty of Economics and Management
@@ -338,15 +203,6 @@
 - **Description:** Focuses on the fundamentals of business administration, management, and finance.
 - **Subject:** Business
 - **City:** BERLIN
-
-- **Admission Criteria:** N/A
-- **Admission Ratio:** N/A
-- **Attendants:** N/A
-- **Average Rating:** N/A
-- **Best Rating Comment:** N/A
-- **Cooperating Companies:** 
-- **Dual Ausbildung:** N/A
-- **International Students Ratio:** N/A
 
 * * *
 
@@ -361,15 +217,6 @@
 - **Subject:** Business
 - **City:** BERLIN
 
-- **Admission Criteria:** N/A
-- **Admission Ratio:** N/A
-- **Attendants:** N/A
-- **Average Rating:** N/A
-- **Best Rating Comment:** N/A
-- **Cooperating Companies:** 
-- **Dual Ausbildung:** N/A
-- **International Students Ratio:** N/A
-
 * * *
 
 # Berlin School of Economics and Law (HWR Berlin) / Department of Police and Security Management
@@ -382,15 +229,6 @@
 - **Description:** Focuses on the fundamentals of business administration, management, and finance.
 - **Subject:** Business
 - **City:** BERLIN
-
-- **Admission Criteria:** N/A
-- **Admission Ratio:** N/A
-- **Attendants:** N/A
-- **Average Rating:** N/A
-- **Best Rating Comment:** N/A
-- **Cooperating Companies:** 
-- **Dual Ausbildung:** N/A
-- **International Students Ratio:** N/A
 
 * * *
 
@@ -405,15 +243,6 @@
 - **Subject:** Business
 - **City:** BERLIN
 
-- **Admission Criteria:** N/A
-- **Admission Ratio:** N/A
-- **Attendants:** N/A
-- **Average Rating:** N/A
-- **Best Rating Comment:** N/A
-- **Cooperating Companies:** 
-- **Dual Ausbildung:** N/A
-- **International Students Ratio:** N/A
-
 * * *
 
 # SRH University of Applied Sciences Berlin / Faculty of Social Sciences
@@ -426,15 +255,6 @@
 - **Description:** Explores the study of human society, including sociology, psychology, and political science.
 - **Subject:** Social Sciences
 - **City:** BERLIN
-
-- **Admission Criteria:** N/A
-- **Admission Ratio:** N/A
-- **Attendants:** N/A
-- **Average Rating:** N/A
-- **Best Rating Comment:** N/A
-- **Cooperating Companies:** 
-- **Dual Ausbildung:** N/A
-- **International Students Ratio:** N/A
 
 * * *
 
@@ -449,15 +269,6 @@
 - **Subject:** Social Sciences
 - **City:** BERLIN
 
-- **Admission Criteria:** N/A
-- **Admission Ratio:** N/A
-- **Attendants:** N/A
-- **Average Rating:** N/A
-- **Best Rating Comment:** N/A
-- **Cooperating Companies:** 
-- **Dual Ausbildung:** N/A
-- **International Students Ratio:** N/A
-
 * * *
 
 # Freie Universität Berlin (FU Berlin) / Department of Political and Social Sciences
@@ -470,15 +281,6 @@
 - **Description:** Analyzes political systems, governance, and international relations.
 - **Subject:** Social Sciences
 - **City:** BERLIN
-
-- **Admission Criteria:** N/A
-- **Admission Ratio:** N/A
-- **Attendants:** N/A
-- **Average Rating:** N/A
-- **Best Rating Comment:** N/A
-- **Cooperating Companies:** 
-- **Dual Ausbildung:** N/A
-- **International Students Ratio:** N/A
 
 * * *
 
@@ -493,15 +295,6 @@
 - **Subject:** Social Sciences
 - **City:** BERLIN
 
-- **Admission Criteria:** N/A
-- **Admission Ratio:** N/A
-- **Attendants:** N/A
-- **Average Rating:** N/A
-- **Best Rating Comment:** N/A
-- **Cooperating Companies:** 
-- **Dual Ausbildung:** N/A
-- **International Students Ratio:** N/A
-
 * * *
 
 # University of Potsdam / Faculty of Economics and Social Sciences
@@ -514,15 +307,6 @@
 - **Description:** Explores the study of human society, including sociology, psychology, and political science.
 - **Subject:** Social Sciences
 - **City:** BERLIN
-
-- **Admission Criteria:** N/A
-- **Admission Ratio:** N/A
-- **Attendants:** N/A
-- **Average Rating:** N/A
-- **Best Rating Comment:** N/A
-- **Cooperating Companies:** 
-- **Dual Ausbildung:** N/A
-- **International Students Ratio:** N/A
 
 * * *
 
@@ -537,15 +321,6 @@
 - **Subject:** Unknown Subject
 - **City:** BERLIN
 
-- **Admission Criteria:** N/A
-- **Admission Ratio:** N/A
-- **Attendants:** N/A
-- **Average Rating:** N/A
-- **Best Rating Comment:** N/A
-- **Cooperating Companies:** 
-- **Dual Ausbildung:** N/A
-- **International Students Ratio:** N/A
-
 * * *
 
 # Berlin University of Applied Sciences (HTW Berlin) / School of Life Sciences
@@ -558,15 +333,6 @@
 - **Description:** Covers various fields of natural sciences, including physics, chemistry, biology, and mathematics.
 - **Subject:** Natural Sciences & Mathematics
 - **City:** BERLIN
-
-- **Admission Criteria:** N/A
-- **Admission Ratio:** N/A
-- **Attendants:** N/A
-- **Average Rating:** N/A
-- **Best Rating Comment:** N/A
-- **Cooperating Companies:** 
-- **Dual Ausbildung:** N/A
-- **International Students Ratio:** N/A
 
 * * *
 
@@ -581,15 +347,6 @@
 - **Subject:** Law
 - **City:** BERLIN
 
-- **Admission Criteria:** N/A
-- **Admission Ratio:** N/A
-- **Attendants:** N/A
-- **Average Rating:** N/A
-- **Best Rating Comment:** N/A
-- **Cooperating Companies:** 
-- **Dual Ausbildung:** N/A
-- **International Students Ratio:** N/A
-
 * * *
 
 # University of Applied Sciences Potsdam / Faculty of Social and Educational Sciences
@@ -602,15 +359,6 @@
 - **Description:** Covers various fields of natural sciences, including physics, chemistry, biology, and mathematics.
 - **Subject:** Natural Sciences & Mathematics
 - **City:** BERLIN
-
-- **Admission Criteria:** N/A
-- **Admission Ratio:** N/A
-- **Attendants:** N/A
-- **Average Rating:** N/A
-- **Best Rating Comment:** N/A
-- **Cooperating Companies:** 
-- **Dual Ausbildung:** N/A
-- **International Students Ratio:** N/A
 
 * * *
 
@@ -625,15 +373,6 @@
 - **Subject:** Arts
 - **City:** BERLIN
 
-- **Admission Criteria:** N/A
-- **Admission Ratio:** N/A
-- **Attendants:** N/A
-- **Average Rating:** N/A
-- **Best Rating Comment:** N/A
-- **Cooperating Companies:** 
-- **Dual Ausbildung:** N/A
-- **International Students Ratio:** N/A
-
 * * *
 
 # Berlin University of the Arts (UdK) / Faculty of Music
@@ -646,15 +385,6 @@
 - **Description:** No description available.
 - **Subject:** Unknown Subject
 - **City:** BERLIN
-
-- **Admission Criteria:** N/A
-- **Admission Ratio:** N/A
-- **Attendants:** N/A
-- **Average Rating:** N/A
-- **Best Rating Comment:** N/A
-- **Cooperating Companies:** 
-- **Dual Ausbildung:** N/A
-- **International Students Ratio:** N/A
 
 * * *
 
@@ -669,15 +399,6 @@
 - **Subject:** Arts
 - **City:** BERLIN
 
-- **Admission Criteria:** N/A
-- **Admission Ratio:** N/A
-- **Attendants:** N/A
-- **Average Rating:** N/A
-- **Best Rating Comment:** N/A
-- **Cooperating Companies:** 
-- **Dual Ausbildung:** N/A
-- **International Students Ratio:** N/A
-
 * * *
 
 # Weißensee Academy of Art Berlin / Department of Fine Arts
@@ -690,15 +411,6 @@
 - **Description:** No description available.
 - **Subject:** Arts
 - **City:** BERLIN
-
-- **Admission Criteria:** N/A
-- **Admission Ratio:** N/A
-- **Attendants:** N/A
-- **Average Rating:** N/A
-- **Best Rating Comment:** N/A
-- **Cooperating Companies:** 
-- **Dual Ausbildung:** N/A
-- **International Students Ratio:** N/A
 
 * * *
 
@@ -713,15 +425,6 @@
 - **Subject:** Unknown Subject
 - **City:** BERLIN
 
-- **Admission Criteria:** N/A
-- **Admission Ratio:** N/A
-- **Attendants:** N/A
-- **Average Rating:** N/A
-- **Best Rating Comment:** N/A
-- **Cooperating Companies:** 
-- **Dual Ausbildung:** N/A
-- **International Students Ratio:** N/A
-
 * * *
 
 # Hanns Eisler School of Music Berlin / Department of Instrumental Studies
@@ -734,15 +437,6 @@
 - **Description:** No description available.
 - **Subject:** Unknown Subject
 - **City:** BERLIN
-
-- **Admission Criteria:** N/A
-- **Admission Ratio:** N/A
-- **Attendants:** N/A
-- **Average Rating:** N/A
-- **Best Rating Comment:** N/A
-- **Cooperating Companies:** 
-- **Dual Ausbildung:** N/A
-- **International Students Ratio:** N/A
 
 * * *
 
@@ -757,15 +451,6 @@
 - **Subject:** Unknown Subject
 - **City:** BERLIN
 
-- **Admission Criteria:** N/A
-- **Admission Ratio:** N/A
-- **Attendants:** N/A
-- **Average Rating:** N/A
-- **Best Rating Comment:** N/A
-- **Cooperating Companies:** 
-- **Dual Ausbildung:** N/A
-- **International Students Ratio:** N/A
-
 * * *
 
 # Hanns Eisler School of Music Berlin / Department of Vocal Studies
@@ -778,15 +463,6 @@
 - **Description:** No description available.
 - **Subject:** Unknown Subject
 - **City:** BERLIN
-
-- **Admission Criteria:** N/A
-- **Admission Ratio:** N/A
-- **Attendants:** N/A
-- **Average Rating:** N/A
-- **Best Rating Comment:** N/A
-- **Cooperating Companies:** 
-- **Dual Ausbildung:** N/A
-- **International Students Ratio:** N/A
 
 * * *
 
@@ -801,15 +477,6 @@
 - **Subject:** Unknown Subject
 - **City:** BERLIN
 
-- **Admission Criteria:** N/A
-- **Admission Ratio:** N/A
-- **Attendants:** N/A
-- **Average Rating:** N/A
-- **Best Rating Comment:** N/A
-- **Cooperating Companies:** 
-- **Dual Ausbildung:** N/A
-- **International Students Ratio:** N/A
-
 * * *
 
 # Hertie School of Governance / Department of International Affairs
@@ -822,15 +489,6 @@
 - **Description:** No description available.
 - **Subject:** Unknown Subject
 - **City:** BERLIN
-
-- **Admission Criteria:** N/A
-- **Admission Ratio:** N/A
-- **Attendants:** N/A
-- **Average Rating:** N/A
-- **Best Rating Comment:** N/A
-- **Cooperating Companies:** 
-- **Dual Ausbildung:** N/A
-- **International Students Ratio:** N/A
 
 * * *
 
@@ -845,15 +503,6 @@
 - **Subject:** Unknown Subject
 - **City:** BERLIN
 
-- **Admission Criteria:** N/A
-- **Admission Ratio:** N/A
-- **Attendants:** N/A
-- **Average Rating:** N/A
-- **Best Rating Comment:** N/A
-- **Cooperating Companies:** 
-- **Dual Ausbildung:** N/A
-- **International Students Ratio:** N/A
-
 * * *
 
 # Brandenburg University of Technology Cottbus-Senftenberg / Faculty of Business, Law and Social Sciences
@@ -866,15 +515,6 @@
 - **Description:** Covers legal studies, including civil law, criminal law, and international law.
 - **Subject:** Law
 - **City:** BERLIN
-
-- **Admission Criteria:** N/A
-- **Admission Ratio:** N/A
-- **Attendants:** N/A
-- **Average Rating:** N/A
-- **Best Rating Comment:** N/A
-- **Cooperating Companies:** 
-- **Dual Ausbildung:** N/A
-- **International Students Ratio:** N/A
 
 * * *
 
@@ -889,15 +529,6 @@
 - **Subject:** Natural Sciences & Mathematics
 - **City:** BERLIN
 
-- **Admission Criteria:** N/A
-- **Admission Ratio:** N/A
-- **Attendants:** N/A
-- **Average Rating:** N/A
-- **Best Rating Comment:** N/A
-- **Cooperating Companies:** 
-- **Dual Ausbildung:** N/A
-- **International Students Ratio:** N/A
-
 * * *
 
 # Brandenburg University of Technology Cottbus-Senftenberg / Faculty of Natural Sciences
@@ -910,15 +541,6 @@
 - **Description:** Covers various fields of natural sciences, including physics, chemistry, biology, and mathematics.
 - **Subject:** Natural Sciences & Mathematics
 - **City:** BERLIN
-
-- **Admission Criteria:** N/A
-- **Admission Ratio:** N/A
-- **Attendants:** N/A
-- **Average Rating:** N/A
-- **Best Rating Comment:** N/A
-- **Cooperating Companies:** 
-- **Dual Ausbildung:** N/A
-- **International Students Ratio:** N/A
 
 * * *
 
@@ -933,15 +555,6 @@
 - **Subject:** Unknown Subject
 - **City:** BERLIN
 
-- **Admission Criteria:** N/A
-- **Admission Ratio:** N/A
-- **Attendants:** N/A
-- **Average Rating:** N/A
-- **Best Rating Comment:** N/A
-- **Cooperating Companies:** 
-- **Dual Ausbildung:** N/A
-- **International Students Ratio:** N/A
-
 * * *
 
 # Technische Universität Berlin (TU Berlin) / Faculty of Mathematics and Natural Sciences
@@ -954,15 +567,6 @@
 - **Description:** Covers various fields of natural sciences, including physics, chemistry, biology, and mathematics.
 - **Subject:** Natural Sciences & Mathematics
 - **City:** BERLIN
-
-- **Admission Criteria:** N/A
-- **Admission Ratio:** N/A
-- **Attendants:** N/A
-- **Average Rating:** N/A
-- **Best Rating Comment:** N/A
-- **Cooperating Companies:** 
-- **Dual Ausbildung:** N/A
-- **International Students Ratio:** N/A
 
 * * *
 
@@ -977,15 +581,6 @@
 - **Subject:** Unknown Subject
 - **City:** BERLIN
 
-- **Admission Criteria:** N/A
-- **Admission Ratio:** N/A
-- **Attendants:** N/A
-- **Average Rating:** N/A
-- **Best Rating Comment:** N/A
-- **Cooperating Companies:** 
-- **Dual Ausbildung:** N/A
-- **International Students Ratio:** N/A
-
 * * *
 
 # Technische Universität Berlin (TU Berlin) / Faculty of Process Sciences
@@ -998,15 +593,6 @@
 - **Description:** Covers various fields of natural sciences, including physics, chemistry, biology, and mathematics.
 - **Subject:** Natural Sciences & Mathematics
 - **City:** BERLIN
-
-- **Admission Criteria:** N/A
-- **Admission Ratio:** N/A
-- **Attendants:** N/A
-- **Average Rating:** N/A
-- **Best Rating Comment:** N/A
-- **Cooperating Companies:** 
-- **Dual Ausbildung:** N/A
-- **International Students Ratio:** N/A
 
 * * *
 
@@ -1021,15 +607,6 @@
 - **Subject:** Unknown Subject
 - **City:** BERLIN
 
-- **Admission Criteria:** N/A
-- **Admission Ratio:** N/A
-- **Attendants:** N/A
-- **Average Rating:** N/A
-- **Best Rating Comment:** N/A
-- **Cooperating Companies:** 
-- **Dual Ausbildung:** N/A
-- **International Students Ratio:** N/A
-
 * * *
 
 # Freie Universität Berlin (FU Berlin) / Department of Earth Sciences
@@ -1042,15 +619,6 @@
 - **Description:** Researches geosciences, climate change, and environmental systems.
 - **Subject:** Natural Sciences & Mathematics
 - **City:** BERLIN
-
-- **Admission Criteria:** N/A
-- **Admission Ratio:** N/A
-- **Attendants:** N/A
-- **Average Rating:** N/A
-- **Best Rating Comment:** N/A
-- **Cooperating Companies:** 
-- **Dual Ausbildung:** N/A
-- **International Students Ratio:** N/A
 
 * * *
 
@@ -1065,15 +633,6 @@
 - **Subject:** Unknown Subject
 - **City:** BERLIN
 
-- **Admission Criteria:** N/A
-- **Admission Ratio:** N/A
-- **Attendants:** N/A
-- **Average Rating:** N/A
-- **Best Rating Comment:** N/A
-- **Cooperating Companies:** 
-- **Dual Ausbildung:** N/A
-- **International Students Ratio:** N/A
-
 * * *
 
 # Freie Universität Berlin (FU Berlin) / Department of History and Cultural Studies
@@ -1086,15 +645,6 @@
 - **Description:** Covers historical research, archaeology, and cultural analysis.
 - **Subject:** Unknown Subject
 - **City:** BERLIN
-
-- **Admission Criteria:** N/A
-- **Admission Ratio:** N/A
-- **Attendants:** N/A
-- **Average Rating:** N/A
-- **Best Rating Comment:** N/A
-- **Cooperating Companies:** 
-- **Dual Ausbildung:** N/A
-- **International Students Ratio:** N/A
 
 * * *
 
@@ -1109,15 +659,6 @@
 - **Subject:** Law
 - **City:** BERLIN
 
-- **Admission Criteria:** N/A
-- **Admission Ratio:** N/A
-- **Attendants:** N/A
-- **Average Rating:** N/A
-- **Best Rating Comment:** N/A
-- **Cooperating Companies:** 
-- **Dual Ausbildung:** N/A
-- **International Students Ratio:** N/A
-
 * * *
 
 # Freie Universität Berlin (FU Berlin) / Department of Mathematics and Computer Science
@@ -1130,15 +671,6 @@
 - **Description:** Focuses on mathematics, informatics, and theoretical computing systems.
 - **Subject:** Natural Sciences & Mathematics
 - **City:** BERLIN
-
-- **Admission Criteria:** N/A
-- **Admission Ratio:** N/A
-- **Attendants:** N/A
-- **Average Rating:** N/A
-- **Best Rating Comment:** N/A
-- **Cooperating Companies:** 
-- **Dual Ausbildung:** N/A
-- **International Students Ratio:** N/A
 
 * * *
 
@@ -1153,15 +685,6 @@
 - **Subject:** Unknown Subject
 - **City:** BERLIN
 
-- **Admission Criteria:** N/A
-- **Admission Ratio:** N/A
-- **Attendants:** N/A
-- **Average Rating:** N/A
-- **Best Rating Comment:** N/A
-- **Cooperating Companies:** 
-- **Dual Ausbildung:** N/A
-- **International Students Ratio:** N/A
-
 * * *
 
 # Freie Universität Berlin (FU Berlin) / Department of Physics
@@ -1174,15 +697,6 @@
 - **Description:** Conducts research in physics and its applications.
 - **Subject:** Unknown Subject
 - **City:** BERLIN
-
-- **Admission Criteria:** N/A
-- **Admission Ratio:** N/A
-- **Attendants:** N/A
-- **Average Rating:** N/A
-- **Best Rating Comment:** N/A
-- **Cooperating Companies:** 
-- **Dual Ausbildung:** N/A
-- **International Students Ratio:** N/A
 
 * * *
 
@@ -1197,15 +711,6 @@
 - **Subject:** Medicine & Health
 - **City:** BERLIN
 
-- **Admission Criteria:** N/A
-- **Admission Ratio:** N/A
-- **Attendants:** N/A
-- **Average Rating:** N/A
-- **Best Rating Comment:** N/A
-- **Cooperating Companies:** 
-- **Dual Ausbildung:** N/A
-- **International Students Ratio:** N/A
-
 * * *
 
 # Humboldt University of Berlin (HU Berlin) / Faculty of Arts and Humanities
@@ -1218,15 +723,6 @@
 - **Description:** Focuses on literature, languages, history, philosophy, and cultural studies.
 - **Subject:** Arts
 - **City:** BERLIN
-
-- **Admission Criteria:** N/A
-- **Admission Ratio:** N/A
-- **Attendants:** N/A
-- **Average Rating:** N/A
-- **Best Rating Comment:** N/A
-- **Cooperating Companies:** 
-- **Dual Ausbildung:** N/A
-- **International Students Ratio:** N/A
 
 * * *
 
@@ -1241,15 +737,6 @@
 - **Subject:** Law
 - **City:** BERLIN
 
-- **Admission Criteria:** N/A
-- **Admission Ratio:** N/A
-- **Attendants:** N/A
-- **Average Rating:** N/A
-- **Best Rating Comment:** N/A
-- **Cooperating Companies:** 
-- **Dual Ausbildung:** N/A
-- **International Students Ratio:** N/A
-
 * * *
 
 # Humboldt University of Berlin (HU Berlin) / Faculty of Life Sciences
@@ -1262,15 +749,6 @@
 - **Description:** Dedicated to biology, biochemistry, and environmental sciences.
 - **Subject:** Natural Sciences & Mathematics
 - **City:** BERLIN
-
-- **Admission Criteria:** N/A
-- **Admission Ratio:** N/A
-- **Attendants:** N/A
-- **Average Rating:** N/A
-- **Best Rating Comment:** N/A
-- **Cooperating Companies:** 
-- **Dual Ausbildung:** N/A
-- **International Students Ratio:** N/A
 
 * * *
 
@@ -1285,15 +763,6 @@
 - **Subject:** Natural Sciences & Mathematics
 - **City:** BERLIN
 
-- **Admission Criteria:** N/A
-- **Admission Ratio:** N/A
-- **Attendants:** N/A
-- **Average Rating:** N/A
-- **Best Rating Comment:** N/A
-- **Cooperating Companies:** 
-- **Dual Ausbildung:** N/A
-- **International Students Ratio:** N/A
-
 * * *
 
 # Humboldt University of Berlin (HU Berlin) / Faculty of Medicine (Charit  Universittsmedizin Berlin)
@@ -1306,15 +775,6 @@
 - **Description:** One of Europe’s leading medical faculties, partnered with Charité for medical training.
 - **Subject:** Medicine & Health
 - **City:** BERLIN
-
-- **Admission Criteria:** N/A
-- **Admission Ratio:** N/A
-- **Attendants:** N/A
-- **Average Rating:** N/A
-- **Best Rating Comment:** N/A
-- **Cooperating Companies:** 
-- **Dual Ausbildung:** N/A
-- **International Students Ratio:** N/A
 
 * * *
 
@@ -1329,15 +789,6 @@
 - **Subject:** Unknown Subject
 - **City:** BERLIN
 
-- **Admission Criteria:** N/A
-- **Admission Ratio:** N/A
-- **Attendants:** N/A
-- **Average Rating:** N/A
-- **Best Rating Comment:** N/A
-- **Cooperating Companies:** 
-- **Dual Ausbildung:** N/A
-- **International Students Ratio:** N/A
-
 * * *
 
 # University of Potsdam / Faculty of Humanities
@@ -1350,15 +801,6 @@
 - **Description:** No description available.
 - **Subject:** Unknown Subject
 - **City:** BERLIN
-
-- **Admission Criteria:** N/A
-- **Admission Ratio:** N/A
-- **Attendants:** N/A
-- **Average Rating:** N/A
-- **Best Rating Comment:** N/A
-- **Cooperating Companies:** 
-- **Dual Ausbildung:** N/A
-- **International Students Ratio:** N/A
 
 * * *
 
@@ -1373,15 +815,6 @@
 - **Subject:** Law
 - **City:** BERLIN
 
-- **Admission Criteria:** N/A
-- **Admission Ratio:** N/A
-- **Attendants:** N/A
-- **Average Rating:** N/A
-- **Best Rating Comment:** N/A
-- **Cooperating Companies:** 
-- **Dual Ausbildung:** N/A
-- **International Students Ratio:** N/A
-
 * * *
 
 # University of Potsdam / Faculty of Science
@@ -1394,15 +827,6 @@
 - **Description:** Covers various fields of natural sciences, including physics, chemistry, biology, and mathematics.
 - **Subject:** Natural Sciences & Mathematics
 - **City:** BERLIN
-
-- **Admission Criteria:** N/A
-- **Admission Ratio:** N/A
-- **Attendants:** N/A
-- **Average Rating:** N/A
-- **Best Rating Comment:** N/A
-- **Cooperating Companies:** 
-- **Dual Ausbildung:** N/A
-- **International Students Ratio:** N/A
 
 * * *
 
@@ -1417,15 +841,6 @@
 - **Subject:** Unknown Subject
 - **City:** N/A
 
-- **Admission Criteria:** N/A
-- **Admission Ratio:** N/A
-- **Attendants:** N/A
-- **Average Rating:** N/A
-- **Best Rating Comment:** N/A
-- **Cooperating Companies:** 
-- **Dual Ausbildung:** N/A
-- **International Students Ratio:** N/A
-
 * * *
 
 # Berlin School of Economics and Law (HWR Berlin) / Department of Legal Studies
@@ -1438,15 +853,6 @@
 - **Description:** No description available.
 - **Subject:** Unknown Subject
 - **City:** BERLIN
-
-- **Admission Criteria:** N/A
-- **Admission Ratio:** N/A
-- **Attendants:** N/A
-- **Average Rating:** N/A
-- **Best Rating Comment:** N/A
-- **Cooperating Companies:** 
-- **Dual Ausbildung:** N/A
-- **International Students Ratio:** N/A
 
 * * *
 
@@ -1461,15 +867,6 @@
 - **Subject:** Unknown Subject
 - **City:** BERLIN
 
-- **Admission Criteria:** N/A
-- **Admission Ratio:** N/A
-- **Attendants:** N/A
-- **Average Rating:** N/A
-- **Best Rating Comment:** N/A
-- **Cooperating Companies:** 
-- **Dual Ausbildung:** N/A
-- **International Students Ratio:** N/A
-
 * * *
 
 # European School of Management and Technology (ESMT Berlin) / Department of Finance
@@ -1483,15 +880,6 @@
 - **Subject:** Unknown Subject
 - **City:** BERLIN
 
-- **Admission Criteria:** N/A
-- **Admission Ratio:** N/A
-- **Attendants:** N/A
-- **Average Rating:** N/A
-- **Best Rating Comment:** N/A
-- **Cooperating Companies:** 
-- **Dual Ausbildung:** N/A
-- **International Students Ratio:** N/A
-
 * * *
 
 # European School of Management and Technology (ESMT Berlin) / Department of Innovation and Entrepreneurship
@@ -1504,15 +892,6 @@
 - **Description:** No description available.
 - **Subject:** Unknown Subject
 - **City:** BERLIN
-
-- **Admission Criteria:** N/A
-- **Admission Ratio:** N/A
-- **Attendants:** N/A
-- **Average Rating:** N/A
-- **Best Rating Comment:** N/A
-- **Cooperating Companies:** 
-- **Dual Ausbildung:** N/A
-- **International Students Ratio:** N/A
 
 * * *
 

@@ -12,7 +12,15 @@ def generate_markdown(data):
                     "university_type": university_type.replace('_', ' '),
                     "subject": details.get("Subject", "Unknown Subject"),
                     "city": details.get("City", "N/A"),
-                    "description": details.get("Description", "No description available.")
+                    "description": details.get("Description", "No description available."),
+                    "admission_criteria": details.get("admission_criteria", "N/A"),
+                    "admission_ratio": details.get("admission_ratio", "N/A"),
+                    "attendants": details.get("attendants", "N/A"),
+                    "average_rating": details.get("average_rating", "N/A"),
+                    "best_rating_comment": details.get("best_rating_comment", "N/A"),
+                    "cooperating_companies": details.get("cooperating_companies", []),
+                    "dual_ausbildung": details.get("dual_ausbildung", "N/A"),
+                    "international_students_ratio": details.get("international_students_ratio", "N/A")
                 })
 
     faculties_list.sort(key=lambda x: x["matching_score"], reverse=True)
@@ -26,6 +34,14 @@ def generate_markdown(data):
         markdown += f"- **Description:** {faculty['description']}\n"
         markdown += f"- **Subject:** {faculty['subject']}\n"
         markdown += f"- **City:** {faculty['city']}\n\n"
+        markdown += f"- **Admission Criteria:** {faculty['admission_criteria']}\n"
+        markdown += f"- **Admission Ratio:** {faculty['admission_ratio']}\n"
+        markdown += f"- **Attendants:** {faculty['attendants']}\n"
+        markdown += f"- **Average Rating:** {faculty['average_rating']}\n"
+        markdown += f"- **Best Rating Comment:** {faculty['best_rating_comment']}\n"
+        markdown += f"- **Cooperating Companies:** {', '.join(faculty['cooperating_companies'])}\n"
+        markdown += f"- **Dual Ausbildung:** {faculty['dual_ausbildung']}\n"
+        markdown += f"- **International Students Ratio:** {faculty['international_students_ratio']}\n\n"
         markdown += "* * *\n\n"
 
     return markdown
