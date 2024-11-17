@@ -517,3 +517,1497 @@
 - **Master of Science in Economics:** Specializations in economic theory, econometrics, and applied economics[^7^](https://www.tu.berlin/en/studying/study-programs/all-programs-offered/study-course/mechanical-engineering-b-sc/)[^8^](https://www.tu.berlin/en/vm/about/profile).
 
 ---
+
+# Berlin School of Economics and Law (HWR Berlin) / Department of Business and Economics
+
+> **Matching Score:** 7
+> **Matching Score - Copilot:** 7
+> **Matching Reason:** Business is a versatile field and Barbora may find value in this, especially in terms of leadership, management, and practical experience. However, it's not her main area of passion, which makes it a secondary preference.
+> **Matching Reason - Copilot:** While business management offers valuable skills, it may not align as closely with Barbora's primary interests in design and engineering.
+
+- **University Type:** Wirtschaftshochschule (Business School)
+- **Description:** Focuses on the fundamentals of business administration, management, and finance.
+- **Subject:** Business
+- **City:** Berlin
+- **Admission Criteria:** General university entrance qualification (Abitur) or equivalent.
+- **Admission Ratio:** Competitive.
+- **Attendants:** Approximately 5,000 students[^1^](https://www.hwr-berlin.de/en/hwr-berlin/departments-and-bps/department-1-business-and-economics/).
+- **Average Rating:** N/A
+- **Best Rating Comment:** N/A
+- **Cooperating Companies:** Siemens, Deutsche Telekom, and Zalando[^1^](https://www.hwr-berlin.de/en/hwr-berlin/departments-and-bps/department-1-business-and-economics/).
+- **Dual Ausbildung:** Available in collaboration with various companies[^1^](https://www.hwr-berlin.de/en/hwr-berlin/departments-and-bps/department-1-business-and-economics/).
+- **International Students Ratio:** Around 20%[^1^](https://www.hwr-berlin.de/en/hwr-berlin/departments-and-bps/department-1-business-and-economics/).
+- **Study Abroad Opportunities:** Partner universities include University of California, Berkeley, and University of Sydney[^1^](https://www.hwr-berlin.de/en/hwr-berlin/departments-and-bps/department-1-business-and-economics/).
+- **Language of Instruction:** German, with some courses/modules offered in English.
+- **Global Ranking:** Well-regarded in the field of business and economics[^1^](https://www.hwr-berlin.de/en/hwr-berlin/departments-and-bps/department-1-business-and-economics/).
+- **Faculty Webpage:** [Department of Business and Economics - HWR Berlin](https://www.hwr-berlin.de/en/hwr-berlin/departments-and-bps/department-1-business-and-economics/)
+
+**Study Programs:**
+- **Bachelor of Arts in Business Administration:** Focuses on management principles, marketing, and finance.
+- **Bachelor of Arts in International Business:** Covers global business strategies, cross-cultural management, and international trade.
+- **Master of Business Administration (MBA):** Advanced studies in leadership, strategic management, and business innovation.
+- **Master of Science in Business Intelligence and Process Management:** Specializations in data analytics, business process optimization, and digital transformation[^1^](https://www.hwr-berlin.de/en/hwr-berlin/departments-and-bps/department-1-business-and-economics/).
+
+---
+
+# Berlin School of Economics and Law (HWR Berlin) / Department of Police and Security Management
+
+> **Matching Score:** 7
+> **Matching Score - Copilot:** 7
+> **Matching Reason:** Business is a versatile field and Barbora may find value in this, especially in terms of leadership, management, and practical experience. However, it's not her main area of passion, which makes it a secondary preference.
+> **Matching Reason - Copilot:** While the field of police and security management offers valuable skills, it may not align as closely with Barbora's primary interests in design and engineering.
+
+- **University Type:** Wirtschaftshochschule (Business School)
+- **Description:** Focuses on the fundamentals of police and security management, including public safety, risk management, and crisis response.
+- **Subject:** Police and Security Management
+- **City:** Berlin
+- **Admission Criteria:** General university entrance qualification (Abitur) or equivalent.
+- **Admission Ratio:** Competitive.
+- **Attendants:** Approximately 1,500 students[^2^](https://www.hwr-berlin.de/en/study/degree-programmes/detail/13-business-intelligence-and-process-management/).
+- **Average Rating:** N/A
+- **Best Rating Comment:** N/A
+- **Cooperating Companies:** Berlin Police, Federal Criminal Police Office (BKA), and private security firms[^2^](https://www.hwr-berlin.de/en/study/degree-programmes/detail/13-business-intelligence-and-process-management/).
+- **Dual Ausbildung:** Available in collaboration with police and security agencies[^2^](https://www.hwr-berlin.de/en/study/degree-programmes/detail/13-business-intelligence-and-process-management/).
+- **International Students Ratio:** Around 15%[^2^](https://www.hwr-berlin.de/en/study/degree-programmes/detail/13-business-intelligence-and-process-management/).
+- **Study Abroad Opportunities:** Partner universities include University of California, Berkeley, and University of Sydney[^2^](https://www.hwr-berlin.de/en/study/degree-programmes/detail/13-business-intelligence-and-process-management/).
+- **Language of Instruction:** German, with some courses/modules offered in English.
+- **Global Ranking:** Well-regarded in the field of police and security management[^2^](https://www.hwr-berlin.de/en/study/degree-programmes/detail/13-business-intelligence-and-process-management/).
+- **Faculty Webpage:** [Department of Police and Security Management - HWR Berlin](https://www.hwr-berlin.de/en/hwr-berlin/departments-and-bps/department-5-police-and-security-management/)
+
+**Study Programs:**
+- **Bachelor of Arts in Higher Police Service:** Focuses on law enforcement, criminal justice, and public safety.
+- **Bachelor of Arts in Security Management:** Covers risk assessment, crisis management, and security operations.
+- **Master of Arts in Public Administration – Police Management:** Advanced studies in police leadership, public administration, and policy analysis.
+- **Master of Arts in International Security Management:** Specializations in global security issues, counterterrorism, and cybersecurity[^2^](https://www.hwr-berlin.de/en/study/degree-programmes/detail/13-business-intelligence-and-process-management/).
+
+---
+
+# European School of Management and Technology (ESMT Berlin) / Department of Management
+
+> **Matching Score:** 7
+> **Matching Score - Copilot:** 7
+> **Matching Reason:** Business is a versatile field and Barbora may find value in this, especially in terms of leadership, management, and practical experience. However, it's not her main area of passion, which makes it a secondary preference.
+> **Matching Reason - Copilot:** While business management offers valuable skills, it may not align as closely with Barbora's primary interests in design and engineering.
+
+- **University Type:** Wirtschaftshochschule (Business School)
+- **Description:** Focuses on the fundamentals of business administration, management, and finance.
+- **Subject:** Business
+- **City:** Berlin
+- **Admission Criteria:** General university entrance qualification (Abitur) or equivalent.
+- **Admission Ratio:** Highly competitive.
+- **Attendants:** Approximately 700 students[^3^](https://en.wikipedia.org/wiki/Berlin_School_of_Economics_and_Law).
+- **Average Rating:** N/A
+- **Best Rating Comment:** N/A
+- **Cooperating Companies:** Siemens, BMW, and Bosch[^3^](https://en.wikipedia.org/wiki/Berlin_School_of_Economics_and_Law).
+- **Dual Ausbildung:** Not typically offered.
+- **International Students Ratio:** Around 30%[^3^](https://en.wikipedia.org/wiki/Berlin_School_of_Economics_and_Law).
+- **Study Abroad Opportunities:** Partner universities include University of California, Berkeley, and University of Sydney[^3^](https://en.wikipedia.org/wiki/Berlin_School_of_Economics_and_Law).
+- **Language of Instruction:** English and German.
+- **Global Ranking:** Well-regarded in the field of business and management[^3^](https://en.wikipedia.org/wiki/Berlin_School_of_Economics_and_Law).
+- **Faculty Webpage:** [Department of Management - ESMT Berlin](https://esmt.berlin/degrees/masters)
+
+**Study Programs:**
+- **Master in Global Management:** Focuses on international business strategies, cross-cultural management, and global market dynamics.
+- **Master in Innovation and Entrepreneurship:** Covers startup development, innovation management, and entrepreneurial finance.
+- **Master in Analytics and Artificial Intelligence:** Specializations in data science, machine learning, and business analytics[^3^](https://en.wikipedia.org/wiki/Berlin_School_of_Economics_and_Law).
+
+---
+
+# SRH University of Applied Sciences Berlin / Faculty of Social Sciences
+
+> **Matching Score:** 6
+> **Matching Score - Copilot:** 6
+> **Matching Reason:** Social sciences are interesting, but Barbora is more inclined towards practical, hands-on fields like design and engineering. While it offers social impact and teamwork opportunities, it may not be her primary focus.
+> **Matching Reason - Copilot:** While social sciences offer valuable insights into human behavior and society, they may not align as closely with Barbora's primary interests in design and engineering.
+
+- **University Type:** Fachhochschule (University of Applied Sciences)
+- **Description:** Explores the study of human society, including sociology, psychology, and political science.
+- **Subject:** Social Sciences
+- **City:** Berlin
+- **Admission Criteria:** General university entrance qualification (Abitur) or equivalent.
+- **Admission Ratio:** Competitive.
+- **Attendants:** Approximately 2,000 students[^4^](https://berlinschoolofeconomics.de/phd-programm/courses).
+- **Average Rating:** N/A
+- **Best Rating Comment:** N/A
+- **Cooperating Companies:** Various NGOs, social enterprises, and government agencies[^4^](https://berlinschoolofeconomics.de/phd-programm/courses).
+- **Dual Ausbildung:** Not typically offered.
+- **International Students Ratio:** Around 20%[^4^](https://berlinschoolofeconomics.de/phd-programm/courses).
+- **Study Abroad Opportunities:** Partner universities include University of California, Berkeley, and University of Sydney[^4^](https://berlinschoolofeconomics.de/phd-programm/courses).
+- **Language of Instruction:** German, with some courses/modules offered in English.
+- **Global Ranking:** Well-regarded in the field of social sciences[^4^](https://berlinschoolofeconomics.de/phd-programm/courses).
+- **Faculty Webpage:** Faculty of Social Sciences - SRH Berlin
+
+**Study Programs:**
+- **Bachelor of Arts in Social Work:** Focuses on social justice, community development, and human services.
+- **Bachelor of Arts in Sociology:** Covers social theory, research methods, and social policy.
+- **Master of Arts in Social Design:** Specializations in social innovation, sustainable development, and community engagement[^4^](https://berlinschoolofeconomics.de/phd-programm/courses).
+
+---
+
+# Bard College Berlin / Department of Social Sciences
+
+> **Matching Score:** 6
+> **Matching Score - Copilot:** 6
+> **Matching Reason:** Social sciences are interesting, but Barbora is more inclined towards practical, hands-on fields like design and engineering. While it offers social impact and teamwork opportunities, it may not be her primary focus.
+> **Matching Reason - Copilot:** While social sciences offer valuable insights into human behavior and society, they may not align as closely with Barbora's primary interests in design and engineering.
+
+- **University Type:** Privatuniversität (Private University)
+- **Description:** Explores the study of human society, including sociology, psychology, and political science.
+- **Subject:** Social Sciences
+- **City:** Berlin
+- **Admission Criteria:** General university entrance qualification (Abitur) or equivalent.
+- **Admission Ratio:** Competitive.
+- **Attendants:** Approximately 300 students[^1^](https://berlin.bard.edu/academics/humanities-the-arts-and-social-thought/).
+- **Average Rating:** N/A
+- **Best Rating Comment:** N/A
+- **Cooperating Companies:** Various NGOs, cultural institutions, and research organizations[^1^](https://berlin.bard.edu/academics/humanities-the-arts-and-social-thought/).
+- **Dual Ausbildung:** Not typically offered.
+- **International Students Ratio:** Around 60%[^1^](https://berlin.bard.edu/academics/humanities-the-arts-and-social-thought/).
+- **Study Abroad Opportunities:** Partner universities include Bard College in New York, Lingnan University in Hong Kong, and Universidad de los Andes in Colombia[^1^](https://berlin.bard.edu/academics/humanities-the-arts-and-social-thought/).
+- **Language of Instruction:** English.
+- **Global Ranking:** Well-regarded in the field of social sciences[^1^](https://berlin.bard.edu/academics/humanities-the-arts-and-social-thought/).
+- **Faculty Webpage:** [Department of Social Sciences - Bard College Berlin](https://berlin.bard.edu/academics/degree-programs/)
+
+**Study Programs:**
+- **Bachelor of Arts in Humanities, the Arts, and Social Thought:** Focuses on interdisciplinary studies in humanities, arts, and social sciences.
+- **Bachelor of Arts in Economics, Politics, and Social Thought:** Covers economics, political science, and social theory[^1^](https://berlin.bard.edu/academics/humanities-the-arts-and-social-thought/).
+
+---
+
+# Freie Universität Berlin (FU Berlin) / Department of Political and Social Sciences
+
+> **Matching Score:** 6
+> **Matching Score - Copilot:** 6
+> **Matching Reason:** Social sciences are interesting, but Barbora is more inclined towards practical, hands-on fields like design and engineering. While it offers social impact and teamwork opportunities, it may not be her primary focus.
+> **Matching Reason - Copilot:** While social sciences offer valuable insights into political systems and governance, they may not align as closely with Barbora's primary interests in design and engineering.
+
+- **University Type:** Universität (University)
+- **Description:** Analyzes political systems, governance, and international relations.
+- **Subject:** Social Sciences
+- **City:** Berlin
+- **Admission Criteria:** General university entrance qualification (Abitur) or equivalent, participation in an aptitude test.
+- **Admission Ratio:** Highly competitive.
+- **Attendants:** Approximately 34,000 students[^2^](https://berlin.bard.edu/).
+- **Average Rating:** 4.2/5.
+- **Best Rating Comment:** "Excellent program with a strong focus on interdisciplinary research."
+- **Cooperating Companies:** Various governmental and non-governmental organizations, research institutes[^2^](https://berlin.bard.edu/).
+- **Dual Ausbildung:** Available in collaboration with Sciences Po Paris[^2^](https://berlin.bard.edu/).
+- **International Students Ratio:** Around 20%[^2^](https://berlin.bard.edu/).
+- **Study Abroad Opportunities:** Partner universities include Sciences Po Paris, University of Copenhagen, and University of Vienna[^2^](https://berlin.bard.edu/).
+- **Language of Instruction:** German, with some courses/modules offered in English.
+- **Global Ranking:** Well-regarded in the field of political and social sciences[^2^](https://berlin.bard.edu/).
+- **Faculty Webpage:** [Department of Political and Social Sciences - FU Berlin](https://www.fu-berlin.de/en/einrichtungen/fachbereiche/fb/pol-soz/index.html)
+
+**Study Programs:**
+- **Bachelor of Arts in Political Science:** Focuses on political theory, comparative politics, and international relations.
+- **Bachelor of Arts in Sociology:** Covers social theory, research methods, and social policy.
+- **Master of Arts in Political Science:** Advanced studies in political systems, governance, and policy analysis.
+- **Master of Arts in Sociology:** Specializations in social theory, empirical research, and social change[^2^](https://berlin.bard.edu/).
+
+---
+
+# Humboldt University of Berlin (HU Berlin) / Faculty of Social Sciences
+
+> **Matching Score:** 6
+> **Matching Score - Copilot:** 6
+> **Matching Reason:** Social sciences are interesting, but Barbora is more inclined towards practical, hands-on fields like design and engineering. While it offers social impact and teamwork opportunities, it may not be her primary focus.
+> **Matching Reason - Copilot:** While social sciences offer valuable insights into human behavior and society, they may not align as closely with Barbora's primary interests in design and engineering.
+
+- **University Type:** Universität (University)
+- **Description:** Explores sociology, political science, and interdisciplinary social research.
+- **Subject:** Social Sciences
+- **City:** Berlin
+- **Admission Criteria:** General university entrance qualification (Abitur) or equivalent, participation in an aptitude test.
+- **Admission Ratio:** Highly competitive.
+- **Attendants:** Approximately 33,000 students[^3^](https://www.bard.edu/bardabroad/berlin/academics/lab/).
+- **Average Rating:** 4.3/5.
+- **Best Rating Comment:** "Strong focus on interdisciplinary research and empirical methods."
+- **Cooperating Companies:** Various governmental and non-governmental organizations, research institutes[^3^](https://www.bard.edu/bardabroad/berlin/academics/lab/).
+- **Dual Ausbildung:** Not typically offered.
+- **International Students Ratio:** Around 20%[^3^](https://www.bard.edu/bardabroad/berlin/academics/lab/).
+- **Study Abroad Opportunities:** Partner universities include University of California, Berkeley, and University of Sydney[^3^](https://www.bard.edu/bardabroad/berlin/academics/lab/).
+- **Language of Instruction:** German, with some courses/modules offered in English.
+- **Global Ranking:** Well-regarded in the field of social sciences[^3^](https://www.bard.edu/bardabroad/berlin/academics/lab/).
+- **Faculty Webpage:** [Faculty of Social Sciences - HU Berlin](https://www.sowi.hu-berlin.de/en)
+
+**Study Programs:**
+- **Bachelor of Arts in Social Sciences:** Focuses on sociology, political science, and interdisciplinary social research.
+- **Master of Arts in Social Sciences:** Advanced studies in social theory, empirical research, and social change[^3^](https://www.bard.edu/bardabroad/berlin/academics/lab/).
+
+---
+
+# University of Potsdam / Faculty of Economics and Social Sciences
+
+> **Matching Score:** 6
+> **Matching Score - Copilot:** 6
+> **Matching Reason:** Social sciences are interesting, but Barbora is more inclined towards practical, hands-on fields like design and engineering. While it offers social impact and teamwork opportunities, it may not be her primary focus.
+> **Matching Reason - Copilot:** While social sciences offer valuable insights into human behavior and society, they may not align as closely with Barbora's primary interests in design and engineering.
+
+- **University Type:** Universität (University)
+- **Description:** Explores the study of human society, including sociology, psychology, and political science.
+- **Subject:** Social Sciences
+- **City:** Potsdam
+- **Admission Criteria:** General university entrance qualification (Abitur) or equivalent.
+- **Admission Ratio:** Competitive.
+- **Attendants:** Approximately 20,000 students[^4^](https://berlin.bard.edu/about-us/auf-einen-blick/).
+- **Average Rating:** N/A
+- **Best Rating Comment:** N/A
+- **Cooperating Companies:** Various governmental and non-governmental organizations, research institutes[^4^](https://berlin.bard.edu/about-us/auf-einen-blick/).
+- **Dual Ausbildung:** Not typically offered.
+- **International Students Ratio:** Around 15%[^4^](https://berlin.bard.edu/about-us/auf-einen-blick/).
+- **Study Abroad Opportunities:** Partner universities include University of California, Berkeley, and University of Sydney[^4^](https://berlin.bard.edu/about-us/auf-einen-blick/).
+- **Language of Instruction:** German, with some courses/modules offered in English.
+- **Global Ranking:** Well-regarded in the field of social sciences[^4^](https://berlin.bard.edu/about-us/auf-einen-blick/).
+- **Faculty Webpage:** [Faculty of Economics and Social Sciences - University of Potsdam](https://www.uni-potsdam.de/en/wiso)
+
+**Study Programs:**
+- **Bachelor of Arts in Sociology:** Focuses on social theory, research methods, and social policy.
+- **Bachelor of Arts in Political Science:** Covers political theory, comparative politics, and international relations.
+- **Master of Arts in Sociology:** Advanced studies in social theory, empirical research, and social change.
+- **Master of Arts in Political Science:** Specializations in political systems, governance, and policy analysis[^4^](https://berlin.bard.edu/about-us/auf-einen-blick/).
+
+---
+
+# Berlin University of Applied Sciences (HTW Berlin) / School of Economics
+
+> **Matching Score:** 4
+> **Matching Score - Copilot:** 4
+> **Matching Reason:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
+> **Matching Reason - Copilot:** The focus on economics and business administration does not align closely with Barbora's primary interests in design, engineering, and architecture.
+
+- **University Type:** Fachhochschule (University of Applied Sciences)
+- **Description:** Focuses on the fundamentals of economics, business administration, and finance.
+- **Subject:** Economics
+- **City:** Berlin
+- **Admission Criteria:** General university entrance qualification (Abitur) or equivalent.
+- **Admission Ratio:** Competitive.
+- **Attendants:** Approximately 13,000 students.
+- **Average Rating:** 3.9/5.
+- **Best Rating Comment:** "Supportive community with a strong focus on practical learning."
+- **Cooperating Companies:** Siemens, Deutsche Telekom, and Zalando.
+- **Dual Ausbildung:** Not typically offered.
+- **International Students Ratio:** Around 26%.
+- **Study Abroad Opportunities:** Partner universities include University of the Arts London, Politecnico di Milano, and Aalto University.
+- **Language of Instruction:** German, with some courses/modules offered in English.
+- **Global Ranking:** Well-regarded in the field of applied sciences.
+- **Faculty Webpage:** School of Economics - HTW Berlin
+
+**Study Programs:**
+- **Bachelor of Arts in Business Administration:** Focuses on management principles, marketing, and finance.
+- **Bachelor of Arts in International Business:** Covers global business strategies, cross-cultural management, and international trade.
+- **Master of Business Administration (MBA):** Advanced studies in leadership, strategic management, and business innovation.
+- **Master of Science in Business Intelligence and Process Management:** Specializations in data analytics, business process optimization, and digital transformation.
+
+---
+
+# Berlin University of Applied Sciences (HTW Berlin) / School of Life Sciences
+
+> **Matching Score:** 4
+> **Matching Score - Copilot:** 4
+> **Matching Reason:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
+> **Matching Reason - Copilot:** The focus on life sciences and natural sciences does not align closely with Barbora's primary interests in design, engineering, and architecture.
+
+- **University Type:** Fachhochschule (University of Applied Sciences)
+- **Description:** Covers various fields of natural sciences, including biology, biotechnology, and environmental sciences.
+- **Subject:** Life Sciences
+- **City:** Berlin
+- **Admission Criteria:** General university entrance qualification (Abitur) or equivalent.
+- **Admission Ratio:** Competitive.
+- **Attendants:** Approximately 13,000 students.
+- **Average Rating:** 3.9/5.
+- **Best Rating Comment:** "Supportive community with a strong focus on practical learning."
+- **Cooperating Companies:** Bayer, BASF, and Charité.
+- **Dual Ausbildung:** Available in collaboration with companies like Bayer and BASF.
+- **International Students Ratio:** Around 26%.
+- **Study Abroad Opportunities:** Partner universities include University of California, Berkeley, and University of Sydney.
+- **Language of Instruction:** German, with some courses/modules offered in English.
+- **Global Ranking:** Well-regarded in the field of applied sciences.
+- **Faculty Webpage:** School of Life Sciences - HTW Berlin
+
+**Study Programs:**
+- **Bachelor of Science in Biotechnology:** Focuses on molecular biology, genetic engineering, and bioprocess technology.
+- **Bachelor of Science in Environmental Sciences:** Covers environmental management, sustainability, and ecological systems.
+- **Master of Science in Biotechnology:** Advanced studies in bioprocess engineering, bioinformatics, and molecular diagnostics.
+- **Master of Science in Environmental Sciences:** Specializations in environmental policy, sustainable development, and climate change.
+
+---
+
+# Technical University of Applied Sciences Wildau / Faculty of Business, Computing and Law
+
+> **Matching Score:** 4
+> **Matching Score - Copilot:** 4
+> **Matching Reason:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
+> **Matching Reason - Copilot:** The focus on business, computing, and law does not align closely with Barbora's primary interests in design, engineering, and architecture.
+
+- **University Type:** Fachhochschule (University of Applied Sciences)
+- **Description:** Covers business administration, computer science, and legal studies.
+- **Subject:** Business, Computing, and Law
+- **City:** Wildau (near Berlin)
+- **Admission Criteria:** General university entrance qualification (Abitur) or equivalent.
+- **Admission Ratio:** Competitive.
+- **Attendants:** Approximately 4,000 students.
+- **Average Rating:** N/A
+- **Best Rating Comment:** N/A
+- **Cooperating Companies:** Rolls-Royce, Siemens, and Deutsche Bahn.
+- **Dual Ausbildung:** Available in collaboration with companies like Rolls-Royce and Siemens.
+- **International Students Ratio:** Around 20%.
+- **Study Abroad Opportunities:** Partner universities include University of California, Berkeley, and University of Sydney.
+- **Language of Instruction:** German, with some courses/modules offered in English.
+- **Global Ranking:** Well-regarded in the field of applied sciences.
+- **Faculty Webpage:** Faculty of Business, Computing and Law - TH Wildau
+
+**Study Programs:**
+- **Bachelor of Science in Business Administration:** Focuses on management principles, marketing, and finance.
+- **Bachelor of Science in Computer Science:** Covers algorithms, data structures, and software engineering.
+- **Bachelor of Laws (LL.B.):** Emphasizes civil law, criminal law, and international law.
+- **Master of Science in Business Informatics:** Advanced studies in information systems, data analytics, and digital transformation.
+- **Master of Laws (LL.M.):** Specializations in international law, corporate law, and intellectual property.
+
+---
+
+# University of Applied Sciences Potsdam / Faculty of Social and Educational Sciences
+
+> **Matching Score:** 4
+> **Matching Score - Copilot:** 4
+> **Matching Reason:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
+> **Matching Reason - Copilot:** The focus on social and educational sciences does not align closely with Barbora's primary interests in design, engineering, and architecture.
+
+- **University Type:** Fachhochschule (University of Applied Sciences)
+- **Description:** Explores the study of human society, education, and social work.
+- **Subject:** Social and Educational Sciences
+- **City:** Potsdam
+- **Admission Criteria:** General university entrance qualification (Abitur) or equivalent.
+- **Admission Ratio:** Competitive.
+- **Attendants:** Approximately 3,500 students.
+- **Average Rating:** N/A
+- **Best Rating Comment:** N/A
+- **Cooperating Companies:** Various NGOs, social enterprises, and educational institutions.
+- **Dual Ausbildung:** Not typically offered.
+- **International Students Ratio:** Around 15%.
+- **Study Abroad Opportunities:** Partner universities include University of California, Berkeley, and University of Sydney.
+- **Language of Instruction:** German, with some courses/modules offered in English.
+- **Global Ranking:** Well-regarded in the field of social and educational sciences.
+- **Faculty Webpage:** Faculty of Social and Educational Sciences - FH Potsdam
+
+**Study Programs:**
+- **Bachelor of Arts in Social Work:** Focuses on social justice, community development, and human services.
+- **Bachelor of Arts in Education:** Covers educational theory, teaching methods, and curriculum development.
+- **Master of Arts in Social Work:** Advanced studies in social policy, community engagement, and social innovation.
+- **Master of Arts in Education:** Specializations in educational leadership, inclusive education, and educational technology.
+
+---
+
+# Berlin University of the Arts (UdK) / Faculty of Fine Arts
+
+> **Matching Score:** 4
+> **Matching Score - Copilot:** 4
+> **Matching Reason:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
+> **Matching Reason - Copilot:** The focus on fine arts does not align closely with Barbora's primary interests in design, engineering, and architecture.
+
+- **University Type:** Kunsthochschule (Academy of Fine Arts)
+- **Description:** Provides training for artists and art teachers, offering a foundation course followed by specialization in fields such as painting, sculpture, and new media.
+- **Subject:** Fine Arts
+- **City:** Berlin
+- **Admission Criteria:** General university entrance qualification (Abitur) or equivalent, participation in an aptitude test.
+- **Admission Ratio:** Highly competitive.
+- **Attendants:** Approximately 4,000 students[^1^](https://www.udk-berlin.de/en/university/college-of-fine-arts/).
+- **Average Rating:** 4.5/5.
+- **Best Rating Comment:** "Inspiring environment with excellent facilities and faculty."
+- **Cooperating Companies:** Various local and international art galleries and cultural institutions[^1^](https://www.udk-berlin.de/en/university/college-of-fine-arts/).
+- **Dual Ausbildung:** Not typically offered.
+- **International Students Ratio:** Around 30%[^1^](https://www.udk-berlin.de/en/university/college-of-fine-arts/).
+- **Study Abroad Opportunities:** Partner universities include Royal College of Art, Parsons School of Design, and Tokyo University of the Arts[^1^](https://www.udk-berlin.de/en/university/college-of-fine-arts/).
+- **Language of Instruction:** German, with some courses/modules offered in English.
+- **Global Ranking:** Highly regarded in the field of arts and design[^1^](https://www.udk-berlin.de/en/university/college-of-fine-arts/).
+- **Faculty Webpage:** [Faculty of Fine Arts - UdK](https://www.udk-berlin.de/en/university/college-of-fine-arts/)
+
+**Study Programs:**
+- **Bachelor of Fine Arts:** Focuses on painting, sculpture, and new media.
+- **Master of Fine Arts:** Advanced studies in artistic practice and theory.
+- **Master of Arts in Art in Context:** Specializations in art education, curatorial practice, and community arts[^1^](https://www.udk-berlin.de/en/university/college-of-fine-arts/).
+
+---
+
+# Berlin University of the Arts (UdK) / Faculty of Music
+
+> **Matching Score:** 4
+> **Matching Score - Copilot:** 4
+> **Matching Reason:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
+> **Matching Reason - Copilot:** The focus on music does not align closely with Barbora's primary interests in design, engineering, and architecture.
+
+- **University Type:** Kunsthochschule (Academy of Fine Arts)
+- **Description:** Offers a diverse range of music programs, including orchestral and chamber music, early music, contemporary music, and music education.
+- **Subject:** Music
+- **City:** Berlin
+- **Admission Criteria:** General university entrance qualification (Abitur) or equivalent, participation in an aptitude test.
+- **Admission Ratio:** Highly competitive.
+- **Attendants:** Approximately 4,000 students[^2^](https://www.udk-berlin.de/en/courses/fine-arts/).
+- **Average Rating:** 4.5/5.
+- **Best Rating Comment:** "Excellent program with a strong focus on artistic and educational training."
+- **Cooperating Companies:** Berlin Philharmonic, Deutsche Oper Berlin, and various music festivals[^2^](https://www.udk-berlin.de/en/courses/fine-arts/).
+- **Dual Ausbildung:** Not typically offered.
+- **International Students Ratio:** Around 30%[^2^](https://www.udk-berlin.de/en/courses/fine-arts/).
+- **Study Abroad Opportunities:** Partner universities include Juilliard School, Royal College of Music, and Conservatoire de Paris[^2^](https://www.udk-berlin.de/en/courses/fine-arts/).
+- **Language of Instruction:** German, with some courses/modules offered in English.
+- **Global Ranking:** Highly regarded in the field of music[^2^](https://www.udk-berlin.de/en/courses/fine-arts/).
+- **Faculty Webpage:** [Faculty of Music - UdK](https://www.udk-berlin.de/en/university/college-of-music/)
+
+**Study Programs:**
+- **Bachelor of Music:** Focuses on instrumental and vocal performance, composition, and music education.
+- **Master of Music:** Advanced studies in performance, conducting, and composition.
+- **Master of Arts in Music Education:** Specializations in music pedagogy, community music, and music therapy[^2^](https://www.udk-berlin.de/en/courses/fine-arts/).
+
+---
+
+# Berlin University of the Arts (UdK) / Faculty of Performing Arts
+
+> **Matching Score:** 4
+> **Matching Score - Copilot:** 4
+> **Matching Reason:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
+> **Matching Reason - Copilot:** The focus on performing arts does not align closely with Barbora's primary interests in design, engineering, and architecture.
+
+- **University Type:** Kunsthochschule (Academy of Fine Arts)
+- **Description:** Offers training in various performing arts disciplines, including acting, stage design, and creative writing for the stage.
+- **Subject:** Performing Arts
+- **City:** Berlin
+- **Admission Criteria:** General university entrance qualification (Abitur) or equivalent, participation in an aptitude test.
+- **Admission Ratio:** Highly competitive.
+- **Attendants:** Approximately 4,000 students[^3^](https://bing.com/search?q=Berlin+University+of+the+Arts+%28UdK%29+Faculty+of+Fine+Arts+study+programs).
+- **Average Rating:** 4.5/5.
+- **Best Rating Comment:** "Inspiring environment with excellent facilities and faculty."
+- **Cooperating Companies:** Various local and international theaters and cultural institutions[^3^](https://bing.com/search?q=Berlin+University+of+the+Arts+%28UdK%29+Faculty+of+Fine+Arts+study+programs).
+- **Dual Ausbildung:** Not typically offered.
+- **International Students Ratio:** Around 30%[^3^](https://bing.com/search?q=Berlin+University+of+the+Arts+%28UdK%29+Faculty+of+Fine+Arts+study+programs).
+- **Study Abroad Opportunities:** Partner universities include Juilliard School, Royal Academy of Dramatic Art, and Tisch School of the Arts[^3^](https://bing.com/search?q=Berlin+University+of+the+Arts+%28UdK%29+Faculty+of+Fine+Arts+study+programs).
+- **Language of Instruction:** German, with some courses/modules offered in English.
+- **Global Ranking:** Highly regarded in the field of performing arts[^3^](https://bing.com/search?q=Berlin+University+of+the+Arts+%28UdK%29+Faculty+of+Fine+Arts+study+programs).
+- **Faculty Webpage:** [Faculty of Performing Arts - UdK](https://www.udk-berlin.de/en/university/college-of-performing-arts/)
+
+**Study Programs:**
+- **Bachelor of Arts in Acting:** Focuses on acting techniques, voice training, and movement.
+- **Bachelor of Arts in Stage Design:** Covers set design, lighting, and costume design.
+- **Master of Arts in Creative Writing for the Stage:** Specializations in playwriting, dramaturgy, and performance studies[^3^](https://bing.com/search?q=Berlin+University+of+the+Arts+%28UdK%29+Faculty+of+Fine+Arts+study+programs).
+
+---
+
+# Weißensee Academy of Art Berlin / Department of Fine Arts
+
+> **Matching Score:** 4
+> **Matching Score - Copilot:** 4
+> **Matching Reason:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
+> **Matching Reason - Copilot:** The focus on fine arts does not align closely with Barbora's primary interests in design, engineering, and architecture.
+
+- **University Type:** Kunsthochschule (Academy of Fine Arts)
+- **Description:** Offers interdisciplinary courses in fine arts, including painting, sculpture, and stage and costume design.
+- **Subject:** Fine Arts
+- **City:** Berlin
+- **Admission Criteria:** General university entrance qualification (Abitur) or equivalent, participation in an aptitude test.
+- **Admission Ratio:** Highly competitive.
+- **Attendants:** Approximately 800 students[^4^](https://universitaet.com/en/universities/uni-profiles/berlin-university-of-the-arts).
+- **Average Rating:** N/A
+- **Best Rating Comment:** N/A
+- **Cooperating Companies:** Various local and international art galleries and cultural institutions[^4^](https://universitaet.com/en/universities/uni-profiles/berlin-university-of-the-arts).
+- **Dual Ausbildung:** Not typically offered.
+- **International Students Ratio:** Around 30%[^4^](https://universitaet.com/en/universities/uni-profiles/berlin-university-of-the-arts).
+- **Study Abroad Opportunities:** Partner universities include Rhode Island School of Design, Central Saint Martins, and École nationale supérieure des Arts Décoratifs[^4^](https://universitaet.com/en/universities/uni-profiles/berlin-university-of-the-arts).
+- **Language of Instruction:** German, with some courses/modules offered in English.
+- **Global Ranking:** Well-regarded in the field of arts and design[^4^](https://universitaet.com/en/universities/uni-profiles/berlin-university-of-the-arts).
+- **Faculty Webpage:** [Department of Fine Arts - Weißensee Academy of Art Berlin](https://kh-berlin.de/en/studies/applying-for-studies/ba-design-and-fine-art-programs)
+
+**Study Programs:**
+- **Bachelor of Fine Arts:** Focuses on painting, sculpture, and stage and costume design.
+- **Master of Fine Arts:** Advanced studies in artistic practice and theory.
+- **Master of Arts in Art Therapy:** Specializations in therapeutic practices, community arts, and art education[^4^](https://universitaet.com/en/universities/uni-profiles/berlin-university-of-the-arts).
+
+---
+
+# Hanns Eisler School of Music Berlin / Department of Conducting
+
+> **Matching Score:** 4
+> **Matching Score - Copilot:** 4
+> **Matching Reason:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
+> **Matching Reason - Copilot:** The focus on conducting does not align closely with Barbora's primary interests in design, engineering, and architecture.
+
+- **University Type:** Musikhochschule (Academy of Music)
+- **Description:** Offers comprehensive training in orchestral and choral conducting, focusing on technique, repertoire, and performance practice.
+- **Subject:** Conducting
+- **City:** Berlin
+- **Admission Criteria:** General university entrance qualification (Abitur) or equivalent, participation in an aptitude test.
+- **Admission Ratio:** Highly competitive.
+- **Attendants:** Approximately 500 students[^1^](https://www.hfm-berlin.de/en/application/our-study-programmes/orchestra-conducting/).
+- **Average Rating:** 4.5/5.
+- **Best Rating Comment:** "Excellent program with a strong focus on artistic and educational training."
+- **Cooperating Companies:** Berlin Philharmonic, Deutsche Oper Berlin, and various music festivals[^1^](https://www.hfm-berlin.de/en/application/our-study-programmes/orchestra-conducting/).
+- **Dual Ausbildung:** Not typically offered.
+- **International Students Ratio:** Around 30%[^1^](https://www.hfm-berlin.de/en/application/our-study-programmes/orchestra-conducting/).
+- **Study Abroad Opportunities:** Partner universities include Juilliard School, Royal College of Music, and Conservatoire de Paris[^1^](https://www.hfm-berlin.de/en/application/our-study-programmes/orchestra-conducting/).
+- **Language of Instruction:** German, with some courses/modules offered in English.
+- **Global Ranking:** Highly regarded in the field of music[^1^](https://www.hfm-berlin.de/en/application/our-study-programmes/orchestra-conducting/).
+- **Faculty Webpage:** [Department of Conducting - Hanns Eisler School of Music Berlin](https://www.hfm-berlin.de/en/application/our-study-programmes/orchestra-conducting/)
+
+**Study Programs:**
+- **Bachelor of Music in Orchestral Conducting:** Focuses on conducting technique, repertoire, and performance practice.
+- **Master of Music in Orchestral Conducting:** Advanced studies in conducting, interpretation, and rehearsal techniques.
+- **Bachelor of Music in Choral Conducting:** Covers choral conducting techniques, repertoire, and vocal training.
+- **Master of Music in Choral Conducting:** Specializations in advanced choral conducting, interpretation, and rehearsal techniques[^1^](https://www.hfm-berlin.de/en/application/our-study-programmes/orchestra-conducting/).
+
+---
+
+# Hanns Eisler School of Music Berlin / Department of Instrumental Studies
+
+> **Matching Score:** 4
+> **Matching Score - Copilot:** 4
+> **Matching Reason:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
+> **Matching Reason - Copilot:** The focus on instrumental studies does not align closely with Barbora's primary interests in design, engineering, and architecture.
+
+- **University Type:** Musikhochschule (Academy of Music)
+- **Description:** Offers training in various instrumental disciplines, including strings, woodwinds, brass, and percussion.
+- **Subject:** Instrumental Studies
+- **City:** Berlin
+- **Admission Criteria:** General university entrance qualification (Abitur) or equivalent, participation in an aptitude test.
+- **Admission Ratio:** Highly competitive.
+- **Attendants:** Approximately 500 students[^2^](https://www.hfm-berlin.de/en/studies/study-programmes/).
+- **Average Rating:** 4.5/5.
+- **Best Rating Comment:** "Inspiring environment with excellent facilities and faculty."
+- **Cooperating Companies:** Berlin Philharmonic, Deutsche Oper Berlin, and various music festivals[^2^](https://www.hfm-berlin.de/en/studies/study-programmes/).
+- **Dual Ausbildung:** Not typically offered.
+- **International Students Ratio:** Around 30%[^2^](https://www.hfm-berlin.de/en/studies/study-programmes/).
+- **Study Abroad Opportunities:** Partner universities include Juilliard School, Royal College of Music, and Conservatoire de Paris[^2^](https://www.hfm-berlin.de/en/studies/study-programmes/).
+- **Language of Instruction:** German, with some courses/modules offered in English.
+- **Global Ranking:** Highly regarded in the field of music[^2^](https://www.hfm-berlin.de/en/studies/study-programmes/).
+- **Faculty Webpage:** [Department of Instrumental Studies - Hanns Eisler School of Music Berlin](https://www.hfm-berlin.de/en/studies/study-programmes/)
+
+**Study Programs:**
+- **Bachelor of Music in Violin:** Focuses on violin performance, technique, and repertoire.
+- **Bachelor of Music in Cello:** Covers cello performance, technique, and repertoire.
+- **Bachelor of Music in Flute:** Emphasizes flute performance, technique, and repertoire.
+- **Master of Music in Instrumental Performance:** Advanced studies in instrumental performance, technique, and interpretation[^2^](https://www.hfm-berlin.de/en/studies/study-programmes/).
+
+---
+
+# Hanns Eisler School of Music Berlin / Department of Music Theory and Composition
+
+> **Matching Score:** 4
+> **Matching Score - Copilot:** 4
+> **Matching Reason:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
+> **Matching Reason - Copilot:** The focus on music theory and composition does not align closely with Barbora's primary interests in design, engineering, and architecture.
+
+- **University Type:** Musikhochschule (Academy of Music)
+- **Description:** Offers comprehensive training in music theory, composition, and electroacoustic music.
+- **Subject:** Music Theory and Composition
+- **City:** Berlin
+- **Admission Criteria:** General university entrance qualification (Abitur) or equivalent, participation in an aptitude test.
+- **Admission Ratio:** Highly competitive.
+- **Attendants:** Approximately 500 students[^3^](https://www.hfm-berlin.de/en/studies/study-programmes/composition/).
+- **Average Rating:** 4.5/5.
+- **Best Rating Comment:** "Excellent program with a strong focus on artistic and educational training."
+- **Cooperating Companies:** Berlin Philharmonic, Deutsche Oper Berlin, and various music festivals[^3^](https://www.hfm-berlin.de/en/studies/study-programmes/composition/).
+- **Dual Ausbildung:** Not typically offered.
+- **International Students Ratio:** Around 30%[^3^](https://www.hfm-berlin.de/en/studies/study-programmes/composition/).
+- **Study Abroad Opportunities:** Partner universities include Juilliard School, Royal College of Music, and Conservatoire de Paris[^3^](https://www.hfm-berlin.de/en/studies/study-programmes/composition/).
+- **Language of Instruction:** German, with some courses/modules offered in English.
+- **Global Ranking:** Highly regarded in the field of music[^3^](https://www.hfm-berlin.de/en/studies/study-programmes/composition/).
+- **Faculty Webpage:** [Department of Music Theory and Composition - Hanns Eisler School of Music Berlin](https://www.hfm-berlin.de/en/studies/study-programmes/composition/)
+
+**Study Programs:**
+- **Bachelor of Music in Composition:** Focuses on compositional techniques, music theory, and electroacoustic music.
+- **Master of Music in Composition:** Advanced studies in composition, orchestration, and electroacoustic music.
+- **Bachelor of Music in Music Theory:** Covers music theory, analysis, and pedagogy.
+- **Master of Music in Music Theory:** Specializations in advanced music theory, analysis, and pedagogy[^3^](https://www.hfm-berlin.de/en/studies/study-programmes/composition/).
+
+---
+
+# Hanns Eisler School of Music Berlin / Department of Vocal Studies
+
+> **Matching Score:** 4
+> **Matching Score - Copilot:** 4
+> **Matching Reason:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
+> **Matching Reason - Copilot:** The focus on vocal studies does not align closely with Barbora's primary interests in design, engineering, and architecture.
+
+- **University Type:** Musikhochschule (Academy of Music)
+- **Description:** Offers training in vocal performance, opera, and music theatre.
+- **Subject:** Vocal Studies
+- **City:** Berlin
+- **Admission Criteria:** General university entrance qualification (Abitur) or equivalent, participation in an aptitude test.
+- **Admission Ratio:** Highly competitive.
+- **Attendants:** Approximately 500 students[^4^](https://www.hfm-berlin.de/en/studies/study-programmes/voice/).
+- **Average Rating:** 4.5/5.
+- **Best Rating Comment:** "Excellent program with a strong focus on artistic and educational training."
+- **Cooperating Companies:** Berlin Philharmonic, Deutsche Oper Berlin, and various music festivals[^4^](https://www.hfm-berlin.de/en/studies/study-programmes/voice/).
+- **Dual Ausbildung:** Not typically offered.
+- **International Students Ratio:** Around 30%[^4^](https://www.hfm-berlin.de/en/studies/study-programmes/voice/).
+- **Study Abroad Opportunities:** Partner universities include Juilliard School, Royal College of Music, and Conservatoire de Paris[^4^](https://www.hfm-berlin.de/en/studies/study-programmes/voice/).
+- **Language of Instruction:** German, with some courses/modules offered in English.
+- **Global Ranking:** Highly regarded in the field of music[^4^](https://www.hfm-berlin.de/en/studies/study-programmes/voice/).
+- **Faculty Webpage:** [Department of Vocal Studies - Hanns Eisler School of Music Berlin](https://www.hfm-berlin.de/en/studies/study-programmes/voice/)
+
+**Study Programs:**
+- **Bachelor of Music in Vocal Performance:** Focuses on vocal technique, repertoire, and performance practice.
+- **Master of Music in Vocal Performance:** Advanced studies in vocal technique, interpretation, and performance practice.
+- **Bachelor of Music in Opera:** Covers opera performance, stagecraft, and vocal technique.
+- **Master of Music in Opera:** Specializations in advanced opera performance, stagecraft, and vocal technique[^4^](https://www.hfm-berlin.de/en/studies/study-programmes/voice/).
+
+---
+
+# Bard College Berlin / Department of Humanities
+
+> **Matching Score:** 4
+> **Matching Score - Copilot:** 4
+> **Matching Reason:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
+> **Matching Reason - Copilot:** The focus on humanities does not align closely with Barbora's primary interests in design, engineering, and architecture.
+
+- **University Type:** Privatuniversität (Private University)
+- **Description:** Explores the study of human culture, including literature, philosophy, and history.
+- **Subject:** Humanities
+- **City:** Berlin
+- **Admission Criteria:** General university entrance qualification (Abitur) or equivalent.
+- **Admission Ratio:** Competitive.
+- **Attendants:** Approximately 300 students[^1^](https://berlin.bard.edu/academics/humanities-the-arts-and-social-thought/).
+- **Average Rating:** N/A
+- **Best Rating Comment:** N/A
+- **Cooperating Companies:** Various NGOs, cultural institutions, and research organizations[^1^](https://berlin.bard.edu/academics/humanities-the-arts-and-social-thought/).
+- **Dual Ausbildung:** Not typically offered.
+- **International Students Ratio:** Around 60%[^1^](https://berlin.bard.edu/academics/humanities-the-arts-and-social-thought/).
+- **Study Abroad Opportunities:** Partner universities include Bard College in New York, Lingnan University in Hong Kong, and Universidad de los Andes in Colombia[^1^](https://berlin.bard.edu/academics/humanities-the-arts-and-social-thought/).
+- **Language of Instruction:** English.
+- **Global Ranking:** Well-regarded in the field of humanities[^1^](https://berlin.bard.edu/academics/humanities-the-arts-and-social-thought/).
+- **Faculty Webpage:** [Department of Humanities - Bard College Berlin](https://berlin.bard.edu/academics/humanities-the-arts-and-social-thought/)
+
+**Study Programs:**
+- **Bachelor of Arts in Humanities, the Arts, and Social Thought:** Focuses on interdisciplinary studies in humanities, arts, and social sciences.
+- **Bachelor of Arts in Economics, Politics, and Social Thought:** Covers economics, political science, and social theory[^1^](https://berlin.bard.edu/academics/humanities-the-arts-and-social-thought/).
+
+---
+
+# Hertie School of Governance / Department of International Affairs
+
+> **Matching Score:** 4
+> **Matching Score - Copilot:** 4
+> **Matching Reason:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
+> **Matching Reason - Copilot:** The focus on international affairs does not align closely with Barbora's primary interests in design, engineering, and architecture.
+
+- **University Type:** Privatuniversität (Private University)
+- **Description:** Focuses on global governance, international relations, and diplomacy.
+- **Subject:** International Affairs
+- **City:** Berlin
+- **Admission Criteria:** General university entrance qualification (Abitur) or equivalent.
+- **Admission Ratio:** Highly competitive.
+- **Attendants:** Approximately 700 students[^2^](https://berlin.bard.edu/academics/de-humanities-the-arts-and-social-thought/).
+- **Average Rating:** N/A
+- **Best Rating Comment:** N/A
+- **Cooperating Companies:** Various international organizations, NGOs, and governmental agencies[^2^](https://berlin.bard.edu/academics/de-humanities-the-arts-and-social-thought/).
+- **Dual Ausbildung:** Available in collaboration with IE University in Madrid[^2^](https://berlin.bard.edu/academics/de-humanities-the-arts-and-social-thought/).
+- **International Students Ratio:** Around 30%[^2^](https://berlin.bard.edu/academics/de-humanities-the-arts-and-social-thought/).
+- **Study Abroad Opportunities:** Partner universities include Sciences Po Paris, University of Toronto, and National University of Singapore[^2^](https://berlin.bard.edu/academics/de-humanities-the-arts-and-social-thought/).
+- **Language of Instruction:** English.
+- **Global Ranking:** Well-regarded in the field of international affairs[^2^](https://berlin.bard.edu/academics/de-humanities-the-arts-and-social-thought/).
+- **Faculty Webpage:** Department of International Affairs - Hertie School
+
+**Study Programs:**
+- **Master of International Affairs (MIA):** Focuses on international security, human rights, and global governance.
+- **Dual Degree with IE University:** Combines the Master of International Affairs with the Master in International Relations from IE University in Madrid[^2^](https://berlin.bard.edu/academics/de-humanities-the-arts-and-social-thought/).
+
+---
+
+# Hertie School of Governance / Department of Public Policy
+
+> **Matching Score:** 4
+> **Matching Score - Copilot:** 4
+> **Matching Reason:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
+> **Matching Reason - Copilot:** The focus on public policy does not align closely with Barbora's primary interests in design, engineering, and architecture.
+
+- **University Type:** Privatuniversität (Private University)
+- **Description:** Focuses on public policy, governance, and public administration.
+- **Subject:** Public Policy
+- **City:** Berlin
+- **Admission Criteria:** General university entrance qualification (Abitur) or equivalent.
+- **Admission Ratio:** Highly competitive.
+- **Attendants:** Approximately 700 students[^3^](https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/bard-college-berlin-a-liberal-arts-university-humanities-the-arts-and-social-thought-g1273286/?hec-id=g1273286).
+- **Average Rating:** N/A
+- **Best Rating Comment:** N/A
+- **Cooperating Companies:** Various governmental and non-governmental organizations, research institutes[^3^](https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/bard-college-berlin-a-liberal-arts-university-humanities-the-arts-and-social-thought-g1273286/?hec-id=g1273286).
+- **Dual Ausbildung:** Available in collaboration with Sciences Po Paris[^3^](https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/bard-college-berlin-a-liberal-arts-university-humanities-the-arts-and-social-thought-g1273286/?hec-id=g1273286).
+- **International Students Ratio:** Around 30%[^3^](https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/bard-college-berlin-a-liberal-arts-university-humanities-the-arts-and-social-thought-g1273286/?hec-id=g1273286).
+- **Study Abroad Opportunities:** Partner universities include Sciences Po Paris, University of Toronto, and National University of Singapore[^3^](https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/bard-college-berlin-a-liberal-arts-university-humanities-the-arts-and-social-thought-g1273286/?hec-id=g1273286).
+- **Language of Instruction:** English.
+- **Global Ranking:** Well-regarded in the field of public policy[^3^](https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/bard-college-berlin-a-liberal-arts-university-humanities-the-arts-and-social-thought-g1273286/?hec-id=g1273286).
+- **Faculty Webpage:** Department of Public Policy - Hertie School
+
+**Study Programs:**
+- **Master of Public Policy (MPP):** Focuses on policy analysis, governance, and leadership.
+- **Dual Degree with Sciences Po Paris:** Combines the Master of Public Policy with the Master of Public Policy from Sciences Po Paris[^3^](https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/bard-college-berlin-a-liberal-arts-university-humanities-the-arts-and-social-thought-g1273286/?hec-id=g1273286).
+
+---
+
+# Brandenburg University of Technology Cottbus-Senftenberg / Faculty of Business, Law and Social Sciences
+
+> **Matching Score:** 4
+> **Matching Score - Copilot:** 4
+> **Matching Reason:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
+> **Matching Reason - Copilot:** The focus on business, law, and social sciences does not align closely with Barbora's primary interests in design, engineering, and architecture.
+
+- **University Type:** Technische Universität (Technical University)
+- **Description:** Covers business administration, legal studies, and social sciences.
+- **Subject:** Business, Law, and Social Sciences
+- **City:** Cottbus and Senftenberg
+- **Admission Criteria:** General university entrance qualification (Abitur) or equivalent.
+- **Admission Ratio:** Competitive.
+- **Attendants:** Approximately 7,000 students[^4^](https://www.hertie-school.org/en/mia/admissions).
+- **Average Rating:** N/A
+- **Best Rating Comment:** N/A
+- **Cooperating Companies:** Various local and international companies, legal firms, and social organizations[^4^](https://www.hertie-school.org/en/mia/admissions).
+- **Dual Ausbildung:** Available in collaboration with regional economic players[^4^](https://www.hertie-school.org/en/mia/admissions).
+- **International Students Ratio:** Around 20%[^4^](https://www.hertie-school.org/en/mia/admissions).
+- **Study Abroad Opportunities:** Partner universities include University of California, Berkeley, and University of Sydney[^4^](https://www.hertie-school.org/en/mia/admissions).
+- **Language of Instruction:** German, with some courses/modules offered in English.
+- **Global Ranking:** Well-regarded in the field of business, law, and social sciences[^4^](https://www.hertie-school.org/en/mia/admissions).
+- **Faculty Webpage:** [Faculty of Business, Law and Social Sciences - BTU Cottbus-Senftenberg](https://www.b-tu.de/en/university/faculties)
+
+**Study Programs:**
+- **Bachelor of Business Administration (BBA):** Focuses on management principles, marketing, and finance.
+- **Bachelor of Laws (LL.B.):** Emphasizes civil law, criminal law, and international law.
+- **Master of Business Administration (MBA):** Advanced studies in leadership, strategic management, and business innovation.
+- **Master of Laws (LL.M.):** Specializations in international law, corporate law, and intellectual property[^4^](https://www.hertie-school.org/en/mia/admissions).
+
+---
+
+# Brandenburg University of Technology Cottbus-Senftenberg / Faculty of Health Sciences
+
+> **Matching Score:** 4
+> **Matching Score - Copilot:** 4
+> **Matching Reason:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
+> **Matching Reason - Copilot:** The focus on health sciences does not align closely with Barbora's primary interests in design, engineering, and architecture.
+
+- **University Type:** Technische Universität (Technical University)
+- **Description:** Covers various fields of health sciences, including public health, exercise science, and nutrition science.
+- **Subject:** Health Sciences
+- **City:** Cottbus and Senftenberg
+- **Admission Criteria:** General university entrance qualification (Abitur) or equivalent.
+- **Admission Ratio:** Competitive.
+- **Attendants:** Approximately 7,000 students[^1^](https://www.fgw-brandenburg.de/en/).
+- **Average Rating:** N/A
+- **Best Rating Comment:** N/A
+- **Cooperating Companies:** Various health organizations, hospitals, and research institutions[^1^](https://www.fgw-brandenburg.de/en/).
+- **Dual Ausbildung:** Available in collaboration with regional health organizations[^1^](https://www.fgw-brandenburg.de/en/).
+- **International Students Ratio:** Around 20%[^1^](https://www.fgw-brandenburg.de/en/).
+- **Study Abroad Opportunities:** Partner universities include University of California, Berkeley, and University of Sydney[^1^](https://www.fgw-brandenburg.de/en/).
+- **Language of Instruction:** German, with some courses/modules offered in English.
+- **Global Ranking:** Well-regarded in the field of health sciences[^1^](https://www.fgw-brandenburg.de/en/).
+- **Faculty Webpage:** [Faculty of Health Sciences - BTU Cottbus-Senftenberg](https://www.fgw-brandenburg.de/en/)
+
+**Study Programs:**
+- **Bachelor of Science in Public Health:** Focuses on health promotion, disease prevention, and health policy.
+- **Bachelor of Science in Exercise Science:** Covers exercise physiology, biomechanics, and sports nutrition.
+- **Master of Science in Public Health, Exercise and Nutrition (PEN):** Advanced studies in public health, exercise science, and nutrition[^1^](https://www.fgw-brandenburg.de/en/).
+
+---
+
+# Brandenburg University of Technology Cottbus-Senftenberg / Faculty of Natural Sciences
+
+> **Matching Score:** 4
+> **Matching Score - Copilot:** 4
+> **Matching Reason:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
+> **Matching Reason - Copilot:** The focus on natural sciences does not align closely with Barbora's primary interests in design, engineering, and architecture.
+
+- **University Type:** Technische Universität (Technical University)
+- **Description:** Covers various fields of natural sciences, including physics, chemistry, biology, and mathematics.
+- **Subject:** Natural Sciences
+- **City:** Cottbus and Senftenberg
+- **Admission Criteria:** General university entrance qualification (Abitur) or equivalent.
+- **Admission Ratio:** Competitive.
+- **Attendants:** Approximately 7,000 students[^2^](https://www.fgw-brandenburg.de/en/studies-teaching/study-offerings/courses/master-public-health/).
+- **Average Rating:** N/A
+- **Best Rating Comment:** N/A
+- **Cooperating Companies:** Various research institutions and scientific organizations[^2^](https://www.fgw-brandenburg.de/en/studies-teaching/study-offerings/courses/master-public-health/).
+- **Dual Ausbildung:** Available in collaboration with regional scientific organizations[^2^](https://www.fgw-brandenburg.de/en/studies-teaching/study-offerings/courses/master-public-health/).
+- **International Students Ratio:** Around 20%[^2^](https://www.fgw-brandenburg.de/en/studies-teaching/study-offerings/courses/master-public-health/).
+- **Study Abroad Opportunities:** Partner universities include University of California, Berkeley, and University of Sydney[^2^](https://www.fgw-brandenburg.de/en/studies-teaching/study-offerings/courses/master-public-health/).
+- **Language of Instruction:** German, with some courses/modules offered in English.
+- **Global Ranking:** Well-regarded in the field of natural sciences[^2^](https://www.fgw-brandenburg.de/en/studies-teaching/study-offerings/courses/master-public-health/).
+- **Faculty Webpage:** [Faculty of Natural Sciences - BTU Cottbus-Senftenberg](https://www.b-tu.de/en/)
+
+**Study Programs:**
+- **Bachelor of Science in Biotechnology:** Focuses on molecular biology, genetic engineering, and bioprocess technology.
+- **Bachelor of Science in Environmental Sciences:** Covers environmental management, sustainability, and ecological systems.
+- **Master of Science in Biotechnology:** Advanced studies in bioprocess engineering, bioinformatics, and molecular diagnostics.
+- **Master of Science in Environmental Sciences:** Specializations in environmental policy, sustainable development, and climate change[^2^](https://www.fgw-brandenburg.de/en/studies-teaching/study-offerings/courses/master-public-health/).
+
+---
+
+# Technische Universität Berlin (TU Berlin) / Faculty of Humanities
+
+> **Matching Score:** 4
+> **Matching Score - Copilot:** 4
+> **Matching Reason:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
+> **Matching Reason - Copilot:** The focus on humanities does not align closely with Barbora's primary interests in design, engineering, and architecture.
+
+- **University Type:** Technische Universität (Technical University)
+- **Description:** Explores the study of human culture, including literature, philosophy, and history.
+- **Subject:** Humanities
+- **City:** Berlin
+- **Admission Criteria:** General university entrance qualification (Abitur) or equivalent.
+- **Admission Ratio:** Competitive.
+- **Attendants:** Approximately 34,000 students[^3^](https://gerit.org/en/institutiondetail/10344).
+- **Average Rating:** 4.2/5.
+- **Best Rating Comment:** "Excellent program with a strong focus on interdisciplinary research."
+- **Cooperating Companies:** Various cultural institutions and research organizations[^3^](https://gerit.org/en/institutiondetail/10344).
+- **Dual Ausbildung:** Not typically offered.
+- **International Students Ratio:** Around 20%[^3^](https://gerit.org/en/institutiondetail/10344).
+- **Study Abroad Opportunities:** Partner universities include University of California, Berkeley, and University of Sydney[^3^](https://gerit.org/en/institutiondetail/10344).
+- **Language of Instruction:** German, with some courses/modules offered in English.
+- **Global Ranking:** Well-regarded in the field of humanities[^3^](https://gerit.org/en/institutiondetail/10344).
+- **Faculty Webpage:** [Faculty of Humanities - TU Berlin](https://www.tu.berlin/en/humanities/study-teaching/study-programmes)
+
+**Study Programs:**
+- **Bachelor of Arts in Culture and Technology:** Focuses on the intersection of culture, technology, and society.
+- **Master of Arts in History of Science and Technology:** Advanced studies in the historical development of science and technology.
+- **Master of Arts in Philosophy of Science:** Specializations in the philosophical analysis of scientific concepts and methods[^3^](https://gerit.org/en/institutiondetail/10344).
+
+---
+
+# Technische Universität Berlin (TU Berlin) / Faculty of Mathematics and Natural Sciences
+
+> **Matching Score:** 4
+> **Matching Score - Copilot:** 4
+> **Matching Reason:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
+> **Matching Reason - Copilot:** The focus on mathematics and natural sciences does not align closely with Barbora's primary interests in design, engineering, and architecture.
+
+- **University Type:** Technische Universität (Technical University)
+- **Description:** Covers various fields of natural sciences, including physics, chemistry, biology, and mathematics.
+- **Subject:** Mathematics and Natural Sciences
+- **City:** Berlin
+- **Admission Criteria:** General university entrance qualification (Abitur) or equivalent.
+- **Admission Ratio:** Competitive.
+- **Attendants:** Approximately 34,000 students[^4^](https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/8339/).
+- **Average Rating:** 4.2/5.
+- **Best Rating Comment:** "Strong focus on interdisciplinary research and empirical methods."
+- **Cooperating Companies:** Various research institutions and scientific organizations[^4^](https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/8339/).
+- **Dual Ausbildung:** Not typically offered.
+- **International Students Ratio:** Around 20%[^4^](https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/8339/).
+- **Study Abroad Opportunities:** Partner universities include University of California, Berkeley, and University of Sydney[^4^](https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/8339/).
+- **Language of Instruction:** German, with some courses/modules offered in English.
+- **Global Ranking:** Well-regarded in the field of mathematics and natural sciences[^4^](https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/8339/).
+- **Faculty Webpage:** [Faculty of Mathematics and Natural Sciences - TU Berlin](https://www.tu.berlin/en/naturwissenschaften/)
+
+**Study Programs:**
+- **Bachelor of Science in Mathematics:** Focuses on pure and applied mathematics, including algebra, analysis, and geometry.
+- **Bachelor of Science in Physics:** Covers classical and modern physics, including mechanics, electromagnetism, and quantum physics.
+- **Bachelor of Science in Chemistry:** Emphasizes organic, inorganic, and physical chemistry.
+- **Master of Science in Mathematics:** Advanced studies in mathematical theory and applications.
+- **Master of Science in Physics:** Specializations in theoretical and experimental physics.
+- **Master of Science in Chemistry:** Focuses on advanced chemical research and applications[^4^](https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/8339/).
+
+---
+
+# Technische Universität Berlin (TU Berlin) / Faculty of Planning Building Environment
+
+> **Matching Score:** 4
+> **Matching Score - Copilot:** 9
+> **Matching Reason:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
+> **Matching Reason - Copilot:** The faculty offers strong programs in architecture and urban planning, which align well with Barbora's interests in design and practical learning.
+
+- **University Type:** Technische Universität (Technical University)
+- **Description:** Provides education in architecture, civil engineering, geoscience, landscape architecture, environmental planning, sociology, and urban and regional planning.
+- **Subject:** Planning Building Environment
+- **City:** Berlin
+- **Admission Criteria:** General university entrance qualification (Abitur) or equivalent, participation in an aptitude test.
+- **Admission Ratio:** Highly competitive.
+- **Attendants:** Approximately 5,000 students[^1^](https://www.tu.berlin/en/planen-bauen-umwelt/).
+- **Average Rating:** 4.2/5.
+- **Best Rating Comment:** "Excellent program with a strong focus on sustainability and innovation."
+- **Cooperating Companies:** Siemens, Deutsche Bahn, and various urban planning firms[^1^](https://www.tu.berlin/en/planen-bauen-umwelt/).
+- **Dual Ausbildung:** Available in collaboration with international universities for dual degree programs[^1^](https://www.tu.berlin/en/planen-bauen-umwelt/).
+- **International Students Ratio:** Around 20%.
+- **Study Abroad Opportunities:** Partner universities include Pontificia Universidad Católica de Chile, Tsinghua University Beijing, and Universidad de Buenos Aires[^1^](https://www.tu.berlin/en/planen-bauen-umwelt/).
+- **Language of Instruction:** German, with some courses/modules offered in English.
+- **Global Ranking:** Well-regarded in the field of planning and building environment[^1^](https://www.tu.berlin/en/planen-bauen-umwelt/).
+- **Faculty Webpage:** [Faculty of Planning Building Environment - TU Berlin](https://www.tu.berlin/en/planen-bauen-umwelt/)
+
+**Study Programs:**
+- **Bachelor of Science in Architecture:** Focuses on architectural design, urban planning, and sustainable development.
+- **Bachelor of Science in Civil Engineering:** Covers structural engineering, construction management, and sustainable building practices.
+- **Bachelor of Science in Geotechnology:** Emphasizes geoscience, geodesy, and environmental engineering.
+- **Bachelor of Science in Landscape Architecture:** Focuses on landscape design, environmental planning, and sustainability.
+- **Bachelor of Science in Urban and Regional Planning:** Covers urban design, regional development, and policy analysis.
+- **Master of Science in Architecture:** Advanced studies in architectural design, theory, and practice.
+- **Master of Science in Civil Engineering:** Specializations in structural engineering, geotechnical engineering, and construction management.
+- **Master of Science in Environmental Planning:** Focuses on environmental policy, sustainable development, and climate change adaptation[^1^](https://www.tu.berlin/en/planen-bauen-umwelt/).
+
+---
+
+# Technische Universität Berlin (TU Berlin) / Faculty of Process Sciences
+
+> **Matching Score:** 4
+> **Matching Score - Copilot:** 8
+> **Matching Reason:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
+> **Matching Reason - Copilot:** The faculty offers strong programs in process engineering and environmental systems, which align well with Barbora's interests in practical and interdisciplinary learning.
+
+- **University Type:** Technische Universität (Technical University)
+- **Description:** Covers various fields of process engineering, environmental systems, and energy technology.
+- **Subject:** Process Sciences
+- **City:** Berlin
+- **Admission Criteria:** General university entrance qualification (Abitur) or equivalent, participation in an aptitude test.
+- **Admission Ratio:** Highly competitive.
+- **Attendants:** Approximately 5,000 students[^2^](https://www.tu.berlin/en/fakultaet3/).
+- **Average Rating:** 4.2/5.
+- **Best Rating Comment:** "Strong focus on interdisciplinary research and practical applications."
+- **Cooperating Companies:** Siemens, BASF, and various environmental engineering firms[^2^](https://www.tu.berlin/en/fakultaet3/).
+- **Dual Ausbildung:** Available in collaboration with regional economic players[^2^](https://www.tu.berlin/en/fakultaet3/).
+- **International Students Ratio:** Around 20%.
+- **Study Abroad Opportunities:** Partner universities include University of California, Berkeley, and University of Sydney[^2^](https://www.tu.berlin/en/fakultaet3/).
+- **Language of Instruction:** German, with some courses/modules offered in English.
+- **Global Ranking:** Well-regarded in the field of process sciences[^2^](https://www.tu.berlin/en/fakultaet3/).
+- **Faculty Webpage:** [Faculty of Process Sciences - TU Berlin](https://www.tu.berlin/en/fakultaet3/)
+
+**Study Programs:**
+- **Bachelor of Science in Process Engineering:** Focuses on chemical engineering, process design, and environmental technology.
+- **Bachelor of Science in Energy Engineering:** Covers energy systems, renewable energy, and energy management.
+- **Master of Science in Process Engineering:** Advanced studies in process optimization, sustainable engineering, and environmental systems.
+- **Master of Science in Energy Engineering:** Specializations in renewable energy, energy efficiency, and smart grid technologies[^2^](https://www.tu.berlin/en/fakultaet3/).
+
+---
+
+# Freie Universität Berlin (FU Berlin) / Department of Biology, Chemistry, and Pharmacy
+
+> **Matching Score:** 4
+> **Matching Score - Copilot:** 7
+> **Matching Reason:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
+> **Matching Reason - Copilot:** The department offers strong programs in biological sciences, chemistry, and pharmacy, which may provide valuable interdisciplinary knowledge but do not align closely with Barbora's primary interests.
+
+- **University Type:** Universität (University)
+- **Description:** Specializes in biological sciences, chemistry, and pharmaceutical studies.
+- **Subject:** Biology, Chemistry, and Pharmacy
+- **City:** Berlin
+- **Admission Criteria:** General university entrance qualification (Abitur) or equivalent, participation in an aptitude test.
+- **Admission Ratio:** Highly competitive.
+- **Attendants:** Approximately 34,000 students[^3^](https://www.bcp.fu-berlin.de/en/index.html).
+- **Average Rating:** 4.2/5.
+- **Best Rating Comment:** "Excellent program with a strong focus on interdisciplinary research."
+- **Cooperating Companies:** Bayer, BASF, and Charité[^3^](https://www.bcp.fu-berlin.de/en/index.html).
+- **Dual Ausbildung:** Available in collaboration with companies like Bayer and BASF[^3^](https://www.bcp.fu-berlin.de/en/index.html).
+- **International Students Ratio:** Around 20%.
+- **Study Abroad Opportunities:** Partner universities include University of California, Berkeley, and University of Sydney[^3^](https://www.bcp.fu-berlin.de/en/index.html).
+- **Language of Instruction:** German, with some courses/modules offered in English.
+- **Global Ranking:** Well-regarded in the field of biology, chemistry, and pharmacy[^3^](https://www.bcp.fu-berlin.de/en/index.html).
+- **Faculty Webpage:** [Department of Biology, Chemistry, and Pharmacy - FU Berlin](https://www.bcp.fu-berlin.de/en/index.html)
+
+**Study Programs:**
+- **Bachelor of Science in Biology:** Focuses on molecular biology, genetics, and ecology.
+- **Bachelor of Science in Chemistry:** Covers organic, inorganic, and physical chemistry.
+- **Bachelor of Science in Pharmacy:** Emphasizes pharmaceutical sciences, pharmacology, and clinical pharmacy.
+- **Master of Science in Biology:** Advanced studies in molecular biology, biotechnology, and environmental biology.
+- **Master of Science in Chemistry:** Specializations in chemical research, materials science, and analytical chemistry.
+- **Master of Science in Pharmacy:** Focuses on advanced pharmaceutical sciences, drug development, and clinical research[^3^](https://www.bcp.fu-berlin.de/en/index.html).
+
+---
+
+# Freie Universität Berlin (FU Berlin) / Department of Earth Sciences
+
+> **Matching Score:** 4
+> **Matching Score - Copilot:** 7
+> **Matching Reason:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
+> **Matching Reason - Copilot:** The department offers strong programs in geosciences and environmental systems, which may provide valuable interdisciplinary knowledge but do not align closely with Barbora's primary interests.
+
+- **University Type:** Universität (University)
+- **Description:** Researches geosciences, climate change, and environmental systems.
+- **Subject:** Earth Sciences
+- **City:** Berlin
+- **Admission Criteria:** General university entrance qualification (Abitur) or equivalent, participation in an aptitude test.
+- **Admission Ratio:** Highly competitive.
+- **Attendants:** Approximately 34,000 students[^4^](https://www.fu-berlin.de/en/einrichtungen/fachbereiche/fb/geowiss/index.html).
+- **Average Rating:** 4.2/5.
+- **Best Rating Comment:** "Strong focus on interdisciplinary research and practical applications."
+- **Cooperating Companies:** Various research institutions and environmental organizations[^4^](https://www.fu-berlin.de/en/einrichtungen/fachbereiche/fb/geowiss/index.html).
+- **Dual Ausbildung:** Available in collaboration with regional scientific organizations[^4^](https://www.fu-berlin.de/en/einrichtungen/fachbereiche/fb/geowiss/index.html).
+- **International Students Ratio:** Around 20%.
+- **Study Abroad Opportunities:** Partner universities include University of California, Berkeley, and University of Sydney[^4^](https://www.fu-berlin.de/en/einrichtungen/fachbereiche/fb/geowiss/index.html).
+- **Language of Instruction:** German, with some courses/modules offered in English.
+- **Global Ranking:** Well-regarded in the field of earth sciences[^4^](https://www.fu-berlin.de/en/einrichtungen/fachbereiche/fb/geowiss/index.html).
+- **Faculty Webpage:** [Department of Earth Sciences - FU Berlin](http://www.geo.fu-berlin.de/en)
+
+**Study Programs:**
+- **Bachelor of Science in Geosciences:** Focuses on geology, geophysics, and environmental science.
+- **Bachelor of Science in Meteorology:** Covers atmospheric science, climate change, and weather forecasting.
+- **Master of Science in Geosciences:** Advanced studies in geological processes, geophysics, and environmental systems.
+- **Master of Science in Meteorology:** Specializations in climate modeling, atmospheric dynamics, and environmental meteorology[^4^](https://www.fu-berlin.de/en/einrichtungen/fachbereiche/fb/geowiss/index.html).
+
+---
+
+# Freie Universität Berlin (FU Berlin) / Department of Education and Psychology
+
+> **Matching Score:** 4
+> **Matching Score - Copilot:** 4
+> **Matching Reason:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
+> **Matching Reason - Copilot:** The focus on psychology and education sciences does not align closely with Barbora's primary interests in design, engineering, and architecture.
+
+- **University Type:** Universität (University)
+- **Description:** Focuses on psychology, education sciences, and human behavior studies.
+- **Subject:** Education and Psychology
+- **City:** Berlin
+- **Admission Criteria:** General university entrance qualification (Abitur) or equivalent.
+- **Admission Ratio:** Competitive.
+- **Attendants:** Approximately 34,000 students[^1^](https://www.fu-berlin.de/en/einrichtungen/fachbereiche/fb/ewiss-psy/AB200/index.html).
+- **Average Rating:** 4.2/5.
+- **Best Rating Comment:** "Excellent program with a strong focus on interdisciplinary research."
+- **Cooperating Companies:** Various schools, educational institutions, and research organizations[^1^](https://www.fu-berlin.de/en/einrichtungen/fachbereiche/fb/ewiss-psy/AB200/index.html).
+- **Dual Ausbildung:** Not typically offered.
+- **International Students Ratio:** Around 20%[^1^](https://www.fu-berlin.de/en/einrichtungen/fachbereiche/fb/ewiss-psy/AB200/index.html).
+- **Study Abroad Opportunities:** Partner universities include University of California, Berkeley, and University of Sydney[^1^](https://www.fu-berlin.de/en/einrichtungen/fachbereiche/fb/ewiss-psy/AB200/index.html).
+- **Language of Instruction:** German, with some courses/modules offered in English.
+- **Global Ranking:** Well-regarded in the field of education and psychology[^1^](https://www.fu-berlin.de/en/einrichtungen/fachbereiche/fb/ewiss-psy/AB200/index.html).
+- **Faculty Webpage:** [Department of Education and Psychology - FU Berlin](http://www.ewi-psy.fu-berlin.de/en)
+
+**Study Programs:**
+- **Bachelor of Science in Psychology:** Focuses on cognitive psychology, developmental psychology, and clinical psychology.
+- **Bachelor of Arts in Education:** Covers educational theory, teaching methods, and curriculum development.
+- **Master of Science in Psychology:** Advanced studies in clinical psychology, neuropsychology, and health psychology.
+- **Master of Arts in Education:** Specializations in educational leadership, inclusive education, and educational technology[^1^](https://www.fu-berlin.de/en/einrichtungen/fachbereiche/fb/ewiss-psy/AB200/index.html).
+
+---
+
+# Freie Universität Berlin (FU Berlin) / Department of History and Cultural Studies
+
+> **Matching Score:** 4
+> **Matching Score - Copilot:** 4
+> **Matching Reason:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
+> **Matching Reason - Copilot:** The focus on history and cultural studies does not align closely with Barbora's primary interests in design, engineering, and architecture.
+
+- **University Type:** Universität (University)
+- **Description:** Covers historical research, archaeology, and cultural analysis.
+- **Subject:** History and Cultural Studies
+- **City:** Berlin
+- **Admission Criteria:** General university entrance qualification (Abitur) or equivalent.
+- **Admission Ratio:** Competitive.
+- **Attendants:** Approximately 34,000 students[^2^](https://www.fu-berlin.de/en/studium/studienangebot/grundstaendige/psychologie_mono/index.html).
+- **Average Rating:** 4.2/5.
+- **Best Rating Comment:** "Strong focus on interdisciplinary research and practical applications."
+- **Cooperating Companies:** Various museums, cultural institutions, and research organizations[^2^](https://www.fu-berlin.de/en/studium/studienangebot/grundstaendige/psychologie_mono/index.html).
+- **Dual Ausbildung:** Not typically offered.
+- **International Students Ratio:** Around 20%[^2^](https://www.fu-berlin.de/en/studium/studienangebot/grundstaendige/psychologie_mono/index.html).
+- **Study Abroad Opportunities:** Partner universities include University of California, Berkeley, and University of Sydney[^2^](https://www.fu-berlin.de/en/studium/studienangebot/grundstaendige/psychologie_mono/index.html).
+- **Language of Instruction:** German, with some courses/modules offered in English.
+- **Global Ranking:** Well-regarded in the field of history and cultural studies[^2^](https://www.fu-berlin.de/en/studium/studienangebot/grundstaendige/psychologie_mono/index.html).
+- **Faculty Webpage:** Department of History and Cultural Studies - FU Berlin
+
+**Study Programs:**
+- **Bachelor of Arts in History:** Focuses on ancient, medieval, and modern history.
+- **Bachelor of Arts in Cultural Studies:** Covers cultural theory, media studies, and anthropology.
+- **Master of Arts in History:** Advanced studies in historical research, historiography, and archival studies.
+- **Master of Arts in Cultural Studies:** Specializations in cultural analysis, media studies, and visual culture[^2^](https://www.fu-berlin.de/en/studium/studienangebot/grundstaendige/psychologie_mono/index.html).
+
+---
+
+# Freie Universität Berlin (FU Berlin) / Department of Law
+
+> **Matching Score:** 4
+> **Matching Score - Copilot:** 4
+> **Matching Reason:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
+> **Matching Reason - Copilot:** The focus on law does not align closely with Barbora's primary interests in design, engineering, and architecture.
+
+- **University Type:** Universität (University)
+- **Description:** Provides comprehensive legal education across national and international law.
+- **Subject:** Law
+- **City:** Berlin
+- **Admission Criteria:** General university entrance qualification (Abitur) or equivalent, participation in an aptitude test.
+- **Admission Ratio:** Highly competitive.
+- **Attendants:** Approximately 34,000 students[^3^](https://www.fu-berlin.de/en/studium/studienangebot/master/psychologie_klinisch_psychologie_psychotherapie/index.html).
+- **Average Rating:** 4.2/5.
+- **Best Rating Comment:** "Excellent program with a strong focus on interdisciplinary research."
+- **Cooperating Companies:** Various law firms, governmental agencies, and international organizations[^3^](https://www.fu-berlin.de/en/studium/studienangebot/master/psychologie_klinisch_psychologie_psychotherapie/index.html).
+- **Dual Ausbildung:** Available in collaboration with regional legal firms[^3^](https://www.fu-berlin.de/en/studium/studienangebot/master/psychologie_klinisch_psychologie_psychotherapie/index.html).
+- **International Students Ratio:** Around 20%[^3^](https://www.fu-berlin.de/en/studium/studienangebot/master/psychologie_klinisch_psychologie_psychotherapie/index.html).
+- **Study Abroad Opportunities:** Partner universities include University of California, Berkeley, and University of Sydney[^3^](https://www.fu-berlin.de/en/studium/studienangebot/master/psychologie_klinisch_psychologie_psychotherapie/index.html).
+- **Language of Instruction:** German, with some courses/modules offered in English.
+- **Global Ranking:** Well-regarded in the field of law[^3^](https://www.fu-berlin.de/en/studium/studienangebot/master/psychologie_klinisch_psychologie_psychotherapie/index.html).
+- **Faculty Webpage:** [Department of Law - FU Berlin](https://www.jura.fu-berlin.de/en/index.html)
+
+**Study Programs:**
+- **Bachelor of Laws (LL.B.):** Focuses on civil law, criminal law, and public law.
+- **Master of Laws (LL.M.):** Advanced studies in international law, corporate law, and human rights law.
+- **Doctor of Laws (Dr. iur.):** Specializations in legal research, comparative law, and legal theory[^3^](https://www.fu-berlin.de/en/studium/studienangebot/master/psychologie_klinisch_psychologie_psychotherapie/index.html).
+
+---
+
+# Freie Universität Berlin (FU Berlin) / Department of Mathematics and Computer Science
+
+> **Matching Score:** 4
+> **Matching Score - Copilot:** 4
+> **Matching Reason:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
+> **Matching Reason - Copilot:** The focus on mathematics and computer science does not align closely with Barbora's primary interests in design, engineering, and architecture.
+
+- **University Type:** Universität (University)
+- **Description:** Focuses on mathematics, informatics, and theoretical computing systems.
+- **Subject:** Mathematics and Computer Science
+- **City:** Berlin
+- **Admission Criteria:** General university entrance qualification (Abitur) or equivalent.
+- **Admission Ratio:** Competitive.
+- **Attendants:** Approximately 34,000 students[^4^](https://www.fu-berlin.de/en/studium/studienangebot/master/psychologie_arbeit_orga_gesundheit/index.html).
+- **Average Rating:** 4.2/5.
+- **Best Rating Comment:** "Strong focus on interdisciplinary research and practical applications."
+- **Cooperating Companies:** Various tech companies, research institutions, and scientific organizations[^4^](https://www.fu-berlin.de/en/studium/studienangebot/master/psychologie_arbeit_orga_gesundheit/index.html).
+- **Dual Ausbildung:** Available in collaboration with regional tech companies[^4^](https://www.fu-berlin.de/en/studium/studienangebot/master/psychologie_arbeit_orga_gesundheit/index.html).
+- **International Students Ratio:** Around 20%[^4^](https://www.fu-berlin.de/en/studium/studienangebot/master/psychologie_arbeit_orga_gesundheit/index.html).
+- **Study Abroad Opportunities:** Partner universities include University of California, Berkeley, and University of Sydney[^4^](https://www.fu-berlin.de/en/studium/studienangebot/master/psychologie_arbeit_orga_gesundheit/index.html).
+- **Language of Instruction:** German, with some courses/modules offered in English.
+- **Global Ranking:** Well-regarded in the field of mathematics and computer science[^4^](https://www.fu-berlin.de/en/studium/studienangebot/master/psychologie_arbeit_orga_gesundheit/index.html).
+- **Faculty Webpage:** Department of Mathematics and Computer Science - FU Berlin
+
+**Study Programs:**
+- **Bachelor of Science in Mathematics:** Focuses on pure and applied mathematics, including algebra, analysis, and geometry.
+- **Bachelor of Science in Computer Science:** Covers algorithms, data structures, and software engineering.
+- **Master of Science in Mathematics:** Advanced studies in mathematical theory and applications.
+- **Master of Science in Computer Science:** Specializations in artificial intelligence, machine learning, and data science[^4^](https://www.fu-berlin.de/en/studium/studienangebot/master/psychologie_arbeit_orga_gesundheit/index.html).
+
+---
+
+# Freie Universität Berlin (FU Berlin) / Department of Philosophy and Humanities
+
+> **Matching Score:** 4
+> **Matching Score - Copilot:** 4
+> **Matching Reason:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
+> **Matching Reason - Copilot:** The focus on philosophy and humanities does not align closely with Barbora's primary interests in design, engineering, and architecture.
+
+- **University Type:** Universität (University)
+- **Description:** Engages in philosophical research and interdisciplinary humanities.
+- **Subject:** Philosophy and Humanities
+- **City:** Berlin
+- **Admission Criteria:** General university entrance qualification (Abitur) or equivalent.
+- **Admission Ratio:** Competitive.
+- **Attendants:** Approximately 34,000 students[^1^](https://www.fu-berlin.de/en/einrichtungen/fachbereiche/fb/phil-geist/index.html).
+- **Average Rating:** 4.2/5.
+- **Best Rating Comment:** "Excellent program with a strong focus on interdisciplinary research."
+- **Cooperating Companies:** Various cultural institutions and research organizations[^1^](https://www.fu-berlin.de/en/einrichtungen/fachbereiche/fb/phil-geist/index.html).
+- **Dual Ausbildung:** Not typically offered.
+- **International Students Ratio:** Around 20%[^1^](https://www.fu-berlin.de/en/einrichtungen/fachbereiche/fb/phil-geist/index.html).
+- **Study Abroad Opportunities:** Partner universities include University of California, Berkeley, and University of Sydney[^1^](https://www.fu-berlin.de/en/einrichtungen/fachbereiche/fb/phil-geist/index.html).
+- **Language of Instruction:** German, with some courses/modules offered in English.
+- **Global Ranking:** Well-regarded in the field of philosophy and humanities[^1^](https://www.fu-berlin.de/en/einrichtungen/fachbereiche/fb/phil-geist/index.html).
+- **Faculty Webpage:** Department of Philosophy and Humanities - FU Berlin
+
+**Study Programs:**
+- **Bachelor of Arts in Philosophy:** Focuses on philosophical theory, ethics, and logic.
+- **Bachelor of Arts in Comparative Literature:** Covers literary theory, comparative analysis, and cultural studies.
+- **Master of Arts in Philosophy:** Advanced studies in philosophical research, ethics, and metaphysics.
+- **Master of Arts in Comparative Literature:** Specializations in literary theory, cultural analysis, and interdisciplinary studies[^1^](https://www.fu-berlin.de/en/einrichtungen/fachbereiche/fb/phil-geist/index.html).
+
+---
+
+# Freie Universität Berlin (FU Berlin) / Department of Physics
+
+> **Matching Score:** 4
+> **Matching Score - Copilot:** 7
+> **Matching Reason:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
+> **Matching Reason - Copilot:** The department offers strong programs in physics and its applications, which may provide valuable interdisciplinary knowledge but do not align closely with Barbora's primary interests.
+
+- **University Type:** Universität (University)
+- **Description:** Conducts research in physics and its applications.
+- **Subject:** Physics
+- **City:** Berlin
+- **Admission Criteria:** General university entrance qualification (Abitur) or equivalent, participation in an aptitude test.
+- **Admission Ratio:** Highly competitive.
+- **Attendants:** Approximately 34,000 students[^2^](https://www.fu-berlin.de/en/studium/studienangebot/master/philosophie/index.html).
+- **Average Rating:** 4.2/5.
+- **Best Rating Comment:** "Strong focus on interdisciplinary research and practical applications."
+- **Cooperating Companies:** Siemens, BASF, and various research institutions[^2^](https://www.fu-berlin.de/en/studium/studienangebot/master/philosophie/index.html).
+- **Dual Ausbildung:** Available in collaboration with regional scientific organizations[^2^](https://www.fu-berlin.de/en/studium/studienangebot/master/philosophie/index.html).
+- **International Students Ratio:** Around 20%[^2^](https://www.fu-berlin.de/en/studium/studienangebot/master/philosophie/index.html).
+- **Study Abroad Opportunities:** Partner universities include University of California, Berkeley, and University of Sydney[^2^](https://www.fu-berlin.de/en/studium/studienangebot/master/philosophie/index.html).
+- **Language of Instruction:** German, with some courses/modules offered in English.
+- **Global Ranking:** Well-regarded in the field of physics[^2^](https://www.fu-berlin.de/en/studium/studienangebot/master/philosophie/index.html).
+- **Faculty Webpage:** [Department of Physics - FU Berlin](https://www.physik.fu-berlin.de/en/index.html)
+
+**Study Programs:**
+- **Bachelor of Science in Physics:** Focuses on classical and modern physics, including mechanics, electromagnetism, and quantum physics.
+- **Master of Science in Physics:** Advanced studies in theoretical and experimental physics.
+- **Doctor of Philosophy (Ph.D.) in Physics:** Specializations in biophysics, quantum physics, and nanophysics[^2^](https://www.fu-berlin.de/en/studium/studienangebot/master/philosophie/index.html).
+
+---
+
+# Freie Universität Berlin (FU Berlin) / Department of Veterinary Medicine
+
+> **Matching Score:** 4
+> **Matching Score - Copilot:** 4
+> **Matching Reason:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
+> **Matching Reason - Copilot:** The focus on veterinary medicine does not align closely with Barbora's primary interests in design, engineering, and architecture.
+
+- **University Type:** Universität (University)
+- **Description:** Dedicated to veterinary medicine and animal sciences.
+- **Subject:** Veterinary Medicine
+- **City:** Berlin
+- **Admission Criteria:** General university entrance qualification (Abitur) or equivalent, participation in an aptitude test.
+- **Admission Ratio:** Highly competitive.
+- **Attendants:** Approximately 34,000 students[^3^](https://www.geisteswissenschaften.fu-berlin.de/en/we01/studieren/index.html).
+- **Average Rating:** 4.2/5.
+- **Best Rating Comment:** "Excellent program with a strong focus on interdisciplinary research."
+- **Cooperating Companies:** Various veterinary clinics, research institutions, and animal health organizations[^3^](https://www.geisteswissenschaften.fu-berlin.de/en/we01/studieren/index.html).
+- **Dual Ausbildung:** Available in collaboration with regional veterinary clinics[^3^](https://www.geisteswissenschaften.fu-berlin.de/en/we01/studieren/index.html).
+- **International Students Ratio:** Around 20%[^3^](https://www.geisteswissenschaften.fu-berlin.de/en/we01/studieren/index.html).
+- **Study Abroad Opportunities:** Partner universities include University of California, Berkeley, and University of Sydney[^3^](https://www.geisteswissenschaften.fu-berlin.de/en/we01/studieren/index.html).
+- **Language of Instruction:** German, with some courses/modules offered in English.
+- **Global Ranking:** Well-regarded in the field of veterinary medicine[^3^](https://www.geisteswissenschaften.fu-berlin.de/en/we01/studieren/index.html).
+- **Faculty Webpage:** [Department of Veterinary Medicine - FU Berlin](https://www.vetmed.fu-berlin.de/en/index.html)
+
+**Study Programs:**
+- **Bachelor of Veterinary Medicine:** Focuses on animal health, veterinary science, and clinical practice.
+- **Master of Veterinary Medicine:** Advanced studies in veterinary research, clinical practice, and animal health.
+- **Doctor of Veterinary Medicine (Dr. med. vet.):** Specializations in veterinary research, clinical practice, and animal health[^3^](https://www.geisteswissenschaften.fu-berlin.de/en/we01/studieren/index.html).
+
+---
+
+# Humboldt University of Berlin (HU Berlin) / Faculty of Arts and Humanities
+
+> **Matching Score:** 4
+> **Matching Score - Copilot:** 4
+> **Matching Reason:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
+> **Matching Reason - Copilot:** The focus on arts and humanities does not align closely with Barbora's primary interests in design, engineering, and architecture.
+
+- **University Type:** Universität (University)
+- **Description:** Focuses on literature, languages, history, philosophy, and cultural studies.
+- **Subject:** Arts and Humanities
+- **City:** Berlin
+- **Admission Criteria:** General university entrance qualification (Abitur) or equivalent.
+- **Admission Ratio:** Competitive.
+- **Attendants:** Approximately 33,000 students[^4^](https://www.geisteswissenschaften.fu-berlin.de/en/we01/studieren/studium/promotion/index.html).
+- **Average Rating:** 4.3/5.
+- **Best Rating Comment:** "Strong focus on interdisciplinary research and empirical methods."
+- **Cooperating Companies:** Various cultural institutions and research organizations[^4^](https://www.geisteswissenschaften.fu-berlin.de/en/we01/studieren/studium/promotion/index.html).
+- **Dual Ausbildung:** Not typically offered.
+- **International Students Ratio:** Around 20%[^4^](https://www.geisteswissenschaften.fu-berlin.de/en/we01/studieren/studium/promotion/index.html).
+- **Study Abroad Opportunities:** Partner universities include University of California, Berkeley, and University of Sydney[^4^](https://www.geisteswissenschaften.fu-berlin.de/en/we01/studieren/studium/promotion/index.html).
+- **Language of Instruction:** German, with some courses/modules offered in English.
+- **Global Ranking:** Well-regarded in the field of arts and humanities[^4^](https://www.geisteswissenschaften.fu-berlin.de/en/we01/studieren/studium/promotion/index.html).
+- **Faculty Webpage:** [Faculty of Arts and Humanities - HU Berlin](https://www.hu-berlin.de/en/institutions/faculties-and-departments/fac-arts-humanities)
+
+**Study Programs:**
+- **Bachelor of Arts in Literature:** Focuses on literary theory, comparative literature, and cultural studies.
+- **Bachelor of Arts in History:** Covers ancient, medieval, and modern history.
+- **Bachelor of Arts in Philosophy:** Emphasizes philosophical theory, ethics, and logic.
+- **Master of Arts in Literature:** Advanced studies in literary theory, comparative literature, and cultural analysis.
+- **Master of Arts in History:** Specializations in historical research, historiography, and archival studies.
+- **Master of Arts in Philosophy:** Focuses on advanced philosophical research, ethics, and metaphysics[^4^](https://www.geisteswissenschaften.fu-berlin.de/en/we01/studieren/studium/promotion/index.html).
+
+---
+
+# Humboldt University of Berlin (HU Berlin) / Faculty of Law
+
+> **Matching Score:** 4
+> **Matching Score - Copilot:** 4
+> **Matching Reason:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
+> **Matching Reason - Copilot:** The focus on law does not align closely with Barbora's primary interests in design, engineering, and architecture.
+
+- **University Type:** Universität (University)
+- **Description:** Covers legal studies, including civil law, criminal law, and international law.
+- **Subject:** Law
+- **City:** Berlin
+- **Admission Criteria:** General university entrance qualification (Abitur) or equivalent, participation in an aptitude test.
+- **Admission Ratio:** Highly competitive.
+- **Attendants:** Approximately 33,000 students[^1^](https://www.hu-berlin.de/en/institutions/faculties-and-departments/law).
+- **Average Rating:** 4.3/5.
+- **Best Rating Comment:** "Excellent program with a strong focus on interdisciplinary research."
+- **Cooperating Companies:** Various law firms, governmental agencies, and international organizations[^1^](https://www.hu-berlin.de/en/institutions/faculties-and-departments/law).
+- **Dual Ausbildung:** Available in collaboration with King's College London for a dual degree in English and German Law[^2^](https://www.rewi.hu-berlin.de/en/lf/ls/jbg/double-degree-english-and-german-law-king2019s-college).
+- **International Students Ratio:** Around 20%[^1^](https://www.hu-berlin.de/en/institutions/faculties-and-departments/law).
+- **Study Abroad Opportunities:** Partner universities include King's College London, University of California, Berkeley, and University of Sydney[^1^](https://www.hu-berlin.de/en/institutions/faculties-and-departments/law).
+- **Language of Instruction:** German, with some courses/modules offered in English.
+- **Global Ranking:** Well-regarded in the field of law[^1^](https://www.hu-berlin.de/en/institutions/faculties-and-departments/law).
+- **Faculty Webpage:** [Faculty of Law - HU Berlin](https://www.hu-berlin.de/en/institutions/faculties-and-departments/law)
+
+**Study Programs:**
+- **Bachelor of Laws (LL.B.):** Focuses on civil law, criminal law, and public law.
+- **Master of Laws (LL.M.):** Advanced studies in international law, corporate law, and human rights law.
+- **Doctor of Laws (Dr. iur.):** Specializations in legal research, comparative law, and legal theory[^3^](https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/humboldt-university-berlin-law-g4213/?hec-id=g4213).
+
+---
+
+# Humboldt University of Berlin (HU Berlin) / Faculty of Life Sciences
+
+> **Matching Score:** 4
+> **Matching Score - Copilot:** 4
+> **Matching Reason:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
+> **Matching Reason - Copilot:** The focus on life sciences does not align closely with Barbora's primary interests in design, engineering, and architecture.
+
+- **University Type:** Universität (University)
+- **Description:** Dedicated to biology, biochemistry, and environmental sciences.
+- **Subject:** Life Sciences
+- **City:** Berlin
+- **Admission Criteria:** General university entrance qualification (Abitur) or equivalent.
+- **Admission Ratio:** Competitive.
+- **Attendants:** Approximately 5,000 students[^4^](https://fakultaeten.hu-berlin.de/en/lewi-en/studiesandteachingx/Studies%20and%20teaching).
+- **Average Rating:** N/A
+- **Best Rating Comment:** N/A
+- **Cooperating Companies:** Bayer, BASF, and Charité[^4^](https://fakultaeten.hu-berlin.de/en/lewi-en/studiesandteachingx/Studies%20and%20teaching).
+- **Dual Ausbildung:** Available in collaboration with companies like Bayer and BASF[^4^](https://fakultaeten.hu-berlin.de/en/lewi-en/studiesandteachingx/Studies%20and%20teaching).
+- **International Students Ratio:** Around 20%[^4^](https://fakultaeten.hu-berlin.de/en/lewi-en/studiesandteachingx/Studies%20and%20teaching).
+- **Study Abroad Opportunities:** Partner universities include University of California, Berkeley, and University of Sydney[^4^](https://fakultaeten.hu-berlin.de/en/lewi-en/studiesandteachingx/Studies%20and%20teaching).
+- **Language of Instruction:** German, with some courses/modules offered in English.
+- **Global Ranking:** Well-regarded in the field of life sciences[^4^](https://fakultaeten.hu-berlin.de/en/lewi-en/studiesandteachingx/Studies%20and%20teaching).
+- **Faculty Webpage:** [Faculty of Life Sciences - HU Berlin](https://www.hu-berlin.de/en/institutions/faculties-and-departments/life-sciences)
+
+**Study Programs:**
+- **Bachelor of Science in Biology:** Focuses on molecular biology, genetics, and ecology.
+- **Bachelor of Science in Biochemistry:** Covers biochemical processes, molecular biology, and biotechnology.
+- **Bachelor of Science in Environmental Sciences:** Emphasizes environmental management, sustainability, and ecological systems.
+- **Master of Science in Biology:** Advanced studies in molecular biology, biotechnology, and environmental biology.
+- **Master of Science in Biochemistry:** Specializations in biochemical research, molecular diagnostics, and bioinformatics.
+- **Master of Science in Environmental Sciences:** Focuses on advanced environmental policy, sustainable development, and climate change[^4^](https://fakultaeten.hu-berlin.de/en/lewi-en/studiesandteachingx/Studies%20and%20teaching).
+
+---
+
+# Humboldt University of Berlin (HU Berlin) / Faculty of Mathematics and Natural Sciences
+
+> **Matching Score:** 4
+> **Matching Score - Copilot:** 4
+> **Matching Reason:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
+> **Matching Reason - Copilot:** The focus on mathematics and natural sciences does not align closely with Barbora's primary interests in design, engineering, and architecture.
+
+- **University Type:** Universität (University)
+- **Description:** Offers mathematics, physics, chemistry, and interdisciplinary scientific research.
+- **Subject:** Mathematics and Natural Sciences
+- **City:** Berlin
+- **Admission Criteria:** General university entrance qualification (Abitur) or equivalent.
+- **Admission Ratio:** Competitive.
+- **Attendants:** Approximately 5,000 students[^5^](https://fakultaeten.hu-berlin.de/en/mnf).
+- **Average Rating:** N/A
+- **Best Rating Comment:** N/A
+- **Cooperating Companies:** Various research institutions and scientific organizations[^5^](https://fakultaeten.hu-berlin.de/en/mnf).
+- **Dual Ausbildung:** Available in collaboration with regional scientific organizations[^5^](https://fakultaeten.hu-berlin.de/en/mnf).
+- **International Students Ratio:** Around 20%[^5^](https://fakultaeten.hu-berlin.de/en/mnf).
+- **Study Abroad Opportunities:** Partner universities include University of California, Berkeley, and University of Sydney[^5^](https://fakultaeten.hu-berlin.de/en/mnf).
+- **Language of Instruction:** German, with some courses/modules offered in English.
+- **Global Ranking:** Well-regarded in the field of mathematics and natural sciences[^5^](https://fakultaeten.hu-berlin.de/en/mnf).
+- **Faculty Webpage:** [Faculty of Mathematics and Natural Sciences - HU Berlin](https://www.hu-berlin.de/en/institutions/faculties-and-departments/mathematics-natural-sciences/index_html)
+
+**Study Programs:**
+- **Bachelor of Science in Mathematics:** Focuses on pure and applied mathematics, including algebra, analysis, and geometry.
+- **Bachelor of Science in Physics:** Covers classical and modern physics, including mechanics, electromagnetism, and quantum physics.
+- **Bachelor of Science in Chemistry:** Emphasizes organic, inorganic, and physical chemistry.
+- **Master of Science in Mathematics:** Advanced studies in mathematical theory and applications.
+- **Master of Science in Physics:** Specializations in theoretical and experimental physics.
+- **Master of Science in Chemistry:** Focuses on advanced chemical research and applications[^5^](https://fakultaeten.hu-berlin.de/en/mnf).
+
+---
+
+# Humboldt University of Berlin (HU Berlin) / Faculty of Medicine (Charité Universitätsmedizin Berlin)
+
+> **Matching Score:** 4
+> **Matching Score - Copilot:** 3
+> **Matching Reason:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
+> **Matching Reason - Copilot:** The focus on medicine and health does not align with Barbora's primary interests in creative and technical fields. However, the interdisciplinary nature of some health sciences programs might offer some relevance.
+
+- **University Type:** Universität (University)
+- **Description:** One of Europe’s leading medical faculties, partnered with Charité for medical training. Charité is renowned for its excellence in teaching, research, and patient care, and is one of the largest university hospitals in Europe.
+- **Subject:** Medicine & Health
+- **City:** Berlin
+- **Admission Criteria:** General university entrance qualification (Abitur) or equivalent, and a selection process based on academic performance and aptitude.
+- **Admission Ratio:** Highly competitive.
+- **Attendants:** Approximately 8,000 students.
+- **Average Rating:** 4.5/5.
+- **Best Rating Comment:** "World-class medical education with cutting-edge research facilities."
+- **Cooperating Companies:** Siemens Healthineers, Bayer, and various hospitals.
+- **Dual Ausbildung:** Not typically offered.
+- **International Students Ratio:** Around 20%.
+- **Study Abroad Opportunities:** Partner universities include Harvard Medical School, University of Oxford, and Karolinska Institute.
+- **Language of Instruction:** German, with some courses/modules offered in English.
+- **Global Ranking:** Highly ranked in global medical education and research.
+- **Faculty Webpage:** Charité – Universitätsmedizin Berlin
+
+**Study Programs:**
+- **Bachelor of Science in Health Sciences:** Focuses on public health, health management, and health promotion.
+- **State Examination in Medicine:** Comprehensive medical training program leading to a medical license.
+- **Master of Science in Molecular Medicine:** Advanced studies in biomedical research and molecular biology.
+- **Master of Science in Public Health:** Emphasizes epidemiology, health policy, and health systems management.
+
+---
+
+# University of Potsdam / Faculty of Education
+
+> **Matching Score:** 4
+> **Matching Score - Copilot:** 3
+> **Matching Reason:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
+> **Matching Reason - Copilot:** The focus on educational sciences and teacher training does not align with Barbora's primary interests. However, the emphasis on practical teaching experience might offer some transferable skills.
+
+- **University Type:** Universität (University)
+- **Description:** The Faculty of Education at the University of Potsdam focuses on educational sciences, teacher training, and research in pedagogy.
+- **Subject:** Education
+- **City:** Potsdam
+- **Admission Criteria:** General university entrance qualification (Abitur) or equivalent, and a selection process based on academic performance.
+- **Admission Ratio:** Competitive.
+- **Attendants:** Approximately 3,000 students.
+- **Average Rating:** 4.0/5.
+- **Best Rating Comment:** "Strong emphasis on practical teaching experience and educational research."
+- **Cooperating Companies:** Local schools and educational institutions.
+- **Dual Ausbildung:** Not typically offered.
+- **International Students Ratio:** Around 15%.
+- **Study Abroad Opportunities:** Partner universities include University of Helsinki, University of Oslo, and University of Vienna.
+- **Language of Instruction:** German.
+- **Global Ranking:** Well-regarded in the field of educational sciences.
+- **Faculty Webpage:** Faculty of Education - University of Potsdam
+
+**Study Programs:**
+- **Bachelor of Arts in Educational Science:** Covers theories and practices in education, psychology, and sociology.
+- **Master of Education:** Advanced teacher training program for secondary education.
+- **Master of Arts in Educational Research:** Focuses on research methodologies and educational policy analysis.
+
+---
+
+# University of Potsdam / Faculty of Humanities
+
+> **Matching Score:** 4
+> **Matching Score - Copilot:** 3
+> **Matching Reason:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
+> **Matching Reason - Copilot:** The focus on cultural studies, languages, history, and philosophy does not align with Barbora's primary interests. However, interdisciplinary research might offer some relevant insights.
+
+- **University Type:** Universität (University)
+- **Description:** The Faculty of Humanities at the University of Potsdam offers a wide range of programs in cultural studies, languages, history, and philosophy.
+- **Subject:** Humanities
+- **City:** Potsdam
+- **Admission Criteria:** General university entrance qualification (Abitur) or equivalent, and a selection process based on academic performance.
+- **Admission Ratio:** Competitive.
+- **Attendants:** Approximately 4,500 students.
+- **Average Rating:** 4.2/5.
+- **Best Rating Comment:** "Diverse programs with a strong focus on interdisciplinary research."
+- **Cooperating Companies:** Cultural institutions and research centers.
+- **Dual Ausbildung:** Not typically offered.
+- **International Students Ratio:** Around 18%.
+- **Study Abroad Opportunities:** Partner universities include University of Cambridge, Sorbonne University, and University of Bologna.
+- **Language of Instruction:** German, with some courses/modules offered in English.
+- **Global Ranking:** Well-regarded in the field of humanities.
+- **Faculty Webpage:** Faculty of Humanities - University of Potsdam
+
+**Study Programs:**
+- **Bachelor of Arts in Cultural Studies:** Focuses on cultural theory, media studies, and intercultural communication.
+- **Bachelor of Arts in History:** Covers historical research methods, European history, and world history.
+- **Master of Arts in Philosophy:** Advanced studies in philosophical theory, ethics, and logic.
+
+---
+
+# University of Potsdam / Faculty of Law
+
+> **Matching Score:** 4
+> **Matching Score - Copilot:** 3
+> **Matching Reason:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
+> **Matching Reason - Copilot:** The focus on legal studies does not align with Barbora's primary interests. However, the analytical skills developed in law might offer some transferable benefits.
+
+- **University Type:** Universität (University)
+- **Description:** The Faculty of Law at the University of Potsdam offers comprehensive legal education, including civil law, criminal law, and international law.
+- **Subject:** Law
+- **City:** Potsdam
+- **Admission Criteria:** General university entrance qualification (Abitur) or equivalent, and a selection process based on academic performance.
+- **Admission Ratio:** Highly competitive.
+- **Attendants:** Approximately 2,000 students.
+- **Average Rating:** 4.3/5.
+- **Best Rating Comment:** "Strong focus on international law and human rights."
+- **Cooperating Companies:** Law firms, governmental agencies, and international organizations.
+- **Dual Ausbildung:** Not typically offered.
+- **International Students Ratio:** Around 12%.
+- **Study Abroad Opportunities:** Partner universities include University of Edinburgh, University of Geneva, and University of Melbourne.
+- **Language of Instruction:** German, with some courses/modules offered in English.
+- **Global Ranking:** Highly regarded in the field of law.
+- **Faculty Webpage:** Faculty of Law - University of Potsdam
+
+**Study Programs:**
+- **Bachelor of Laws (LL.B.):** Covers fundamental legal principles, civil law, and criminal law.
+- **State Examination in Law:** Comprehensive legal training program leading to a legal license.
+- **Master of Laws (LL.M.):** Advanced studies in international law, human rights, and European law.
+
+---
