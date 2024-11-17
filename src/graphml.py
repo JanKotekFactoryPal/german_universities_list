@@ -1,15 +1,12 @@
-import pyyed
 import yaml
-
+import pyyed
 
 def load_yaml(file_path):
     with open(file_path, 'r') as file:
         return yaml.safe_load(file)
 
-
-def create_node(graph, node_id, label, shape, color):
-    graph.add_node(node_id, label=label, shape=shape, fill=color)
-
+def create_node(graph, node_id, label, shape, fill):
+    graph.add_node(node_id, label=label, shape=shape, fill=fill)
 
 def generate_graphml(data):
     graph = pyyed.Graph()
@@ -29,13 +26,11 @@ def generate_graphml(data):
 
     return graph
 
-
 def main():
     yaml_file_path = 'universities.yml'
     data = load_yaml(yaml_file_path)
     graph = generate_graphml(data)
     graph.write_graph('universities.graphml')
-
 
 if __name__ == "__main__":
     main()
