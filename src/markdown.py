@@ -1,18 +1,33 @@
 import yaml
 
 def generate_markdown(data):
-    markdown = ""
+    faculties_list = []
     for university_type, universities in data.items():
-        markdown += f"# {university_type.replace('_', ' ')}\n"
         for university, faculties in universities.items():
-            markdown += f"## {university.replace('_', ' ')}\n"
             for faculty, details in faculties.items():
-                markdown += f"### {faculty}\n"
-                markdown += f"**City:** {details.get('City', 'N/A')}\n\n"
-                markdown += f"**Description:** {details.get('Description', 'No description available.')}\n\n"
-                markdown += f"**Subject:** {details.get('Subject', 'Unknown Subject')}\n\n"
-                markdown += f"**Matching Reason:** {details.get('matching_reason', 'N/A')}\n\n"
-                markdown += f"**Matching Score:** {details.get('matching_score', 'N/A')}\n\n"
+                faculties_list.append({
+                    "name": f"{university.replace('_', ' ')} / {faculty}",
+                    "matching_score": details.get("matching_score", "N/A"),
+                    "matching_reason": details.get("matching_reason", "N/A"),
+                    "university_type": university_type.replace('_', ' '),
+                    "subject": details.get("Subject", "Unknown Subject"),
+                    "city": details.get("City", "N/A"),
+                    "description": details.get("Description", "No description available.")
+                })
+
+    faculties_list.sort(key=lambda x: x["matching_score"], reverse=True)
+
+    markdown = ""
+    for faculty in faculties_list:
+        markdown += f"# {faculty['name']}\n\n"
+        markdown += f"> **Matching Score:** {faculty['matching_score']} \n>\n"
+        markdown += f"> **Matching Reason:** {faculty['matching_reason']}\n\n"
+        markdown += f"- **University Type:** {faculty['university_type']}\n"
+        markdown += f"- **Description:** {faculty['description']}\n"
+        markdown += f"- **Subject:** {faculty['subject']}\n"
+        markdown += f"- **City:** {faculty['city']}\n\n"
+        markdown += "* * *\n\n"
+
     return markdown
 
 if __name__ == "__main__":
