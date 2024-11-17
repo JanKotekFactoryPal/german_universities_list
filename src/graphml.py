@@ -1,5 +1,5 @@
-import yaml
 import pyyed
+import yaml
 
 def load_yaml(file_path):
     with open(file_path, 'r') as file:
@@ -33,9 +33,11 @@ def generate_graphml(data):
         cities[city] = city_node_id
 
     for uni_type, universities in data['Universities_in_Berlin'].items():
+        group = graph.add_group(uni_type.replace(" ", "_"), label=uni_type)
         for university in universities:
             uni_name = university['Name']
             uni_node_id = uni_name.replace(" ", "_")
+            uni_group = graph.add_group(uni_node_id, label=uni_name)
             create_node(graph, uni_node_id, uni_name, "rectangle", "#FFCC00")
 
             for faculty in university['Faculties']:
@@ -53,6 +55,7 @@ def generate_graphml(data):
                 # Create edges between faculty's city and Enumerations.Cities
                 city_node_id = cities[faculty['City']]
                 graph.add_edge(faculty_node_id, city_node_id)
+
 
     return graph
 
