@@ -2,12 +2,12 @@
 
 # Berlin University of the Arts (UdK) / Faculty of Design
 
-> **Matching Score - ChatGPT:** 8  
-> **Matching Score - Copilot:** 10 **Matching Reason - ChatGPT:** While this faculty emphasizes design, it is more art-focused. Barbora’s love for creativity will be satisfied here, but the more hands-on technical aspects may be less emphasized compared to other faculties.
-> **Matching Reason - Copilot:** The strong emphasis on creativity, practical projects, and international partnerships makes this faculty an excellent fit for Barbora's interests and career goals.
+> **Recommendation**
+> * Copilot: 10 / The strong emphasis on creativity, practical projects, and international partnerships makes this faculty an excellent fit for Barbora's interests and career goals.
+> * ChatGPT: 8 / While this faculty emphasizes design, it is more art-focused. Barbora’s love for creativity will be satisfied here, but the more hands-on technical aspects may be less emphasized compared to other faculties.
 
 - **University Type:** Kunsthochschule (Academy of Fine Arts)
-- **Description:** Focuses on the creative and practical aspects of design, including graphic, industrial, and digital design.
+- **Description:** Focuses on the creative and practical aspects of design, including graphic, industrial, and digital design. The Faculty of Design at UdK Berlin integrates science and art, emphasizing interdisciplinary subjects, experimental approaches, and societal impact[^1^](https://www.udk-berlin.de/en/university/college-of-architecture-media-and-design-1/).
 - **Subject:** Design
 - **City:** Berlin
 - **Admission Criteria:** General university entrance qualification (Abitur) or equivalent, participation in an aptitude test.
@@ -15,32 +15,121 @@
 - **Attendants:** Approximately 4,000 students.
 - **Average Rating:** 4.5/5.
 - **Best Rating Comment:** "Inspiring environment with excellent facilities and faculty."
-- **Cooperating Companies:** Various local and international companies through internships and projects.
+- **Cooperating Companies:** Various local and international companies through internships and projects, including collaborations with fashion houses, design studios, and media companies[^2^](https://www.eurasia-institute.com/en/a-eurasia-collaboration-berlin-univeristy-of-the-arts/).
 - **Dual Ausbildung:** Not typically offered.
 - **International Students Ratio:** Around 30%.
-- **Study Abroad Opportunities:** Partner universities include Royal College of Art, Parsons School of Design, and Tokyo University of the Arts.
+- **Study Abroad Opportunities:** Partner universities include Royal College of Art, Parsons School of Design, and Tokyo University of the Arts[^1^](https://www.udk-berlin.de/en/university/college-of-architecture-media-and-design-1/).
 - **Language of Instruction:** German, with some courses/modules offered in English.
 - **Global Ranking:** Highly regarded in the field of arts and design.
 - **Faculty Webpage:** [Faculty of Design - UdK](https://www.udk-berlin.de/en/)
 
 **Study Programs:**
+- **Bachelor of Arts in Visual Communication:** Focuses on graphic design, typography, and visual storytelling[^1^](https://www.udk-berlin.de/en/university/college-of-architecture-media-and-design-1/).
+- **Bachelor of Arts in Product Design:** Emphasizes industrial design, material innovation, and sustainable practices[^1^](https://www.udk-berlin.de/en/university/college-of-architecture-media-and-design-1/).
+- **Bachelor of Arts in Fashion Design:** Covers fashion illustration, textile design, and garment construction[^1^](https://www.udk-berlin.de/en/university/college-of-architecture-media-and-design-1/).
+- **Master of Arts in Visual Communication:** Advanced studies in visual communication, branding, and digital media[^1^](https://www.udk-berlin.de/en/university/college-of-architecture-media-and-design-1/).
+- **Master of Arts in Product Design:** Specializations in product innovation, user-centered design, and sustainable practices[^1^](https://www.udk-berlin.de/en/university/college-of-architecture-media-and-design-1/).
 
-- **Bachelor of Arts in Visual Communication:** Focuses on graphic design, typography, and visual storytelling.
-- **Bachelor of Arts in Product Design:** Emphasizes industrial design, material innovation, and sustainable practices.
-- **Bachelor of Arts in Fashion Design:** Covers fashion illustration, textile design, and garment construction.
-- **Master of Arts in Visual Communication:** Advanced studies in visual communication, branding, and digital media.
-- **Master of Arts in Product Design:** Specializations in product innovation, user-centered design, and sustainable practices.
+**Recommended Study Program for Barbora:**
+- **Bachelor of Arts in Product Design:** This program combines creativity with practical skills in industrial design and material innovation. It aligns well with Barbora's interest in sustainable practices and hands-on problem-solving, providing a strong foundation for a career in design and innovation.
 
-* * *
+**Recommended Partnering School for Barbora:**
+- **Royal College of Art (UK):** Known for its excellence in design and innovation, the Royal College of Art offers a stimulating environment for interdisciplinary learning and creative development. The partnership with UdK Berlin provides opportunities for international exposure and collaboration with leading designers and artists[^1^](https://www.udk-berlin.de/en/university/college-of-architecture-media-and-design-1/).
+
+**Future Job Prospects:**
+Graduates from the Faculty of Design at UdK Berlin are well-prepared for various roles in the creative industries. Potential career paths include:
+- **Graphic Designer:** Creating visual content for print and digital media, including branding, advertising, and web design.
+- **Product Designer:** Developing innovative products with a focus on functionality, aesthetics, and sustainability.
+- **Fashion Designer:** Designing clothing and accessories, working with fashion houses, or starting their own fashion label.
+- **Art Director:** Leading creative projects in advertising, media, and entertainment industries.
+
+**Competitiveness in the Future Job Market:**
+The emphasis on creativity, interdisciplinary learning, and practical experience at UdK Berlin ensures that graduates are equipped with the skills needed to thrive in the dynamic and evolving creative industries. The strong industry connections and international partnerships further enhance employability, providing graduates with a competitive edge in the global job market.
+
+**Risks:**
+- **Economic Fluctuations:** The creative industries can be sensitive to economic downturns, which may impact job availability.
+- **Technological Advancements:** Rapid advancements in technology, such as AI and automation, may change the landscape of design professions, requiring continuous learning and adaptation.
+- **Market Saturation:** The design field can be highly competitive, with many talented individuals vying for limited opportunities.
+
+Overall, the Faculty of Design at UdK Berlin offers a robust education that prepares students for a dynamic and evolving job market, with a strong focus on creativity, innovation, and practical experience.
+
+---
+
+
+# Technische Universität Berlin (TU Berlin) / Faculty of Architecture
+
+> **Recommendation**
+> * Copilot: 9 / The strong emphasis on practical projects, sustainable design, and interdisciplinary learning aligns well with Barbora's preference for hands-on learning and real-world experience.
+> * ChatGPT: 9 / This faculty is closely aligned with Barbora's interest in architecture and engineering, offering practical and creative programs.
+
+- **University Type:** Technische Universität (Technical University)
+- **Description:** The Faculty of Architecture at TU Berlin offers comprehensive programs in architecture, urban planning, and landscape architecture, with a strong focus on sustainability and innovation. The Institute of Architecture (IfA) is dedicated to the critical, creative, and innovative design of buildings, cities, and regions with a focus on resource justice and the common good.
+- **Subject:** Architecture
+- **City:** Berlin
+- **Admission Criteria:** General university entrance qualification (Abitur) or equivalent, participation in an aptitude test.
+- **Admission Ratio:** Highly competitive.
+- **Attendants:** Approximately 3,000 students.
+- **Average Rating:** 4.5/5.
+- **Best Rating Comment:** "Excellent facilities, strong industry connections, and a focus on sustainable design."
+- **Cooperating Companies:** Siemens, Deutsche Bahn, and various architectural firms.
+- **Dual Ausbildung:** Available in some programs.
+- **International Students Ratio:** Around 20%.
+- **Study Abroad Opportunities:** Partner universities include Politecnico di Milano, Delft University of Technology, Universidad Politécnica de Madrid, Pontificia Universidad Católica in Santiago/Chile, and Tsinghua University in Beijing/China.
+- **Language of Instruction:** German, with some courses/modules offered in English.
+- **Global Ranking:** Highly regarded in architecture and engineering. In the 2023 QS World University Ranking, the Institute of Architecture was ranked 18th in the "Architecture & Built Environment" category as the best German school of architecture.
+- **Faculty Webpage:** Faculty of Architecture - TU Berlin
+
+**Study Programs:**
+- **Bachelor of Science in Architecture:** Covers architectural design, urban planning, and sustainable building practices.
+- **Master of Science in Architecture:** Advanced studies in architectural theory, design, and technology.
+- **Bachelor of Science in Urban and Regional Planning:** Focuses on urban development, spatial planning, and sustainable cities.
+- **Master of Science in Landscape Architecture:** Emphasizes landscape design, environmental planning, and green infrastructure.
+- **Master of Science in Building Archeology and Heritage Conservation:** Focuses on the preservation and restoration of historical buildings.
+- **Master of Science in Architecture Typology:** Specialized studies in architectural typologies and their applications.
+- **Master of Science in Urban Design:** Advanced studies in urban design and planning.
+
+**Partnering Schools:**
+- **Waseda University (Japan):** Annual exchange of students, joint conferences, workshops, and exhibition projects.
+- **The Technion - Israel Institute of Technology (Israel):** Cooperation in research, teaching, and exchange of students and lecturers.
+- **Politecnico di Milano (Italy):** Annual exchange of students, cooperation in research and teaching.
+- **Politecnico di Torino (Italy):** Close cooperation in research, teaching, and publications.
+- **Pontificia Universidad Católica in Santiago/Chile:** Dual degree program opportunity.
+- **Tsinghua University in Beijing/China:** Dual degree program opportunity.
+
+**Recommended Study Program for Barbora:**
+- **Bachelor of Science in Architecture:** This program offers a unique combination of artistic creativity and sound engineering knowledge, which aligns well with Barbora's strengths in mathematics and physics, as well as her creative talents. The program's focus on sustainable building practices and urban planning will provide her with the skills needed for future-proof careers in architecture and design.
+
+**Recommended Partnering School for Barbora:**
+- **Politecnico di Milano (Italy):** Known for its strong emphasis on design and engineering, Politecnico di Milano offers excellent opportunities for interdisciplinary learning and practical experience. The annual exchange program and cooperation in research and teaching will provide Barbora with valuable international exposure and enhance her skills in sustainable architecture and design.
+
+**Future Job Prospects:**
+Graduates from the Faculty of Architecture at TU Berlin are well-prepared for a variety of roles in the architecture and construction industries. Potential career paths include:
+- **Architect:** Designing residential, commercial, and public buildings with a focus on sustainability and innovation.
+- **Urban Planner:** Developing plans and programs for land use in urban areas, ensuring sustainable and efficient use of resources.
+- **Landscape Architect:** Designing outdoor spaces, including parks, gardens, and recreational areas, with an emphasis on environmental sustainability.
+- **Heritage Conservation Specialist:** Working on the preservation and restoration of historical buildings and sites.
+
+**Competitiveness in the Future Job Market:**
+The emphasis on sustainable design and interdisciplinary learning at TU Berlin ensures that graduates are equipped with the skills needed to address contemporary challenges in architecture and urban planning. The strong industry connections and international partnerships further enhance employability, providing graduates with a competitive edge in the global job market.
+
+**Risks:**
+- **Economic Fluctuations:** The architecture and construction industries can be sensitive to economic downturns, which may impact job availability.
+- **Technological Advancements:** Rapid advancements in technology, such as AI and automation, may change the landscape of the architecture profession, requiring continuous learning and adaptation.
+- **Sustainability Challenges:** While there is a growing demand for sustainable design, it also requires staying updated with evolving regulations and standards, which can be challenging.
+
+Overall, the Faculty of Architecture at TU Berlin offers a robust education that prepares students for a dynamic and evolving job market, with a strong focus on sustainability and innovation.
+
+---
+
 
 # Berlin University of Applied Sciences (HTW Berlin) / School of Design and Culture
 
-> **Matching Score - ChatGPT:** 9  
-> **Matching Score - Copilot:** 9 **Matching Reason - ChatGPT:** This faculty aligns closely with Barbora's strong interest in design, architecture, and creativity. It offers practical, hands-on learning and emphasizes real-world experience, while still incorporating the technical aspects of the design process.
-> **Matching Reason - Copilot:** The strong emphasis on practical projects and industry connections aligns well with Barbora's preference for hands-on learning and real-world experience.
+> **Recommendation**
+> * Copilot: 9 / The strong emphasis on practical projects and industry connections aligns well with Barbora's preference for hands-on learning and real-world experience.
+> * ChatGPT: 9 / This faculty aligns closely with Barbora's strong interest in design, architecture, and creativity. It offers practical, hands-on learning and emphasizes real-world experience, while still incorporating the technical aspects of the design process.
 
 - **University Type:** Fachhochschule (University of Applied Sciences)
-- **Description:** Focuses on the creative and practical aspects of design, including graphic, industrial, and digital design.
+- **Description:** Focuses on the creative and practical aspects of design, including graphic, industrial, and digital design. The School of Design and Culture at HTW Berlin integrates practical experience with creative and technical skills, preparing students for careers in various design fields[^1^](https://www.htw-berlin.de/en/).
 - **Subject:** Design
 - **City:** Berlin
 - **Admission Criteria:** General university entrance qualification (Abitur) or equivalent, participation in an aptitude test.
@@ -48,33 +137,55 @@
 - **Attendants:** Approximately 13,000 students.
 - **Average Rating:** 3.9/5.
 - **Best Rating Comment:** "Supportive community with a strong focus on practical learning."
-- **Cooperating Companies:** Siemens, Deutsche Telekom, and Zalando.
+- **Cooperating Companies:** Siemens, Deutsche Telekom, Zalando, and various design studios and tech companies[^2^](https://www.htw-berlin.de/en/studies/degree-programmes/).
 - **Dual Ausbildung:** Not typically offered.
 - **International Students Ratio:** Around 26%.
-- **Study Abroad Opportunities:** Partner universities include University of the Arts London, Politecnico di Milano, and Aalto University.
+- **Study Abroad Opportunities:** Partner universities include University of the Arts London, Politecnico di Milano, and Aalto University[^2^](https://www.htw-berlin.de/en/studies/degree-programmes/).
 - **Language of Instruction:** German, with some courses/modules offered in English.
 - **Global Ranking:** Well-regarded in the field of applied sciences.
 - **Faculty Webpage:** [School of Design and Culture - HTW Berlin](https://www.htw-berlin.de/en/)
 
 **Study Programs:**
+- **Bachelor of Arts in Communication Design:** Focuses on visual communication, graphic design, and media design[^2^](https://www.htw-berlin.de/en/studies/degree-programmes/).
+- **Bachelor of Arts in Industrial Design:** Emphasizes product design, ergonomics, and sustainable design[^2^](https://www.htw-berlin.de/en/studies/degree-programmes/).
+- **Bachelor of Arts in Fashion Design:** Covers fashion illustration, textile design, and garment construction[^2^](https://www.htw-berlin.de/en/studies/degree-programmes/).
+- **Master of Arts in Communication Design:** Advanced studies in visual communication, branding, and digital media[^2^](https://www.htw-berlin.de/en/studies/degree-programmes/).
+- **Master of Arts in Industrial Design:** Specializations in product innovation, user-centered design, and sustainable practices[^2^](https://www.htw-berlin.de/en/studies/degree-programmes/).
 
-- **Bachelor of Arts in Communication Design:** Focuses on visual communication, graphic design, and media design.
-- **Bachelor of Arts in Industrial Design:** Emphasizes product design, ergonomics, and sustainable design.
-- **Bachelor of Arts in Fashion Design:** Covers fashion illustration, textile design, and garment construction.
-- **Master of Arts in Communication Design:** Advanced studies in visual communication, branding, and digital media.
-- **Master of Arts in Industrial Design:** Specializations in product innovation, user-centered design, and sustainable practices.
+**Recommended Study Program for Barbora:**
+- **Bachelor of Arts in Industrial Design:** This program combines creativity with practical skills in product design and ergonomics. It aligns well with Barbora's interest in sustainable practices and hands-on problem-solving, providing a strong foundation for a career in design and innovation.
 
-* * *
+**Recommended Partnering School for Barbora:**
+- **Politecnico di Milano (Italy):** Known for its excellence in design and innovation, Politecnico di Milano offers a stimulating environment for interdisciplinary learning and creative development. The partnership with HTW Berlin provides opportunities for international exposure and collaboration with leading designers and artists[^2^](https://www.htw-berlin.de/en/studies/degree-programmes/).
+
+**Future Job Prospects:**
+Graduates from the School of Design and Culture at HTW Berlin are well-prepared for various roles in the creative industries. Potential career paths include:
+- **Graphic Designer:** Creating visual content for print and digital media, including branding, advertising, and web design.
+- **Product Designer:** Developing innovative products with a focus on functionality, aesthetics, and sustainability.
+- **Fashion Designer:** Designing clothing and accessories, working with fashion houses, or starting their own fashion label.
+- **Art Director:** Leading creative projects in advertising, media, and entertainment industries.
+
+**Competitiveness in the Future Job Market:**
+The emphasis on creativity, interdisciplinary learning, and practical experience at HTW Berlin ensures that graduates are equipped with the skills needed to thrive in the dynamic and evolving creative industries. The strong industry connections and international partnerships further enhance employability, providing graduates with a competitive edge in the global job market[^3^](https://www.htw-berlin.de/en/studies/degree-programmes/advanced-masters-programmes/).
+
+**Risks:**
+- **Economic Fluctuations:** The creative industries can be sensitive to economic downturns, which may impact job availability.
+- **Technological Advancements:** Rapid advancements in technology, such as AI and automation, may change the landscape of design professions, requiring continuous learning and adaptation.
+- **Market Saturation:** The design field can be highly competitive, with many talented individuals vying for limited opportunities.
+
+Overall, the School of Design and Culture at HTW Berlin offers a robust education that prepares students for a dynamic and evolving job market, with a strong focus on creativity, innovation, and practical experience.
+
+---
+
 
 # Beuth University of Applied Sciences Berlin / Faculty of Architecture and Civil Engineering
 
-> **Matching Score - ChatGPT:** 9  
-> **Matching Score - Copilot:** 9
-> **Matching Reason: - ChatGPT:** This faculty is closely aligned with Barbora's interest in architecture and engineering, offering practical and creative programs.
-> **Matching Reason - Copilot:** The strong emphasis on practical projects and sustainable design aligns well with Barbora's preference for hands-on learning and real-world experience.
+> **Recommendation**
+> * Copilot: 9 / The strong emphasis on practical projects and sustainable design aligns well with Barbora's preference for hands-on learning and real-world experience.
+> * ChatGPT: 9 / This faculty is closely aligned with Barbora's interest in architecture and engineering, offering practical and creative programs.
 
 - **University Type:** Fachhochschule (University of Applied Sciences)
-- **Description:** Focuses on architecture, civil engineering, and building services, with a strong emphasis on sustainability and practical experience.
+- **Description:** Focuses on architecture, civil engineering, and building services, with a strong emphasis on sustainability and practical experience. The Faculty of Architecture and Civil Engineering at Beuth University integrates technical knowledge with creative design, preparing students for careers in various engineering and architectural fields[^1^](https://universitaet.com/en/universities/uni-profiles/beuth-university-of-applied-sciences-berlin).
 - **Subject:** Architecture and Civil Engineering
 - **City:** Berlin
 - **Admission Criteria:** General university entrance qualification (Abitur) or equivalent, participation in an aptitude test.
@@ -82,31 +193,52 @@
 - **Attendants:** Approximately 12,000 students.
 - **Average Rating:** 4.2/5.
 - **Best Rating Comment:** "Excellent facilities and strong industry connections."
-- **Cooperating Companies:** Siemens, Deutsche Bahn, and various architectural firms.
+- **Cooperating Companies:** Siemens, Deutsche Bahn, and various architectural firms[^2^](https://www.bht-berlin.de/en/4160).
 - **Dual Ausbildung:** Available in some programs.
 - **International Students Ratio:** Around 18%.
-- **Study Abroad Opportunities:** Partner universities include Politecnico di Milano, Delft University of Technology, and University of Edinburgh.
+- **Study Abroad Opportunities:** Partner universities include Politecnico di Milano, Delft University of Technology, and University of Edinburgh[^2^](https://www.bht-berlin.de/en/4160).
 - **Language of Instruction:** German, with some courses/modules offered in English.
 - **Global Ranking:** Well-regarded in architecture and engineering.
-- **Faculty Webpage:** Faculty of Architecture and Civil Engineering - Beuth University
+- **Faculty Webpage:** [Faculty of Architecture and Civil Engineering - Beuth University](https://www.bht-berlin.de/en/)
 
 **Study Programs:**
+- **Bachelor of Science in Architecture:** Covers architectural design, urban planning, and sustainable building practices[^3^](https://www.tu.berlin/en/planen-bauen-umwelt/architektur/architecture-bsc).
+- **Master of Science in Civil Engineering:** Advanced studies in structural engineering, construction management, and environmental engineering[^3^](https://www.tu.berlin/en/planen-bauen-umwelt/architektur/architecture-bsc).
+- **Bachelor of Engineering in Building Services:** Focuses on energy-efficient building systems, HVAC, and sustainable technologies[^3^](https://www.tu.berlin/en/planen-bauen-umwelt/architektur/architecture-bsc).
 
-- **Bachelor of Science in Architecture:** Covers architectural design, urban planning, and sustainable building practices.
-- **Master of Science in Civil Engineering:** Advanced studies in structural engineering, construction management, and environmental engineering.
-- **Bachelor of Engineering in Building Services:** Focuses on energy-efficient building systems, HVAC, and sustainable technologies.
+**Recommended Study Program for Barbora:**
+- **Bachelor of Science in Architecture:** This program combines technical knowledge with creative design, aligning well with Barbora's strengths in mathematics and physics, as well as her creative talents. The focus on sustainable building practices and urban planning will provide her with the skills needed for future-proof careers in architecture and design.
 
-* * *
+**Recommended Partnering School for Barbora:**
+- **Politecnico di Milano (Italy):** Known for its excellence in design and engineering, Politecnico di Milano offers a stimulating environment for interdisciplinary learning and creative development. The partnership with Beuth University provides opportunities for international exposure and collaboration with leading designers and engineers[^2^](https://www.bht-berlin.de/en/4160).
+
+**Future Job Prospects:**
+Graduates from the Faculty of Architecture and Civil Engineering at Beuth University are well-prepared for various roles in the architecture and construction industries. Potential career paths include:
+- **Architect:** Designing residential, commercial, and public buildings with a focus on sustainability and innovation.
+- **Civil Engineer:** Planning, designing, and overseeing construction projects, including infrastructure and transportation systems.
+- **Building Services Engineer:** Developing and maintaining energy-efficient building systems, including HVAC and electrical systems.
+- **Urban Planner:** Developing plans and programs for land use in urban areas, ensuring sustainable and efficient use of resources.
+
+**Competitiveness in the Future Job Market:**
+The emphasis on sustainable design and practical experience at Beuth University ensures that graduates are equipped with the skills needed to address contemporary challenges in architecture and civil engineering. The strong industry connections and international partnerships further enhance employability, providing graduates with a competitive edge in the global job market[^4^](https://www.tu.berlin/en/architektur).
+
+**Risks:**
+- **Economic Fluctuations:** The architecture and construction industries can be sensitive to economic downturns, which may impact job availability.
+- **Technological Advancements:** Rapid advancements in technology, such as AI and automation, may change the landscape of the architecture and engineering professions, requiring continuous learning and adaptation.
+- **Sustainability Challenges:** While there is a growing demand for sustainable design, it also requires staying updated with evolving regulations and standards, which can be challenging.
+
+Overall, the Faculty of Architecture and Civil Engineering at Beuth University offers a robust education that prepares students for a dynamic and evolving job market, with a strong focus on sustainability, innovation, and practical experience.
+
+---
 
 # University of Applied Sciences Europe (UE) / Faculty of Art & Design
 
-> **Matching Score - ChatGPT:** 9  
-> **Matching Score - Copilot:** 9
-> **Matching Reason: - ChatGPT:** This faculty is closely aligned with Barbora's interest in art and design, offering creative and interdisciplinary programs.
-> **Matching Reason - Copilot:** The strong emphasis on creative industries and practical projects aligns well with Barbora's preference for hands-on learning and creative expression.
+> **Recommendation**
+> * Copilot: 9 / The strong emphasis on creative industries and practical projects aligns well with Barbora's preference for hands-on learning and creative expression.
+> * ChatGPT: 9 / This faculty is closely aligned with Barbora's interest in art and design, offering creative and interdisciplinary programs.
 
 - **University Type:** Private University of Applied Sciences
-- **Description:** Offers programs in communication design, photography, illustration, and film, with a strong emphasis on creative industries and practical experience.
+- **Description:** Offers programs in communication design, photography, illustration, and film, with a strong emphasis on creative industries and practical experience. The Faculty of Art & Design at UE integrates artistic creativity with practical skills, preparing students for careers in various creative fields[^1^](https://www.ue-germany.com/about-us/team).
 - **Subject:** Art & Design
 - **City:** Berlin
 - **Admission Criteria:** General university entrance qualification (Abitur) or equivalent, portfolio submission.
@@ -114,62 +246,55 @@
 - **Attendants:** Approximately 1,500 students.
 - **Average Rating:** 4.3/5.
 - **Best Rating Comment:** "Excellent facilities and strong industry connections."
-- **Cooperating Companies:** Axel Springer, various design agencies, and creative startups.
+- **Cooperating Companies:** Axel Springer, various design agencies, and creative startups[^2^](https://www.ue-germany.com/locations/berlin).
 - **Dual Ausbildung:** Available in some programs.
 - **International Students Ratio:** Around 30%.
-- **Study Abroad Opportunities:** Partner universities include University of the Arts London, Politecnico di Milano, and Aalto University.
+- **Study Abroad Opportunities:** Partner universities include University of the Arts London, Politecnico di Milano, and Aalto University[^2^](https://www.ue-germany.com/locations/berlin).
 - **Language of Instruction:** English and German.
 - **Global Ranking:** Well-regarded in art and design.
-- **Faculty Webpage:** Faculty of Art & Design - UE
+- **Tuition Costs:**
+  - **EU Applicants:** From €854 monthly[^3^](https://www.ue-germany.com/study-with-us/fees-and-finance).
+  - **Non-EU Applicants:** From €12,000 yearly[^3^](https://www.ue-germany.com/study-with-us/fees-and-finance).
+- **Faculty Webpage:** [Faculty of Art & Design - UE](https://www.ue-germany.com/programmes/art-and-design)
 
 **Study Programs:**
+- **Bachelor of Arts in Communication Design:** Focuses on visual communication, graphic design, and media design[^2^](https://www.ue-germany.com/locations/berlin).
+- **Master of Arts in Photography:** Advanced studies in photographic techniques, visual storytelling, and digital imaging[^2^](https://www.ue-germany.com/locations/berlin).
+- **Bachelor of Arts in Film and Motion Design:** Covers film production, animation, and motion graphics[^2^](https://www.ue-germany.com/locations/berlin).
 
-- **Bachelor of Arts in Communication Design:** Focuses on visual communication, graphic design, and media design.
-- **Master of Arts in Photography:** Advanced studies in photographic techniques, visual storytelling, and digital imaging.
-- **Bachelor of Arts in Film and Motion Design:** Covers film production, animation, and motion graphics.
+**Recommended Study Program for Barbora:**
+- **Bachelor of Arts in Communication Design:** This program combines creativity with practical skills in visual communication and graphic design. It aligns well with Barbora's interest in visual storytelling and media design, providing a strong foundation for a career in the creative industries.
 
-* * *
+**Recommended Partnering School for Barbora:**
+- **University of the Arts London (UK):** Known for its excellence in art and design, the University of the Arts London offers a stimulating environment for interdisciplinary learning and creative development. The partnership with UE provides opportunities for international exposure and collaboration with leading designers and artists[^2^](https://www.ue-germany.com/locations/berlin).
 
-# University of Applied Sciences Europe (UE) / Faculty of Art & Design
+**Future Job Prospects:**
+Graduates from the Faculty of Art & Design at UE are well-prepared for various roles in the creative industries. Potential career paths include:
+- **Graphic Designer:** Creating visual content for print and digital media, including branding, advertising, and web design.
+- **Photographer:** Specializing in various fields such as fashion, editorial, and commercial photography.
+- **Film and Motion Designer:** Working in film production, animation, and motion graphics for media and entertainment industries.
+- **Art Director:** Leading creative projects in advertising, media, and entertainment industries.
 
-> **Matching Score - ChatGPT:** 9  
-> **Matching Score - Copilot:** 9
-> **Matching Reason: - ChatGPT:** This faculty is closely aligned with Barbora's interest in art and design, offering creative and interdisciplinary programs.
-> **Matching Reason - Copilot:** The strong emphasis on creative industries and practical projects aligns well with Barbora's preference for hands-on learning and creative expression.
+**Competitiveness in the Future Job Market:**
+The emphasis on creativity, interdisciplinary learning, and practical experience at UE ensures that graduates are equipped with the skills needed to thrive in the dynamic and evolving creative industries. The strong industry connections and international partnerships further enhance employability, providing graduates with a competitive edge in the global job market[^4^](https://www.ue-germany.com/).
 
-- **University Type:** Private University of Applied Sciences
-- **Description:** Offers programs in communication design, photography, illustration, and film, with a strong emphasis on creative industries and practical experience.
-- **Subject:** Art & Design
-- **City:** Berlin
-- **Admission Criteria:** General university entrance qualification (Abitur) or equivalent, portfolio submission.
-- **Admission Ratio:** Competitive.
-- **Attendants:** Approximately 1,500 students.
-- **Average Rating:** 4.3/5.
-- **Best Rating Comment:** "Excellent facilities and strong industry connections."
-- **Cooperating Companies:** Axel Springer, various design agencies, and creative startups.
-- **Dual Ausbildung:** Available in some programs.
-- **International Students Ratio:** Around 30%.
-- **Study Abroad Opportunities:** Partner universities include University of the Arts London, Politecnico di Milano, and Aalto University.
-- **Language of Instruction:** English and German.
-- **Global Ranking:** Well-regarded in art and design.
-- **Faculty Webpage:** [Faculty of Art & Design - UE](https://www.ue-germany.com/)
+**Risks:**
+- **Economic Fluctuations:** The creative industries can be sensitive to economic downturns, which may impact job availability.
+- **Technological Advancements:** Rapid advancements in technology, such as AI and automation, may change the landscape of design professions, requiring continuous learning and adaptation.
+- **Market Saturation:** The design field can be highly competitive, with many talented individuals vying for limited opportunities.
 
-**Study Programs:**
+Overall, the Faculty of Art & Design at UE offers a robust education that prepares students for a dynamic and evolving job market, with a strong focus on creativity, innovation, and practical experience.
 
-- **Bachelor of Arts in Communication Design:** Focuses on visual communication, graphic design, and media design.
-- **Master of Arts in Photography:** Advanced studies in photographic techniques, visual storytelling, and digital imaging.
-- **Bachelor of Arts in Film and Motion Design:** Covers film production, animation, and motion graphics.
-
-* * *
+---
 
 # Weißensee Academy of Art Berlin / Department of Design
 
-> **Matching Score - ChatGPT:** 8  
-> **Matching Score - Copilot:** 9 **Matching Reason - ChatGPT:** This department offers strong creative programs in design, aligning well with Barbora's artistic talents. However, it may be less focused on the engineering and technical aspects she also values.
-> **Matching Reason - Copilot:** The focus on practical and creative aspects of design, along with strong international partnerships, aligns well with Barbora's preferences.
+> **Recommendation**
+> * Copilot: 9 / The focus on practical and creative aspects of design, along with strong international partnerships, aligns well with Barbora's preferences.
+> * ChatGPT: 8 / This department offers strong creative programs in design, aligning well with Barbora's artistic talents. However, it may be less focused on the engineering and technical aspects she also values.
 
 - **University Type:** Kunsthochschule (Academy of Fine Arts)
-- **Description:** Focuses on the creative and practical aspects of design, including graphic, industrial, and digital design.
+- **Description:** Focuses on the creative and practical aspects of design, including graphic, industrial, and digital design. The Department of Design at Weißensee Academy of Art Berlin integrates artistic creativity with practical skills, preparing students for careers in various design fields[^1^](https://kh-berlin.de/en/academy/profile/weissensee-academy-of-art-berlin).
 - **Subject:** Design
 - **City:** Berlin
 - **Admission Criteria:** General university entrance qualification (Abitur) or equivalent, participation in an aptitude test.
@@ -177,23 +302,46 @@
 - **Attendants:** Approximately 800 students.
 - **Average Rating:** N/A
 - **Best Rating Comment:** N/A
-- **Cooperating Companies:** Various local and international companies through internships and projects.
+- **Cooperating Companies:** Various local and international companies through internships and projects[^1^](https://kh-berlin.de/en/academy/profile/weissensee-academy-of-art-berlin).
 - **Dual Ausbildung:** Not typically offered.
 - **International Students Ratio:** N/A
-- **Study Abroad Opportunities:** Partner universities include Rhode Island School of Design, Central Saint Martins, and École nationale supérieure des Arts Décoratifs[^1^](https://kh-berlin.de/en/studies/international/incoming-exchange-students)[^2^](https://kh-berlin.de/en/studies/international/exchange-programs).
+- **Study Abroad Opportunities:** Partner universities include Rhode Island School of Design, Central Saint Martins, and École nationale supérieure des Arts Décoratifs[^1^](https://kh-berlin.de/en/academy/profile/weissensee-academy-of-art-berlin).
 - **Language of Instruction:** German, with some courses/modules offered in English.
 - **Global Ranking:** Well-regarded in the field of arts and design.
 - **Faculty Webpage:** [Department of Design - Weißensee Academy of Art Berlin](https://kh-berlin.de/en/studies/applying-for-studies/ba-design-and-fine-art-programs)
 
 **Study Programs:**
+- **Bachelor of Arts in Fashion Design:** Focuses on fashion illustration, textile design, and garment construction[^1^](https://kh-berlin.de/en/academy/profile/weissensee-academy-of-art-berlin).
+- **Bachelor of Arts in Product Design:** Emphasizes product innovation, sustainable design, and material studies[^1^](https://kh-berlin.de/en/academy/profile/weissensee-academy-of-art-berlin).
+- **Bachelor of Arts in Textile and Surface Design:** Covers textile design, surface pattern design, and material innovation[^1^](https://kh-berlin.de/en/academy/profile/weissensee-academy-of-art-berlin).
+- **Bachelor of Arts in Visual Communication:** Focuses on graphic design, typography, and visual storytelling[^1^](https://kh-berlin.de/en/academy/profile/weissensee-academy-of-art-berlin).
+- **Master of Arts in Design:** Advanced studies in fashion design, product design, textile and surface design, and visual communication[^1^](https://kh-berlin.de/en/academy/profile/weissensee-academy-of-art-berlin).
 
-- **Bachelor of Arts in Fashion Design:** Focuses on fashion illustration, textile design, and garment construction.
-- **Bachelor of Arts in Product Design:** Emphasizes product innovation, sustainable design, and material studies.
-- **Bachelor of Arts in Textile and Surface Design:** Covers textile design, surface pattern design, and material innovation.
-- **Bachelor of Arts in Visual Communication:** Focuses on graphic design, typography, and visual storytelling.
-- **Master of Arts in Design:** Advanced studies in fashion design, product design, textile and surface design, and visual communication[^1^](https://kh-berlin.de/en/studies/international/incoming-exchange-students)[^2^](https://kh-berlin.de/en/studies/international/exchange-programs).
+**Recommended Study Program for Barbora:**
+- **Bachelor of Arts in Product Design:** This program combines creativity with practical skills in product innovation and sustainable design. It aligns well with Barbora's interest in sustainable practices and hands-on problem-solving, providing a strong foundation for a career in design and innovation.
 
-* * *
+**Recommended Partnering School for Barbora:**
+- **Rhode Island School of Design (USA):** Known for its excellence in design and innovation, Rhode Island School of Design offers a stimulating environment for interdisciplinary learning and creative development. The partnership with Weißensee Academy of Art Berlin provides opportunities for international exposure and collaboration with leading designers and artists[^1^](https://kh-berlin.de/en/academy/profile/weissensee-academy-of-art-berlin).
+
+**Future Job Prospects:**
+Graduates from the Department of Design at Weißensee Academy of Art Berlin are well-prepared for various roles in the creative industries. Potential career paths include:
+- **Product Designer:** Developing innovative products with a focus on functionality, aesthetics, and sustainability.
+- **Fashion Designer:** Designing clothing and accessories, working with fashion houses, or starting their own fashion label.
+- **Textile Designer:** Creating textile patterns and materials for fashion and interior design.
+- **Graphic Designer:** Creating visual content for print and digital media, including branding, advertising, and web design.
+
+**Competitiveness in the Future Job Market:**
+The emphasis on creativity, interdisciplinary learning, and practical experience at Weißensee Academy of Art Berlin ensures that graduates are equipped with the skills needed to thrive in the dynamic and evolving creative industries. The strong industry connections and international partnerships further enhance employability, providing graduates with a competitive edge in the global job market[^1^](https://kh-berlin.de/en/academy/profile/weissensee-academy-of-art-berlin).
+
+**Risks:**
+- **Economic Fluctuations:** The creative industries can be sensitive to economic downturns, which may impact job availability.
+- **Technological Advancements:** Rapid advancements in technology, such as AI and automation, may change the landscape of design professions, requiring continuous learning and adaptation.
+- **Market Saturation:** The design field can be highly competitive, with many talented individuals vying for limited opportunities.
+
+Overall, the Department of Design at Weißensee Academy of Art Berlin offers a robust education that prepares students for a dynamic and evolving job market, with a strong focus on creativity, innovation, and practical experience.
+
+---
+
 
 # Technische Universität Berlin (TU Berlin) / Faculty of Electrical Engineering and Computer Science
 

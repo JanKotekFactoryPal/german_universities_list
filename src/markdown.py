@@ -28,7 +28,7 @@ def generate_markdown(data):
     markdown = ""
     for faculty in faculties_list:
         markdown += f"# {faculty['name']}\n\n"
-        markdown += f"> **Matching Score:** {faculty['matching_score']} \n>\n"
+        markdown += f"> **Matching Score:** {faculty['matching_score']} \>\n"
         markdown += f"> **Matching Reason:** {faculty['matching_reason']}\n\n"
         markdown += f"- **University Type:** {faculty['university_type']}\n"
         markdown += f"- **Description:** {faculty['description']}\n"
