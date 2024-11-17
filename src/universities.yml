@@ -2,178 +2,204 @@ Fachhochschule_(University_of_Applied_Sciences):
   Berlin University of Applied Sciences (HTW Berlin):
     School of Design and Culture:
       City: BERLIN
-      Faculty: School of Design and Culture
+      Description: Focuses on the creative and practical aspects of design, including
+        graphic, industrial, and digital design.
       Subject: Design
     School of Economics:
       City: BERLIN
-      Faculty: School of Economics
+      Description: No description available.
       Subject: Unknown Subject
     School of Engineering:
       City: BERLIN
-      Faculty: School of Engineering
+      Description: Provides education in various engineering disciplines, including
+        mechanical, civil, and electrical engineering.
       Subject: Engineering
     School of Life Sciences:
       City: BERLIN
-      Faculty: School of Life Sciences
+      Description: Covers various fields of natural sciences, including physics, chemistry,
+        biology, and mathematics.
       Subject: Natural Sciences & Mathematics
   SRH University of Applied Sciences Berlin:
     Faculty of Engineering and Technology:
       City: BERLIN
-      Faculty: Faculty of Engineering and Technology
+      Description: Provides education in various engineering disciplines, including
+        mechanical, civil, and electrical engineering.
       Subject: Engineering
     Faculty of Management:
       City: BERLIN
-      Faculty: Faculty of Management
+      Description: Focuses on the fundamentals of business administration, management,
+        and finance.
       Subject: Business
     Faculty of Social Sciences:
       City: BERLIN
-      Faculty: Faculty of Social Sciences
+      Description: Explores the study of human society, including sociology, psychology,
+        and political science.
       Subject: Social Sciences
   Technical University of Applied Sciences Wildau:
     Faculty of Business, Computing and Law:
       City: BERLIN
-      Faculty: Faculty of Business, Computing and Law
+      Description: Covers legal studies, including civil law, criminal law, and international
+        law.
       Subject: Law
     Faculty of Engineering and Natural Sciences:
       City: BERLIN
-      Faculty: Faculty of Engineering and Natural Sciences
+      Description: Provides education in various engineering disciplines, including
+        mechanical, civil, and electrical engineering.
       Subject: Engineering
   University of Applied Sciences Potsdam:
     Faculty of Architecture and Urban Design:
       City: BERLIN
-      Faculty: Faculty of Architecture and Urban Design
+      Description: Focuses on the creative and practical aspects of design, including
+        graphic, industrial, and digital design.
       Subject: Design
     Faculty of Civil Engineering:
       City: BERLIN
-      Faculty: Faculty of Civil Engineering
+      Description: Provides education in various engineering disciplines, including
+        mechanical, civil, and electrical engineering.
       Subject: Engineering
     Faculty of Design:
       City: BERLIN
-      Faculty: Faculty of Design
+      Description: Focuses on the creative and practical aspects of design, including
+        graphic, industrial, and digital design.
       Subject: Design
     Faculty of Social and Educational Sciences:
       City: BERLIN
-      Faculty: Faculty of Social and Educational Sciences
+      Description: Covers various fields of natural sciences, including physics, chemistry,
+        biology, and mathematics.
       Subject: Natural Sciences & Mathematics
 Kunsthochschule_(Academy_of_Fine_Arts):
   Berlin University of the Arts (UdK):
     Faculty of Design:
       City: BERLIN
-      Faculty: Faculty of Design
+      Description: Focuses on the creative and practical aspects of design, including
+        graphic, industrial, and digital design.
       Subject: Design
     Faculty of Fine Arts:
       City: BERLIN
-      Faculty: Faculty of Fine Arts
+      Description: No description available.
       Subject: Arts
     Faculty of Music:
       City: BERLIN
-      Faculty: Faculty of Music
+      Description: No description available.
       Subject: Unknown Subject
     Faculty of Performing Arts:
       City: BERLIN
-      Faculty: Faculty of Performing Arts
+      Description: No description available.
       Subject: Arts
   "Wei\xDFensee Academy of Art Berlin":
     Department of Design:
       City: BERLIN
-      Faculty: Department of Design
+      Description: Focuses on the creative and practical aspects of design, including
+        graphic, industrial, and digital design.
       Subject: Design
     Department of Fine Arts:
       City: BERLIN
-      Faculty: Department of Fine Arts
+      Description: No description available.
       Subject: Arts
 Musikhochschule_(Academy_of_Music):
   Hanns Eisler School of Music Berlin:
     Department of Conducting:
       City: BERLIN
-      Faculty: Department of Conducting
+      Description: No description available.
       Subject: Unknown Subject
     Department of Instrumental Studies:
       City: BERLIN
-      Faculty: Department of Instrumental Studies
+      Description: No description available.
       Subject: Unknown Subject
     Department of Music Theory and Composition:
       City: BERLIN
-      Faculty: Department of Music Theory and Composition
+      Description: No description available.
       Subject: Unknown Subject
     Department of Vocal Studies:
       City: BERLIN
-      Faculty: Department of Vocal Studies
+      Description: No description available.
       Subject: Unknown Subject
 "Privatuniversit\xE4t_(Private_University)":
   Bard College Berlin:
     Department of Humanities:
       City: BERLIN
-      Faculty: Department of Humanities
+      Description: No description available.
       Subject: Unknown Subject
     Department of Social Sciences:
       City: BERLIN
-      Faculty: Department of Social Sciences
+      Description: Explores the study of human society, including sociology, psychology,
+        and political science.
       Subject: Social Sciences
   Hertie School of Governance:
     Department of International Affairs:
       City: BERLIN
-      Faculty: Department of International Affairs
+      Description: No description available.
       Subject: Unknown Subject
     Department of Public Policy:
       City: BERLIN
-      Faculty: Department of Public Policy
+      Description: No description available.
       Subject: Unknown Subject
   Steinbeis University Berlin:
     Faculty of Business and Economics:
       City: BERLIN
-      Faculty: Faculty of Business and Economics
+      Description: Focuses on the fundamentals of business administration, management,
+        and finance.
       Subject: Business
     Faculty of Engineering and Technology:
       City: BERLIN
-      Faculty: Faculty of Engineering and Technology
+      Description: Provides education in various engineering disciplines, including
+        mechanical, civil, and electrical engineering.
       Subject: Engineering
 "Technische_Universit\xE4t_(Technical_University)":
   Brandenburg University of Technology Cottbus-Senftenberg:
     Faculty of Business, Law and Social Sciences:
       City: BERLIN
-      Faculty: Faculty of Business, Law and Social Sciences
+      Description: Covers legal studies, including civil law, criminal law, and international
+        law.
       Subject: Law
     Faculty of Engineering:
       City: BERLIN
-      Faculty: Faculty of Engineering
+      Description: Provides education in various engineering disciplines, including
+        mechanical, civil, and electrical engineering.
       Subject: Engineering
     Faculty of Health Sciences:
       City: BERLIN
-      Faculty: Faculty of Health Sciences
+      Description: Covers various fields of natural sciences, including physics, chemistry,
+        biology, and mathematics.
       Subject: Natural Sciences & Mathematics
     Faculty of Natural Sciences:
       City: BERLIN
-      Faculty: Faculty of Natural Sciences
+      Description: Covers various fields of natural sciences, including physics, chemistry,
+        biology, and mathematics.
       Subject: Natural Sciences & Mathematics
   "Technische Universit\xE4t Berlin (TU Berlin)":
     Faculty of Economics and Management:
       City: BERLIN
-      Faculty: Faculty of Economics and Management
+      Description: Focuses on the fundamentals of business administration, management,
+        and finance.
       Subject: Business
     Faculty of Electrical Engineering and Computer Science:
       City: BERLIN
-      Faculty: Faculty of Electrical Engineering and Computer Science
+      Description: Provides education in various engineering disciplines, including
+        mechanical, civil, and electrical engineering.
       Subject: Engineering
     Faculty of Humanities:
       City: BERLIN
-      Faculty: Faculty of Humanities
+      Description: No description available.
       Subject: Unknown Subject
     Faculty of Mathematics and Natural Sciences:
       City: BERLIN
-      Faculty: Faculty of Mathematics and Natural Sciences
+      Description: Covers various fields of natural sciences, including physics, chemistry,
+        biology, and mathematics.
       Subject: Natural Sciences & Mathematics
     Faculty of Mechanical Engineering and Transport Systems:
       City: BERLIN
-      Faculty: Faculty of Mechanical Engineering and Transport Systems
+      Description: Provides education in various engineering disciplines, including
+        mechanical, civil, and electrical engineering.
       Subject: Engineering
     Faculty of Planning Building Environment:
       City: BERLIN
-      Faculty: Faculty of Planning Building Environment
+      Description: No description available.
       Subject: Unknown Subject
     Faculty of Process Sciences:
       City: BERLIN
-      Faculty: Faculty of Process Sciences
+      Description: Covers various fields of natural sciences, including physics, chemistry,
+        biology, and mathematics.
       Subject: Natural Sciences & Mathematics
 "Universit\xE4t_(University)":
   "Freie Universit\xE4t Berlin (FU Berlin)":
@@ -182,165 +208,118 @@ Musikhochschule_(Academy_of_Music):
       City: BERLIN
       Description: Specializes in biological sciences, chemistry, and pharmaceutical
         studies.
-      Faculty: Department of Biology, Chemistry, and Pharmacy
       Subject: Unknown Subject
     Department of Earth Sciences:
       Address: Malteserstr. 74-100, 12249 Berlin
       City: BERLIN
       Description: Researches geosciences, climate change, and environmental systems.
-      Faculty: Department of Earth Sciences
       Subject: Natural Sciences & Mathematics
     Department of Education and Psychology:
       Address: Habelschwerdter Allee 45, 14195 Berlin
       City: BERLIN
       Description: Focuses on psychology, education sciences, and human behavior studies.
-      Faculty: Department of Education and Psychology
       Subject: Unknown Subject
     Department of History and Cultural Studies:
       Address: Koserstr. 20, 14195 Berlin
       City: BERLIN
       Description: Covers historical research, archaeology, and cultural analysis.
-      Faculty: Department of History and Cultural Studies
       Subject: Unknown Subject
     Department of Law:
       Address: "Van\u2019t-Hoff-Str. 8, 14195 Berlin"
       City: BERLIN
       Description: Provides comprehensive legal education across national and international
         law.
-      Faculty: Department of Law
       Subject: Law
     Department of Mathematics and Computer Science:
       Address: "K\xF6nigin-Luise-Str. 24-26, 14195 Berlin"
       City: BERLIN
       Description: Focuses on mathematics, informatics, and theoretical computing
         systems.
-      Faculty: Department of Mathematics and Computer Science
       Subject: Natural Sciences & Mathematics
     Department of Philosophy and Humanities:
       Address: Habelschwerdter Allee 45, 14195 Berlin
       City: BERLIN
       Description: Engages in philosophical research and interdisciplinary humanities.
-      Faculty: Department of Philosophy and Humanities
       Subject: Unknown Subject
     Department of Physics:
       Address: Arnimallee 14, 14195 Berlin
       City: BERLIN
       Description: Conducts research in physics and its applications.
-      Faculty: Department of Physics
       Subject: Unknown Subject
     Department of Political and Social Sciences:
       Address: Ihnestr. 22, 14195 Berlin
       City: BERLIN
       Description: Analyzes political systems, governance, and international relations.
-      Faculty: Department of Political and Social Sciences
       Subject: Social Sciences
     Department of Veterinary Medicine:
       Address: Oertzenweg 19b, 14163 Berlin
       City: BERLIN
       Description: Dedicated to veterinary medicine and animal sciences.
-      Faculty: Department of Veterinary Medicine
       Subject: Medicine & Health
-  Humboldt University of Berlin:
-    Faculty of Arts and Humanities:
-      Address: Unter den Linden 6, 10099 Berlin
-      City: Berlin
-      Description: Focuses on literature, languages, history, philosophy, and cultural
-        studies.
-      Subject: Humanities
-    Faculty of Law:
-      Address: Bebelplatz 2, 10099 Berlin
-      City: Berlin
-      Description: Covers legal studies, including civil law, criminal law, and international
-        law.
-      Subject: Law
-    Faculty of Life Sciences:
-      Address: Philippstr. 13, 10115 Berlin
-      City: Berlin
-      Description: Dedicated to biology, biochemistry, and environmental sciences.
-      Subject: Life Sciences
-    Faculty of Mathematics and Natural Sciences:
-      Address: Rudower Chaussee 25, 12489 Berlin
-      City: Berlin
-      Description: Offers mathematics, physics, chemistry, and interdisciplinary scientific
-        research.
-      Subject: Natural Sciences & Mathematics
-    "Faculty of Medicine (Charit\xE9 \u2013 Universit\xE4tsmedizin Berlin)":
-      Address: "Charit\xE9platz 1, 10117 Berlin"
-      City: Berlin
-      Description: "One of Europe\u2019s leading medical faculties, partnered with\
-        \ Charit\xE9 for medical training."
-      Subject: Medicine & Health
-    Faculty of Social Sciences:
-      Address: Friedrichstr. 191, 10117 Berlin
-      City: Berlin
-      Description: Explores sociology, political science, and interdisciplinary social
-        research.
-      Subject: Social Sciences
   Humboldt University of Berlin (HU Berlin):
     Faculty of Arts and Humanities:
       Address: Unter den Linden 6, 10099 Berlin
       City: BERLIN
       Description: Focuses on literature, languages, history, philosophy, and cultural
         studies.
-      Faculty: Faculty of Arts and Humanities
       Subject: Arts
     Faculty of Law:
       Address: Bebelplatz 2, 10099 Berlin
       City: BERLIN
       Description: Covers legal studies, including civil law, criminal law, and international
         law.
-      Faculty: Faculty of Law
       Subject: Law
     Faculty of Life Sciences:
       Address: Philippstr. 13, 10115 Berlin
       City: BERLIN
       Description: Dedicated to biology, biochemistry, and environmental sciences.
-      Faculty: Faculty of Life Sciences
       Subject: Natural Sciences & Mathematics
     Faculty of Mathematics and Natural Sciences:
       Address: Rudower Chaussee 25, 12489 Berlin
       City: BERLIN
       Description: Offers mathematics, physics, chemistry, and interdisciplinary scientific
         research.
-      Faculty: Faculty of Mathematics and Natural Sciences
       Subject: Natural Sciences & Mathematics
-    "Faculty of Medicine (Charit\xE9 \u2013 Universit\xE4tsmedizin Berlin)":
+    Faculty of Medicine (Charit  Universittsmedizin Berlin):
       Address: "Charit\xE9platz 1, 10117 Berlin"
       City: BERLIN
       Description: "One of Europe\u2019s leading medical faculties, partnered with\
         \ Charit\xE9 for medical training."
-      Faculty: "Faculty of Medicine (Charit\xE9 \u2013 Universit\xE4tsmedizin Berlin)"
+      Faculty: Faculty of Medicine (Charit  Universittsmedizin Berlin)
       Subject: Medicine & Health
     Faculty of Social Sciences:
       Address: Friedrichstr. 191, 10117 Berlin
       City: BERLIN
       Description: Explores sociology, political science, and interdisciplinary social
         research.
-      Faculty: Faculty of Social Sciences
       Subject: Social Sciences
   University of Potsdam:
     Faculty of Economics and Social Sciences:
       City: BERLIN
-      Faculty: Faculty of Economics and Social Sciences
+      Description: Explores the study of human society, including sociology, psychology,
+        and political science.
       Subject: Social Sciences
     Faculty of Education:
       City: BERLIN
-      Faculty: Faculty of Education
+      Description: No description available.
       Subject: Unknown Subject
     Faculty of Humanities:
       City: BERLIN
-      Faculty: Faculty of Humanities
+      Description: No description available.
       Subject: Unknown Subject
     Faculty of Law:
       City: BERLIN
-      Faculty: Faculty of Law
+      Description: Covers legal studies, including civil law, criminal law, and international
+        law.
       Subject: Law
     Faculty of Science:
       City: BERLIN
-      Faculty: Faculty of Science
+      Description: Covers various fields of natural sciences, including physics, chemistry,
+        biology, and mathematics.
       Subject: Natural Sciences & Mathematics
   Unknown University:
     Faculties:
+      Description: No description available.
       Faculty of Biology, Chemistry, and Pharmacy:
         City: Berlin
         Subject: Natural Sciences & Mathematics
@@ -352,30 +331,33 @@ Wirtschaftshochschule_(Business_School):
   Berlin School of Economics and Law (HWR Berlin):
     Department of Business and Economics:
       City: BERLIN
-      Faculty: Department of Business and Economics
+      Description: Focuses on the fundamentals of business administration, management,
+        and finance.
       Subject: Business
     Department of Legal Studies:
       City: BERLIN
-      Faculty: Department of Legal Studies
+      Description: No description available.
       Subject: Unknown Subject
     Department of Police and Security Management:
       City: BERLIN
-      Faculty: Department of Police and Security Management
+      Description: Focuses on the fundamentals of business administration, management,
+        and finance.
       Subject: Business
     Department of Public Administration:
       City: BERLIN
-      Faculty: Department of Public Administration
+      Description: No description available.
       Subject: Unknown Subject
   European School of Management and Technology (ESMT Berlin):
     Department of Finance:
       City: BERLIN
-      Faculty: Department of Finance
+      Description: No description available.
       Subject: Unknown Subject
     Department of Innovation and Entrepreneurship:
       City: BERLIN
-      Faculty: Department of Innovation and Entrepreneurship
+      Description: No description available.
       Subject: Unknown Subject
     Department of Management:
       City: BERLIN
-      Faculty: Department of Management
+      Description: Focuses on the fundamentals of business administration, management,
+        and finance.
       Subject: Business
