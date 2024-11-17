@@ -1,5 +1,4 @@
-Universität:
-  name-en: University
+Universität_(University):
   schools:
     - Humboldt_University_of_Berlin_(HU_Berlin):
         - Faculty_of_Arts_and_Humanities
@@ -20,8 +19,7 @@ Universität:
         - Department_of_Political_and_Social_Sciences
         - Department_of_Veterinary_Medicine
 
-Technische_Universität:
-  name-en: Technical University
+Technische_Universität_(Technical_University):
   schools:
     - Technische_Universität_Berlin_(TU_Berlin):
         - Faculty_of_Electrical_Engineering_and_Computer_Science
@@ -32,8 +30,7 @@ Technische_Universität:
         - Faculty_of_Planning_Building_Environment
         - Faculty_of_Process_Sciences
 
-Kunsthochschule:
-  name-en: Academy_of_Fine_Arts
+Kunsthochschule_(Academy_of_Fine_Arts):
   schools:
     - Berlin_University_of_the_Arts_(UdK):
         - Faculty_of_Fine_Arts
@@ -41,8 +38,7 @@ Kunsthochschule:
         - Faculty_of_Music
         - Faculty_of_Performing_Arts
 
-Wirtschaftshochschule:
-  name-en: Business School
+Wirtschaftshochschule_(Business_School):
   schools:
     - Berlin_School_of_Economics_and_Law_(HWR_Berlin):
         - Department_of_Business_and_Economics
