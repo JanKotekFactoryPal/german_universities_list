@@ -16,6 +16,22 @@ def generate_graphml(data):
     create_node(graph, "Enumerations_Subjects", "Enumerations.Subjects", "rectangle", "#FF9999")
     create_node(graph, "Enumerations_Cities", "Enumerations.Cities", "rectangle", "#FF9999")
 
+    subjects = {}
+    cities = {}
+
+    # Load enumerations from YAML
+    for subject in data['Enumerations']['Subjects']:
+        subject_node_id = f"Subject_{subject.replace(' ', '_')}"
+        create_node(graph, subject_node_id, subject, "ellipse", "#FF9999")
+        graph.add_edge(subject_node_id, "Enumerations_Subjects")
+        subjects[subject] = subject_node_id
+
+    for city in data['Enumerations']['Cities']:
+        city_node_id = f"City_{city.replace(' ', '_')}"
+        create_node(graph, city_node_id, city, "ellipse", "#99FF99")
+        graph.add_edge(city_node_id, "Enumerations_Cities")
+        cities[city] = city_node_id
+
     for uni_type, universities in data['Universities_in_Berlin'].items():
         for university in universities:
             uni_name = university['Name']
@@ -31,16 +47,12 @@ def generate_graphml(data):
                 graph.add_edge(uni_node_id, faculty_node_id)
 
                 # Create edges between faculty's subject and Enumerations.Subjects
-                subject_node_id = f"Subject_{faculty['Subject'].replace(' ', '_')}"
-                create_node(graph, subject_node_id, faculty['Subject'], "ellipse", "#FF9999")
+                subject_node_id = subjects[faculty['Subject']]
                 graph.add_edge(faculty_node_id, subject_node_id)
-                graph.add_edge(subject_node_id, "Enumerations_Subjects")
 
                 # Create edges between faculty's city and Enumerations.Cities
-                city_node_id = f"City_{faculty['City'].replace(' ', '_')}"
-                create_node(graph, city_node_id, faculty['City'], "ellipse", "#99FF99")
+                city_node_id = cities[faculty['City']]
                 graph.add_edge(faculty_node_id, city_node_id)
-                graph.add_edge(city_node_id, "Enumerations_Cities")
 
     return graph
 
