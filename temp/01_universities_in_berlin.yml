@@ -59,94 +59,198 @@ Universities_in_Berlin:
     - Name: University of Potsdam
       Faculties:
         - Faculty: Faculty of Humanities
+          Address: Address not provided. Please refer to the university's website for location details.
+          Description: No description available for this faculty. Please refer to the university's website for more details.
         - Faculty: Faculty of Economics and Social Sciences
+          Address: Address not provided. Please refer to the university's website for location details.
+          Description: No description available for this faculty. Please refer to the university's website for more details.
         - Faculty: Faculty of Science
+          Address: Address not provided. Please refer to the university's website for location details.
+          Description: No description available for this faculty. Please refer to the university's website for more details.
         - Faculty: Faculty of Law
+          Address: Address not provided. Please refer to the university's website for location details.
+          Description: No description available for this faculty. Please refer to the university's website for more details.
         - Faculty: Faculty of Education
+          Address: Address not provided. Please refer to the university's website for location details.
+          Description: No description available for this faculty. Please refer to the university's website for more details.
 
   Technische_Universität_(Technical_University):
     - Name: Technische Universität Berlin (TU Berlin)
       Faculties:
         - Faculty: Faculty of Electrical Engineering and Computer Science
+          Address: Address not provided. Please refer to the university's website for location details.
+          Description: No description available for this faculty. Please refer to the university's website for more details.
         - Faculty: Faculty of Economics and Management
+          Address: Address not provided. Please refer to the university's website for location details.
+          Description: No description available for this faculty. Please refer to the university's website for more details.
         - Faculty: Faculty of Humanities
+          Address: Address not provided. Please refer to the university's website for location details.
+          Description: No description available for this faculty. Please refer to the university's website for more details.
         - Faculty: Faculty of Mathematics and Natural Sciences
+          Address: Address not provided. Please refer to the university's website for location details.
+          Description: No description available for this faculty. Please refer to the university's website for more details.
         - Faculty: Faculty of Mechanical Engineering and Transport Systems
+          Address: Address not provided. Please refer to the university's website for location details.
+          Description: No description available for this faculty. Please refer to the university's website for more details.
         - Faculty: Faculty of Planning Building Environment
+          Address: Address not provided. Please refer to the university's website for location details.
+          Description: No description available for this faculty. Please refer to the university's website for more details.
         - Faculty: Faculty of Process Sciences
+          Address: Address not provided. Please refer to the university's website for location details.
+          Description: No description available for this faculty. Please refer to the university's website for more details.
     - Name: Brandenburg University of Technology Cottbus-Senftenberg
       Faculties:
         - Faculty: Faculty of Business, Law and Social Sciences
+          Address: Address not provided. Please refer to the university's website for location details.
+          Description: No description available for this faculty. Please refer to the university's website for more details.
         - Faculty: Faculty of Health Sciences
+          Address: Address not provided. Please refer to the university's website for location details.
+          Description: No description available for this faculty. Please refer to the university's website for more details.
         - Faculty: Faculty of Engineering
+          Address: Address not provided. Please refer to the university's website for location details.
+          Description: No description available for this faculty. Please refer to the university's website for more details.
         - Faculty: Faculty of Natural Sciences
+          Address: Address not provided. Please refer to the university's website for location details.
+          Description: No description available for this faculty. Please refer to the university's website for more details.
 
   Fachhochschule_(University_of_Applied_Sciences):
     - Name: Berlin University of Applied Sciences (HTW Berlin)
       Faculties:
         - Faculty: School of Engineering
+          Address: Address not provided. Please refer to the university's website for location details.
+          Description: No description available for this faculty. Please refer to the university's website for more details.
         - Faculty: School of Economics
+          Address: Address not provided. Please refer to the university's website for location details.
+          Description: No description available for this faculty. Please refer to the university's website for more details.
         - Faculty: School of Design and Culture
+          Address: Address not provided. Please refer to the university's website for location details.
+          Description: No description available for this faculty. Please refer to the university's website for more details.
         - Faculty: School of Life Sciences
+          Address: Address not provided. Please refer to the university's website for location details.
+          Description: No description available for this faculty. Please refer to the university's website for more details.
     - Name: Technical University of Applied Sciences Wildau
       Faculties:
         - Faculty: Faculty of Engineering and Natural Sciences
+          Address: Address not provided. Please refer to the university's website for location details.
+          Description: No description available for this faculty. Please refer to the university's website for more details.
         - Faculty: Faculty of Business, Computing and Law
+          Address: Address not provided. Please refer to the university's website for location details.
+          Description: No description available for this faculty. Please refer to the university's website for more details.
     - Name: University of Applied Sciences Potsdam
       Faculties:
         - Faculty: Faculty of Architecture and Urban Design
+          Address: Address not provided. Please refer to the university's website for location details.
+          Description: No description available for this faculty. Please refer to the university's website for more details.
         - Faculty: Faculty of Civil Engineering
+          Address: Address not provided. Please refer to the university's website for location details.
+          Description: No description available for this faculty. Please refer to the university's website for more details.
         - Faculty: Faculty of Design
+          Address: Address not provided. Please refer to the university's website for location details.
+          Description: No description available for this faculty. Please refer to the university's website for more details.
         - Faculty: Faculty of Social and Educational Sciences
+          Address: Address not provided. Please refer to the university's website for location details.
+          Description: No description available for this faculty. Please refer to the university's website for more details.
     - Name: SRH University of Applied Sciences Berlin
       Faculties:
         - Faculty: Faculty of Management
+          Address: Address not provided. Please refer to the university's website for location details.
+          Description: No description available for this faculty. Please refer to the university's website for more details.
         - Faculty: Faculty of Engineering and Technology
+          Address: Address not provided. Please refer to the university's website for location details.
+          Description: No description available for this faculty. Please refer to the university's website for more details.
         - Faculty: Faculty of Social Sciences
+          Address: Address not provided. Please refer to the university's website for location details.
+          Description: No description available for this faculty. Please refer to the university's website for more details.
 
   Kunsthochschule_(Academy_of_Fine_Arts):
     - Name: Berlin University of the Arts (UdK)
       Faculties:
         - Faculty: Faculty of Fine Arts
+          Address: Address not provided. Please refer to the university's website for location details.
+          Description: No description available for this faculty. Please refer to the university's website for more details.
         - Faculty: Faculty of Design
+          Address: Address not provided. Please refer to the university's website for location details.
+          Description: No description available for this faculty. Please refer to the university's website for more details.
         - Faculty: Faculty of Music
+          Address: Address not provided. Please refer to the university's website for location details.
+          Description: No description available for this faculty. Please refer to the university's website for more details.
         - Faculty: Faculty of Performing Arts
+          Address: Address not provided. Please refer to the university's website for location details.
+          Description: No description available for this faculty. Please refer to the university's website for more details.
     - Name: Weißensee Academy of Art Berlin
       Faculties:
         - Faculty: Department of Fine Arts
+          Address: Address not provided. Please refer to the university's website for location details.
+          Description: No description available for this faculty. Please refer to the university's website for more details.
         - Faculty: Department of Design
+          Address: Address not provided. Please refer to the university's website for location details.
+          Description: No description available for this faculty. Please refer to the university's website for more details.
 
   Musikhochschule_(Academy_of_Music):
     - Name: Hanns Eisler School of Music Berlin
       Faculties:
         - Faculty: Department of Vocal Studies
+          Address: Address not provided. Please refer to the university's website for location details.
+          Description: No description available for this faculty. Please refer to the university's website for more details.
         - Faculty: Department of Instrumental Studies
+          Address: Address not provided. Please refer to the university's website for location details.
+          Description: No description available for this faculty. Please refer to the university's website for more details.
         - Faculty: Department of Conducting
+          Address: Address not provided. Please refer to the university's website for location details.
+          Description: No description available for this faculty. Please refer to the university's website for more details.
         - Faculty: Department of Music Theory and Composition
+          Address: Address not provided. Please refer to the university's website for location details.
+          Description: No description available for this faculty. Please refer to the university's website for more details.
 
   Wirtschaftshochschule_(Business_School):
     - Name: Berlin School of Economics and Law (HWR Berlin)
       Faculties:
         - Faculty: Department of Business and Economics
+          Address: Address not provided. Please refer to the university's website for location details.
+          Description: No description available for this faculty. Please refer to the university's website for more details.
         - Faculty: Department of Public Administration
+          Address: Address not provided. Please refer to the university's website for location details.
+          Description: No description available for this faculty. Please refer to the university's website for more details.
         - Faculty: Department of Legal Studies
+          Address: Address not provided. Please refer to the university's website for location details.
+          Description: No description available for this faculty. Please refer to the university's website for more details.
         - Faculty: Department of Police and Security Management
+          Address: Address not provided. Please refer to the university's website for location details.
+          Description: No description available for this faculty. Please refer to the university's website for more details.
     - Name: European School of Management and Technology (ESMT Berlin)
       Faculties:
         - Faculty: Department of Management
+          Address: Address not provided. Please refer to the university's website for location details.
+          Description: No description available for this faculty. Please refer to the university's website for more details.
         - Faculty: Department of Innovation and Entrepreneurship
+          Address: Address not provided. Please refer to the university's website for location details.
+          Description: No description available for this faculty. Please refer to the university's website for more details.
         - Faculty: Department of Finance
+          Address: Address not provided. Please refer to the university's website for location details.
+          Description: No description available for this faculty. Please refer to the university's website for more details.
 
   Privatuniversität_(Private_University):
     - Name: Hertie School of Governance
       Faculties:
         - Faculty: Department of Public Policy
+          Address: Address not provided. Please refer to the university's website for location details.
+          Description: No description available for this faculty. Please refer to the university's website for more details.
         - Faculty: Department of International Affairs
+          Address: Address not provided. Please refer to the university's website for location details.
+          Description: No description available for this faculty. Please refer to the university's website for more details.
     - Name: Bard College Berlin
       Faculties:
         - Faculty: Department of Humanities
+          Address: Address not provided. Please refer to the university's website for location details.
+          Description: No description available for this faculty. Please refer to the university's website for more details.
         - Faculty: Department of Social Sciences
+          Address: Address not provided. Please refer to the university's website for location details.
+          Description: No description available for this faculty. Please refer to the university's website for more details.
     - Name: Steinbeis University Berlin
       Faculties:
         - Faculty: Faculty of Business and Economics
+          Address: Address not provided. Please refer to the university's website for location details.
+          Description: No description available for this faculty. Please refer to the university's website for more details.
         - Faculty: Faculty of Engineering and Technology
+          Address: Address not provided. Please refer to the university's website for location details.
+          Description: No description available for this faculty. Please refer to the university's website for more details.
