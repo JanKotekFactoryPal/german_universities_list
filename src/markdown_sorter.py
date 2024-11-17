@@ -1,31 +1,15 @@
 import re
 
-def extract_faculties(markdown_content):
-    faculties = []
-    pattern = re.compile(r'(# .+?)(?=\n# |\Z)', re.DOTALL)
-    matches = pattern.findall(markdown_content)
-    for match in matches:
-        copilot_score = int(re.search(r'\*\*Matching Score - Copilot:\*\* (\d+)', match).group(1))
-        chatgpt_score = int(re.search(r'\*\*Matching Score - ChatGPT:\*\* (\d+)', match).group(1))
-        faculties.append((copilot_score, chatgpt_score, match))
-    return faculties
-
-def sort_faculties(faculties):
-    return sorted(faculties, key=lambda x: (x[0], x[1]), reverse=True)
-
-def generate_sorted_markdown(faculties):
-    sorted_markdown = ""
-    for _, _, faculty in faculties:
-        sorted_markdown += faculty + "\n\n"
-    return sorted_markdown
+def merge_scores_and_reasons(markdown_content):
+    pattern = re.compile(r'> \*\*Matching Score - (ChatGPT|Copilot):\*\* (\d+)\n> \*\*Matching Reason - \1:\*\* (.+)')
+    merged_content = pattern.sub(r'> [Matching Score - \1]: \2 Matching Reason - \1: \3', markdown_content)
+    return merged_content
 
 if __name__ == "__main__":
-    with open('universities_final.md', 'r', encoding='utf-8') as file:
+    with open('universities_final_sorted.md', 'r', encoding='utf-8') as file:
         markdown_content = file.read()
 
-    faculties = extract_faculties(markdown_content)
-    sorted_faculties = sort_faculties(faculties)
-    sorted_markdown_content = generate_sorted_markdown(sorted_faculties)
+    merged_markdown_content = merge_scores_and_reasons(markdown_content)
 
-    with open('universities_final_sorted.md', 'w', encoding='utf-8') as file:
-        file.write(sorted_markdown_content)
+    with open('universities_final_sorted2.md', 'w', encoding='utf-8') as file:
+        file.write(merged_markdown_content)

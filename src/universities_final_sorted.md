@@ -1,8 +1,9 @@
+## Universities for Barbora
+
 # Berlin University of the Arts (UdK) / Faculty of Design
 
-> **Matching Score - ChatGPT:** 8
-> **Matching Score - Copilot:** 10
-> **Matching Reason - ChatGPT:** While this faculty emphasizes design, it is more art-focused. Barbora’s love for creativity will be satisfied here, but the more hands-on technical aspects may be less emphasized compared to other faculties.
+> **Matching Score - ChatGPT:** 8  
+> **Matching Score - Copilot:** 10 **Matching Reason - ChatGPT:** While this faculty emphasizes design, it is more art-focused. Barbora’s love for creativity will be satisfied here, but the more hands-on technical aspects may be less emphasized compared to other faculties.
 > **Matching Reason - Copilot:** The strong emphasis on creativity, practical projects, and international partnerships makes this faculty an excellent fit for Barbora's interests and career goals.
 
 - **University Type:** Kunsthochschule (Academy of Fine Arts)
@@ -23,20 +24,19 @@
 - **Faculty Webpage:** [Faculty of Design - UdK](https://www.udk-berlin.de/en/)
 
 **Study Programs:**
+
 - **Bachelor of Arts in Visual Communication:** Focuses on graphic design, typography, and visual storytelling.
 - **Bachelor of Arts in Product Design:** Emphasizes industrial design, material innovation, and sustainable practices.
 - **Bachelor of Arts in Fashion Design:** Covers fashion illustration, textile design, and garment construction.
 - **Master of Arts in Visual Communication:** Advanced studies in visual communication, branding, and digital media.
 - **Master of Arts in Product Design:** Specializations in product innovation, user-centered design, and sustainable practices.
 
----
-
+* * *
 
 # Berlin University of Applied Sciences (HTW Berlin) / School of Design and Culture
 
-> **Matching Score - ChatGPT:** 9
-> **Matching Score - Copilot:** 9
-> **Matching Reason - ChatGPT:** This faculty aligns closely with Barbora's strong interest in design, architecture, and creativity. It offers practical, hands-on learning and emphasizes real-world experience, while still incorporating the technical aspects of the design process.
+> **Matching Score - ChatGPT:** 9  
+> **Matching Score - Copilot:** 9 **Matching Reason - ChatGPT:** This faculty aligns closely with Barbora's strong interest in design, architecture, and creativity. It offers practical, hands-on learning and emphasizes real-world experience, while still incorporating the technical aspects of the design process.
 > **Matching Reason - Copilot:** The strong emphasis on practical projects and industry connections aligns well with Barbora's preference for hands-on learning and real-world experience.
 
 - **University Type:** Fachhochschule (University of Applied Sciences)
@@ -57,18 +57,18 @@
 - **Faculty Webpage:** [School of Design and Culture - HTW Berlin](https://www.htw-berlin.de/en/)
 
 **Study Programs:**
+
 - **Bachelor of Arts in Communication Design:** Focuses on visual communication, graphic design, and media design.
 - **Bachelor of Arts in Industrial Design:** Emphasizes product design, ergonomics, and sustainable design.
 - **Bachelor of Arts in Fashion Design:** Covers fashion illustration, textile design, and garment construction.
 - **Master of Arts in Communication Design:** Advanced studies in visual communication, branding, and digital media.
 - **Master of Arts in Industrial Design:** Specializations in product innovation, user-centered design, and sustainable practices.
 
----
-
+* * *
 
 # Beuth University of Applied Sciences Berlin / Faculty of Architecture and Civil Engineering
 
-> **Matching Score - ChatGPT:** 9
+> **Matching Score - ChatGPT:** 9  
 > **Matching Score - Copilot:** 9
 > **Matching Reason: - ChatGPT:** This faculty is closely aligned with Barbora's interest in architecture and engineering, offering practical and creative programs.
 > **Matching Reason - Copilot:** The strong emphasis on practical projects and sustainable design aligns well with Barbora's preference for hands-on learning and real-world experience.
@@ -91,16 +91,16 @@
 - **Faculty Webpage:** Faculty of Architecture and Civil Engineering - Beuth University
 
 **Study Programs:**
+
 - **Bachelor of Science in Architecture:** Covers architectural design, urban planning, and sustainable building practices.
 - **Master of Science in Civil Engineering:** Advanced studies in structural engineering, construction management, and environmental engineering.
 - **Bachelor of Engineering in Building Services:** Focuses on energy-efficient building systems, HVAC, and sustainable technologies.
 
----
-
+* * *
 
 # University of Applied Sciences Europe (UE) / Faculty of Art & Design
 
-> **Matching Score - ChatGPT:** 9
+> **Matching Score - ChatGPT:** 9  
 > **Matching Score - Copilot:** 9
 > **Matching Reason: - ChatGPT:** This faculty is closely aligned with Barbora's interest in art and design, offering creative and interdisciplinary programs.
 > **Matching Reason - Copilot:** The strong emphasis on creative industries and practical projects aligns well with Barbora's preference for hands-on learning and creative expression.
@@ -123,16 +123,16 @@
 - **Faculty Webpage:** Faculty of Art & Design - UE
 
 **Study Programs:**
+
 - **Bachelor of Arts in Communication Design:** Focuses on visual communication, graphic design, and media design.
 - **Master of Arts in Photography:** Advanced studies in photographic techniques, visual storytelling, and digital imaging.
 - **Bachelor of Arts in Film and Motion Design:** Covers film production, animation, and motion graphics.
 
----
-
+* * *
 
 # University of Applied Sciences Europe (UE) / Faculty of Art & Design
 
-> **Matching Score - ChatGPT:** 9
+> **Matching Score - ChatGPT:** 9  
 > **Matching Score - Copilot:** 9
 > **Matching Reason: - ChatGPT:** This faculty is closely aligned with Barbora's interest in art and design, offering creative and interdisciplinary programs.
 > **Matching Reason - Copilot:** The strong emphasis on creative industries and practical projects aligns well with Barbora's preference for hands-on learning and creative expression.
@@ -155,18 +155,17 @@
 - **Faculty Webpage:** [Faculty of Art & Design - UE](https://www.ue-germany.com/)
 
 **Study Programs:**
+
 - **Bachelor of Arts in Communication Design:** Focuses on visual communication, graphic design, and media design.
 - **Master of Arts in Photography:** Advanced studies in photographic techniques, visual storytelling, and digital imaging.
 - **Bachelor of Arts in Film and Motion Design:** Covers film production, animation, and motion graphics.
 
----
-
+* * *
 
 # Weißensee Academy of Art Berlin / Department of Design
 
-> **Matching Score - ChatGPT:** 8
-> **Matching Score - Copilot:** 9
-> **Matching Reason - ChatGPT:** This department offers strong creative programs in design, aligning well with Barbora's artistic talents. However, it may be less focused on the engineering and technical aspects she also values.
+> **Matching Score - ChatGPT:** 8  
+> **Matching Score - Copilot:** 9 **Matching Reason - ChatGPT:** This department offers strong creative programs in design, aligning well with Barbora's artistic talents. However, it may be less focused on the engineering and technical aspects she also values.
 > **Matching Reason - Copilot:** The focus on practical and creative aspects of design, along with strong international partnerships, aligns well with Barbora's preferences.
 
 - **University Type:** Kunsthochschule (Academy of Fine Arts)
@@ -187,18 +186,18 @@
 - **Faculty Webpage:** [Department of Design - Weißensee Academy of Art Berlin](https://kh-berlin.de/en/studies/applying-for-studies/ba-design-and-fine-art-programs)
 
 **Study Programs:**
+
 - **Bachelor of Arts in Fashion Design:** Focuses on fashion illustration, textile design, and garment construction.
 - **Bachelor of Arts in Product Design:** Emphasizes product innovation, sustainable design, and material studies.
 - **Bachelor of Arts in Textile and Surface Design:** Covers textile design, surface pattern design, and material innovation.
 - **Bachelor of Arts in Visual Communication:** Focuses on graphic design, typography, and visual storytelling.
 - **Master of Arts in Design:** Advanced studies in fashion design, product design, textile and surface design, and visual communication[^1^](https://kh-berlin.de/en/studies/international/incoming-exchange-students)[^2^](https://kh-berlin.de/en/studies/international/exchange-programs).
 
----
-
+* * *
 
 # Technische Universität Berlin (TU Berlin) / Faculty of Electrical Engineering and Computer Science
 
-> **Matching Score - ChatGPT:** 8
+> **Matching Score - ChatGPT:** 8  
 > **Matching Score - Copilot:** 9
 > **Matching Reason: - ChatGPT:** This faculty is closely related to Barbora's interest in engineering. Engineering is a field she values, especially when it offers practical training. The faculty provides hands-on experience, which aligns well with her preferences.
 > **Matching Reason - Copilot:** The strong emphasis on practical projects, interdisciplinary learning, and international partnerships makes this faculty an excellent fit for Barbora's interests and career goals.
@@ -221,6 +220,7 @@
 - **Faculty Webpage:** [Faculty of Electrical Engineering and Computer Science - TU Berlin](https://www.tu.berlin/en/eecs/)
 
 **Study Programs:**
+
 - **Bachelor of Science in Electrical Engineering:** Focuses on electrical circuits, control systems, and renewable energy technologies.
 - **Bachelor of Science in Computer Science:** Covers algorithms, data structures, and software engineering.
 - **Bachelor of Science in Information Systems Management:** Emphasizes information systems, business processes, and digital transformation.
@@ -228,12 +228,11 @@
 - **Master of Science in Computer Science:** Specializations in artificial intelligence, machine learning, and data science.
 - **Master of Science in Information Systems Management:** Focuses on advanced information systems, digital innovation, and business analytics[^7^](https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-applied-sciences-potsdam-civil-engineering-g6126/?hec-id=g6126)[^8^](https://www.fh-potsdam.de/en/campus-services/international/international-students/incoming-exchange-students).
 
----
-
+* * *
 
 # Technische Universität Berlin (TU Berlin) / Faculty of Mechanical Engineering and Transport Systems
 
-> **Matching Score - ChatGPT:** 8
+> **Matching Score - ChatGPT:** 8  
 > **Matching Score - Copilot:** 9
 > **Matching Reason: - ChatGPT:** This faculty is closely related to Barbora's interest in engineering. Engineering is a field she values, especially when it offers practical training. The faculty provides hands-on experience, which aligns well with her preferences.
 > **Matching Reason - Copilot:** The strong emphasis on practical projects, interdisciplinary learning, and international partnerships makes this faculty an excellent fit for Barbora's interests and career goals.
@@ -256,17 +255,17 @@
 - **Faculty Webpage:** [Faculty of Mechanical Engineering and Transport Systems - TU Berlin](https://www.tu.berlin/en/vm/)
 
 **Study Programs:**
+
 - **Bachelor of Science in Mechanical Engineering:** Focuses on mechanical design, thermodynamics, and manufacturing processes.
 - **Bachelor of Science in Transport Systems:** Covers transportation planning, vehicle engineering, and logistics.
 - **Master of Science in Mechanical Engineering:** Advanced studies in mechanical design, simulation, and innovation.
 - **Master of Science in Transport Systems:** Specializations in transportation planning, vehicle engineering, and logistics[^1^](https://www.tu.berlin/en/vm/)[^2^](https://www.tu.berlin/en/studying/study-programs/).
 
----
-
+* * *
 
 # Technische Universität Berlin (TU Berlin) / Faculty of Planning Building Environment
 
-> **Matching Score - ChatGPT:** 4
+> **Matching Score - ChatGPT:** 4  
 > **Matching Score - Copilot:** 9
 > **Matching Reason: - ChatGPT:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
 > **Matching Reason - Copilot:** The faculty offers strong programs in architecture and urban planning, which align well with Barbora's interests in design and practical learning.
@@ -289,6 +288,7 @@
 - **Faculty Webpage:** [Faculty of Planning Building Environment - TU Berlin](https://www.tu.berlin/en/planen-bauen-umwelt/)
 
 **Study Programs:**
+
 - **Bachelor of Science in Architecture:** Focuses on architectural design, urban planning, and sustainable development.
 - **Bachelor of Science in Civil Engineering:** Covers structural engineering, construction management, and sustainable building practices.
 - **Bachelor of Science in Geotechnology:** Emphasizes geoscience, geodesy, and environmental engineering.
@@ -298,14 +298,12 @@
 - **Master of Science in Civil Engineering:** Specializations in structural engineering, geotechnical engineering, and construction management.
 - **Master of Science in Environmental Planning:** Focuses on environmental policy, sustainable development, and climate change adaptation[^1^](https://www.tu.berlin/en/planen-bauen-umwelt/).
 
----
-
+* * *
 
 # University of Applied Sciences Potsdam / Faculty of Architecture and Urban Design
 
-> **Matching Score - ChatGPT:** 9
-> **Matching Score - Copilot:** 8
-> **Matching Reason - ChatGPT:** This faculty is a strong match for Barbora's architectural interest, combining design with practical applications. Her appreciation for mathematics and structure can be well integrated into urban design projects.
+> **Matching Score - ChatGPT:** 9  
+> **Matching Score - Copilot:** 8 **Matching Reason - ChatGPT:** This faculty is a strong match for Barbora's architectural interest, combining design with practical applications. Her appreciation for mathematics and structure can be well integrated into urban design projects.
 > **Matching Reason - Copilot:** While the faculty offers strong practical learning opportunities, the competitive admission process and limited international student ratio might be challenging for Barbora.
 
 - **University Type:** Fachhochschule (University of Applied Sciences)
@@ -326,17 +324,16 @@
 - **Faculty Webpage:** [Faculty of Architecture and Urban Design - FH Potsdam](https://www.fh-potsdam.de/en/study-further-education/degree-programs/architecture-and-urban-design-ba)
 
 **Study Programs:**
+
 - **Bachelor of Arts in Architecture and Urban Design:** Focuses on architectural design, urban planning, and sustainable development.
 - **Master of Arts in Architecture and Urban Design:** Advanced studies in urban architecture, landscape architecture, and architectural theory.
 
----
-
+* * *
 
 # University of Applied Sciences Potsdam / Faculty of Design
 
-> **Matching Score - ChatGPT:** 9
-> **Matching Score - Copilot:** 8
-> **Matching Reason - ChatGPT:** This faculty emphasizes creativity, design, and hands-on experience, key areas of interest for Barbora. Although the focus is primarily on artistic skills, the technical design aspects are valuable for her.
+> **Matching Score - ChatGPT:** 9  
+> **Matching Score - Copilot:** 8 **Matching Reason - ChatGPT:** This faculty emphasizes creativity, design, and hands-on experience, key areas of interest for Barbora. Although the focus is primarily on artistic skills, the technical design aspects are valuable for her.
 > **Matching Reason - Copilot:** Similar to the Faculty of Architecture and Urban Design, this faculty offers strong practical learning but may have challenges with competitive admission and limited international student ratio.
 
 - **University Type:** Fachhochschule (University of Applied Sciences)
@@ -357,19 +354,18 @@
 - **Faculty Webpage:** Faculty of Design - FH Potsdam
 
 **Study Programs:**
+
 - **Bachelor of Arts in Communication Design:** Focuses on visual communication, graphic design, and media design.
 - **Bachelor of Arts in Interface Design:** Emphasizes user experience, interaction design, and digital interfaces.
 - **Bachelor of Arts in Product Design:** Covers product innovation, sustainable design, and material studies.
 - **Master of Arts in Design:** Advanced studies in communication design, interface design, and product design.
 
----
-
+* * *
 
 # Berlin University of Applied Sciences (HTW Berlin) / School of Engineering
 
-> **Matching Score - ChatGPT:** 8
-> **Matching Score - Copilot:** 8
-> **Matching Reason - ChatGPT:** With a focus on engineering, this faculty offers a more technical path that combines creativity with practical hands-on learning, which fits Barbora's interest in engineering and applied mathematics.
+> **Matching Score - ChatGPT:** 8  
+> **Matching Score - Copilot:** 8 **Matching Reason - ChatGPT:** With a focus on engineering, this faculty offers a more technical path that combines creativity with practical hands-on learning, which fits Barbora's interest in engineering and applied mathematics.
 > **Matching Reason - Copilot:** The practical focus and strong industry connections make this faculty a good fit for Barbora's interest in engineering, though it may not align as closely with her primary passion for design.
 
 - **University Type:** Fachhochschule (University of Applied Sciences)
@@ -390,6 +386,7 @@
 - **Faculty Webpage:** [School of Engineering - HTW Berlin](https://www.htw-berlin.de/en/)
 
 **Study Programs:**
+
 - **Bachelor of Engineering in Mechanical Engineering:** Focuses on mechanical design, thermodynamics, and manufacturing processes.
 - **Bachelor of Engineering in Civil Engineering:** Covers structural engineering, construction management, and sustainable building practices.
 - **Bachelor of Engineering in Electrical Engineering:** Emphasizes electrical circuits, control systems, and renewable energy technologies.
@@ -397,14 +394,12 @@
 - **Master of Engineering in Civil Engineering:** Specializations in structural engineering, geotechnical engineering, and construction management.
 - **Master of Engineering in Electrical Engineering:** Focuses on advanced electrical systems, automation, and smart grid technologies[^3^](https://www.notjustalabel.com/editorial/weissensee-kunsthochschule)[^4^](https://educativ.net/universities/germany/berlin-weissensee-school-of-art/).
 
----
-
+* * *
 
 # SRH University of Applied Sciences Berlin / Faculty of Engineering and Technology
 
-> **Matching Score - ChatGPT:** 8
-> **Matching Score - Copilot:** 8
-> **Matching Reason - ChatGPT:** This faculty blends engineering with creative, practical applications. It’s a solid choice for Barbora's technical aspirations, but the emphasis on technology might reduce the hands-on creative aspects she values most.
+> **Matching Score - ChatGPT:** 8  
+> **Matching Score - Copilot:** 8 **Matching Reason - ChatGPT:** This faculty blends engineering with creative, practical applications. It’s a solid choice for Barbora's technical aspirations, but the emphasis on technology might reduce the hands-on creative aspects she values most.
 > **Matching Reason - Copilot:** The combination of theoretical knowledge and practical experience, along with strong industry connections, makes this faculty a good fit for Barbora's engineering interests.
 
 - **University Type:** Fachhochschule (University of Applied Sciences)
@@ -425,18 +420,18 @@
 - **Faculty Webpage:** Faculty of Engineering and Technology - SRH Berlin
 
 **Study Programs:**
+
 - **Bachelor of Engineering in Mechanical Engineering:** Focuses on mechanical design, thermodynamics, and manufacturing processes.
 - **Bachelor of Engineering in Civil Engineering:** Covers structural engineering, construction management, and sustainable building practices.
 - **Bachelor of Engineering in Electrical Engineering:** Emphasizes electrical circuits, control systems, and renewable energy technologies.
 - **Master of Engineering in Automation and Robotics:** Advanced studies in automation, robotics, and Industry 4.0 technologies.
 - **Master of Engineering in Sustainable Technology Management:** Specializations in sustainable engineering practices, renewable energy, and environmental management[^5^](https://bing.com/search?q=Wei%c3%9fensee+Academy+of+Art+Berlin+Department+of+Design+study+programs)[^6^](https://kh-berlin.de/).
 
----
-
+* * *
 
 # Technical University of Applied Sciences Wildau / Faculty of Engineering and Natural Sciences
 
-> **Matching Score - ChatGPT:** 8
+> **Matching Score - ChatGPT:** 8  
 > **Matching Score - Copilot:** 8
 > **Matching Reason: - ChatGPT:** This faculty is closely related to Barbora's interest in engineering. Engineering is a field she values, especially when it offers practical training. The faculty provides hands-on experience, which aligns well with her preferences.
 > **Matching Reason - Copilot:** The practical focus and interdisciplinary approach make this faculty a good fit for Barbora's engineering interests.
@@ -459,18 +454,18 @@
 - **Faculty Webpage:** [Faculty of Engineering and Natural Sciences - TH Wildau](https://en.th-wildau.de/university/faculties/faculty-of-engineering-and-natural-sciences/)
 
 **Study Programs:**
+
 - **Bachelor of Engineering in Mechanical Engineering:** Focuses on mechanical design, thermodynamics, and manufacturing processes.
 - **Bachelor of Engineering in Civil Engineering:** Covers structural engineering, construction management, and sustainable building practices.
 - **Bachelor of Engineering in Electrical Engineering:** Emphasizes electrical circuits, control systems, and renewable energy technologies.
 - **Master of Engineering in Technical Management:** Advanced studies in technical management, project management, and innovation.
 - **Master of Engineering in Sustainable Engineering:** Specializations in sustainable engineering practices, renewable energy, and environmental management[^7^](https://kh-berlin.de/en/studies/applying-for-studies/ba-design-and-fine-art-programs)[^8^](https://kh-berlin.de/en/academy/profile/weissensee-academy-of-art-berlin).
 
----
-
+* * *
 
 # University of Applied Sciences Potsdam / Faculty of Civil Engineering
 
-> **Matching Score - ChatGPT:** 8
+> **Matching Score - ChatGPT:** 8  
 > **Matching Score - Copilot:** 8
 > **Matching Reason: - ChatGPT:** This faculty is closely related to Barbora's interest in engineering. Engineering is a field she values, especially when it offers practical training. The faculty provides hands-on experience, which aligns well with her preferences.
 > **Matching Reason - Copilot:** The faculty offers a strong practical focus and dual study programs, which align well with Barbora's preference for hands-on learning and real-world experience.
@@ -493,17 +488,17 @@
 - **Faculty Webpage:** [Faculty of Civil Engineering - FH Potsdam](https://www.fh-potsdam.de/en/study-further-education/departments/civil-engineering-department)
 
 **Study Programs:**
+
 - **Bachelor of Engineering in Civil Engineering:** Focuses on structural engineering, construction management, and sustainable building practices.
 - **Bachelor of Engineering in Infrastructure Systems:** Emphasizes infrastructure planning, environmental engineering, and urban development.
 - **Bachelor of Engineering in Urban Water Management:** Covers water supply systems, wastewater treatment, and environmental protection.
 - **Master of Science in Building Conservation and Construction Work on Existing Buildings:** Advanced studies in preservation techniques, structural analysis, and sustainable renovation[^1^](https://www.fh-potsdam.de/en/study-further-education/departments/civil-engineering-department/study-teaching/dual-study)[^2^](https://www.fh-potsdam.de/en/study-further-education/degree-programs/civil-engineering-dual-beng).
 
----
-
+* * *
 
 # Steinbeis University Berlin / Faculty of Engineering and Technology
 
-> **Matching Score - ChatGPT:** 8
+> **Matching Score - ChatGPT:** 8  
 > **Matching Score - Copilot:** 8
 > **Matching Reason: - ChatGPT:** This faculty is closely related to Barbora's interest in engineering. Engineering is a field she values, especially when it offers practical training. The faculty provides hands-on experience, which aligns well with her preferences.
 > **Matching Reason - Copilot:** The combination of theoretical knowledge and practical experience, along with strong industry connections, makes this faculty a good fit for Barbora's engineering interests.
@@ -526,18 +521,18 @@
 - **Faculty Webpage:** [Faculty of Engineering and Technology - Steinbeis University](https://www.steinbeis-next.de/admissions/)
 
 **Study Programs:**
+
 - **Bachelor of Engineering in Mechanical Engineering:** Focuses on mechanical design, thermodynamics, and manufacturing processes.
 - **Bachelor of Engineering in Civil Engineering:** Covers structural engineering, construction management, and sustainable building practices.
 - **Bachelor of Engineering in Electrical Engineering:** Emphasizes electrical circuits, control systems, and renewable energy technologies.
 - **Master of Engineering in Automation and Robotics:** Advanced studies in automation, robotics, and Industry 4.0 technologies.
 - **Master of Engineering in Sustainable Technology Management:** Specializations in sustainable engineering practices, renewable energy, and environmental management[^3^](https://www.uni-potsdam.de/en/studium/studying/organizing-your-studies/dualdegreeparallelstudies)[^4^](https://www.fh-potsdam.de/en/study-further-education/departments/civil-engineering-department).
 
----
-
+* * *
 
 # Brandenburg University of Technology Cottbus-Senftenberg / Faculty of Engineering
 
-> **Matching Score - ChatGPT:** 8
+> **Matching Score - ChatGPT:** 8  
 > **Matching Score - Copilot:** 8
 > **Matching Reason: - ChatGPT:** This faculty is closely related to Barbora's interest in engineering. Engineering is a field she values, especially when it offers practical training. The faculty provides hands-on experience, which aligns well with her preferences.
 > **Matching Reason - Copilot:** The practical focus and interdisciplinary approach make this faculty a good fit for Barbora's engineering interests.
@@ -560,18 +555,18 @@
 - **Faculty Webpage:** [Faculty of Engineering - BTU Cottbus-Senftenberg](https://www.b-tu.de/en/)
 
 **Study Programs:**
+
 - **Bachelor of Engineering in Mechanical Engineering:** Focuses on mechanical design, thermodynamics, and manufacturing processes.
 - **Bachelor of Engineering in Civil Engineering:** Covers structural engineering, construction management, and sustainable building practices.
 - **Bachelor of Engineering in Electrical Engineering:** Emphasizes electrical circuits, control systems, and renewable energy technologies.
 - **Master of Engineering in Technical Management:** Advanced studies in technical management, project management, and innovation.
 - **Master of Engineering in Sustainable Engineering:** Specializations in sustainable engineering practices, renewable energy, and environmental management[^5^](https://www.fh-potsdam.de/en/study-further-education/degree-programs/civil-engineering-beng)[^6^](https://bing.com/search?q=University+of+Applied+Sciences+Potsdam+Faculty+of+Civil+Engineering+study+programs).
 
----
-
+* * *
 
 # Beuth University of Applied Sciences Berlin / Faculty of Mathematics and Natural Sciences
 
-> **Matching Score - ChatGPT:** 8
+> **Matching Score - ChatGPT:** 8  
 > **Matching Score - Copilot:** 8
 > **Matching Reason: - ChatGPT:** This faculty aligns well with Barbora's strong skills in mathematics and her interest in practical applications.
 > **Matching Reason - Copilot:** The focus on applied mathematics and natural sciences offers a solid foundation for Barbora's technical and analytical skills, which are crucial for her career goals.
@@ -594,16 +589,16 @@
 - **Faculty Webpage:** Faculty of Mathematics and Natural Sciences - Beuth University
 
 **Study Programs:**
+
 - **Bachelor of Science in Applied Mathematics:** Focuses on mathematical modeling, statistics, and computational methods.
 - **Master of Science in Data Science:** Advanced studies in data analysis, machine learning, and big data technologies.
 - **Bachelor of Science in Scientific Computing:** Emphasizes numerical methods, simulation, and software development.
 
----
-
+* * *
 
 # Hochschule für Medien, Kommunikation und Wirtschaft (HMKW) Berlin / Faculty of Design
 
-> **Matching Score - ChatGPT:** 8
+> **Matching Score - ChatGPT:** 8  
 > **Matching Score - Copilot:** 8
 > **Matching Reason: - ChatGPT:** This faculty aligns well with Barbora's creative talents and interest in design, offering interdisciplinary and practical programs.
 > **Matching Reason - Copilot:** The focus on visual communication and practical projects aligns well with Barbora's preference for hands-on learning and creative expression.
@@ -626,16 +621,16 @@
 - **Faculty Webpage:** Faculty of Design - HMKW Berlin
 
 **Study Programs:**
+
 - **Bachelor of Arts in Visual Communication:** Focuses on graphic design, media design, and visual storytelling.
 - **Master of Arts in Communication Design:** Advanced studies in branding, digital media, and user experience design.
 - **Bachelor of Arts in Media and Communication Design:** Covers multimedia design, interactive media, and digital content creation.
 
----
-
+* * *
 
 # University of Applied Sciences Europe (UE) / Faculty of Engineering
 
-> **Matching Score - ChatGPT:** 8
+> **Matching Score - ChatGPT:** 8  
 > **Matching Score - Copilot:** 8
 > **Matching Reason: - ChatGPT:** This faculty offers programs that combine engineering with digital innovation, which could be relevant to Barbora's interdisciplinary interests.
 > **Matching Reason - Copilot:** The interdisciplinary approach and focus on practical applications align well with Barbora's preference for hands-on learning and real-world experience.
@@ -658,16 +653,16 @@
 - **Faculty Webpage:** [Faculty of Engineering - UE](https://www.ue-germany.com/programmes/master/software-engineering)
 
 **Study Programs:**
+
 - **Bachelor of Science in Media Technology:** Focuses on digital media, communication systems, and multimedia engineering.
 - **Master of Science in Digital Innovation:** Advanced studies in digital transformation, innovation management, and technology development.
 - **Bachelor of Science in Communication Systems Engineering:** Covers network engineering, wireless communication, and digital signal processing.
 
----
-
+* * *
 
 # Hochschule für nachhaltige Entwicklung Eberswalde (HNEE) / Faculty of Sustainable Business
 
-> **Matching Score - ChatGPT:** 8
+> **Matching Score - ChatGPT:** 8  
 > **Matching Score - Copilot:** 8
 > **Matching Reason: - ChatGPT:** This faculty aligns well with Barbora's interest in sustainable and future-proof fields, offering programs focused on sustainable business practices.
 > **Matching Reason - Copilot:** The emphasis on sustainability and practical applications aligns well with Barbora's preference for hands-on learning and societal impact.
@@ -690,16 +685,16 @@
 - **Faculty Webpage:** Faculty of Sustainable Business - HNEE
 
 **Study Programs:**
+
 - **Bachelor of Arts in Sustainable Business:** Focuses on sustainable management practices, environmental economics, and green technologies.
 - **Master of Science in Sustainable Business Development:** Advanced studies in sustainable business strategies, innovation, and environmental management.
 - **Bachelor of Science in Environmental Management:** Covers environmental policy, resource management, and sustainability practices.
 
----
-
+* * *
 
 # Technische Universität Berlin (TU Berlin) / Faculty of Process Sciences
 
-> **Matching Score - ChatGPT:** 4
+> **Matching Score - ChatGPT:** 4  
 > **Matching Score - Copilot:** 8
 > **Matching Reason: - ChatGPT:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
 > **Matching Reason - Copilot:** The faculty offers strong programs in process engineering and environmental systems, which align well with Barbora's interests in practical and interdisciplinary learning.
@@ -722,19 +717,18 @@
 - **Faculty Webpage:** [Faculty of Process Sciences - TU Berlin](https://www.tu.berlin/en/fakultaet3/)
 
 **Study Programs:**
+
 - **Bachelor of Science in Process Engineering:** Focuses on chemical engineering, process design, and environmental technology.
 - **Bachelor of Science in Energy Engineering:** Covers energy systems, renewable energy, and energy management.
 - **Master of Science in Process Engineering:** Advanced studies in process optimization, sustainable engineering, and environmental systems.
 - **Master of Science in Energy Engineering:** Specializations in renewable energy, energy efficiency, and smart grid technologies[^2^](https://www.tu.berlin/en/fakultaet3/).
 
----
-
+* * *
 
 # SRH University of Applied Sciences Berlin / Faculty of Management
 
-> **Matching Score - ChatGPT:** 7
-> **Matching Score - Copilot:** 7
-> **Matching Reason - ChatGPT:** While strong in engineering and natural sciences, the focus leans more toward technical skills rather than the creative, hands-on learning Barbora is drawn to. However, it offers solid foundational mathematics and sciences.
+> **Matching Score - ChatGPT:** 7  
+> **Matching Score - Copilot:** 7 **Matching Reason - ChatGPT:** While strong in engineering and natural sciences, the focus leans more toward technical skills rather than the creative, hands-on learning Barbora is drawn to. However, it offers solid foundational mathematics and sciences.
 > **Matching Reason - Copilot:** While business management offers valuable skills, it may not align as closely with Barbora's primary interests in design and engineering.
 
 - **University Type:** Fachhochschule (University of Applied Sciences)
@@ -755,17 +749,17 @@
 - **Faculty Webpage:** Faculty of Management - SRH Berlin
 
 **Study Programs:**
+
 - **Bachelor of Arts in Business Administration:** Focuses on management principles, marketing, and finance.
 - **Bachelor of Arts in International Business:** Covers global business strategies, cross-cultural management, and international trade.
 - **Master of Business Administration (MBA):** Advanced studies in leadership, strategic management, and business innovation.
 - **Master of Science in Supply Chain Management:** Specializations in logistics, procurement, and operations management[^3^](https://www.static.tu.berlin/fileadmin/www/10004219/INT_SB/Dokumente/Incomings/English_Courses_MTS.pdf)[^4^](https://www.tu.berlin/en/studying/study-programs/all-programs-offered/study-course/transport-systems-b-sc/).
 
----
-
+* * *
 
 # Steinbeis University Berlin / Faculty of Business and Economics
 
-> **Matching Score - ChatGPT:** 7
+> **Matching Score - ChatGPT:** 7  
 > **Matching Score - Copilot:** 7
 > **Matching Reason: - ChatGPT:** Business is a versatile field and Barbora may find value in this, especially in terms of leadership, management, and practical experience. However, it's not her main area of passion, which makes it a secondary preference.
 > **Matching Reason - Copilot:** While business management offers valuable skills, it may not align as closely with Barbora's primary interests in design and engineering.
@@ -788,16 +782,16 @@
 - **Faculty Webpage:** [Faculty of Business and Economics - Steinbeis University](https://www.steinbeis-next.de/)
 
 **Study Programs:**
+
 - **Bachelor of Business Administration (BBA):** Focuses on management principles, marketing, and finance.
 - **Master of Business Administration (MBA):** Advanced studies in leadership, strategic management, and business innovation.
 - **Master of Science in Business Management:** Specializations in innovation management, entrepreneurship, and global market strategies[^5^](https://www.tu.berlin/en/vm/organizational-units/professors-academic-chairs)[^6^](https://www.steinbeis-next.de/master-business-management/berlin/management-innovation/).
 
----
-
+* * *
 
 # Technische Universität Berlin (TU Berlin) / Faculty of Economics and Management
 
-> **Matching Score - ChatGPT:** 7
+> **Matching Score - ChatGPT:** 7  
 > **Matching Score - Copilot:** 7
 > **Matching Reason: - ChatGPT:** Business is a versatile field and Barbora may find value in this, especially in terms of leadership, management, and practical experience. However, it's not her main area of passion, which makes it a secondary preference.
 > **Matching Reason - Copilot:** While business management offers valuable skills, it may not align as closely with Barbora's primary interests in design and engineering.
@@ -820,17 +814,17 @@
 - **Faculty Webpage:** [Faculty of Economics and Management - TU Berlin](https://www.tu.berlin/en/wm/)
 
 **Study Programs:**
+
 - **Bachelor of Science in Business Administration:** Focuses on management principles, marketing, and finance.
 - **Bachelor of Science in Economics:** Covers economic theory, quantitative methods, and policy analysis.
 - **Master of Science in Business Administration:** Advanced studies in leadership, strategic management, and business innovation.
 - **Master of Science in Economics:** Specializations in economic theory, econometrics, and applied economics[^7^](https://www.tu.berlin/en/studying/study-programs/all-programs-offered/study-course/mechanical-engineering-b-sc/)[^8^](https://www.tu.berlin/en/vm/about/profile).
 
----
-
+* * *
 
 # Berlin School of Economics and Law (HWR Berlin) / Department of Business and Economics
 
-> **Matching Score - ChatGPT:** 7
+> **Matching Score - ChatGPT:** 7  
 > **Matching Score - Copilot:** 7
 > **Matching Reason: - ChatGPT:** Business is a versatile field and Barbora may find value in this, especially in terms of leadership, management, and practical experience. However, it's not her main area of passion, which makes it a secondary preference.
 > **Matching Reason - Copilot:** While business management offers valuable skills, it may not align as closely with Barbora's primary interests in design and engineering.
@@ -853,17 +847,17 @@
 - **Faculty Webpage:** [Department of Business and Economics - HWR Berlin](https://www.hwr-berlin.de/en/hwr-berlin/departments-and-bps/department-1-business-and-economics/)
 
 **Study Programs:**
+
 - **Bachelor of Arts in Business Administration:** Focuses on management principles, marketing, and finance.
 - **Bachelor of Arts in International Business:** Covers global business strategies, cross-cultural management, and international trade.
 - **Master of Business Administration (MBA):** Advanced studies in leadership, strategic management, and business innovation.
 - **Master of Science in Business Intelligence and Process Management:** Specializations in data analytics, business process optimization, and digital transformation[^1^](https://www.hwr-berlin.de/en/hwr-berlin/departments-and-bps/department-1-business-and-economics/).
 
----
-
+* * *
 
 # Berlin School of Economics and Law (HWR Berlin) / Department of Police and Security Management
 
-> **Matching Score - ChatGPT:** 7
+> **Matching Score - ChatGPT:** 7  
 > **Matching Score - Copilot:** 7
 > **Matching Reason: - ChatGPT:** Business is a versatile field and Barbora may find value in this, especially in terms of leadership, management, and practical experience. However, it's not her main area of passion, which makes it a secondary preference.
 > **Matching Reason - Copilot:** While the field of police and security management offers valuable skills, it may not align as closely with Barbora's primary interests in design and engineering.
@@ -886,17 +880,17 @@
 - **Faculty Webpage:** [Department of Police and Security Management - HWR Berlin](https://www.hwr-berlin.de/en/hwr-berlin/departments-and-bps/department-5-police-and-security-management/)
 
 **Study Programs:**
+
 - **Bachelor of Arts in Higher Police Service:** Focuses on law enforcement, criminal justice, and public safety.
 - **Bachelor of Arts in Security Management:** Covers risk assessment, crisis management, and security operations.
 - **Master of Arts in Public Administration – Police Management:** Advanced studies in police leadership, public administration, and policy analysis.
 - **Master of Arts in International Security Management:** Specializations in global security issues, counterterrorism, and cybersecurity[^2^](https://www.hwr-berlin.de/en/study/degree-programmes/detail/13-business-intelligence-and-process-management/).
 
----
-
+* * *
 
 # European School of Management and Technology (ESMT Berlin) / Department of Management
 
-> **Matching Score - ChatGPT:** 7
+> **Matching Score - ChatGPT:** 7  
 > **Matching Score - Copilot:** 7
 > **Matching Reason: - ChatGPT:** Business is a versatile field and Barbora may find value in this, especially in terms of leadership, management, and practical experience. However, it's not her main area of passion, which makes it a secondary preference.
 > **Matching Reason - Copilot:** While business management offers valuable skills, it may not align as closely with Barbora's primary interests in design and engineering.
@@ -919,16 +913,16 @@
 - **Faculty Webpage:** [Department of Management - ESMT Berlin](https://esmt.berlin/degrees/masters)
 
 **Study Programs:**
+
 - **Master in Global Management:** Focuses on international business strategies, cross-cultural management, and global market dynamics.
 - **Master in Innovation and Entrepreneurship:** Covers startup development, innovation management, and entrepreneurial finance.
 - **Master in Analytics and Artificial Intelligence:** Specializations in data science, machine learning, and business analytics[^3^](https://en.wikipedia.org/wiki/Berlin_School_of_Economics_and_Law).
 
----
-
+* * *
 
 # Hochschule für Medien, Kommunikation und Wirtschaft (HMKW) Berlin / Faculty of Engineering
 
-> **Matching Score - ChatGPT:** 7
+> **Matching Score - ChatGPT:** 7  
 > **Matching Score - Copilot:** 7
 > **Matching Reason: - ChatGPT:** This faculty offers programs that combine engineering with media and communication, which could be relevant to Barbora's interdisciplinary interests.
 > **Matching Reason - Copilot:** The interdisciplinary approach and focus on practical applications align well with Barbora's preference for hands-on learning and real-world experience.
@@ -951,16 +945,16 @@
 - **Faculty Webpage:** Faculty of Engineering - HMKW Berlin
 
 **Study Programs:**
+
 - **Bachelor of Science in Media Technology:** Focuses on digital media, communication systems, and multimedia engineering.
 - **Master of Science in Digital Innovation:** Advanced studies in digital transformation, innovation management, and technology development.
 - **Bachelor of Science in Communication Systems Engineering:** Covers network engineering, wireless communication, and digital signal processing.
 
----
-
+* * *
 
 # Freie Universität Berlin (FU Berlin) / Department of Biology, Chemistry, and Pharmacy
 
-> **Matching Score - ChatGPT:** 4
+> **Matching Score - ChatGPT:** 4  
 > **Matching Score - Copilot:** 7
 > **Matching Reason: - ChatGPT:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
 > **Matching Reason - Copilot:** The department offers strong programs in biological sciences, chemistry, and pharmacy, which may provide valuable interdisciplinary knowledge but do not align closely with Barbora's primary interests.
@@ -983,6 +977,7 @@
 - **Faculty Webpage:** [Department of Biology, Chemistry, and Pharmacy - FU Berlin](https://www.bcp.fu-berlin.de/en/index.html)
 
 **Study Programs:**
+
 - **Bachelor of Science in Biology:** Focuses on molecular biology, genetics, and ecology.
 - **Bachelor of Science in Chemistry:** Covers organic, inorganic, and physical chemistry.
 - **Bachelor of Science in Pharmacy:** Emphasizes pharmaceutical sciences, pharmacology, and clinical pharmacy.
@@ -990,12 +985,11 @@
 - **Master of Science in Chemistry:** Specializations in chemical research, materials science, and analytical chemistry.
 - **Master of Science in Pharmacy:** Focuses on advanced pharmaceutical sciences, drug development, and clinical research[^3^](https://www.bcp.fu-berlin.de/en/index.html).
 
----
-
+* * *
 
 # Freie Universität Berlin (FU Berlin) / Department of Earth Sciences
 
-> **Matching Score - ChatGPT:** 4
+> **Matching Score - ChatGPT:** 4  
 > **Matching Score - Copilot:** 7
 > **Matching Reason: - ChatGPT:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
 > **Matching Reason - Copilot:** The department offers strong programs in geosciences and environmental systems, which may provide valuable interdisciplinary knowledge but do not align closely with Barbora's primary interests.
@@ -1018,17 +1012,17 @@
 - **Faculty Webpage:** [Department of Earth Sciences - FU Berlin](http://www.geo.fu-berlin.de/en)
 
 **Study Programs:**
+
 - **Bachelor of Science in Geosciences:** Focuses on geology, geophysics, and environmental science.
 - **Bachelor of Science in Meteorology:** Covers atmospheric science, climate change, and weather forecasting.
 - **Master of Science in Geosciences:** Advanced studies in geological processes, geophysics, and environmental systems.
 - **Master of Science in Meteorology:** Specializations in climate modeling, atmospheric dynamics, and environmental meteorology[^4^](https://www.fu-berlin.de/en/einrichtungen/fachbereiche/fb/geowiss/index.html).
 
----
-
+* * *
 
 # Freie Universität Berlin (FU Berlin) / Department of Physics
 
-> **Matching Score - ChatGPT:** 4
+> **Matching Score - ChatGPT:** 4  
 > **Matching Score - Copilot:** 7
 > **Matching Reason: - ChatGPT:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
 > **Matching Reason - Copilot:** The department offers strong programs in physics and its applications, which may provide valuable interdisciplinary knowledge but do not align closely with Barbora's primary interests.
@@ -1051,16 +1045,16 @@
 - **Faculty Webpage:** [Department of Physics - FU Berlin](https://www.physik.fu-berlin.de/en/index.html)
 
 **Study Programs:**
+
 - **Bachelor of Science in Physics:** Focuses on classical and modern physics, including mechanics, electromagnetism, and quantum physics.
 - **Master of Science in Physics:** Advanced studies in theoretical and experimental physics.
 - **Doctor of Philosophy (Ph.D.) in Physics:** Specializations in biophysics, quantum physics, and nanophysics[^2^](https://www.fu-berlin.de/en/studium/studienangebot/master/philosophie/index.html).
 
----
-
+* * *
 
 # SRH University of Applied Sciences Berlin / Faculty of Social Sciences
 
-> **Matching Score - ChatGPT:** 6
+> **Matching Score - ChatGPT:** 6  
 > **Matching Score - Copilot:** 6
 > **Matching Reason: - ChatGPT:** Social sciences are interesting, but Barbora is more inclined towards practical, hands-on fields like design and engineering. While it offers social impact and teamwork opportunities, it may not be her primary focus.
 > **Matching Reason - Copilot:** While social sciences offer valuable insights into human behavior and society, they may not align as closely with Barbora's primary interests in design and engineering.
@@ -1083,16 +1077,16 @@
 - **Faculty Webpage:** Faculty of Social Sciences - SRH Berlin
 
 **Study Programs:**
+
 - **Bachelor of Arts in Social Work:** Focuses on social justice, community development, and human services.
 - **Bachelor of Arts in Sociology:** Covers social theory, research methods, and social policy.
 - **Master of Arts in Social Design:** Specializations in social innovation, sustainable development, and community engagement[^4^](https://berlinschoolofeconomics.de/phd-programm/courses).
 
----
-
+* * *
 
 # Bard College Berlin / Department of Social Sciences
 
-> **Matching Score - ChatGPT:** 6
+> **Matching Score - ChatGPT:** 6  
 > **Matching Score - Copilot:** 6
 > **Matching Reason: - ChatGPT:** Social sciences are interesting, but Barbora is more inclined towards practical, hands-on fields like design and engineering. While it offers social impact and teamwork opportunities, it may not be her primary focus.
 > **Matching Reason - Copilot:** While social sciences offer valuable insights into human behavior and society, they may not align as closely with Barbora's primary interests in design and engineering.
@@ -1115,15 +1109,15 @@
 - **Faculty Webpage:** [Department of Social Sciences - Bard College Berlin](https://berlin.bard.edu/academics/degree-programs/)
 
 **Study Programs:**
+
 - **Bachelor of Arts in Humanities, the Arts, and Social Thought:** Focuses on interdisciplinary studies in humanities, arts, and social sciences.
 - **Bachelor of Arts in Economics, Politics, and Social Thought:** Covers economics, political science, and social theory[^1^](https://berlin.bard.edu/academics/humanities-the-arts-and-social-thought/).
 
----
-
+* * *
 
 # Freie Universität Berlin (FU Berlin) / Department of Political and Social Sciences
 
-> **Matching Score - ChatGPT:** 6
+> **Matching Score - ChatGPT:** 6  
 > **Matching Score - Copilot:** 6
 > **Matching Reason: - ChatGPT:** Social sciences are interesting, but Barbora is more inclined towards practical, hands-on fields like design and engineering. While it offers social impact and teamwork opportunities, it may not be her primary focus.
 > **Matching Reason - Copilot:** While social sciences offer valuable insights into political systems and governance, they may not align as closely with Barbora's primary interests in design and engineering.
@@ -1146,17 +1140,17 @@
 - **Faculty Webpage:** [Department of Political and Social Sciences - FU Berlin](https://www.fu-berlin.de/en/einrichtungen/fachbereiche/fb/pol-soz/index.html)
 
 **Study Programs:**
+
 - **Bachelor of Arts in Political Science:** Focuses on political theory, comparative politics, and international relations.
 - **Bachelor of Arts in Sociology:** Covers social theory, research methods, and social policy.
 - **Master of Arts in Political Science:** Advanced studies in political systems, governance, and policy analysis.
 - **Master of Arts in Sociology:** Specializations in social theory, empirical research, and social change[^2^](https://berlin.bard.edu/).
 
----
-
+* * *
 
 # Humboldt University of Berlin (HU Berlin) / Faculty of Social Sciences
 
-> **Matching Score - ChatGPT:** 6
+> **Matching Score - ChatGPT:** 6  
 > **Matching Score - Copilot:** 6
 > **Matching Reason: - ChatGPT:** Social sciences are interesting, but Barbora is more inclined towards practical, hands-on fields like design and engineering. While it offers social impact and teamwork opportunities, it may not be her primary focus.
 > **Matching Reason - Copilot:** While social sciences offer valuable insights into human behavior and society, they may not align as closely with Barbora's primary interests in design and engineering.
@@ -1179,15 +1173,15 @@
 - **Faculty Webpage:** [Faculty of Social Sciences - HU Berlin](https://www.sowi.hu-berlin.de/en)
 
 **Study Programs:**
+
 - **Bachelor of Arts in Social Sciences:** Focuses on sociology, political science, and interdisciplinary social research.
 - **Master of Arts in Social Sciences:** Advanced studies in social theory, empirical research, and social change[^3^](https://www.bard.edu/bardabroad/berlin/academics/lab/).
 
----
-
+* * *
 
 # University of Potsdam / Faculty of Economics and Social Sciences
 
-> **Matching Score - ChatGPT:** 6
+> **Matching Score - ChatGPT:** 6  
 > **Matching Score - Copilot:** 6
 > **Matching Reason: - ChatGPT:** Social sciences are interesting, but Barbora is more inclined towards practical, hands-on fields like design and engineering. While it offers social impact and teamwork opportunities, it may not be her primary focus.
 > **Matching Reason - Copilot:** While social sciences offer valuable insights into human behavior and society, they may not align as closely with Barbora's primary interests in design and engineering.
@@ -1210,17 +1204,17 @@
 - **Faculty Webpage:** [Faculty of Economics and Social Sciences - University of Potsdam](https://www.uni-potsdam.de/en/wiso)
 
 **Study Programs:**
+
 - **Bachelor of Arts in Sociology:** Focuses on social theory, research methods, and social policy.
 - **Bachelor of Arts in Political Science:** Covers political theory, comparative politics, and international relations.
 - **Master of Arts in Sociology:** Advanced studies in social theory, empirical research, and social change.
 - **Master of Arts in Political Science:** Specializations in political systems, governance, and policy analysis[^4^](https://berlin.bard.edu/about-us/auf-einen-blick/).
 
----
-
+* * *
 
 # Berlin University of Applied Sciences (HTW Berlin) / School of Economics
 
-> **Matching Score - ChatGPT:** 4
+> **Matching Score - ChatGPT:** 4  
 > **Matching Score - Copilot:** 4
 > **Matching Reason: - ChatGPT:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
 > **Matching Reason - Copilot:** The focus on economics and business administration does not align closely with Barbora's primary interests in design, engineering, and architecture.
@@ -1243,17 +1237,17 @@
 - **Faculty Webpage:** School of Economics - HTW Berlin
 
 **Study Programs:**
+
 - **Bachelor of Arts in Business Administration:** Focuses on management principles, marketing, and finance.
 - **Bachelor of Arts in International Business:** Covers global business strategies, cross-cultural management, and international trade.
 - **Master of Business Administration (MBA):** Advanced studies in leadership, strategic management, and business innovation.
 - **Master of Science in Business Intelligence and Process Management:** Specializations in data analytics, business process optimization, and digital transformation.
 
----
-
+* * *
 
 # Berlin University of Applied Sciences (HTW Berlin) / School of Life Sciences
 
-> **Matching Score - ChatGPT:** 4
+> **Matching Score - ChatGPT:** 4  
 > **Matching Score - Copilot:** 4
 > **Matching Reason: - ChatGPT:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
 > **Matching Reason - Copilot:** The focus on life sciences and natural sciences does not align closely with Barbora's primary interests in design, engineering, and architecture.
@@ -1276,17 +1270,17 @@
 - **Faculty Webpage:** School of Life Sciences - HTW Berlin
 
 **Study Programs:**
+
 - **Bachelor of Science in Biotechnology:** Focuses on molecular biology, genetic engineering, and bioprocess technology.
 - **Bachelor of Science in Environmental Sciences:** Covers environmental management, sustainability, and ecological systems.
 - **Master of Science in Biotechnology:** Advanced studies in bioprocess engineering, bioinformatics, and molecular diagnostics.
 - **Master of Science in Environmental Sciences:** Specializations in environmental policy, sustainable development, and climate change.
 
----
-
+* * *
 
 # Technical University of Applied Sciences Wildau / Faculty of Business, Computing and Law
 
-> **Matching Score - ChatGPT:** 4
+> **Matching Score - ChatGPT:** 4  
 > **Matching Score - Copilot:** 4
 > **Matching Reason: - ChatGPT:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
 > **Matching Reason - Copilot:** The focus on business, computing, and law does not align closely with Barbora's primary interests in design, engineering, and architecture.
@@ -1309,18 +1303,18 @@
 - **Faculty Webpage:** Faculty of Business, Computing and Law - TH Wildau
 
 **Study Programs:**
+
 - **Bachelor of Science in Business Administration:** Focuses on management principles, marketing, and finance.
 - **Bachelor of Science in Computer Science:** Covers algorithms, data structures, and software engineering.
 - **Bachelor of Laws (LL.B.):** Emphasizes civil law, criminal law, and international law.
 - **Master of Science in Business Informatics:** Advanced studies in information systems, data analytics, and digital transformation.
 - **Master of Laws (LL.M.):** Specializations in international law, corporate law, and intellectual property.
 
----
-
+* * *
 
 # University of Applied Sciences Potsdam / Faculty of Social and Educational Sciences
 
-> **Matching Score - ChatGPT:** 4
+> **Matching Score - ChatGPT:** 4  
 > **Matching Score - Copilot:** 4
 > **Matching Reason: - ChatGPT:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
 > **Matching Reason - Copilot:** The focus on social and educational sciences does not align closely with Barbora's primary interests in design, engineering, and architecture.
@@ -1343,17 +1337,17 @@
 - **Faculty Webpage:** Faculty of Social and Educational Sciences - FH Potsdam
 
 **Study Programs:**
+
 - **Bachelor of Arts in Social Work:** Focuses on social justice, community development, and human services.
 - **Bachelor of Arts in Education:** Covers educational theory, teaching methods, and curriculum development.
 - **Master of Arts in Social Work:** Advanced studies in social policy, community engagement, and social innovation.
 - **Master of Arts in Education:** Specializations in educational leadership, inclusive education, and educational technology.
 
----
-
+* * *
 
 # Berlin University of the Arts (UdK) / Faculty of Fine Arts
 
-> **Matching Score - ChatGPT:** 4
+> **Matching Score - ChatGPT:** 4  
 > **Matching Score - Copilot:** 4
 > **Matching Reason: - ChatGPT:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
 > **Matching Reason - Copilot:** The focus on fine arts does not align closely with Barbora's primary interests in design, engineering, and architecture.
@@ -1376,16 +1370,16 @@
 - **Faculty Webpage:** [Faculty of Fine Arts - UdK](https://www.udk-berlin.de/en/university/college-of-fine-arts/)
 
 **Study Programs:**
+
 - **Bachelor of Fine Arts:** Focuses on painting, sculpture, and new media.
 - **Master of Fine Arts:** Advanced studies in artistic practice and theory.
 - **Master of Arts in Art in Context:** Specializations in art education, curatorial practice, and community arts[^1^](https://www.udk-berlin.de/en/university/college-of-fine-arts/).
 
----
-
+* * *
 
 # Berlin University of the Arts (UdK) / Faculty of Music
 
-> **Matching Score - ChatGPT:** 4
+> **Matching Score - ChatGPT:** 4  
 > **Matching Score - Copilot:** 4
 > **Matching Reason: - ChatGPT:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
 > **Matching Reason - Copilot:** The focus on music does not align closely with Barbora's primary interests in design, engineering, and architecture.
@@ -1408,16 +1402,16 @@
 - **Faculty Webpage:** [Faculty of Music - UdK](https://www.udk-berlin.de/en/university/college-of-music/)
 
 **Study Programs:**
+
 - **Bachelor of Music:** Focuses on instrumental and vocal performance, composition, and music education.
 - **Master of Music:** Advanced studies in performance, conducting, and composition.
 - **Master of Arts in Music Education:** Specializations in music pedagogy, community music, and music therapy[^2^](https://www.udk-berlin.de/en/courses/fine-arts/).
 
----
-
+* * *
 
 # Berlin University of the Arts (UdK) / Faculty of Performing Arts
 
-> **Matching Score - ChatGPT:** 4
+> **Matching Score - ChatGPT:** 4  
 > **Matching Score - Copilot:** 4
 > **Matching Reason: - ChatGPT:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
 > **Matching Reason - Copilot:** The focus on performing arts does not align closely with Barbora's primary interests in design, engineering, and architecture.
@@ -1440,16 +1434,16 @@
 - **Faculty Webpage:** [Faculty of Performing Arts - UdK](https://www.udk-berlin.de/en/university/college-of-performing-arts/)
 
 **Study Programs:**
+
 - **Bachelor of Arts in Acting:** Focuses on acting techniques, voice training, and movement.
 - **Bachelor of Arts in Stage Design:** Covers set design, lighting, and costume design.
 - **Master of Arts in Creative Writing for the Stage:** Specializations in playwriting, dramaturgy, and performance studies[^3^](https://bing.com/search?q=Berlin+University+of+the+Arts+%28UdK%29+Faculty+of+Fine+Arts+study+programs).
 
----
-
+* * *
 
 # Weißensee Academy of Art Berlin / Department of Fine Arts
 
-> **Matching Score - ChatGPT:** 4
+> **Matching Score - ChatGPT:** 4  
 > **Matching Score - Copilot:** 4
 > **Matching Reason: - ChatGPT:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
 > **Matching Reason - Copilot:** The focus on fine arts does not align closely with Barbora's primary interests in design, engineering, and architecture.
@@ -1472,16 +1466,16 @@
 - **Faculty Webpage:** [Department of Fine Arts - Weißensee Academy of Art Berlin](https://kh-berlin.de/en/studies/applying-for-studies/ba-design-and-fine-art-programs)
 
 **Study Programs:**
+
 - **Bachelor of Fine Arts:** Focuses on painting, sculpture, and stage and costume design.
 - **Master of Fine Arts:** Advanced studies in artistic practice and theory.
 - **Master of Arts in Art Therapy:** Specializations in therapeutic practices, community arts, and art education[^4^](https://universitaet.com/en/universities/uni-profiles/berlin-university-of-the-arts).
 
----
-
+* * *
 
 # Hanns Eisler School of Music Berlin / Department of Conducting
 
-> **Matching Score - ChatGPT:** 4
+> **Matching Score - ChatGPT:** 4  
 > **Matching Score - Copilot:** 4
 > **Matching Reason: - ChatGPT:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
 > **Matching Reason - Copilot:** The focus on conducting does not align closely with Barbora's primary interests in design, engineering, and architecture.
@@ -1504,17 +1498,17 @@
 - **Faculty Webpage:** [Department of Conducting - Hanns Eisler School of Music Berlin](https://www.hfm-berlin.de/en/application/our-study-programmes/orchestra-conducting/)
 
 **Study Programs:**
+
 - **Bachelor of Music in Orchestral Conducting:** Focuses on conducting technique, repertoire, and performance practice.
 - **Master of Music in Orchestral Conducting:** Advanced studies in conducting, interpretation, and rehearsal techniques.
 - **Bachelor of Music in Choral Conducting:** Covers choral conducting techniques, repertoire, and vocal training.
 - **Master of Music in Choral Conducting:** Specializations in advanced choral conducting, interpretation, and rehearsal techniques[^1^](https://www.hfm-berlin.de/en/application/our-study-programmes/orchestra-conducting/).
 
----
-
+* * *
 
 # Hanns Eisler School of Music Berlin / Department of Instrumental Studies
 
-> **Matching Score - ChatGPT:** 4
+> **Matching Score - ChatGPT:** 4  
 > **Matching Score - Copilot:** 4
 > **Matching Reason: - ChatGPT:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
 > **Matching Reason - Copilot:** The focus on instrumental studies does not align closely with Barbora's primary interests in design, engineering, and architecture.
@@ -1537,17 +1531,17 @@
 - **Faculty Webpage:** [Department of Instrumental Studies - Hanns Eisler School of Music Berlin](https://www.hfm-berlin.de/en/studies/study-programmes/)
 
 **Study Programs:**
+
 - **Bachelor of Music in Violin:** Focuses on violin performance, technique, and repertoire.
 - **Bachelor of Music in Cello:** Covers cello performance, technique, and repertoire.
 - **Bachelor of Music in Flute:** Emphasizes flute performance, technique, and repertoire.
 - **Master of Music in Instrumental Performance:** Advanced studies in instrumental performance, technique, and interpretation[^2^](https://www.hfm-berlin.de/en/studies/study-programmes/).
 
----
-
+* * *
 
 # Hanns Eisler School of Music Berlin / Department of Music Theory and Composition
 
-> **Matching Score - ChatGPT:** 4
+> **Matching Score - ChatGPT:** 4  
 > **Matching Score - Copilot:** 4
 > **Matching Reason: - ChatGPT:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
 > **Matching Reason - Copilot:** The focus on music theory and composition does not align closely with Barbora's primary interests in design, engineering, and architecture.
@@ -1570,17 +1564,17 @@
 - **Faculty Webpage:** [Department of Music Theory and Composition - Hanns Eisler School of Music Berlin](https://www.hfm-berlin.de/en/studies/study-programmes/composition/)
 
 **Study Programs:**
+
 - **Bachelor of Music in Composition:** Focuses on compositional techniques, music theory, and electroacoustic music.
 - **Master of Music in Composition:** Advanced studies in composition, orchestration, and electroacoustic music.
 - **Bachelor of Music in Music Theory:** Covers music theory, analysis, and pedagogy.
 - **Master of Music in Music Theory:** Specializations in advanced music theory, analysis, and pedagogy[^3^](https://www.hfm-berlin.de/en/studies/study-programmes/composition/).
 
----
-
+* * *
 
 # Hanns Eisler School of Music Berlin / Department of Vocal Studies
 
-> **Matching Score - ChatGPT:** 4
+> **Matching Score - ChatGPT:** 4  
 > **Matching Score - Copilot:** 4
 > **Matching Reason: - ChatGPT:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
 > **Matching Reason - Copilot:** The focus on vocal studies does not align closely with Barbora's primary interests in design, engineering, and architecture.
@@ -1603,17 +1597,17 @@
 - **Faculty Webpage:** [Department of Vocal Studies - Hanns Eisler School of Music Berlin](https://www.hfm-berlin.de/en/studies/study-programmes/voice/)
 
 **Study Programs:**
+
 - **Bachelor of Music in Vocal Performance:** Focuses on vocal technique, repertoire, and performance practice.
 - **Master of Music in Vocal Performance:** Advanced studies in vocal technique, interpretation, and performance practice.
 - **Bachelor of Music in Opera:** Covers opera performance, stagecraft, and vocal technique.
 - **Master of Music in Opera:** Specializations in advanced opera performance, stagecraft, and vocal technique[^4^](https://www.hfm-berlin.de/en/studies/study-programmes/voice/).
 
----
-
+* * *
 
 # Bard College Berlin / Department of Humanities
 
-> **Matching Score - ChatGPT:** 4
+> **Matching Score - ChatGPT:** 4  
 > **Matching Score - Copilot:** 4
 > **Matching Reason: - ChatGPT:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
 > **Matching Reason - Copilot:** The focus on humanities does not align closely with Barbora's primary interests in design, engineering, and architecture.
@@ -1636,15 +1630,15 @@
 - **Faculty Webpage:** [Department of Humanities - Bard College Berlin](https://berlin.bard.edu/academics/humanities-the-arts-and-social-thought/)
 
 **Study Programs:**
+
 - **Bachelor of Arts in Humanities, the Arts, and Social Thought:** Focuses on interdisciplinary studies in humanities, arts, and social sciences.
 - **Bachelor of Arts in Economics, Politics, and Social Thought:** Covers economics, political science, and social theory[^1^](https://berlin.bard.edu/academics/humanities-the-arts-and-social-thought/).
 
----
-
+* * *
 
 # Hertie School of Governance / Department of International Affairs
 
-> **Matching Score - ChatGPT:** 4
+> **Matching Score - ChatGPT:** 4  
 > **Matching Score - Copilot:** 4
 > **Matching Reason: - ChatGPT:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
 > **Matching Reason - Copilot:** The focus on international affairs does not align closely with Barbora's primary interests in design, engineering, and architecture.
@@ -1667,15 +1661,15 @@
 - **Faculty Webpage:** Department of International Affairs - Hertie School
 
 **Study Programs:**
+
 - **Master of International Affairs (MIA):** Focuses on international security, human rights, and global governance.
 - **Dual Degree with IE University:** Combines the Master of International Affairs with the Master in International Relations from IE University in Madrid[^2^](https://berlin.bard.edu/academics/de-humanities-the-arts-and-social-thought/).
 
----
-
+* * *
 
 # Hertie School of Governance / Department of Public Policy
 
-> **Matching Score - ChatGPT:** 4
+> **Matching Score - ChatGPT:** 4  
 > **Matching Score - Copilot:** 4
 > **Matching Reason: - ChatGPT:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
 > **Matching Reason - Copilot:** The focus on public policy does not align closely with Barbora's primary interests in design, engineering, and architecture.
@@ -1698,15 +1692,15 @@
 - **Faculty Webpage:** Department of Public Policy - Hertie School
 
 **Study Programs:**
+
 - **Master of Public Policy (MPP):** Focuses on policy analysis, governance, and leadership.
 - **Dual Degree with Sciences Po Paris:** Combines the Master of Public Policy with the Master of Public Policy from Sciences Po Paris[^3^](https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/bard-college-berlin-a-liberal-arts-university-humanities-the-arts-and-social-thought-g1273286/?hec-id=g1273286).
 
----
-
+* * *
 
 # Brandenburg University of Technology Cottbus-Senftenberg / Faculty of Business, Law and Social Sciences
 
-> **Matching Score - ChatGPT:** 4
+> **Matching Score - ChatGPT:** 4  
 > **Matching Score - Copilot:** 4
 > **Matching Reason: - ChatGPT:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
 > **Matching Reason - Copilot:** The focus on business, law, and social sciences does not align closely with Barbora's primary interests in design, engineering, and architecture.
@@ -1729,17 +1723,17 @@
 - **Faculty Webpage:** [Faculty of Business, Law and Social Sciences - BTU Cottbus-Senftenberg](https://www.b-tu.de/en/university/faculties)
 
 **Study Programs:**
+
 - **Bachelor of Business Administration (BBA):** Focuses on management principles, marketing, and finance.
 - **Bachelor of Laws (LL.B.):** Emphasizes civil law, criminal law, and international law.
 - **Master of Business Administration (MBA):** Advanced studies in leadership, strategic management, and business innovation.
 - **Master of Laws (LL.M.):** Specializations in international law, corporate law, and intellectual property[^4^](https://www.hertie-school.org/en/mia/admissions).
 
----
-
+* * *
 
 # Brandenburg University of Technology Cottbus-Senftenberg / Faculty of Health Sciences
 
-> **Matching Score - ChatGPT:** 4
+> **Matching Score - ChatGPT:** 4  
 > **Matching Score - Copilot:** 4
 > **Matching Reason: - ChatGPT:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
 > **Matching Reason - Copilot:** The focus on health sciences does not align closely with Barbora's primary interests in design, engineering, and architecture.
@@ -1762,16 +1756,16 @@
 - **Faculty Webpage:** [Faculty of Health Sciences - BTU Cottbus-Senftenberg](https://www.fgw-brandenburg.de/en/)
 
 **Study Programs:**
+
 - **Bachelor of Science in Public Health:** Focuses on health promotion, disease prevention, and health policy.
 - **Bachelor of Science in Exercise Science:** Covers exercise physiology, biomechanics, and sports nutrition.
 - **Master of Science in Public Health, Exercise and Nutrition (PEN):** Advanced studies in public health, exercise science, and nutrition[^1^](https://www.fgw-brandenburg.de/en/).
 
----
-
+* * *
 
 # Brandenburg University of Technology Cottbus-Senftenberg / Faculty of Natural Sciences
 
-> **Matching Score - ChatGPT:** 4
+> **Matching Score - ChatGPT:** 4  
 > **Matching Score - Copilot:** 4
 > **Matching Reason: - ChatGPT:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
 > **Matching Reason - Copilot:** The focus on natural sciences does not align closely with Barbora's primary interests in design, engineering, and architecture.
@@ -1794,17 +1788,17 @@
 - **Faculty Webpage:** [Faculty of Natural Sciences - BTU Cottbus-Senftenberg](https://www.b-tu.de/en/)
 
 **Study Programs:**
+
 - **Bachelor of Science in Biotechnology:** Focuses on molecular biology, genetic engineering, and bioprocess technology.
 - **Bachelor of Science in Environmental Sciences:** Covers environmental management, sustainability, and ecological systems.
 - **Master of Science in Biotechnology:** Advanced studies in bioprocess engineering, bioinformatics, and molecular diagnostics.
 - **Master of Science in Environmental Sciences:** Specializations in environmental policy, sustainable development, and climate change[^2^](https://www.fgw-brandenburg.de/en/studies-teaching/study-offerings/courses/master-public-health/).
 
----
-
+* * *
 
 # Technische Universität Berlin (TU Berlin) / Faculty of Humanities
 
-> **Matching Score - ChatGPT:** 4
+> **Matching Score - ChatGPT:** 4  
 > **Matching Score - Copilot:** 4
 > **Matching Reason: - ChatGPT:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
 > **Matching Reason - Copilot:** The focus on humanities does not align closely with Barbora's primary interests in design, engineering, and architecture.
@@ -1827,16 +1821,16 @@
 - **Faculty Webpage:** [Faculty of Humanities - TU Berlin](https://www.tu.berlin/en/humanities/study-teaching/study-programmes)
 
 **Study Programs:**
+
 - **Bachelor of Arts in Culture and Technology:** Focuses on the intersection of culture, technology, and society.
 - **Master of Arts in History of Science and Technology:** Advanced studies in the historical development of science and technology.
 - **Master of Arts in Philosophy of Science:** Specializations in the philosophical analysis of scientific concepts and methods[^3^](https://gerit.org/en/institutiondetail/10344).
 
----
-
+* * *
 
 # Technische Universität Berlin (TU Berlin) / Faculty of Mathematics and Natural Sciences
 
-> **Matching Score - ChatGPT:** 4
+> **Matching Score - ChatGPT:** 4  
 > **Matching Score - Copilot:** 4
 > **Matching Reason: - ChatGPT:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
 > **Matching Reason - Copilot:** The focus on mathematics and natural sciences does not align closely with Barbora's primary interests in design, engineering, and architecture.
@@ -1859,6 +1853,7 @@
 - **Faculty Webpage:** [Faculty of Mathematics and Natural Sciences - TU Berlin](https://www.tu.berlin/en/naturwissenschaften/)
 
 **Study Programs:**
+
 - **Bachelor of Science in Mathematics:** Focuses on pure and applied mathematics, including algebra, analysis, and geometry.
 - **Bachelor of Science in Physics:** Covers classical and modern physics, including mechanics, electromagnetism, and quantum physics.
 - **Bachelor of Science in Chemistry:** Emphasizes organic, inorganic, and physical chemistry.
@@ -1866,12 +1861,11 @@
 - **Master of Science in Physics:** Specializations in theoretical and experimental physics.
 - **Master of Science in Chemistry:** Focuses on advanced chemical research and applications[^4^](https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/8339/).
 
----
-
+* * *
 
 # Freie Universität Berlin (FU Berlin) / Department of Education and Psychology
 
-> **Matching Score - ChatGPT:** 4
+> **Matching Score - ChatGPT:** 4  
 > **Matching Score - Copilot:** 4
 > **Matching Reason: - ChatGPT:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
 > **Matching Reason - Copilot:** The focus on psychology and education sciences does not align closely with Barbora's primary interests in design, engineering, and architecture.
@@ -1894,17 +1888,17 @@
 - **Faculty Webpage:** [Department of Education and Psychology - FU Berlin](http://www.ewi-psy.fu-berlin.de/en)
 
 **Study Programs:**
+
 - **Bachelor of Science in Psychology:** Focuses on cognitive psychology, developmental psychology, and clinical psychology.
 - **Bachelor of Arts in Education:** Covers educational theory, teaching methods, and curriculum development.
 - **Master of Science in Psychology:** Advanced studies in clinical psychology, neuropsychology, and health psychology.
 - **Master of Arts in Education:** Specializations in educational leadership, inclusive education, and educational technology[^1^](https://www.fu-berlin.de/en/einrichtungen/fachbereiche/fb/ewiss-psy/AB200/index.html).
 
----
-
+* * *
 
 # Freie Universität Berlin (FU Berlin) / Department of History and Cultural Studies
 
-> **Matching Score - ChatGPT:** 4
+> **Matching Score - ChatGPT:** 4  
 > **Matching Score - Copilot:** 4
 > **Matching Reason: - ChatGPT:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
 > **Matching Reason - Copilot:** The focus on history and cultural studies does not align closely with Barbora's primary interests in design, engineering, and architecture.
@@ -1927,17 +1921,17 @@
 - **Faculty Webpage:** Department of History and Cultural Studies - FU Berlin
 
 **Study Programs:**
+
 - **Bachelor of Arts in History:** Focuses on ancient, medieval, and modern history.
 - **Bachelor of Arts in Cultural Studies:** Covers cultural theory, media studies, and anthropology.
 - **Master of Arts in History:** Advanced studies in historical research, historiography, and archival studies.
 - **Master of Arts in Cultural Studies:** Specializations in cultural analysis, media studies, and visual culture[^2^](https://www.fu-berlin.de/en/studium/studienangebot/grundstaendige/psychologie_mono/index.html).
 
----
-
+* * *
 
 # Freie Universität Berlin (FU Berlin) / Department of Law
 
-> **Matching Score - ChatGPT:** 4
+> **Matching Score - ChatGPT:** 4  
 > **Matching Score - Copilot:** 4
 > **Matching Reason: - ChatGPT:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
 > **Matching Reason - Copilot:** The focus on law does not align closely with Barbora's primary interests in design, engineering, and architecture.
@@ -1960,16 +1954,16 @@
 - **Faculty Webpage:** [Department of Law - FU Berlin](https://www.jura.fu-berlin.de/en/index.html)
 
 **Study Programs:**
+
 - **Bachelor of Laws (LL.B.):** Focuses on civil law, criminal law, and public law.
 - **Master of Laws (LL.M.):** Advanced studies in international law, corporate law, and human rights law.
 - **Doctor of Laws (Dr. iur.):** Specializations in legal research, comparative law, and legal theory[^3^](https://www.fu-berlin.de/en/studium/studienangebot/master/psychologie_klinisch_psychologie_psychotherapie/index.html).
 
----
-
+* * *
 
 # Freie Universität Berlin (FU Berlin) / Department of Mathematics and Computer Science
 
-> **Matching Score - ChatGPT:** 4
+> **Matching Score - ChatGPT:** 4  
 > **Matching Score - Copilot:** 4
 > **Matching Reason: - ChatGPT:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
 > **Matching Reason - Copilot:** The focus on mathematics and computer science does not align closely with Barbora's primary interests in design, engineering, and architecture.
@@ -1992,17 +1986,17 @@
 - **Faculty Webpage:** Department of Mathematics and Computer Science - FU Berlin
 
 **Study Programs:**
+
 - **Bachelor of Science in Mathematics:** Focuses on pure and applied mathematics, including algebra, analysis, and geometry.
 - **Bachelor of Science in Computer Science:** Covers algorithms, data structures, and software engineering.
 - **Master of Science in Mathematics:** Advanced studies in mathematical theory and applications.
 - **Master of Science in Computer Science:** Specializations in artificial intelligence, machine learning, and data science[^4^](https://www.fu-berlin.de/en/studium/studienangebot/master/psychologie_arbeit_orga_gesundheit/index.html).
 
----
-
+* * *
 
 # Freie Universität Berlin (FU Berlin) / Department of Philosophy and Humanities
 
-> **Matching Score - ChatGPT:** 4
+> **Matching Score - ChatGPT:** 4  
 > **Matching Score - Copilot:** 4
 > **Matching Reason: - ChatGPT:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
 > **Matching Reason - Copilot:** The focus on philosophy and humanities does not align closely with Barbora's primary interests in design, engineering, and architecture.
@@ -2025,17 +2019,17 @@
 - **Faculty Webpage:** Department of Philosophy and Humanities - FU Berlin
 
 **Study Programs:**
+
 - **Bachelor of Arts in Philosophy:** Focuses on philosophical theory, ethics, and logic.
 - **Bachelor of Arts in Comparative Literature:** Covers literary theory, comparative analysis, and cultural studies.
 - **Master of Arts in Philosophy:** Advanced studies in philosophical research, ethics, and metaphysics.
 - **Master of Arts in Comparative Literature:** Specializations in literary theory, cultural analysis, and interdisciplinary studies[^1^](https://www.fu-berlin.de/en/einrichtungen/fachbereiche/fb/phil-geist/index.html).
 
----
-
+* * *
 
 # Freie Universität Berlin (FU Berlin) / Department of Veterinary Medicine
 
-> **Matching Score - ChatGPT:** 4
+> **Matching Score - ChatGPT:** 4  
 > **Matching Score - Copilot:** 4
 > **Matching Reason: - ChatGPT:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
 > **Matching Reason - Copilot:** The focus on veterinary medicine does not align closely with Barbora's primary interests in design, engineering, and architecture.
@@ -2058,16 +2052,16 @@
 - **Faculty Webpage:** [Department of Veterinary Medicine - FU Berlin](https://www.vetmed.fu-berlin.de/en/index.html)
 
 **Study Programs:**
+
 - **Bachelor of Veterinary Medicine:** Focuses on animal health, veterinary science, and clinical practice.
 - **Master of Veterinary Medicine:** Advanced studies in veterinary research, clinical practice, and animal health.
 - **Doctor of Veterinary Medicine (Dr. med. vet.):** Specializations in veterinary research, clinical practice, and animal health[^3^](https://www.geisteswissenschaften.fu-berlin.de/en/we01/studieren/index.html).
 
----
-
+* * *
 
 # Humboldt University of Berlin (HU Berlin) / Faculty of Arts and Humanities
 
-> **Matching Score - ChatGPT:** 4
+> **Matching Score - ChatGPT:** 4  
 > **Matching Score - Copilot:** 4
 > **Matching Reason: - ChatGPT:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
 > **Matching Reason - Copilot:** The focus on arts and humanities does not align closely with Barbora's primary interests in design, engineering, and architecture.
@@ -2090,6 +2084,7 @@
 - **Faculty Webpage:** [Faculty of Arts and Humanities - HU Berlin](https://www.hu-berlin.de/en/institutions/faculties-and-departments/fac-arts-humanities)
 
 **Study Programs:**
+
 - **Bachelor of Arts in Literature:** Focuses on literary theory, comparative literature, and cultural studies.
 - **Bachelor of Arts in History:** Covers ancient, medieval, and modern history.
 - **Bachelor of Arts in Philosophy:** Emphasizes philosophical theory, ethics, and logic.
@@ -2097,12 +2092,11 @@
 - **Master of Arts in History:** Specializations in historical research, historiography, and archival studies.
 - **Master of Arts in Philosophy:** Focuses on advanced philosophical research, ethics, and metaphysics[^4^](https://www.geisteswissenschaften.fu-berlin.de/en/we01/studieren/studium/promotion/index.html).
 
----
-
+* * *
 
 # Humboldt University of Berlin (HU Berlin) / Faculty of Law
 
-> **Matching Score - ChatGPT:** 4
+> **Matching Score - ChatGPT:** 4  
 > **Matching Score - Copilot:** 4
 > **Matching Reason: - ChatGPT:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
 > **Matching Reason - Copilot:** The focus on law does not align closely with Barbora's primary interests in design, engineering, and architecture.
@@ -2125,16 +2119,16 @@
 - **Faculty Webpage:** [Faculty of Law - HU Berlin](https://www.hu-berlin.de/en/institutions/faculties-and-departments/law)
 
 **Study Programs:**
+
 - **Bachelor of Laws (LL.B.):** Focuses on civil law, criminal law, and public law.
 - **Master of Laws (LL.M.):** Advanced studies in international law, corporate law, and human rights law.
 - **Doctor of Laws (Dr. iur.):** Specializations in legal research, comparative law, and legal theory[^3^](https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/humboldt-university-berlin-law-g4213/?hec-id=g4213).
 
----
-
+* * *
 
 # Humboldt University of Berlin (HU Berlin) / Faculty of Life Sciences
 
-> **Matching Score - ChatGPT:** 4
+> **Matching Score - ChatGPT:** 4  
 > **Matching Score - Copilot:** 4
 > **Matching Reason: - ChatGPT:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
 > **Matching Reason - Copilot:** The focus on life sciences does not align closely with Barbora's primary interests in design, engineering, and architecture.
@@ -2157,6 +2151,7 @@
 - **Faculty Webpage:** [Faculty of Life Sciences - HU Berlin](https://www.hu-berlin.de/en/institutions/faculties-and-departments/life-sciences)
 
 **Study Programs:**
+
 - **Bachelor of Science in Biology:** Focuses on molecular biology, genetics, and ecology.
 - **Bachelor of Science in Biochemistry:** Covers biochemical processes, molecular biology, and biotechnology.
 - **Bachelor of Science in Environmental Sciences:** Emphasizes environmental management, sustainability, and ecological systems.
@@ -2164,12 +2159,11 @@
 - **Master of Science in Biochemistry:** Specializations in biochemical research, molecular diagnostics, and bioinformatics.
 - **Master of Science in Environmental Sciences:** Focuses on advanced environmental policy, sustainable development, and climate change[^4^](https://fakultaeten.hu-berlin.de/en/lewi-en/studiesandteachingx/Studies%20and%20teaching).
 
----
-
+* * *
 
 # Humboldt University of Berlin (HU Berlin) / Faculty of Mathematics and Natural Sciences
 
-> **Matching Score - ChatGPT:** 4
+> **Matching Score - ChatGPT:** 4  
 > **Matching Score - Copilot:** 4
 > **Matching Reason: - ChatGPT:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
 > **Matching Reason - Copilot:** The focus on mathematics and natural sciences does not align closely with Barbora's primary interests in design, engineering, and architecture.
@@ -2192,6 +2186,7 @@
 - **Faculty Webpage:** [Faculty of Mathematics and Natural Sciences - HU Berlin](https://www.hu-berlin.de/en/institutions/faculties-and-departments/mathematics-natural-sciences/index_html)
 
 **Study Programs:**
+
 - **Bachelor of Science in Mathematics:** Focuses on pure and applied mathematics, including algebra, analysis, and geometry.
 - **Bachelor of Science in Physics:** Covers classical and modern physics, including mechanics, electromagnetism, and quantum physics.
 - **Bachelor of Science in Chemistry:** Emphasizes organic, inorganic, and physical chemistry.
@@ -2199,12 +2194,11 @@
 - **Master of Science in Physics:** Specializations in theoretical and experimental physics.
 - **Master of Science in Chemistry:** Focuses on advanced chemical research and applications[^5^](https://fakultaeten.hu-berlin.de/en/mnf).
 
----
-
+* * *
 
 # Humboldt University of Berlin (HU Berlin) / Faculty of Medicine (Charité Universitätsmedizin Berlin)
 
-> **Matching Score - ChatGPT:** 4
+> **Matching Score - ChatGPT:** 4  
 > **Matching Score - Copilot:** 3
 > **Matching Reason: - ChatGPT:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
 > **Matching Reason - Copilot:** The focus on medicine and health does not align with Barbora's primary interests in creative and technical fields. However, the interdisciplinary nature of some health sciences programs might offer some relevance.
@@ -2227,17 +2221,17 @@
 - **Faculty Webpage:** Charité – Universitätsmedizin Berlin
 
 **Study Programs:**
+
 - **Bachelor of Science in Health Sciences:** Focuses on public health, health management, and health promotion.
 - **State Examination in Medicine:** Comprehensive medical training program leading to a medical license.
 - **Master of Science in Molecular Medicine:** Advanced studies in biomedical research and molecular biology.
 - **Master of Science in Public Health:** Emphasizes epidemiology, health policy, and health systems management.
 
----
-
+* * *
 
 # University of Potsdam / Faculty of Education
 
-> **Matching Score - ChatGPT:** 4
+> **Matching Score - ChatGPT:** 4  
 > **Matching Score - Copilot:** 3
 > **Matching Reason: - ChatGPT:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
 > **Matching Reason - Copilot:** The focus on educational sciences and teacher training does not align with Barbora's primary interests. However, the emphasis on practical teaching experience might offer some transferable skills.
@@ -2260,16 +2254,16 @@
 - **Faculty Webpage:** Faculty of Education - University of Potsdam
 
 **Study Programs:**
+
 - **Bachelor of Arts in Educational Science:** Covers theories and practices in education, psychology, and sociology.
 - **Master of Education:** Advanced teacher training program for secondary education.
 - **Master of Arts in Educational Research:** Focuses on research methodologies and educational policy analysis.
 
----
-
+* * *
 
 # University of Potsdam / Faculty of Humanities
 
-> **Matching Score - ChatGPT:** 4
+> **Matching Score - ChatGPT:** 4  
 > **Matching Score - Copilot:** 3
 > **Matching Reason: - ChatGPT:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
 > **Matching Reason - Copilot:** The focus on cultural studies, languages, history, and philosophy does not align with Barbora's primary interests. However, interdisciplinary research might offer some relevant insights.
@@ -2292,16 +2286,16 @@
 - **Faculty Webpage:** Faculty of Humanities - University of Potsdam
 
 **Study Programs:**
+
 - **Bachelor of Arts in Cultural Studies:** Focuses on cultural theory, media studies, and intercultural communication.
 - **Bachelor of Arts in History:** Covers historical research methods, European history, and world history.
 - **Master of Arts in Philosophy:** Advanced studies in philosophical theory, ethics, and logic.
 
----
-
+* * *
 
 # University of Potsdam / Faculty of Law
 
-> **Matching Score - ChatGPT:** 4
+> **Matching Score - ChatGPT:** 4  
 > **Matching Score - Copilot:** 3
 > **Matching Reason: - ChatGPT:** This subject is not closely aligned with Barbora's main interests in design, engineering, and architecture. While it may still offer some value, it's not as well-matched with her goals.
 > **Matching Reason - Copilot:** The focus on legal studies does not align with Barbora's primary interests. However, the analytical skills developed in law might offer some transferable benefits.
@@ -2324,10 +2318,9 @@
 - **Faculty Webpage:** Faculty of Law - University of Potsdam
 
 **Study Programs:**
+
 - **Bachelor of Laws (LL.B.):** Covers fundamental legal principles, civil law, and criminal law.
 - **State Examination in Law:** Comprehensive legal training program leading to a legal license.
 - **Master of Laws (LL.M.):** Advanced studies in international law, human rights, and European law.
 
----
-
-
+* * *
