@@ -1,36 +1,51 @@
-Humboldt_University_of_Berlin_(HU_Berlin):
-  - Faculty_of_Arts_and_Humanities
-  - Faculty_of_Law
-  - Faculty_of_Life_Sciences
-  - Faculty_of_Mathematics_and_Natural_Sciences
-  - Faculty_of_Medicine_(Charité_–_Universitätsmedizin_Berlin)
-  - Faculty_of_Social_Sciences
-Freie_Universität_Berlin_(FU_Berlin):
-  - Department_of_Biology,_Chemistry,_and_Pharmacy
-  - Department_of_Earth_Sciences
-  - Department_of_Education_and_Psychology
-  - Department_of_History_and_Cultural_Studies
-  - Department_of_Law
-  - Department_of_Mathematics_and_Computer_Science
-  - Department_of_Philosophy_and_Humanities
-  - Department_of_Physics
-  - Department_of_Political_and_Social_Sciences
-  - Department_of_Veterinary_Medicine
-Technische_Universität_Berlin_(TU_Berlin):
-  - Faculty_of_Electrical_Engineering_and_Computer_Science
-  - Faculty_of_Economics_and_Management
-  - Faculty_of_Humanities
-  - Faculty_of_Mathematics_and_Natural_Sciences
-  - Faculty_of_Mechanical_Engineering_and_Transport_Systems
-  - Faculty_of_Planning_Building_Environment
-  - Faculty_of_Process_Sciences
-Berlin_University_of_the_Arts_(UdK):
-  - Faculty_of_Fine_Arts
-  - Faculty_of_Design
-  - Faculty_of_Music
-  - Faculty_of_Performing_Arts
-Berlin_School_of_Economics_and_Law_(HWR_Berlin):
-  - Department_of_Business_and_Economics
-  - Department_of_Public_Administration
-  - Department_of_Legal_Studies
-  - Department_of_Police_and_Security_Management
+Universität:
+  name-en: University
+  schools:
+    - Humboldt_University_of_Berlin_(HU_Berlin):
+        - Faculty_of_Arts_and_Humanities
+        - Faculty_of_Law
+        - Faculty_of_Life_Sciences
+        - Faculty_of_Mathematics_and_Natural_Sciences
+        - Faculty_of_Medicine_(Charité_–_Universitätsmedizin_Berlin)
+        - Faculty_of_Social_Sciences
+    - Freie_Universität_Berlin_(FU_Berlin):
+        - Department_of_Biology,_Chemistry,_and_Pharmacy
+        - Department_of_Earth_Sciences
+        - Department_of_Education_and_Psychology
+        - Department_of_History_and_Cultural_Studies
+        - Department_of_Law
+        - Department_of_Mathematics_and_Computer_Science
+        - Department_of_Philosophy_and_Humanities
+        - Department_of_Physics
+        - Department_of_Political_and_Social_Sciences
+        - Department_of_Veterinary_Medicine
+
+Technische_Universität:
+  name-en: Technical University
+  schools:
+    - Technische_Universität_Berlin_(TU_Berlin):
+        - Faculty_of_Electrical_Engineering_and_Computer_Science
+        - Faculty_of_Economics_and_Management
+        - Faculty_of_Humanities
+        - Faculty_of_Mathematics_and_Natural_Sciences
+        - Faculty_of_Mechanical_Engineering_and_Transport_Systems
+        - Faculty_of_Planning_Building_Environment
+        - Faculty_of_Process_Sciences
+
+Kunsthochschule:
+  name-en: Academy_of_Fine_Arts
+  schools:
+    - Berlin_University_of_the_Arts_(UdK):
+        - Faculty_of_Fine_Arts
+        - Faculty_of_Design
+        - Faculty_of_Music
+        - Faculty_of_Performing_Arts
+
+Wirtschaftshochschule:
+  name-en: Business School
+  schools:
+    - Berlin_School_of_Economics_and_Law_(HWR_Berlin):
+        - Department_of_Business_and_Economics
+        - Department_of_Public_Administration
+        - Department_of_Legal_Studies
+        - Department_of_Police_and_Security_Management
