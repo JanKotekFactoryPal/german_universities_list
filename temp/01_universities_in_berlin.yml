@@ -28,11 +28,6 @@ Universities:
           Email: admissions@example.com
           Faculty: School of Engineering
           Phone: +49 30 123456789
-          Program:
-            - Description: Introduction to key topics in this faculty.
-              Name: Sample Program 1
-            - Description: Advanced studies in specialized fields.
-              Name: Sample Program 2
           Subject: Unknown
           Webpage: https://example.com/faculty-info
         - Address: Address not provided. Please refer to the university's website for
@@ -43,11 +38,6 @@ Universities:
           Email: admissions@example.com
           Faculty: School of Economics
           Phone: +49 30 123456789
-          Program:
-            - Description: Introduction to key topics in this faculty.
-              Name: Sample Program 1
-            - Description: Advanced studies in specialized fields.
-              Name: Sample Program 2
           Subject: Unknown
           Webpage: https://example.com/faculty-info
         - Address: Address not provided. Please refer to the university's website for
@@ -58,11 +48,6 @@ Universities:
           Email: admissions@example.com
           Faculty: School of Design and Culture
           Phone: +49 30 123456789
-          Program:
-            - Description: Introduction to key topics in this faculty.
-              Name: Sample Program 1
-            - Description: Advanced studies in specialized fields.
-              Name: Sample Program 2
           Subject: Unknown
           Webpage: https://example.com/faculty-info
         - Address: Address not provided. Please refer to the university's website for
@@ -73,11 +58,6 @@ Universities:
           Email: admissions@example.com
           Faculty: School of Life Sciences
           Phone: +49 30 123456789
-          Program:
-            - Description: Introduction to key topics in this faculty.
-              Name: Sample Program 1
-            - Description: Advanced studies in specialized fields.
-              Name: Sample Program 2
           Subject: Unknown
           Webpage: https://example.com/faculty-info
       Name: Berlin University of Applied Sciences (HTW Berlin)
@@ -90,11 +70,6 @@ Universities:
           Email: admissions@example.com
           Faculty: Faculty of Engineering and Natural Sciences
           Phone: +49 30 123456789
-          Program:
-            - Description: Introduction to key topics in this faculty.
-              Name: Sample Program 1
-            - Description: Advanced studies in specialized fields.
-              Name: Sample Program 2
           Subject: Unknown
           Webpage: https://example.com/faculty-info
         - Address: Address not provided. Please refer to the university's website for
@@ -105,11 +80,6 @@ Universities:
           Email: admissions@example.com
           Faculty: Faculty of Business, Computing and Law
           Phone: +49 30 123456789
-          Program:
-            - Description: Introduction to key topics in this faculty.
-              Name: Sample Program 1
-            - Description: Advanced studies in specialized fields.
-              Name: Sample Program 2
           Subject: Unknown
           Webpage: https://example.com/faculty-info
       Name: Technical University of Applied Sciences Wildau
@@ -122,11 +92,6 @@ Universities:
           Email: admissions@example.com
           Faculty: Faculty of Architecture and Urban Design
           Phone: +49 30 123456789
-          Program:
-            - Description: Introduction to key topics in this faculty.
-              Name: Sample Program 1
-            - Description: Advanced studies in specialized fields.
-              Name: Sample Program 2
           Subject: Unknown
           Webpage: https://example.com/faculty-info
         - Address: Address not provided. Please refer to the university's website for
@@ -137,11 +102,6 @@ Universities:
           Email: admissions@example.com
           Faculty: Faculty of Civil Engineering
           Phone: +49 30 123456789
-          Program:
-            - Description: Introduction to key topics in this faculty.
-              Name: Sample Program 1
-            - Description: Advanced studies in specialized fields.
-              Name: Sample Program 2
           Subject: Unknown
           Webpage: https://example.com/faculty-info
         - Address: Address not provided. Please refer to the university's website for
@@ -152,11 +112,6 @@ Universities:
           Email: admissions@example.com
           Faculty: Faculty of Design
           Phone: +49 30 123456789
-          Program:
-            - Description: Introduction to key topics in this faculty.
-              Name: Sample Program 1
-            - Description: Advanced studies in specialized fields.
-              Name: Sample Program 2
           Subject: Unknown
           Webpage: https://example.com/faculty-info
         - Address: Address not provided. Please refer to the university's website for
@@ -167,11 +122,6 @@ Universities:
           Email: admissions@example.com
           Faculty: Faculty of Social and Educational Sciences
           Phone: +49 30 123456789
-          Program:
-            - Description: Introduction to key topics in this faculty.
-              Name: Sample Program 1
-            - Description: Advanced studies in specialized fields.
-              Name: Sample Program 2
           Subject: Unknown
           Webpage: https://example.com/faculty-info
       Name: University of Applied Sciences Potsdam
@@ -184,11 +134,6 @@ Universities:
           Email: admissions@example.com
           Faculty: Faculty of Management
           Phone: +49 30 123456789
-          Program:
-            - Description: Introduction to key topics in this faculty.
-              Name: Sample Program 1
-            - Description: Advanced studies in specialized fields.
-              Name: Sample Program 2
           Subject: Unknown
           Webpage: https://example.com/faculty-info
         - Address: Address not provided. Please refer to the university's website for
@@ -199,11 +144,6 @@ Universities:
           Email: admissions@example.com
           Faculty: Faculty of Engineering and Technology
           Phone: +49 30 123456789
-          Program:
-            - Description: Introduction to key topics in this faculty.
-              Name: Sample Program 1
-            - Description: Advanced studies in specialized fields.
-              Name: Sample Program 2
           Subject: Unknown
           Webpage: https://example.com/faculty-info
         - Address: Address not provided. Please refer to the university's website for
@@ -214,11 +154,6 @@ Universities:
           Email: admissions@example.com
           Faculty: Faculty of Social Sciences
           Phone: +49 30 123456789
-          Program:
-            - Description: Introduction to key topics in this faculty.
-              Name: Sample Program 1
-            - Description: Advanced studies in specialized fields.
-              Name: Sample Program 2
           Subject: Unknown
           Webpage: https://example.com/faculty-info
       Name: SRH University of Applied Sciences Berlin
@@ -232,11 +167,6 @@ Universities:
           Email: admissions@example.com
           Faculty: Faculty of Fine Arts
           Phone: +49 30 123456789
-          Program:
-            - Description: Introduction to key topics in this faculty.
-              Name: Sample Program 1
-            - Description: Advanced studies in specialized fields.
-              Name: Sample Program 2
           Subject: Unknown
           Webpage: https://example.com/faculty-info
         - Address: Address not provided. Please refer to the university's website for
@@ -247,11 +177,6 @@ Universities:
           Email: admissions@example.com
           Faculty: Faculty of Design
           Phone: +49 30 123456789
-          Program:
-            - Description: Introduction to key topics in this faculty.
-              Name: Sample Program 1
-            - Description: Advanced studies in specialized fields.
-              Name: Sample Program 2
           Subject: Unknown
           Webpage: https://example.com/faculty-info
         - Address: Address not provided. Please refer to the university's website for
@@ -262,11 +187,6 @@ Universities:
           Email: admissions@example.com
           Faculty: Faculty of Music
           Phone: +49 30 123456789
-          Program:
-            - Description: Introduction to key topics in this faculty.
-              Name: Sample Program 1
-            - Description: Advanced studies in specialized fields.
-              Name: Sample Program 2
           Subject: Unknown
           Webpage: https://example.com/faculty-info
         - Address: Address not provided. Please refer to the university's website for
@@ -277,11 +197,6 @@ Universities:
           Email: admissions@example.com
           Faculty: Faculty of Performing Arts
           Phone: +49 30 123456789
-          Program:
-            - Description: Introduction to key topics in this faculty.
-              Name: Sample Program 1
-            - Description: Advanced studies in specialized fields.
-              Name: Sample Program 2
           Subject: Unknown
           Webpage: https://example.com/faculty-info
       Name: Berlin University of the Arts (UdK)
@@ -294,11 +209,6 @@ Universities:
           Email: admissions@example.com
           Faculty: Department of Fine Arts
           Phone: +49 30 123456789
-          Program:
-            - Description: Introduction to key topics in this faculty.
-              Name: Sample Program 1
-            - Description: Advanced studies in specialized fields.
-              Name: Sample Program 2
           Subject: Unknown
           Webpage: https://example.com/faculty-info
         - Address: Address not provided. Please refer to the university's website for
@@ -309,14 +219,9 @@ Universities:
           Email: admissions@example.com
           Faculty: Department of Design
           Phone: +49 30 123456789
-          Program:
-            - Description: Introduction to key topics in this faculty.
-              Name: Sample Program 1
-            - Description: Advanced studies in specialized fields.
-              Name: Sample Program 2
           Subject: Unknown
           Webpage: https://example.com/faculty-info
-      Name: Weißensee Academy of Art Berlin
+      Name: WeiÃŸensee Academy of Art Berlin
   Musikhochschule_(Academy_of_Music):
     - Faculties:
         - Address: Address not provided. Please refer to the university's website for
@@ -327,11 +232,6 @@ Universities:
           Email: admissions@example.com
           Faculty: Department of Vocal Studies
           Phone: +49 30 123456789
-          Program:
-            - Description: Introduction to key topics in this faculty.
-              Name: Sample Program 1
-            - Description: Advanced studies in specialized fields.
-              Name: Sample Program 2
           Subject: Unknown
           Webpage: https://example.com/faculty-info
         - Address: Address not provided. Please refer to the university's website for
@@ -342,11 +242,6 @@ Universities:
           Email: admissions@example.com
           Faculty: Department of Instrumental Studies
           Phone: +49 30 123456789
-          Program:
-            - Description: Introduction to key topics in this faculty.
-              Name: Sample Program 1
-            - Description: Advanced studies in specialized fields.
-              Name: Sample Program 2
           Subject: Unknown
           Webpage: https://example.com/faculty-info
         - Address: Address not provided. Please refer to the university's website for
@@ -357,11 +252,6 @@ Universities:
           Email: admissions@example.com
           Faculty: Department of Conducting
           Phone: +49 30 123456789
-          Program:
-            - Description: Introduction to key topics in this faculty.
-              Name: Sample Program 1
-            - Description: Advanced studies in specialized fields.
-              Name: Sample Program 2
           Subject: Unknown
           Webpage: https://example.com/faculty-info
         - Address: Address not provided. Please refer to the university's website for
@@ -372,15 +262,10 @@ Universities:
           Email: admissions@example.com
           Faculty: Department of Music Theory and Composition
           Phone: +49 30 123456789
-          Program:
-            - Description: Introduction to key topics in this faculty.
-              Name: Sample Program 1
-            - Description: Advanced studies in specialized fields.
-              Name: Sample Program 2
           Subject: Unknown
           Webpage: https://example.com/faculty-info
       Name: Hanns Eisler School of Music Berlin
-  Privatuniversität_(Private_University):
+  PrivatuniversitÃ¤t_(Private_University):
     - Faculties:
         - Address: Address not provided. Please refer to the university's website for
             location details.
@@ -390,11 +275,6 @@ Universities:
           Email: admissions@example.com
           Faculty: Department of Public Policy
           Phone: +49 30 123456789
-          Program:
-            - Description: Introduction to key topics in this faculty.
-              Name: Sample Program 1
-            - Description: Advanced studies in specialized fields.
-              Name: Sample Program 2
           Subject: Unknown
           Webpage: https://example.com/faculty-info
         - Address: Address not provided. Please refer to the university's website for
@@ -405,11 +285,6 @@ Universities:
           Email: admissions@example.com
           Faculty: Department of International Affairs
           Phone: +49 30 123456789
-          Program:
-            - Description: Introduction to key topics in this faculty.
-              Name: Sample Program 1
-            - Description: Advanced studies in specialized fields.
-              Name: Sample Program 2
           Subject: Unknown
           Webpage: https://example.com/faculty-info
       Name: Hertie School of Governance
@@ -422,11 +297,6 @@ Universities:
           Email: admissions@example.com
           Faculty: Department of Humanities
           Phone: +49 30 123456789
-          Program:
-            - Description: Introduction to key topics in this faculty.
-              Name: Sample Program 1
-            - Description: Advanced studies in specialized fields.
-              Name: Sample Program 2
           Subject: Unknown
           Webpage: https://example.com/faculty-info
         - Address: Address not provided. Please refer to the university's website for
@@ -437,11 +307,6 @@ Universities:
           Email: admissions@example.com
           Faculty: Department of Social Sciences
           Phone: +49 30 123456789
-          Program:
-            - Description: Introduction to key topics in this faculty.
-              Name: Sample Program 1
-            - Description: Advanced studies in specialized fields.
-              Name: Sample Program 2
           Subject: Unknown
           Webpage: https://example.com/faculty-info
       Name: Bard College Berlin
@@ -454,11 +319,6 @@ Universities:
           Email: admissions@example.com
           Faculty: Faculty of Business and Economics
           Phone: +49 30 123456789
-          Program:
-            - Description: Introduction to key topics in this faculty.
-              Name: Sample Program 1
-            - Description: Advanced studies in specialized fields.
-              Name: Sample Program 2
           Subject: Unknown
           Webpage: https://example.com/faculty-info
         - Address: Address not provided. Please refer to the university's website for
@@ -469,15 +329,10 @@ Universities:
           Email: admissions@example.com
           Faculty: Faculty of Engineering and Technology
           Phone: +49 30 123456789
-          Program:
-            - Description: Introduction to key topics in this faculty.
-              Name: Sample Program 1
-            - Description: Advanced studies in specialized fields.
-              Name: Sample Program 2
           Subject: Unknown
           Webpage: https://example.com/faculty-info
       Name: Steinbeis University Berlin
-  Technische_Universität_(Technical_University):
+  Technische_UniversitÃ¤t_(Technical_University):
     - Faculties:
         - Address: Address not provided. Please refer to the university's website for
             location details.
@@ -487,11 +342,6 @@ Universities:
           Email: admissions@example.com
           Faculty: Faculty of Electrical Engineering and Computer Science
           Phone: +49 30 123456789
-          Program:
-            - Description: Introduction to key topics in this faculty.
-              Name: Sample Program 1
-            - Description: Advanced studies in specialized fields.
-              Name: Sample Program 2
           Subject: Unknown
           Webpage: https://example.com/faculty-info
         - Address: Address not provided. Please refer to the university's website for
@@ -502,11 +352,6 @@ Universities:
           Email: admissions@example.com
           Faculty: Faculty of Economics and Management
           Phone: +49 30 123456789
-          Program:
-            - Description: Introduction to key topics in this faculty.
-              Name: Sample Program 1
-            - Description: Advanced studies in specialized fields.
-              Name: Sample Program 2
           Subject: Unknown
           Webpage: https://example.com/faculty-info
         - Address: Address not provided. Please refer to the university's website for
@@ -517,11 +362,6 @@ Universities:
           Email: admissions@example.com
           Faculty: Faculty of Humanities
           Phone: +49 30 123456789
-          Program:
-            - Description: Introduction to key topics in this faculty.
-              Name: Sample Program 1
-            - Description: Advanced studies in specialized fields.
-              Name: Sample Program 2
           Subject: Unknown
           Webpage: https://example.com/faculty-info
         - Address: Address not provided. Please refer to the university's website for
@@ -532,11 +372,6 @@ Universities:
           Email: admissions@example.com
           Faculty: Faculty of Mathematics and Natural Sciences
           Phone: +49 30 123456789
-          Program:
-            - Description: Introduction to key topics in this faculty.
-              Name: Sample Program 1
-            - Description: Advanced studies in specialized fields.
-              Name: Sample Program 2
           Subject: Unknown
           Webpage: https://example.com/faculty-info
         - Address: Address not provided. Please refer to the university's website for
@@ -547,11 +382,6 @@ Universities:
           Email: admissions@example.com
           Faculty: Faculty of Mechanical Engineering and Transport Systems
           Phone: +49 30 123456789
-          Program:
-            - Description: Introduction to key topics in this faculty.
-              Name: Sample Program 1
-            - Description: Advanced studies in specialized fields.
-              Name: Sample Program 2
           Subject: Unknown
           Webpage: https://example.com/faculty-info
         - Address: Address not provided. Please refer to the university's website for
@@ -562,11 +392,6 @@ Universities:
           Email: admissions@example.com
           Faculty: Faculty of Planning Building Environment
           Phone: +49 30 123456789
-          Program:
-            - Description: Introduction to key topics in this faculty.
-              Name: Sample Program 1
-            - Description: Advanced studies in specialized fields.
-              Name: Sample Program 2
           Subject: Unknown
           Webpage: https://example.com/faculty-info
         - Address: Address not provided. Please refer to the university's website for
@@ -577,14 +402,9 @@ Universities:
           Email: admissions@example.com
           Faculty: Faculty of Process Sciences
           Phone: +49 30 123456789
-          Program:
-            - Description: Introduction to key topics in this faculty.
-              Name: Sample Program 1
-            - Description: Advanced studies in specialized fields.
-              Name: Sample Program 2
           Subject: Unknown
           Webpage: https://example.com/faculty-info
-      Name: Technische Universität Berlin (TU Berlin)
+      Name: Technische UniversitÃ¤t Berlin (TU Berlin)
     - Faculties:
         - Address: Address not provided. Please refer to the university's website for
             location details.
@@ -594,11 +414,6 @@ Universities:
           Email: admissions@example.com
           Faculty: Faculty of Business, Law and Social Sciences
           Phone: +49 30 123456789
-          Program:
-            - Description: Introduction to key topics in this faculty.
-              Name: Sample Program 1
-            - Description: Advanced studies in specialized fields.
-              Name: Sample Program 2
           Subject: Unknown
           Webpage: https://example.com/faculty-info
         - Address: Address not provided. Please refer to the university's website for
@@ -609,11 +424,6 @@ Universities:
           Email: admissions@example.com
           Faculty: Faculty of Health Sciences
           Phone: +49 30 123456789
-          Program:
-            - Description: Introduction to key topics in this faculty.
-              Name: Sample Program 1
-            - Description: Advanced studies in specialized fields.
-              Name: Sample Program 2
           Subject: Unknown
           Webpage: https://example.com/faculty-info
         - Address: Address not provided. Please refer to the university's website for
@@ -624,11 +434,6 @@ Universities:
           Email: admissions@example.com
           Faculty: Faculty of Engineering
           Phone: +49 30 123456789
-          Program:
-            - Description: Introduction to key topics in this faculty.
-              Name: Sample Program 1
-            - Description: Advanced studies in specialized fields.
-              Name: Sample Program 2
           Subject: Unknown
           Webpage: https://example.com/faculty-info
         - Address: Address not provided. Please refer to the university's website for
@@ -639,15 +444,10 @@ Universities:
           Email: admissions@example.com
           Faculty: Faculty of Natural Sciences
           Phone: +49 30 123456789
-          Program:
-            - Description: Introduction to key topics in this faculty.
-              Name: Sample Program 1
-            - Description: Advanced studies in specialized fields.
-              Name: Sample Program 2
           Subject: Unknown
           Webpage: https://example.com/faculty-info
       Name: Brandenburg University of Technology Cottbus-Senftenberg
-  Universität_(University):
+  UniversitÃ¤t_(University):
     - Description: A prestigious university known for its excellence in humanities,
         sciences, and medicine.
       Faculties:
@@ -659,10 +459,12 @@ Universities:
           Faculty: Faculty of Arts and Humanities
           Phone: +49 30 123456789
           Program:
-            - Description: Introduction to key topics in this faculty.
-              Name: Sample Program 1
-            - Description: Advanced studies in specialized fields.
-              Name: Sample Program 2
+            - Description: Focuses on comparative and historical literary analysis.
+              Name: Literary Studies
+              URL: https://example.com/literary-studies
+            - Description: Examines cultural phenomena in their societal contexts.
+              Name: Cultural Studies
+              URL: https://example.com/cultural-studies
           Subject: Unknown
           Webpage: https://example.com/faculty-info
         - Address: Bebelplatz 2, 10099 Berlin
@@ -673,10 +475,12 @@ Universities:
           Faculty: Faculty of Law
           Phone: +49 30 123456789
           Program:
-            - Description: Introduction to key topics in this faculty.
-              Name: Sample Program 1
-            - Description: Advanced studies in specialized fields.
-              Name: Sample Program 2
+            - Description: Specializes in legal frameworks governing international relations.
+              Name: Public International Law
+              URL: https://example.com/public-international-law
+            - Description: Focuses on laws regulating business practices and corporate governance.
+              Name: Corporate Law
+              URL: https://example.com/corporate-law
           Subject: Unknown
           Webpage: https://example.com/faculty-info
         - Address: Philippstr. 13, 10115 Berlin
@@ -685,11 +489,6 @@ Universities:
           Email: admissions@example.com
           Faculty: Faculty of Life Sciences
           Phone: +49 30 123456789
-          Program:
-            - Description: Introduction to key topics in this faculty.
-              Name: Sample Program 1
-            - Description: Advanced studies in specialized fields.
-              Name: Sample Program 2
           Subject: Unknown
           Webpage: https://example.com/faculty-info
         - Address: Rudower Chaussee 25, 12489 Berlin
@@ -699,25 +498,15 @@ Universities:
           Email: admissions@example.com
           Faculty: Faculty of Mathematics and Natural Sciences
           Phone: +49 30 123456789
-          Program:
-            - Description: Introduction to key topics in this faculty.
-              Name: Sample Program 1
-            - Description: Advanced studies in specialized fields.
-              Name: Sample Program 2
           Subject: Unknown
           Webpage: https://example.com/faculty-info
-        - Address: Charitéplatz 1, 10117 Berlin
+        - Address: CharitÃ©platz 1, 10117 Berlin
           City: BERLIN
-          Description: One of Europe’s leading medical faculties, partnered with Charité
+          Description: One of Europeâ€™s leading medical faculties, partnered with CharitÃ©
             for medical training.
           Email: admissions@example.com
-          Faculty: Faculty of Medicine (Charité – Universitätsmedizin Berlin)
+          Faculty: Faculty of Medicine (CharitÃ© â€“ UniversitÃ¤tsmedizin Berlin)
           Phone: +49 30 123456789
-          Program:
-            - Description: Introduction to key topics in this faculty.
-              Name: Sample Program 1
-            - Description: Advanced studies in specialized fields.
-              Name: Sample Program 2
           Subject: Unknown
           Webpage: https://example.com/faculty-info
         - Address: Friedrichstr. 191, 10117 Berlin
@@ -727,11 +516,6 @@ Universities:
           Email: admissions@example.com
           Faculty: Faculty of Social Sciences
           Phone: +49 30 123456789
-          Program:
-            - Description: Introduction to key topics in this faculty.
-              Name: Sample Program 1
-            - Description: Advanced studies in specialized fields.
-              Name: Sample Program 2
           Subject: Unknown
           Webpage: https://example.com/faculty-info
       Name: Humboldt University of Berlin (HU Berlin)
@@ -746,11 +530,6 @@ Universities:
           Email: admissions@example.com
           Faculty: Department of Biology, Chemistry, and Pharmacy
           Phone: +49 30 123456789
-          Program:
-            - Description: Introduction to key topics in this faculty.
-              Name: Sample Program 1
-            - Description: Advanced studies in specialized fields.
-              Name: Sample Program 2
           Subject: Unknown
           Webpage: https://example.com/faculty-info
         - Address: Malteserstr. 74-100, 12249 Berlin
@@ -759,11 +538,6 @@ Universities:
           Email: admissions@example.com
           Faculty: Department of Earth Sciences
           Phone: +49 30 123456789
-          Program:
-            - Description: Introduction to key topics in this faculty.
-              Name: Sample Program 1
-            - Description: Advanced studies in specialized fields.
-              Name: Sample Program 2
           Subject: Unknown
           Webpage: https://example.com/faculty-info
         - Address: Habelschwerdter Allee 45, 14195 Berlin
@@ -772,11 +546,6 @@ Universities:
           Email: admissions@example.com
           Faculty: Department of Education and Psychology
           Phone: +49 30 123456789
-          Program:
-            - Description: Introduction to key topics in this faculty.
-              Name: Sample Program 1
-            - Description: Advanced studies in specialized fields.
-              Name: Sample Program 2
           Subject: Unknown
           Webpage: https://example.com/faculty-info
         - Address: Koserstr. 20, 14195 Berlin
@@ -785,39 +554,24 @@ Universities:
           Email: admissions@example.com
           Faculty: Department of History and Cultural Studies
           Phone: +49 30 123456789
-          Program:
-            - Description: Introduction to key topics in this faculty.
-              Name: Sample Program 1
-            - Description: Advanced studies in specialized fields.
-              Name: Sample Program 2
           Subject: Unknown
           Webpage: https://example.com/faculty-info
-        - Address: Van’t-Hoff-Str. 8, 14195 Berlin
+        - Address: Vanâ€™t-Hoff-Str. 8, 14195 Berlin
           City: BERLIN
           Description: Provides comprehensive legal education across national and international
             law.
           Email: admissions@example.com
           Faculty: Department of Law
           Phone: +49 30 123456789
-          Program:
-            - Description: Introduction to key topics in this faculty.
-              Name: Sample Program 1
-            - Description: Advanced studies in specialized fields.
-              Name: Sample Program 2
           Subject: Unknown
           Webpage: https://example.com/faculty-info
-        - Address: Königin-Luise-Str. 24-26, 14195 Berlin
+        - Address: KÃ¶nigin-Luise-Str. 24-26, 14195 Berlin
           City: BERLIN
           Description: Focuses on mathematics, informatics, and theoretical computing
             systems.
           Email: admissions@example.com
           Faculty: Department of Mathematics and Computer Science
           Phone: +49 30 123456789
-          Program:
-            - Description: Introduction to key topics in this faculty.
-              Name: Sample Program 1
-            - Description: Advanced studies in specialized fields.
-              Name: Sample Program 2
           Subject: Unknown
           Webpage: https://example.com/faculty-info
         - Address: Habelschwerdter Allee 45, 14195 Berlin
@@ -826,11 +580,6 @@ Universities:
           Email: admissions@example.com
           Faculty: Department of Philosophy and Humanities
           Phone: +49 30 123456789
-          Program:
-            - Description: Introduction to key topics in this faculty.
-              Name: Sample Program 1
-            - Description: Advanced studies in specialized fields.
-              Name: Sample Program 2
           Subject: Unknown
           Webpage: https://example.com/faculty-info
         - Address: Arnimallee 14, 14195 Berlin
@@ -839,11 +588,6 @@ Universities:
           Email: admissions@example.com
           Faculty: Department of Physics
           Phone: +49 30 123456789
-          Program:
-            - Description: Introduction to key topics in this faculty.
-              Name: Sample Program 1
-            - Description: Advanced studies in specialized fields.
-              Name: Sample Program 2
           Subject: Unknown
           Webpage: https://example.com/faculty-info
         - Address: Ihnestr. 22, 14195 Berlin
@@ -852,11 +596,6 @@ Universities:
           Email: admissions@example.com
           Faculty: Department of Political and Social Sciences
           Phone: +49 30 123456789
-          Program:
-            - Description: Introduction to key topics in this faculty.
-              Name: Sample Program 1
-            - Description: Advanced studies in specialized fields.
-              Name: Sample Program 2
           Subject: Unknown
           Webpage: https://example.com/faculty-info
         - Address: Oertzenweg 19b, 14163 Berlin
@@ -865,14 +604,9 @@ Universities:
           Email: admissions@example.com
           Faculty: Department of Veterinary Medicine
           Phone: +49 30 123456789
-          Program:
-            - Description: Introduction to key topics in this faculty.
-              Name: Sample Program 1
-            - Description: Advanced studies in specialized fields.
-              Name: Sample Program 2
           Subject: Unknown
           Webpage: https://example.com/faculty-info
-      Name: Freie Universität Berlin (FU Berlin)
+      Name: Freie UniversitÃ¤t Berlin (FU Berlin)
       Type: Public
     - Faculties:
         - Address: Address not provided. Please refer to the university's website for
@@ -883,11 +617,6 @@ Universities:
           Email: admissions@example.com
           Faculty: Faculty of Humanities
           Phone: +49 30 123456789
-          Program:
-            - Description: Introduction to key topics in this faculty.
-              Name: Sample Program 1
-            - Description: Advanced studies in specialized fields.
-              Name: Sample Program 2
           Subject: Unknown
           Webpage: https://example.com/faculty-info
         - Address: Address not provided. Please refer to the university's website for
@@ -898,11 +627,6 @@ Universities:
           Email: admissions@example.com
           Faculty: Faculty of Economics and Social Sciences
           Phone: +49 30 123456789
-          Program:
-            - Description: Introduction to key topics in this faculty.
-              Name: Sample Program 1
-            - Description: Advanced studies in specialized fields.
-              Name: Sample Program 2
           Subject: Unknown
           Webpage: https://example.com/faculty-info
         - Address: Address not provided. Please refer to the university's website for
@@ -913,11 +637,6 @@ Universities:
           Email: admissions@example.com
           Faculty: Faculty of Science
           Phone: +49 30 123456789
-          Program:
-            - Description: Introduction to key topics in this faculty.
-              Name: Sample Program 1
-            - Description: Advanced studies in specialized fields.
-              Name: Sample Program 2
           Subject: Unknown
           Webpage: https://example.com/faculty-info
         - Address: Address not provided. Please refer to the university's website for
@@ -929,10 +648,12 @@ Universities:
           Faculty: Faculty of Law
           Phone: +49 30 123456789
           Program:
-            - Description: Introduction to key topics in this faculty.
-              Name: Sample Program 1
-            - Description: Advanced studies in specialized fields.
-              Name: Sample Program 2
+            - Description: Specializes in legal frameworks governing international relations.
+              Name: Public International Law
+              URL: https://example.com/public-international-law
+            - Description: Focuses on laws regulating business practices and corporate governance.
+              Name: Corporate Law
+              URL: https://example.com/corporate-law
           Subject: Unknown
           Webpage: https://example.com/faculty-info
         - Address: Address not provided. Please refer to the university's website for
@@ -943,11 +664,6 @@ Universities:
           Email: admissions@example.com
           Faculty: Faculty of Education
           Phone: +49 30 123456789
-          Program:
-            - Description: Introduction to key topics in this faculty.
-              Name: Sample Program 1
-            - Description: Advanced studies in specialized fields.
-              Name: Sample Program 2
           Subject: Unknown
           Webpage: https://example.com/faculty-info
       Name: University of Potsdam
@@ -961,11 +677,6 @@ Universities:
           Email: admissions@example.com
           Faculty: Department of Business and Economics
           Phone: +49 30 123456789
-          Program:
-            - Description: Introduction to key topics in this faculty.
-              Name: Sample Program 1
-            - Description: Advanced studies in specialized fields.
-              Name: Sample Program 2
           Subject: Unknown
           Webpage: https://example.com/faculty-info
         - Address: Address not provided. Please refer to the university's website for
@@ -976,11 +687,6 @@ Universities:
           Email: admissions@example.com
           Faculty: Department of Public Administration
           Phone: +49 30 123456789
-          Program:
-            - Description: Introduction to key topics in this faculty.
-              Name: Sample Program 1
-            - Description: Advanced studies in specialized fields.
-              Name: Sample Program 2
           Subject: Unknown
           Webpage: https://example.com/faculty-info
         - Address: Address not provided. Please refer to the university's website for
@@ -991,11 +697,6 @@ Universities:
           Email: admissions@example.com
           Faculty: Department of Legal Studies
           Phone: +49 30 123456789
-          Program:
-            - Description: Introduction to key topics in this faculty.
-              Name: Sample Program 1
-            - Description: Advanced studies in specialized fields.
-              Name: Sample Program 2
           Subject: Unknown
           Webpage: https://example.com/faculty-info
         - Address: Address not provided. Please refer to the university's website for
@@ -1006,11 +707,6 @@ Universities:
           Email: admissions@example.com
           Faculty: Department of Police and Security Management
           Phone: +49 30 123456789
-          Program:
-            - Description: Introduction to key topics in this faculty.
-              Name: Sample Program 1
-            - Description: Advanced studies in specialized fields.
-              Name: Sample Program 2
           Subject: Unknown
           Webpage: https://example.com/faculty-info
       Name: Berlin School of Economics and Law (HWR Berlin)
@@ -1023,11 +719,6 @@ Universities:
           Email: admissions@example.com
           Faculty: Department of Management
           Phone: +49 30 123456789
-          Program:
-            - Description: Introduction to key topics in this faculty.
-              Name: Sample Program 1
-            - Description: Advanced studies in specialized fields.
-              Name: Sample Program 2
           Subject: Unknown
           Webpage: https://example.com/faculty-info
         - Address: Address not provided. Please refer to the university's website for
@@ -1038,11 +729,6 @@ Universities:
           Email: admissions@example.com
           Faculty: Department of Innovation and Entrepreneurship
           Phone: +49 30 123456789
-          Program:
-            - Description: Introduction to key topics in this faculty.
-              Name: Sample Program 1
-            - Description: Advanced studies in specialized fields.
-              Name: Sample Program 2
           Subject: Unknown
           Webpage: https://example.com/faculty-info
         - Address: Address not provided. Please refer to the university's website for
@@ -1053,11 +739,6 @@ Universities:
           Email: admissions@example.com
           Faculty: Department of Finance
           Phone: +49 30 123456789
-          Program:
-            - Description: Introduction to key topics in this faculty.
-              Name: Sample Program 1
-            - Description: Advanced studies in specialized fields.
-              Name: Sample Program 2
           Subject: Unknown
           Webpage: https://example.com/faculty-info
       Name: European School of Management and Technology (ESMT Berlin)
