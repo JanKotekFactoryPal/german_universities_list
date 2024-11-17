@@ -2,7 +2,7 @@
 
 > **Matching Score - ChatGPT:** 9
 > **Matching Score - Copilot:** 9
-> **Matching Reason: - ChatGPT:** This faculty is closely aligned with Barbora's interest in design and architecture, which she is passionate about. It offers practical learning, which is important to her, and the focus on creativity and hands-on experience makes it a good match.
+> **Matching Reason - ChatGPT:** This faculty aligns closely with Barbora's strong interest in design, architecture, and creativity. It offers practical, hands-on learning and emphasizes real-world experience, while still incorporating the technical aspects of the design process.
 > **Matching Reason - Copilot:** The strong emphasis on practical projects and industry connections aligns well with Barbora's preference for hands-on learning and real-world experience.
 
 - **University Type:** Fachhochschule (University of Applied Sciences)
@@ -35,7 +35,7 @@
 
 > **Matching Score - ChatGPT:** 9
 > **Matching Score - Copilot:** 8
-> **Matching Reason: - ChatGPT:** This faculty is closely aligned with Barbora's interest in design and architecture, which she is passionate about. It offers practical learning, which is important to her, and the focus on creativity and hands-on experience makes it a good match.
+> **Matching Reason - ChatGPT:** This faculty is a strong match for Barbora's architectural interest, combining design with practical applications. Her appreciation for mathematics and structure can be well integrated into urban design projects.
 > **Matching Reason - Copilot:** While the faculty offers strong practical learning opportunities, the competitive admission process and limited international student ratio might be challenging for Barbora.
 
 - **University Type:** Fachhochschule (University of Applied Sciences)
@@ -65,7 +65,7 @@
 
 > **Matching Score - ChatGPT:** 9
 > **Matching Score - Copilot:** 8
-> **Matching Reason: - ChatGPT:** This faculty is closely aligned with Barbora's interest in design and architecture, which she is passionate about. It offers practical learning, which is important to her, and the focus on creativity and hands-on experience makes it a good match.
+> **Matching Reason - ChatGPT:** This faculty emphasizes creativity, design, and hands-on experience, key areas of interest for Barbora. Although the focus is primarily on artistic skills, the technical design aspects are valuable for her.
 > **Matching Reason - Copilot:** Similar to the Faculty of Architecture and Urban Design, this faculty offers strong practical learning but may have challenges with competitive admission and limited international student ratio.
 
 - **University Type:** Fachhochschule (University of Applied Sciences)
@@ -95,9 +95,9 @@
 
 # Berlin University of the Arts (UdK) / Faculty of Design
 
-> **Matching Score - ChatGPT:** 9
+> **Matching Score - ChatGPT:** 8
 > **Matching Score - Copilot:** 10
-> **Matching Reason: - ChatGPT:** This faculty is closely aligned with Barbora's interest in design and architecture, which she is passionate about. It offers practical learning, which is important to her, and the focus on creativity and hands-on experience makes it a good match.
+> **Matching Reason - ChatGPT:** While this faculty emphasizes design, it is more art-focused. Barbora’s love for creativity will be satisfied here, but the more hands-on technical aspects may be less emphasized compared to other faculties.
 > **Matching Reason - Copilot:** The strong emphasis on creativity, practical projects, and international partnerships makes this faculty an excellent fit for Barbora's interests and career goals.
 
 - **University Type:** Kunsthochschule (Academy of Fine Arts)
@@ -128,9 +128,9 @@
 
 # Weißensee Academy of Art Berlin / Department of Design
 
-> **Matching Score - ChatGPT:** 9
+> **Matching Score - ChatGPT:** 8
 > **Matching Score - Copilot:** 9
-> **Matching Reason: - ChatGPT:** This faculty is closely aligned with Barbora's interest in design and architecture, which she is passionate about. It offers practical learning, which is important to her, and the focus on creativity and hands-on experience makes it a good match.
+> **Matching Reason - ChatGPT:** This department offers strong creative programs in design, aligning well with Barbora's artistic talents. However, it may be less focused on the engineering and technical aspects she also values.
 > **Matching Reason - Copilot:** The focus on practical and creative aspects of design, along with strong international partnerships, aligns well with Barbora's preferences.
 
 - **University Type:** Kunsthochschule (Academy of Fine Arts)
@@ -163,7 +163,7 @@
 
 > **Matching Score - ChatGPT:** 8
 > **Matching Score - Copilot:** 8
-> **Matching Reason: - ChatGPT:** This faculty is closely related to Barbora's interest in engineering. Engineering is a field she values, especially when it offers practical training. The faculty provides hands-on experience, which aligns well with her preferences.
+> **Matching Reason - ChatGPT:** With a focus on engineering, this faculty offers a more technical path that combines creativity with practical hands-on learning, which fits Barbora's interest in engineering and applied mathematics.
 > **Matching Reason - Copilot:** The practical focus and strong industry connections make this faculty a good fit for Barbora's interest in engineering, though it may not align as closely with her primary passion for design.
 
 - **University Type:** Fachhochschule (University of Applied Sciences)
@@ -197,7 +197,7 @@
 
 > **Matching Score - ChatGPT:** 8
 > **Matching Score - Copilot:** 8
-> **Matching Reason: - ChatGPT:** This faculty is closely related to Barbora's interest in engineering. Engineering is a field she values, especially when it offers practical training. The faculty provides hands-on experience, which aligns well with her preferences.
+> **Matching Reason - ChatGPT:** This faculty blends engineering with creative, practical applications. It’s a solid choice for Barbora's technical aspirations, but the emphasis on technology might reduce the hands-on creative aspects she values most.
 > **Matching Reason - Copilot:** The combination of theoretical knowledge and practical experience, along with strong industry connections, makes this faculty a good fit for Barbora's engineering interests.
 
 - **University Type:** Fachhochschule (University of Applied Sciences)
@@ -427,7 +427,7 @@
 
 > **Matching Score - ChatGPT:** 7
 > **Matching Score - Copilot:** 7
-> **Matching Reason: - ChatGPT:** Business is a versatile field and Barbora may find value in this, especially in terms of leadership, management, and practical experience. However, it's not her main area of passion, which makes it a secondary preference.
+> **Matching Reason - ChatGPT:** While strong in engineering and natural sciences, the focus leans more toward technical skills rather than the creative, hands-on learning Barbora is drawn to. However, it offers solid foundational mathematics and sciences.
 > **Matching Reason - Copilot:** While business management offers valuable skills, it may not align as closely with Barbora's primary interests in design and engineering.
 
 - **University Type:** Fachhochschule (University of Applied Sciences)
