@@ -1,0 +1,519 @@
+Enumerations:
+  Cities:
+    - BERLIN
+    - POTSDAM
+    - PRAGUE
+  Subjects:
+    - Arts
+    - Design
+    - Architecture
+    - Computer Science & IT
+    - Engineering
+    - Humanities
+    - Hospitality Tourism & Sports
+    - Medicine & Health
+    - Natural Sciences & Mathematics
+    - Social Sciences
+    - Law
+    - Economics
+    - Music
+Universities_in_Berlin:
+  Fachhochschule_(University_of_Applied_Sciences):
+    - Faculties:
+        - Address: Address not provided. Please refer to the university's website for
+            location details.
+          City: BERLIN
+          Description: No description available for this faculty. Please refer to the
+            university's website for more details.
+          Faculty: School of Engineering
+          Subject: Arts
+        - Address: Address not provided. Please refer to the university's website for
+            location details.
+          City: BERLIN
+          Description: No description available for this faculty. Please refer to the
+            university's website for more details.
+          Faculty: School of Economics
+          Subject: Arts
+        - Address: Address not provided. Please refer to the university's website for
+            location details.
+          City: BERLIN
+          Description: No description available for this faculty. Please refer to the
+            university's website for more details.
+          Faculty: School of Design and Culture
+          Subject: Arts
+        - Address: Address not provided. Please refer to the university's website for
+            location details.
+          City: BERLIN
+          Description: No description available for this faculty. Please refer to the
+            university's website for more details.
+          Faculty: School of Life Sciences
+          Subject: Arts
+      Name: Berlin University of Applied Sciences (HTW Berlin)
+    - Faculties:
+        - Address: Address not provided. Please refer to the university's website for
+            location details.
+          City: BERLIN
+          Description: No description available for this faculty. Please refer to the
+            university's website for more details.
+          Faculty: Faculty of Engineering and Natural Sciences
+          Subject: Arts
+        - Address: Address not provided. Please refer to the university's website for
+            location details.
+          City: BERLIN
+          Description: No description available for this faculty. Please refer to the
+            university's website for more details.
+          Faculty: Faculty of Business, Computing and Law
+          Subject: Arts
+      Name: Technical University of Applied Sciences Wildau
+    - Faculties:
+        - Address: Address not provided. Please refer to the university's website for
+            location details.
+          City: BERLIN
+          Description: No description available for this faculty. Please refer to the
+            university's website for more details.
+          Faculty: Faculty of Architecture and Urban Design
+          Subject: Arts
+        - Address: Address not provided. Please refer to the university's website for
+            location details.
+          City: BERLIN
+          Description: No description available for this faculty. Please refer to the
+            university's website for more details.
+          Faculty: Faculty of Civil Engineering
+          Subject: Arts
+        - Address: Address not provided. Please refer to the university's website for
+            location details.
+          City: BERLIN
+          Description: No description available for this faculty. Please refer to the
+            university's website for more details.
+          Faculty: Faculty of Design
+          Subject: Arts
+        - Address: Address not provided. Please refer to the university's website for
+            location details.
+          City: BERLIN
+          Description: No description available for this faculty. Please refer to the
+            university's website for more details.
+          Faculty: Faculty of Social and Educational Sciences
+          Subject: Arts
+      Name: University of Applied Sciences Potsdam
+    - Faculties:
+        - Address: Address not provided. Please refer to the university's website for
+            location details.
+          City: BERLIN
+          Description: No description available for this faculty. Please refer to the
+            university's website for more details.
+          Faculty: Faculty of Management
+          Subject: Arts
+        - Address: Address not provided. Please refer to the university's website for
+            location details.
+          City: BERLIN
+          Description: No description available for this faculty. Please refer to the
+            university's website for more details.
+          Faculty: Faculty of Engineering and Technology
+          Subject: Arts
+        - Address: Address not provided. Please refer to the university's website for
+            location details.
+          City: BERLIN
+          Description: No description available for this faculty. Please refer to the
+            university's website for more details.
+          Faculty: Faculty of Social Sciences
+          Subject: Arts
+      Name: SRH University of Applied Sciences Berlin
+  Kunsthochschule_(Academy_of_Fine_Arts):
+    - Faculties:
+        - Address: Address not provided. Please refer to the university's website for
+            location details.
+          City: BERLIN
+          Description: No description available for this faculty. Please refer to the
+            university's website for more details.
+          Faculty: Faculty of Fine Arts
+          Subject: Arts
+        - Address: Address not provided. Please refer to the university's website for
+            location details.
+          City: BERLIN
+          Description: No description available for this faculty. Please refer to the
+            university's website for more details.
+          Faculty: Faculty of Design
+          Subject: Arts
+        - Address: Address not provided. Please refer to the university's website for
+            location details.
+          City: BERLIN
+          Description: No description available for this faculty. Please refer to the
+            university's website for more details.
+          Faculty: Faculty of Music
+          Subject: Arts
+        - Address: Address not provided. Please refer to the university's website for
+            location details.
+          City: BERLIN
+          Description: No description available for this faculty. Please refer to the
+            university's website for more details.
+          Faculty: Faculty of Performing Arts
+          Subject: Arts
+      Name: Berlin University of the Arts (UdK)
+    - Faculties:
+        - Address: Address not provided. Please refer to the university's website for
+            location details.
+          City: BERLIN
+          Description: No description available for this faculty. Please refer to the
+            university's website for more details.
+          Faculty: Department of Fine Arts
+          Subject: Arts
+        - Address: Address not provided. Please refer to the university's website for
+            location details.
+          City: BERLIN
+          Description: No description available for this faculty. Please refer to the
+            university's website for more details.
+          Faculty: Department of Design
+          Subject: Arts
+      Name: "Wei\xDFensee Academy of Art Berlin"
+  Musikhochschule_(Academy_of_Music):
+    - Faculties:
+        - Address: Address not provided. Please refer to the university's website for
+            location details.
+          City: BERLIN
+          Description: No description available for this faculty. Please refer to the
+            university's website for more details.
+          Faculty: Department of Vocal Studies
+          Subject: Arts
+        - Address: Address not provided. Please refer to the university's website for
+            location details.
+          City: BERLIN
+          Description: No description available for this faculty. Please refer to the
+            university's website for more details.
+          Faculty: Department of Instrumental Studies
+          Subject: Arts
+        - Address: Address not provided. Please refer to the university's website for
+            location details.
+          City: BERLIN
+          Description: No description available for this faculty. Please refer to the
+            university's website for more details.
+          Faculty: Department of Conducting
+          Subject: Arts
+        - Address: Address not provided. Please refer to the university's website for
+            location details.
+          City: BERLIN
+          Description: No description available for this faculty. Please refer to the
+            university's website for more details.
+          Faculty: Department of Music Theory and Composition
+          Subject: Arts
+      Name: Hanns Eisler School of Music Berlin
+  "Privatuniversit\xE4t_(Private_University)":
+    - Faculties:
+        - Address: Address not provided. Please refer to the university's website for
+            location details.
+          City: BERLIN
+          Description: No description available for this faculty. Please refer to the
+            university's website for more details.
+          Faculty: Department of Public Policy
+          Subject: Arts
+        - Address: Address not provided. Please refer to the university's website for
+            location details.
+          City: BERLIN
+          Description: No description available for this faculty. Please refer to the
+            university's website for more details.
+          Faculty: Department of International Affairs
+          Subject: Arts
+      Name: Hertie School of Governance
+    - Faculties:
+        - Address: Address not provided. Please refer to the university's website for
+            location details.
+          City: BERLIN
+          Description: No description available for this faculty. Please refer to the
+            university's website for more details.
+          Faculty: Department of Humanities
+          Subject: Arts
+        - Address: Address not provided. Please refer to the university's website for
+            location details.
+          City: BERLIN
+          Description: No description available for this faculty. Please refer to the
+            university's website for more details.
+          Faculty: Department of Social Sciences
+          Subject: Arts
+      Name: Bard College Berlin
+    - Faculties:
+        - Address: Address not provided. Please refer to the university's website for
+            location details.
+          City: BERLIN
+          Description: No description available for this faculty. Please refer to the
+            university's website for more details.
+          Faculty: Faculty of Business and Economics
+          Subject: Arts
+        - Address: Address not provided. Please refer to the university's website for
+            location details.
+          City: BERLIN
+          Description: No description available for this faculty. Please refer to the
+            university's website for more details.
+          Faculty: Faculty of Engineering and Technology
+          Subject: Arts
+      Name: Steinbeis University Berlin
+  "Technische_Universit\xE4t_(Technical_University)":
+    - Faculties:
+        - Address: Address not provided. Please refer to the university's website for
+            location details.
+          City: BERLIN
+          Description: No description available for this faculty. Please refer to the
+            university's website for more details.
+          Faculty: Faculty of Electrical Engineering and Computer Science
+          Subject: Arts
+        - Address: Address not provided. Please refer to the university's website for
+            location details.
+          City: BERLIN
+          Description: No description available for this faculty. Please refer to the
+            university's website for more details.
+          Faculty: Faculty of Economics and Management
+          Subject: Arts
+        - Address: Address not provided. Please refer to the university's website for
+            location details.
+          City: BERLIN
+          Description: No description available for this faculty. Please refer to the
+            university's website for more details.
+          Faculty: Faculty of Humanities
+          Subject: Arts
+        - Address: Address not provided. Please refer to the university's website for
+            location details.
+          City: BERLIN
+          Description: No description available for this faculty. Please refer to the
+            university's website for more details.
+          Faculty: Faculty of Mathematics and Natural Sciences
+          Subject: Arts
+        - Address: Address not provided. Please refer to the university's website for
+            location details.
+          City: BERLIN
+          Description: No description available for this faculty. Please refer to the
+            university's website for more details.
+          Faculty: Faculty of Mechanical Engineering and Transport Systems
+          Subject: Arts
+        - Address: Address not provided. Please refer to the university's website for
+            location details.
+          City: BERLIN
+          Description: No description available for this faculty. Please refer to the
+            university's website for more details.
+          Faculty: Faculty of Planning Building Environment
+          Subject: Arts
+        - Address: Address not provided. Please refer to the university's website for
+            location details.
+          City: BERLIN
+          Description: No description available for this faculty. Please refer to the
+            university's website for more details.
+          Faculty: Faculty of Process Sciences
+          Subject: Arts
+      Name: "Technische Universit\xE4t Berlin (TU Berlin)"
+    - Faculties:
+        - Address: Address not provided. Please refer to the university's website for
+            location details.
+          City: BERLIN
+          Description: No description available for this faculty. Please refer to the
+            university's website for more details.
+          Faculty: Faculty of Business, Law and Social Sciences
+          Subject: Arts
+        - Address: Address not provided. Please refer to the university's website for
+            location details.
+          City: BERLIN
+          Description: No description available for this faculty. Please refer to the
+            university's website for more details.
+          Faculty: Faculty of Health Sciences
+          Subject: Arts
+        - Address: Address not provided. Please refer to the university's website for
+            location details.
+          City: BERLIN
+          Description: No description available for this faculty. Please refer to the
+            university's website for more details.
+          Faculty: Faculty of Engineering
+          Subject: Arts
+        - Address: Address not provided. Please refer to the university's website for
+            location details.
+          City: BERLIN
+          Description: No description available for this faculty. Please refer to the
+            university's website for more details.
+          Faculty: Faculty of Natural Sciences
+          Subject: Arts
+      Name: Brandenburg University of Technology Cottbus-Senftenberg
+  "Universit\xE4t_(University)":
+    - Description: A prestigious university known for its excellence in humanities,
+        sciences, and medicine.
+      Faculties:
+        - Address: Unter den Linden 6, 10099 Berlin
+          City: BERLIN
+          Description: Focuses on literature, languages, history, philosophy, and cultural
+            studies.
+          Faculty: Faculty of Arts and Humanities
+          Subject: Arts
+        - Address: Bebelplatz 2, 10099 Berlin
+          City: BERLIN
+          Description: Covers legal studies, including civil law, criminal law, and international
+            law.
+          Faculty: Faculty of Law
+          Subject: Arts
+        - Address: Philippstr. 13, 10115 Berlin
+          City: BERLIN
+          Description: Dedicated to biology, biochemistry, and environmental sciences.
+          Faculty: Faculty of Life Sciences
+          Subject: Arts
+        - Address: Rudower Chaussee 25, 12489 Berlin
+          City: BERLIN
+          Description: Offers mathematics, physics, chemistry, and interdisciplinary scientific
+            research.
+          Faculty: Faculty of Mathematics and Natural Sciences
+          Subject: Arts
+        - Address: "Charit\xE9platz 1, 10117 Berlin"
+          City: BERLIN
+          Description: "One of Europe\u2019s leading medical faculties, partnered with\
+        \ Charit\xE9 for medical training."
+          Faculty: "Faculty of Medicine (Charit\xE9 \u2013 Universit\xE4tsmedizin Berlin)"
+          Subject: Arts
+        - Address: Friedrichstr. 191, 10117 Berlin
+          City: BERLIN
+          Description: Explores sociology, political science, and interdisciplinary social
+            research.
+          Faculty: Faculty of Social Sciences
+          Subject: Arts
+      Name: Humboldt University of Berlin (HU Berlin)
+      Type: Public
+    - Description: Renowned for its research-driven programs across a diverse range
+        of disciplines.
+      Faculties:
+        - Address: Takustr. 3, 14195 Berlin
+          City: BERLIN
+          Description: Specializes in biological sciences, chemistry, and pharmaceutical
+            studies.
+          Faculty: Department of Biology, Chemistry, and Pharmacy
+          Subject: Arts
+        - Address: Malteserstr. 74-100, 12249 Berlin
+          City: BERLIN
+          Description: Researches geosciences, climate change, and environmental systems.
+          Faculty: Department of Earth Sciences
+          Subject: Arts
+        - Address: Habelschwerdter Allee 45, 14195 Berlin
+          City: BERLIN
+          Description: Focuses on psychology, education sciences, and human behavior studies.
+          Faculty: Department of Education and Psychology
+          Subject: Arts
+        - Address: Koserstr. 20, 14195 Berlin
+          City: BERLIN
+          Description: Covers historical research, archaeology, and cultural analysis.
+          Faculty: Department of History and Cultural Studies
+          Subject: Arts
+        - Address: "Van\u2019t-Hoff-Str. 8, 14195 Berlin"
+          City: BERLIN
+          Description: Provides comprehensive legal education across national and international
+            law.
+          Faculty: Department of Law
+          Subject: Arts
+        - Address: "K\xF6nigin-Luise-Str. 24-26, 14195 Berlin"
+          City: BERLIN
+          Description: Focuses on mathematics, informatics, and theoretical computing
+            systems.
+          Faculty: Department of Mathematics and Computer Science
+          Subject: Arts
+        - Address: Habelschwerdter Allee 45, 14195 Berlin
+          City: BERLIN
+          Description: Engages in philosophical research and interdisciplinary humanities.
+          Faculty: Department of Philosophy and Humanities
+          Subject: Arts
+        - Address: Arnimallee 14, 14195 Berlin
+          City: BERLIN
+          Description: Conducts research in physics and its applications.
+          Faculty: Department of Physics
+          Subject: Arts
+        - Address: Ihnestr. 22, 14195 Berlin
+          City: BERLIN
+          Description: Analyzes political systems, governance, and international relations.
+          Faculty: Department of Political and Social Sciences
+          Subject: Arts
+        - Address: Oertzenweg 19b, 14163 Berlin
+          City: BERLIN
+          Description: Dedicated to veterinary medicine and animal sciences.
+          Faculty: Department of Veterinary Medicine
+          Subject: Arts
+      Name: "Freie Universit\xE4t Berlin (FU Berlin)"
+      Type: Public
+    - Faculties:
+        - Address: Address not provided. Please refer to the university's website for
+            location details.
+          City: BERLIN
+          Description: No description available for this faculty. Please refer to the
+            university's website for more details.
+          Faculty: Faculty of Humanities
+          Subject: Arts
+        - Address: Address not provided. Please refer to the university's website for
+            location details.
+          City: BERLIN
+          Description: No description available for this faculty. Please refer to the
+            university's website for more details.
+          Faculty: Faculty of Economics and Social Sciences
+          Subject: Arts
+        - Address: Address not provided. Please refer to the university's website for
+            location details.
+          City: BERLIN
+          Description: No description available for this faculty. Please refer to the
+            university's website for more details.
+          Faculty: Faculty of Science
+          Subject: Arts
+        - Address: Address not provided. Please refer to the university's website for
+            location details.
+          City: BERLIN
+          Description: No description available for this faculty. Please refer to the
+            university's website for more details.
+          Faculty: Faculty of Law
+          Subject: Arts
+        - Address: Address not provided. Please refer to the university's website for
+            location details.
+          City: BERLIN
+          Description: No description available for this faculty. Please refer to the
+            university's website for more details.
+          Faculty: Faculty of Education
+          Subject: Arts
+      Name: University of Potsdam
+  Wirtschaftshochschule_(Business_School):
+    - Faculties:
+        - Address: Address not provided. Please refer to the university's website for
+            location details.
+          City: BERLIN
+          Description: No description available for this faculty. Please refer to the
+            university's website for more details.
+          Faculty: Department of Business and Economics
+          Subject: Arts
+        - Address: Address not provided. Please refer to the university's website for
+            location details.
+          City: BERLIN
+          Description: No description available for this faculty. Please refer to the
+            university's website for more details.
+          Faculty: Department of Public Administration
+          Subject: Arts
+        - Address: Address not provided. Please refer to the university's website for
+            location details.
+          City: BERLIN
+          Description: No description available for this faculty. Please refer to the
+            university's website for more details.
+          Faculty: Department of Legal Studies
+          Subject: Arts
+        - Address: Address not provided. Please refer to the university's website for
+            location details.
+          City: BERLIN
+          Description: No description available for this faculty. Please refer to the
+            university's website for more details.
+          Faculty: Department of Police and Security Management
+          Subject: Arts
+      Name: Berlin School of Economics and Law (HWR Berlin)
+    - Faculties:
+        - Address: Address not provided. Please refer to the university's website for
+            location details.
+          City: BERLIN
+          Description: No description available for this faculty. Please refer to the
+            university's website for more details.
+          Faculty: Department of Management
+          Subject: Arts
+        - Address: Address not provided. Please refer to the university's website for
+            location details.
+          City: BERLIN
+          Description: No description available for this faculty. Please refer to the
+            university's website for more details.
+          Faculty: Department of Innovation and Entrepreneurship
+          Subject: Arts
+        - Address: Address not provided. Please refer to the university's website for
+            location details.
+          City: BERLIN
+          Description: No description available for this faculty. Please refer to the
+            university's website for more details.
+          Faculty: Department of Finance
+          Subject: Arts
+      Name: European School of Management and Technology (ESMT Berlin)
