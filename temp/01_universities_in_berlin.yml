@@ -1,98 +1,152 @@
-Universität_(University):
-  - Humboldt_University_of_Berlin_(HU_Berlin):
-      - Faculty_of_Arts_and_Humanities
-      - Faculty_of_Law
-      - Faculty_of_Life_Sciences
-      - Faculty_of_Mathematics_and_Natural_Sciences
-      - Faculty_of_Medicine_(Charité_–_Universitätsmedizin_Berlin)
-      - Faculty_of_Social_Sciences
-  - Freie_Universität_Berlin_(FU_Berlin):
-      - Department_of_Biology,_Chemistry,_and_Pharmacy
-      - Department_of_Earth_Sciences
-      - Department_of_Education_and_Psychology
-      - Department_of_History_and_Cultural_Studies
-      - Department_of_Law
-      - Department_of_Mathematics_and_Computer_Science
-      - Department_of_Philosophy_and_Humanities
-      - Department_of_Physics
-      - Department_of_Political_and_Social_Sciences
-      - Department_of_Veterinary_Medicine
-  - University_of_Potsdam:
-      - Faculty_of_Humanities
-      - Faculty_of_Economics_and_Social_Sciences
-      - Faculty_of_Science
-      - Faculty_of_Law
-      - Faculty_of_Education
+Universities_in_Berlin:
+  Universität_(University):
+    - Name: Humboldt University of Berlin (HU Berlin)
+      Type: Public
+      Description: A prestigious university known for its excellence in humanities, sciences, and medicine.
+      Faculties:
+        - Faculty: Faculty of Arts and Humanities
+          Address: Unter den Linden 6, 10099 Berlin
+          Description: Focuses on literature, languages, history, philosophy, and cultural studies.
+        - Faculty: Faculty of Law
+          Address: Bebelplatz 2, 10099 Berlin
+          Description: Covers legal studies, including civil law, criminal law, and international law.
+        - Faculty: Faculty of Life Sciences
+          Address: Philippstr. 13, 10115 Berlin
+          Description: Dedicated to biology, biochemistry, and environmental sciences.
+        - Faculty: Faculty of Mathematics and Natural Sciences
+          Address: Rudower Chaussee 25, 12489 Berlin
+          Description: Offers mathematics, physics, chemistry, and interdisciplinary scientific research.
+        - Faculty: Faculty of Medicine (Charité – Universitätsmedizin Berlin)
+          Address: Charitéplatz 1, 10117 Berlin
+          Description: One of Europe’s leading medical faculties, partnered with Charité for medical training.
+        - Faculty: Faculty of Social Sciences
+          Address: Friedrichstr. 191, 10117 Berlin
+          Description: Explores sociology, political science, and interdisciplinary social research.
+    - Name: Freie Universität Berlin (FU Berlin)
+      Type: Public
+      Description: Renowned for its research-driven programs across a diverse range of disciplines.
+      Faculties:
+        - Faculty: Department of Biology, Chemistry, and Pharmacy
+          Address: Takustr. 3, 14195 Berlin
+          Description: Specializes in biological sciences, chemistry, and pharmaceutical studies.
+        - Faculty: Department of Earth Sciences
+          Address: Malteserstr. 74-100, 12249 Berlin
+          Description: Researches geosciences, climate change, and environmental systems.
+        - Faculty: Department of Education and Psychology
+          Address: Habelschwerdter Allee 45, 14195 Berlin
+          Description: Focuses on psychology, education sciences, and human behavior studies.
+        - Faculty: Department of History and Cultural Studies
+          Address: Koserstr. 20, 14195 Berlin
+          Description: Covers historical research, archaeology, and cultural analysis.
+        - Faculty: Department of Law
+          Address: Van’t-Hoff-Str. 8, 14195 Berlin
+          Description: Provides comprehensive legal education across national and international law.
+        - Faculty: Department of Mathematics and Computer Science
+          Address: Königin-Luise-Str. 24-26, 14195 Berlin
+          Description: Focuses on mathematics, informatics, and theoretical computing systems.
+        - Faculty: Department of Philosophy and Humanities
+          Address: Habelschwerdter Allee 45, 14195 Berlin
+          Description: Engages in philosophical research and interdisciplinary humanities.
+        - Faculty: Department of Physics
+          Address: Arnimallee 14, 14195 Berlin
+          Description: Conducts research in physics and its applications.
+        - Faculty: Department of Political and Social Sciences
+          Address: Ihnestr. 22, 14195 Berlin
+          Description: Analyzes political systems, governance, and international relations.
+        - Faculty: Department of Veterinary Medicine
+          Address: Oertzenweg 19b, 14163 Berlin
+          Description: Dedicated to veterinary medicine and animal sciences.
+    - Name: University of Potsdam
+      Faculties:
+        - Faculty: Faculty of Humanities
+        - Faculty: Faculty of Economics and Social Sciences
+        - Faculty: Faculty of Science
+        - Faculty: Faculty of Law
+        - Faculty: Faculty of Education
 
-Technische_Universität_(Technical_University):
-  - Technische_Universität_Berlin_(TU_Berlin):
-      - Faculty_of_Electrical_Engineering_and_Computer_Science
-      - Faculty_of_Economics_and_Management
-      - Faculty_of_Humanities
-      - Faculty_of_Mathematics_and_Natural_Sciences
-      - Faculty_of_Mechanical_Engineering_and_Transport_Systems
-      - Faculty_of_Planning_Building_Environment
-      - Faculty_of_Process_Sciences
-  - Brandenburg_University_of_Technology_Cottbus-Senftenberg:
-      - Faculty_of_Business,_Law_and_Social_Sciences
-      - Faculty_of_Health_Sciences
-      - Faculty_of_Engineering
-      - Faculty_of_Natural_Sciences
+  Technische_Universität_(Technical_University):
+    - Name: Technische Universität Berlin (TU Berlin)
+      Faculties:
+        - Faculty: Faculty of Electrical Engineering and Computer Science
+        - Faculty: Faculty of Economics and Management
+        - Faculty: Faculty of Humanities
+        - Faculty: Faculty of Mathematics and Natural Sciences
+        - Faculty: Faculty of Mechanical Engineering and Transport Systems
+        - Faculty: Faculty of Planning Building Environment
+        - Faculty: Faculty of Process Sciences
+    - Name: Brandenburg University of Technology Cottbus-Senftenberg
+      Faculties:
+        - Faculty: Faculty of Business, Law and Social Sciences
+        - Faculty: Faculty of Health Sciences
+        - Faculty: Faculty of Engineering
+        - Faculty: Faculty of Natural Sciences
 
-Fachhochschule_(University_of_Applied_Sciences):
-  - Berlin_University_of_Applied_Sciences_(HTW_Berlin):
-      - School_of_Engineering
-      - School_of_Economics
-      - School_of_Design_and_Culture
-      - School_of_Life_Sciences
-  - Technical_University_of_Applied_Sciences_Wildau:
-      - Faculty_of_Engineering_and_Natural_Sciences
-      - Faculty_of_Business,_Computing_and_Law
-  - University_of_Applied_Sciences_Potsdam:
-      - Faculty_of_Architecture_and_Urban_Design
-      - Faculty_of_Civil_Engineering
-      - Faculty_of_Design
-      - Faculty_of_Social_and_Educational_Sciences
-  - SRH_University_of_Applied_Sciences_Berlin:
-      - Faculty_of_Management
-      - Faculty_of_Engineering_and_Technology
-      - Faculty_of_Social_Sciences
+  Fachhochschule_(University_of_Applied_Sciences):
+    - Name: Berlin University of Applied Sciences (HTW Berlin)
+      Faculties:
+        - Faculty: School of Engineering
+        - Faculty: School of Economics
+        - Faculty: School of Design and Culture
+        - Faculty: School of Life Sciences
+    - Name: Technical University of Applied Sciences Wildau
+      Faculties:
+        - Faculty: Faculty of Engineering and Natural Sciences
+        - Faculty: Faculty of Business, Computing and Law
+    - Name: University of Applied Sciences Potsdam
+      Faculties:
+        - Faculty: Faculty of Architecture and Urban Design
+        - Faculty: Faculty of Civil Engineering
+        - Faculty: Faculty of Design
+        - Faculty: Faculty of Social and Educational Sciences
+    - Name: SRH University of Applied Sciences Berlin
+      Faculties:
+        - Faculty: Faculty of Management
+        - Faculty: Faculty of Engineering and Technology
+        - Faculty: Faculty of Social Sciences
 
-Kunsthochschule_(Academy_of_Fine_Arts):
-  - Berlin_University_of_the_Arts_(UdK):
-      - Faculty_of_Fine_Arts
-      - Faculty_of_Design
-      - Faculty_of_Music
-      - Faculty_of_Performing_Arts
-  - Weißensee_Academy_of_Art_Berlin:
-      - Department_of_Fine_Arts
-      - Department_of_Design
+  Kunsthochschule_(Academy_of_Fine_Arts):
+    - Name: Berlin University of the Arts (UdK)
+      Faculties:
+        - Faculty: Faculty of Fine Arts
+        - Faculty: Faculty of Design
+        - Faculty: Faculty of Music
+        - Faculty: Faculty of Performing Arts
+    - Name: Weißensee Academy of Art Berlin
+      Faculties:
+        - Faculty: Department of Fine Arts
+        - Faculty: Department of Design
 
-Musikhochschule_(Academy_of_Music):
-  - Hanns_Eisler_School_of_Music_Berlin:
-      - Department_of_Vocal_Studies
-      - Department_of_Instrumental_Studies
-      - Department_of_Conducting
-      - Department_of_Music_Theory_and_Composition
+  Musikhochschule_(Academy_of_Music):
+    - Name: Hanns Eisler School of Music Berlin
+      Faculties:
+        - Faculty: Department of Vocal Studies
+        - Faculty: Department of Instrumental Studies
+        - Faculty: Department of Conducting
+        - Faculty: Department of Music Theory and Composition
 
-Wirtschaftshochschule_(Business_School):
-  - Berlin_School_of_Economics_and_Law_(HWR_Berlin):
-      - Department_of_Business_and_Economics
-      - Department_of_Public_Administration
-      - Department_of_Legal_Studies
-      - Department_of_Police_and_Security_Management
-  - European_School_of_Management_and_Technology_(ESMT_Berlin):
-      - Department_of_Management
-      - Department_of_Innovation_and_Entrepreneurship
-      - Department_of_Finance
+  Wirtschaftshochschule_(Business_School):
+    - Name: Berlin School of Economics and Law (HWR Berlin)
+      Faculties:
+        - Faculty: Department of Business and Economics
+        - Faculty: Department of Public Administration
+        - Faculty: Department of Legal Studies
+        - Faculty: Department of Police and Security Management
+    - Name: European School of Management and Technology (ESMT Berlin)
+      Faculties:
+        - Faculty: Department of Management
+        - Faculty: Department of Innovation and Entrepreneurship
+        - Faculty: Department of Finance
 
-Privatuniversität_(Private_University):
-  - Hertie_School_of_Governance:
-      - Department_of_Public_Policy
-      - Department_of_International_Affairs
-  - Bard_College_Berlin:
-      - Department_of_Humanities
-      - Department_of_Social_Sciences
-  - Steinbeis_University_Berlin:
-      - Faculty_of_Business_and_Economics
-      - Faculty_of_Engineering_and_Technology
+  Privatuniversität_(Private_University):
+    - Name: Hertie School of Governance
+      Faculties:
+        - Faculty: Department of Public Policy
+        - Faculty: Department of International Affairs
+    - Name: Bard College Berlin
+      Faculties:
+        - Faculty: Department of Humanities
+        - Faculty: Department of Social Sciences
+    - Name: Steinbeis University Berlin
+      Faculties:
+        - Faculty: Faculty of Business and Economics
+        - Faculty: Faculty of Engineering and Technology
