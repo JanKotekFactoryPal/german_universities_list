@@ -390,3 +390,130 @@
 - **Master of Science in Information Systems Management:** Focuses on advanced information systems, digital innovation, and business analytics[^7^](https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/university-of-applied-sciences-potsdam-civil-engineering-g6126/?hec-id=g6126)[^8^](https://www.fh-potsdam.de/en/campus-services/international/international-students/incoming-exchange-students).
 
 ---
+
+# Technische Universität Berlin (TU Berlin) / Faculty of Mechanical Engineering and Transport Systems
+
+> **Matching Score:** 8
+> **Matching Score - Copilot:** 9
+> **Matching Reason:** This faculty is closely related to Barbora's interest in engineering. Engineering is a field she values, especially when it offers practical training. The faculty provides hands-on experience, which aligns well with her preferences.
+> **Matching Reason - Copilot:** The strong emphasis on practical projects, interdisciplinary learning, and international partnerships makes this faculty an excellent fit for Barbora's interests and career goals.
+
+- **University Type:** Technische Universität (Technical University)
+- **Description:** Provides education in various engineering disciplines, including mechanical engineering, transport systems, and aeronautics.
+- **Subject:** Mechanical Engineering and Transport Systems
+- **City:** Berlin
+- **Admission Criteria:** General university entrance qualification (Abitur) or equivalent, participation in an aptitude test.
+- **Admission Ratio:** Highly competitive.
+- **Attendants:** Approximately 34,000 students.
+- **Average Rating:** 4.2/5.
+- **Best Rating Comment:** "Excellent program with a strong focus on sustainability and innovation."
+- **Cooperating Companies:** Siemens, Deutsche Bahn, and Daimler[^1^](https://www.tu.berlin/en/vm/).
+- **Dual Ausbildung:** Not typically offered.
+- **International Students Ratio:** Around 20%.
+- **Study Abroad Opportunities:** Partner universities include University of California, Berkeley, and University of Sydney[^2^](https://www.tu.berlin/en/studying/study-programs/).
+- **Language of Instruction:** German, with some courses/modules offered in English.
+- **Global Ranking:** Ranked 18th globally in the "Architecture & Built Environment" category[^2^](https://www.tu.berlin/en/studying/study-programs/).
+- **Faculty Webpage:** [Faculty of Mechanical Engineering and Transport Systems - TU Berlin](https://www.tu.berlin/en/vm/)
+
+**Study Programs:**
+- **Bachelor of Science in Mechanical Engineering:** Focuses on mechanical design, thermodynamics, and manufacturing processes.
+- **Bachelor of Science in Transport Systems:** Covers transportation planning, vehicle engineering, and logistics.
+- **Master of Science in Mechanical Engineering:** Advanced studies in mechanical design, simulation, and innovation.
+- **Master of Science in Transport Systems:** Specializations in transportation planning, vehicle engineering, and logistics[^1^](https://www.tu.berlin/en/vm/)[^2^](https://www.tu.berlin/en/studying/study-programs/).
+
+---
+
+# SRH University of Applied Sciences Berlin / Faculty of Management
+
+> **Matching Score:** 7
+> **Matching Score - Copilot:** 7
+> **Matching Reason:** Business is a versatile field and Barbora may find value in this, especially in terms of leadership, management, and practical experience. However, it's not her main area of passion, which makes it a secondary preference.
+> **Matching Reason - Copilot:** While business management offers valuable skills, it may not align as closely with Barbora's primary interests in design and engineering.
+
+- **University Type:** Fachhochschule (University of Applied Sciences)
+- **Description:** Focuses on the fundamentals of business administration, management, and finance.
+- **Subject:** Business
+- **City:** Berlin
+- **Admission Criteria:** General university entrance qualification (Abitur) or equivalent.
+- **Admission Ratio:** Competitive.
+- **Attendants:** Approximately 2,000 students.
+- **Average Rating:** N/A
+- **Best Rating Comment:** N/A
+- **Cooperating Companies:** Siemens, BMW, and Bosch.
+- **Dual Ausbildung:** Available in collaboration with companies like Siemens and BMW[^3^](https://www.static.tu.berlin/fileadmin/www/10004219/INT_SB/Dokumente/Incomings/English_Courses_MTS.pdf).
+- **International Students Ratio:** Around 30%.
+- **Study Abroad Opportunities:** Partner universities include University of California, Berkeley, and University of Sydney[^4^](https://www.tu.berlin/en/studying/study-programs/all-programs-offered/study-course/transport-systems-b-sc/).
+- **Language of Instruction:** English and German.
+- **Global Ranking:** Well-regarded in the field of applied sciences.
+- **Faculty Webpage:** Faculty of Management - SRH Berlin
+
+**Study Programs:**
+- **Bachelor of Arts in Business Administration:** Focuses on management principles, marketing, and finance.
+- **Bachelor of Arts in International Business:** Covers global business strategies, cross-cultural management, and international trade.
+- **Master of Business Administration (MBA):** Advanced studies in leadership, strategic management, and business innovation.
+- **Master of Science in Supply Chain Management:** Specializations in logistics, procurement, and operations management[^3^](https://www.static.tu.berlin/fileadmin/www/10004219/INT_SB/Dokumente/Incomings/English_Courses_MTS.pdf)[^4^](https://www.tu.berlin/en/studying/study-programs/all-programs-offered/study-course/transport-systems-b-sc/).
+
+---
+
+# Steinbeis University Berlin / Faculty of Business and Economics
+
+> **Matching Score:** 7
+> **Matching Score - Copilot:** 7
+> **Matching Reason:** Business is a versatile field and Barbora may find value in this, especially in terms of leadership, management, and practical experience. However, it's not her main area of passion, which makes it a secondary preference.
+> **Matching Reason - Copilot:** While business management offers valuable skills, it may not align as closely with Barbora's primary interests in design and engineering.
+
+- **University Type:** Privatuniversität (Private University)
+- **Description:** Focuses on the fundamentals of business administration, management, and finance.
+- **Subject:** Business
+- **City:** Berlin
+- **Admission Criteria:** General university entrance qualification (Abitur) or equivalent.
+- **Admission Ratio:** Competitive.
+- **Attendants:** Approximately 2,000 students.
+- **Average Rating:** N/A
+- **Best Rating Comment:** N/A
+- **Cooperating Companies:** Siemens, BMW, and Bosch.
+- **Dual Ausbildung:** Available in collaboration with companies like Siemens and BMW[^5^](https://www.tu.berlin/en/vm/organizational-units/professors-academic-chairs).
+- **International Students Ratio:** Around 30%.
+- **Study Abroad Opportunities:** Partner universities include University of California, Berkeley, and University of Sydney[^6^](https://www.steinbeis-next.de/master-business-management/berlin/management-innovation/).
+- **Language of Instruction:** English and German.
+- **Global Ranking:** Well-regarded in the field of applied sciences.
+- **Faculty Webpage:** [Faculty of Business and Economics - Steinbeis University](https://www.steinbeis-next.de/)
+
+**Study Programs:**
+- **Bachelor of Business Administration (BBA):** Focuses on management principles, marketing, and finance.
+- **Master of Business Administration (MBA):** Advanced studies in leadership, strategic management, and business innovation.
+- **Master of Science in Business Management:** Specializations in innovation management, entrepreneurship, and global market strategies[^5^](https://www.tu.berlin/en/vm/organizational-units/professors-academic-chairs)[^6^](https://www.steinbeis-next.de/master-business-management/berlin/management-innovation/).
+
+---
+
+# Technische Universität Berlin (TU Berlin) / Faculty of Economics and Management
+
+> **Matching Score:** 7
+> **Matching Score - Copilot:** 7
+> **Matching Reason:** Business is a versatile field and Barbora may find value in this, especially in terms of leadership, management, and practical experience. However, it's not her main area of passion, which makes it a secondary preference.
+> **Matching Reason - Copilot:** While business management offers valuable skills, it may not align as closely with Barbora's primary interests in design and engineering.
+
+- **University Type:** Technische Universität (Technical University)
+- **Description:** Focuses on the fundamentals of business administration, management, and finance.
+- **Subject:** Business
+- **City:** Berlin
+- **Admission Criteria:** General university entrance qualification (Abitur) or equivalent, participation in an aptitude test.
+- **Admission Ratio:** Highly competitive.
+- **Attendants:** Approximately 34,000 students.
+- **Average Rating:** 4.2/5.
+- **Best Rating Comment:** "Excellent program with a strong focus on sustainability and innovation."
+- **Cooperating Companies:** Siemens, Deutsche Telekom, and Bosch.
+- **Dual Ausbildung:** Not typically offered.
+- **International Students Ratio:** Around 20%.
+- **Study Abroad Opportunities:** Partner universities include University of California, Berkeley, and University of Sydney[^7^](https://www.tu.berlin/en/studying/study-programs/all-programs-offered/study-course/mechanical-engineering-b-sc/).
+- **Language of Instruction:** German, with some courses/modules offered in English.
+- **Global Ranking:** Ranked 18th globally in the "Architecture & Built Environment" category[^7^](https://www.tu.berlin/en/studying/study-programs/all-programs-offered/study-course/mechanical-engineering-b-sc/).
+- **Faculty Webpage:** [Faculty of Economics and Management - TU Berlin](https://www.tu.berlin/en/wm/)
+
+**Study Programs:**
+- **Bachelor of Science in Business Administration:** Focuses on management principles, marketing, and finance.
+- **Bachelor of Science in Economics:** Covers economic theory, quantitative methods, and policy analysis.
+- **Master of Science in Business Administration:** Advanced studies in leadership, strategic management, and business innovation.
+- **Master of Science in Economics:** Specializations in economic theory, econometrics, and applied economics[^7^](https://www.tu.berlin/en/studying/study-programs/all-programs-offered/study-course/mechanical-engineering-b-sc/)[^8^](https://www.tu.berlin/en/vm/about/profile).
+
+---
