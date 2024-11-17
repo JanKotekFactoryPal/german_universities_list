@@ -5,68 +5,123 @@ Fachhochschule_(University_of_Applied_Sciences):
       Description: Focuses on the creative and practical aspects of design, including
         graphic, industrial, and digital design.
       Subject: Design
+      matching_reason: This faculty is closely aligned with Barbora's interest in
+        design and architecture, which she is passionate about. It offers practical
+        learning, which is important to her, and the focus on creativity and hands-on
+        experience makes it a good match.
+      matching_score: 9
     School of Economics:
       City: BERLIN
       Description: No description available.
       Subject: Unknown Subject
+      matching_reason: This subject is not closely aligned with Barbora's main interests
+        in design, engineering, and architecture. While it may still offer some value,
+        it's not as well-matched with her goals.
+      matching_score: 4
     School of Engineering:
       City: BERLIN
       Description: Provides education in various engineering disciplines, including
         mechanical, civil, and electrical engineering.
       Subject: Engineering
+      matching_reason: This faculty is closely related to Barbora's interest in engineering.
+        Engineering is a field she values, especially when it offers practical training.
+        The faculty provides hands-on experience, which aligns well with her preferences.
+      matching_score: 8
     School of Life Sciences:
       City: BERLIN
       Description: Covers various fields of natural sciences, including physics, chemistry,
         biology, and mathematics.
       Subject: Natural Sciences & Mathematics
+      matching_reason: This subject is not closely aligned with Barbora's main interests
+        in design, engineering, and architecture. While it may still offer some value,
+        it's not as well-matched with her goals.
+      matching_score: 4
   SRH University of Applied Sciences Berlin:
     Faculty of Engineering and Technology:
       City: BERLIN
       Description: Provides education in various engineering disciplines, including
         mechanical, civil, and electrical engineering.
       Subject: Engineering
+      matching_reason: This faculty is closely related to Barbora's interest in engineering.
+        Engineering is a field she values, especially when it offers practical training.
+        The faculty provides hands-on experience, which aligns well with her preferences.
+      matching_score: 8
     Faculty of Management:
       City: BERLIN
       Description: Focuses on the fundamentals of business administration, management,
         and finance.
       Subject: Business
+      matching_reason: Business is a versatile field and Barbora may find value in
+        this, especially in terms of leadership, management, and practical experience.
+        However, it's not her main area of passion, which makes it a secondary preference.
+      matching_score: 7
     Faculty of Social Sciences:
       City: BERLIN
       Description: Explores the study of human society, including sociology, psychology,
         and political science.
       Subject: Social Sciences
+      matching_reason: Social sciences are interesting, but Barbora is more inclined
+        towards practical, hands-on fields like design and engineering. While it offers
+        social impact and teamwork opportunities, it may not be her primary focus.
+      matching_score: 6
   Technical University of Applied Sciences Wildau:
     Faculty of Business, Computing and Law:
       City: BERLIN
       Description: Covers legal studies, including civil law, criminal law, and international
         law.
       Subject: Law
+      matching_reason: This subject is not closely aligned with Barbora's main interests
+        in design, engineering, and architecture. While it may still offer some value,
+        it's not as well-matched with her goals.
+      matching_score: 4
     Faculty of Engineering and Natural Sciences:
       City: BERLIN
       Description: Provides education in various engineering disciplines, including
         mechanical, civil, and electrical engineering.
       Subject: Engineering
+      matching_reason: This faculty is closely related to Barbora's interest in engineering.
+        Engineering is a field she values, especially when it offers practical training.
+        The faculty provides hands-on experience, which aligns well with her preferences.
+      matching_score: 8
   University of Applied Sciences Potsdam:
     Faculty of Architecture and Urban Design:
       City: BERLIN
       Description: Focuses on the creative and practical aspects of design, including
         graphic, industrial, and digital design.
       Subject: Design
+      matching_reason: This faculty is closely aligned with Barbora's interest in
+        design and architecture, which she is passionate about. It offers practical
+        learning, which is important to her, and the focus on creativity and hands-on
+        experience makes it a good match.
+      matching_score: 9
     Faculty of Civil Engineering:
       City: BERLIN
       Description: Provides education in various engineering disciplines, including
         mechanical, civil, and electrical engineering.
       Subject: Engineering
+      matching_reason: This faculty is closely related to Barbora's interest in engineering.
+        Engineering is a field she values, especially when it offers practical training.
+        The faculty provides hands-on experience, which aligns well with her preferences.
+      matching_score: 8
     Faculty of Design:
       City: BERLIN
       Description: Focuses on the creative and practical aspects of design, including
         graphic, industrial, and digital design.
       Subject: Design
+      matching_reason: This faculty is closely aligned with Barbora's interest in
+        design and architecture, which she is passionate about. It offers practical
+        learning, which is important to her, and the focus on creativity and hands-on
+        experience makes it a good match.
+      matching_score: 9
     Faculty of Social and Educational Sciences:
       City: BERLIN
       Description: Covers various fields of natural sciences, including physics, chemistry,
         biology, and mathematics.
       Subject: Natural Sciences & Mathematics
+      matching_reason: This subject is not closely aligned with Barbora's main interests
+        in design, engineering, and architecture. While it may still offer some value,
+        it's not as well-matched with her goals.
+      matching_score: 4
 Kunsthochschule_(Academy_of_Fine_Arts):
   Berlin University of the Arts (UdK):
     Faculty of Design:
@@ -74,77 +129,143 @@ Kunsthochschule_(Academy_of_Fine_Arts):
       Description: Focuses on the creative and practical aspects of design, including
         graphic, industrial, and digital design.
       Subject: Design
+      matching_reason: This faculty is closely aligned with Barbora's interest in
+        design and architecture, which she is passionate about. It offers practical
+        learning, which is important to her, and the focus on creativity and hands-on
+        experience makes it a good match.
+      matching_score: 9
     Faculty of Fine Arts:
       City: BERLIN
       Description: No description available.
       Subject: Arts
+      matching_reason: This subject is not closely aligned with Barbora's main interests
+        in design, engineering, and architecture. While it may still offer some value,
+        it's not as well-matched with her goals.
+      matching_score: 4
     Faculty of Music:
       City: BERLIN
       Description: No description available.
       Subject: Unknown Subject
+      matching_reason: This subject is not closely aligned with Barbora's main interests
+        in design, engineering, and architecture. While it may still offer some value,
+        it's not as well-matched with her goals.
+      matching_score: 4
     Faculty of Performing Arts:
       City: BERLIN
       Description: No description available.
       Subject: Arts
+      matching_reason: This subject is not closely aligned with Barbora's main interests
+        in design, engineering, and architecture. While it may still offer some value,
+        it's not as well-matched with her goals.
+      matching_score: 4
   "Wei\xDFensee Academy of Art Berlin":
     Department of Design:
       City: BERLIN
       Description: Focuses on the creative and practical aspects of design, including
         graphic, industrial, and digital design.
       Subject: Design
+      matching_reason: This faculty is closely aligned with Barbora's interest in
+        design and architecture, which she is passionate about. It offers practical
+        learning, which is important to her, and the focus on creativity and hands-on
+        experience makes it a good match.
+      matching_score: 9
     Department of Fine Arts:
       City: BERLIN
       Description: No description available.
       Subject: Arts
+      matching_reason: This subject is not closely aligned with Barbora's main interests
+        in design, engineering, and architecture. While it may still offer some value,
+        it's not as well-matched with her goals.
+      matching_score: 4
 Musikhochschule_(Academy_of_Music):
   Hanns Eisler School of Music Berlin:
     Department of Conducting:
       City: BERLIN
       Description: No description available.
       Subject: Unknown Subject
+      matching_reason: This subject is not closely aligned with Barbora's main interests
+        in design, engineering, and architecture. While it may still offer some value,
+        it's not as well-matched with her goals.
+      matching_score: 4
     Department of Instrumental Studies:
       City: BERLIN
       Description: No description available.
       Subject: Unknown Subject
+      matching_reason: This subject is not closely aligned with Barbora's main interests
+        in design, engineering, and architecture. While it may still offer some value,
+        it's not as well-matched with her goals.
+      matching_score: 4
     Department of Music Theory and Composition:
       City: BERLIN
       Description: No description available.
       Subject: Unknown Subject
+      matching_reason: This subject is not closely aligned with Barbora's main interests
+        in design, engineering, and architecture. While it may still offer some value,
+        it's not as well-matched with her goals.
+      matching_score: 4
     Department of Vocal Studies:
       City: BERLIN
       Description: No description available.
       Subject: Unknown Subject
+      matching_reason: This subject is not closely aligned with Barbora's main interests
+        in design, engineering, and architecture. While it may still offer some value,
+        it's not as well-matched with her goals.
+      matching_score: 4
 "Privatuniversit\xE4t_(Private_University)":
   Bard College Berlin:
     Department of Humanities:
       City: BERLIN
       Description: No description available.
       Subject: Unknown Subject
+      matching_reason: This subject is not closely aligned with Barbora's main interests
+        in design, engineering, and architecture. While it may still offer some value,
+        it's not as well-matched with her goals.
+      matching_score: 4
     Department of Social Sciences:
       City: BERLIN
       Description: Explores the study of human society, including sociology, psychology,
         and political science.
       Subject: Social Sciences
+      matching_reason: Social sciences are interesting, but Barbora is more inclined
+        towards practical, hands-on fields like design and engineering. While it offers
+        social impact and teamwork opportunities, it may not be her primary focus.
+      matching_score: 6
   Hertie School of Governance:
     Department of International Affairs:
       City: BERLIN
       Description: No description available.
       Subject: Unknown Subject
+      matching_reason: This subject is not closely aligned with Barbora's main interests
+        in design, engineering, and architecture. While it may still offer some value,
+        it's not as well-matched with her goals.
+      matching_score: 4
     Department of Public Policy:
       City: BERLIN
       Description: No description available.
       Subject: Unknown Subject
+      matching_reason: This subject is not closely aligned with Barbora's main interests
+        in design, engineering, and architecture. While it may still offer some value,
+        it's not as well-matched with her goals.
+      matching_score: 4
   Steinbeis University Berlin:
     Faculty of Business and Economics:
       City: BERLIN
       Description: Focuses on the fundamentals of business administration, management,
         and finance.
       Subject: Business
+      matching_reason: Business is a versatile field and Barbora may find value in
+        this, especially in terms of leadership, management, and practical experience.
+        However, it's not her main area of passion, which makes it a secondary preference.
+      matching_score: 7
     Faculty of Engineering and Technology:
       City: BERLIN
       Description: Provides education in various engineering disciplines, including
         mechanical, civil, and electrical engineering.
       Subject: Engineering
+      matching_reason: This faculty is closely related to Barbora's interest in engineering.
+        Engineering is a field she values, especially when it offers practical training.
+        The faculty provides hands-on experience, which aligns well with her preferences.
+      matching_score: 8
 "Technische_Universit\xE4t_(Technical_University)":
   Brandenburg University of Technology Cottbus-Senftenberg:
     Faculty of Business, Law and Social Sciences:
@@ -152,55 +273,99 @@ Musikhochschule_(Academy_of_Music):
       Description: Covers legal studies, including civil law, criminal law, and international
         law.
       Subject: Law
+      matching_reason: This subject is not closely aligned with Barbora's main interests
+        in design, engineering, and architecture. While it may still offer some value,
+        it's not as well-matched with her goals.
+      matching_score: 4
     Faculty of Engineering:
       City: BERLIN
       Description: Provides education in various engineering disciplines, including
         mechanical, civil, and electrical engineering.
       Subject: Engineering
+      matching_reason: This faculty is closely related to Barbora's interest in engineering.
+        Engineering is a field she values, especially when it offers practical training.
+        The faculty provides hands-on experience, which aligns well with her preferences.
+      matching_score: 8
     Faculty of Health Sciences:
       City: BERLIN
       Description: Covers various fields of natural sciences, including physics, chemistry,
         biology, and mathematics.
       Subject: Natural Sciences & Mathematics
+      matching_reason: This subject is not closely aligned with Barbora's main interests
+        in design, engineering, and architecture. While it may still offer some value,
+        it's not as well-matched with her goals.
+      matching_score: 4
     Faculty of Natural Sciences:
       City: BERLIN
       Description: Covers various fields of natural sciences, including physics, chemistry,
         biology, and mathematics.
       Subject: Natural Sciences & Mathematics
+      matching_reason: This subject is not closely aligned with Barbora's main interests
+        in design, engineering, and architecture. While it may still offer some value,
+        it's not as well-matched with her goals.
+      matching_score: 4
   "Technische Universit\xE4t Berlin (TU Berlin)":
     Faculty of Economics and Management:
       City: BERLIN
       Description: Focuses on the fundamentals of business administration, management,
         and finance.
       Subject: Business
+      matching_reason: Business is a versatile field and Barbora may find value in
+        this, especially in terms of leadership, management, and practical experience.
+        However, it's not her main area of passion, which makes it a secondary preference.
+      matching_score: 7
     Faculty of Electrical Engineering and Computer Science:
       City: BERLIN
       Description: Provides education in various engineering disciplines, including
         mechanical, civil, and electrical engineering.
       Subject: Engineering
+      matching_reason: This faculty is closely related to Barbora's interest in engineering.
+        Engineering is a field she values, especially when it offers practical training.
+        The faculty provides hands-on experience, which aligns well with her preferences.
+      matching_score: 8
     Faculty of Humanities:
       City: BERLIN
       Description: No description available.
       Subject: Unknown Subject
+      matching_reason: This subject is not closely aligned with Barbora's main interests
+        in design, engineering, and architecture. While it may still offer some value,
+        it's not as well-matched with her goals.
+      matching_score: 4
     Faculty of Mathematics and Natural Sciences:
       City: BERLIN
       Description: Covers various fields of natural sciences, including physics, chemistry,
         biology, and mathematics.
       Subject: Natural Sciences & Mathematics
+      matching_reason: This subject is not closely aligned with Barbora's main interests
+        in design, engineering, and architecture. While it may still offer some value,
+        it's not as well-matched with her goals.
+      matching_score: 4
     Faculty of Mechanical Engineering and Transport Systems:
       City: BERLIN
       Description: Provides education in various engineering disciplines, including
         mechanical, civil, and electrical engineering.
       Subject: Engineering
+      matching_reason: This faculty is closely related to Barbora's interest in engineering.
+        Engineering is a field she values, especially when it offers practical training.
+        The faculty provides hands-on experience, which aligns well with her preferences.
+      matching_score: 8
     Faculty of Planning Building Environment:
       City: BERLIN
       Description: No description available.
       Subject: Unknown Subject
+      matching_reason: This subject is not closely aligned with Barbora's main interests
+        in design, engineering, and architecture. While it may still offer some value,
+        it's not as well-matched with her goals.
+      matching_score: 4
     Faculty of Process Sciences:
       City: BERLIN
       Description: Covers various fields of natural sciences, including physics, chemistry,
         biology, and mathematics.
       Subject: Natural Sciences & Mathematics
+      matching_reason: This subject is not closely aligned with Barbora's main interests
+        in design, engineering, and architecture. While it may still offer some value,
+        it's not as well-matched with her goals.
+      matching_score: 4
 "Universit\xE4t_(University)":
   "Freie Universit\xE4t Berlin (FU Berlin)":
     Department of Biology, Chemistry, and Pharmacy:
@@ -209,53 +374,93 @@ Musikhochschule_(Academy_of_Music):
       Description: Specializes in biological sciences, chemistry, and pharmaceutical
         studies.
       Subject: Unknown Subject
+      matching_reason: This subject is not closely aligned with Barbora's main interests
+        in design, engineering, and architecture. While it may still offer some value,
+        it's not as well-matched with her goals.
+      matching_score: 4
     Department of Earth Sciences:
       Address: Malteserstr. 74-100, 12249 Berlin
       City: BERLIN
       Description: Researches geosciences, climate change, and environmental systems.
       Subject: Natural Sciences & Mathematics
+      matching_reason: This subject is not closely aligned with Barbora's main interests
+        in design, engineering, and architecture. While it may still offer some value,
+        it's not as well-matched with her goals.
+      matching_score: 4
     Department of Education and Psychology:
       Address: Habelschwerdter Allee 45, 14195 Berlin
       City: BERLIN
       Description: Focuses on psychology, education sciences, and human behavior studies.
       Subject: Unknown Subject
+      matching_reason: This subject is not closely aligned with Barbora's main interests
+        in design, engineering, and architecture. While it may still offer some value,
+        it's not as well-matched with her goals.
+      matching_score: 4
     Department of History and Cultural Studies:
       Address: Koserstr. 20, 14195 Berlin
       City: BERLIN
       Description: Covers historical research, archaeology, and cultural analysis.
       Subject: Unknown Subject
+      matching_reason: This subject is not closely aligned with Barbora's main interests
+        in design, engineering, and architecture. While it may still offer some value,
+        it's not as well-matched with her goals.
+      matching_score: 4
     Department of Law:
       Address: "Van\u2019t-Hoff-Str. 8, 14195 Berlin"
       City: BERLIN
       Description: Provides comprehensive legal education across national and international
         law.
       Subject: Law
+      matching_reason: This subject is not closely aligned with Barbora's main interests
+        in design, engineering, and architecture. While it may still offer some value,
+        it's not as well-matched with her goals.
+      matching_score: 4
     Department of Mathematics and Computer Science:
       Address: "K\xF6nigin-Luise-Str. 24-26, 14195 Berlin"
       City: BERLIN
       Description: Focuses on mathematics, informatics, and theoretical computing
         systems.
       Subject: Natural Sciences & Mathematics
+      matching_reason: This subject is not closely aligned with Barbora's main interests
+        in design, engineering, and architecture. While it may still offer some value,
+        it's not as well-matched with her goals.
+      matching_score: 4
     Department of Philosophy and Humanities:
       Address: Habelschwerdter Allee 45, 14195 Berlin
       City: BERLIN
       Description: Engages in philosophical research and interdisciplinary humanities.
       Subject: Unknown Subject
+      matching_reason: This subject is not closely aligned with Barbora's main interests
+        in design, engineering, and architecture. While it may still offer some value,
+        it's not as well-matched with her goals.
+      matching_score: 4
     Department of Physics:
       Address: Arnimallee 14, 14195 Berlin
       City: BERLIN
       Description: Conducts research in physics and its applications.
       Subject: Unknown Subject
+      matching_reason: This subject is not closely aligned with Barbora's main interests
+        in design, engineering, and architecture. While it may still offer some value,
+        it's not as well-matched with her goals.
+      matching_score: 4
     Department of Political and Social Sciences:
       Address: Ihnestr. 22, 14195 Berlin
       City: BERLIN
       Description: Analyzes political systems, governance, and international relations.
       Subject: Social Sciences
+      matching_reason: Social sciences are interesting, but Barbora is more inclined
+        towards practical, hands-on fields like design and engineering. While it offers
+        social impact and teamwork opportunities, it may not be her primary focus.
+      matching_score: 6
     Department of Veterinary Medicine:
       Address: Oertzenweg 19b, 14163 Berlin
       City: BERLIN
       Description: Dedicated to veterinary medicine and animal sciences.
       Subject: Medicine & Health
+      matching_reason: This subject is not closely aligned with Barbora's main interests
+        in design, engineering, and architecture. While it may still offer some value,
+        it's not as well-matched with her goals.
+      matching_score: 4
   Humboldt University of Berlin (HU Berlin):
     Faculty of Arts and Humanities:
       Address: Unter den Linden 6, 10099 Berlin
@@ -263,23 +468,39 @@ Musikhochschule_(Academy_of_Music):
       Description: Focuses on literature, languages, history, philosophy, and cultural
         studies.
       Subject: Arts
+      matching_reason: This subject is not closely aligned with Barbora's main interests
+        in design, engineering, and architecture. While it may still offer some value,
+        it's not as well-matched with her goals.
+      matching_score: 4
     Faculty of Law:
       Address: Bebelplatz 2, 10099 Berlin
       City: BERLIN
       Description: Covers legal studies, including civil law, criminal law, and international
         law.
       Subject: Law
+      matching_reason: This subject is not closely aligned with Barbora's main interests
+        in design, engineering, and architecture. While it may still offer some value,
+        it's not as well-matched with her goals.
+      matching_score: 4
     Faculty of Life Sciences:
       Address: Philippstr. 13, 10115 Berlin
       City: BERLIN
       Description: Dedicated to biology, biochemistry, and environmental sciences.
       Subject: Natural Sciences & Mathematics
+      matching_reason: This subject is not closely aligned with Barbora's main interests
+        in design, engineering, and architecture. While it may still offer some value,
+        it's not as well-matched with her goals.
+      matching_score: 4
     Faculty of Mathematics and Natural Sciences:
       Address: Rudower Chaussee 25, 12489 Berlin
       City: BERLIN
       Description: Offers mathematics, physics, chemistry, and interdisciplinary scientific
         research.
       Subject: Natural Sciences & Mathematics
+      matching_reason: This subject is not closely aligned with Barbora's main interests
+        in design, engineering, and architecture. While it may still offer some value,
+        it's not as well-matched with her goals.
+      matching_score: 4
     Faculty of Medicine (Charit  Universittsmedizin Berlin):
       Address: "Charit\xE9platz 1, 10117 Berlin"
       City: BERLIN
@@ -287,36 +508,64 @@ Musikhochschule_(Academy_of_Music):
         \ Charit\xE9 for medical training."
       Faculty: Faculty of Medicine (Charit  Universittsmedizin Berlin)
       Subject: Medicine & Health
+      matching_reason: This subject is not closely aligned with Barbora's main interests
+        in design, engineering, and architecture. While it may still offer some value,
+        it's not as well-matched with her goals.
+      matching_score: 4
     Faculty of Social Sciences:
       Address: Friedrichstr. 191, 10117 Berlin
       City: BERLIN
       Description: Explores sociology, political science, and interdisciplinary social
         research.
       Subject: Social Sciences
+      matching_reason: Social sciences are interesting, but Barbora is more inclined
+        towards practical, hands-on fields like design and engineering. While it offers
+        social impact and teamwork opportunities, it may not be her primary focus.
+      matching_score: 6
   University of Potsdam:
     Faculty of Economics and Social Sciences:
       City: BERLIN
       Description: Explores the study of human society, including sociology, psychology,
         and political science.
       Subject: Social Sciences
+      matching_reason: Social sciences are interesting, but Barbora is more inclined
+        towards practical, hands-on fields like design and engineering. While it offers
+        social impact and teamwork opportunities, it may not be her primary focus.
+      matching_score: 6
     Faculty of Education:
       City: BERLIN
       Description: No description available.
       Subject: Unknown Subject
+      matching_reason: This subject is not closely aligned with Barbora's main interests
+        in design, engineering, and architecture. While it may still offer some value,
+        it's not as well-matched with her goals.
+      matching_score: 4
     Faculty of Humanities:
       City: BERLIN
       Description: No description available.
       Subject: Unknown Subject
+      matching_reason: This subject is not closely aligned with Barbora's main interests
+        in design, engineering, and architecture. While it may still offer some value,
+        it's not as well-matched with her goals.
+      matching_score: 4
     Faculty of Law:
       City: BERLIN
       Description: Covers legal studies, including civil law, criminal law, and international
         law.
       Subject: Law
+      matching_reason: This subject is not closely aligned with Barbora's main interests
+        in design, engineering, and architecture. While it may still offer some value,
+        it's not as well-matched with her goals.
+      matching_score: 4
     Faculty of Science:
       City: BERLIN
       Description: Covers various fields of natural sciences, including physics, chemistry,
         biology, and mathematics.
       Subject: Natural Sciences & Mathematics
+      matching_reason: This subject is not closely aligned with Barbora's main interests
+        in design, engineering, and architecture. While it may still offer some value,
+        it's not as well-matched with her goals.
+      matching_score: 4
   Unknown University:
     Faculties:
       Description: No description available.
@@ -327,6 +576,10 @@ Musikhochschule_(Academy_of_Music):
         City: Berlin
         Subject: Social Sciences
       Subject: Unknown Subject
+      matching_reason: This subject is not closely aligned with Barbora's main interests
+        in design, engineering, and architecture. While it may still offer some value,
+        it's not as well-matched with her goals.
+      matching_score: 4
 Wirtschaftshochschule_(Business_School):
   Berlin School of Economics and Law (HWR Berlin):
     Department of Business and Economics:
@@ -334,30 +587,58 @@ Wirtschaftshochschule_(Business_School):
       Description: Focuses on the fundamentals of business administration, management,
         and finance.
       Subject: Business
+      matching_reason: Business is a versatile field and Barbora may find value in
+        this, especially in terms of leadership, management, and practical experience.
+        However, it's not her main area of passion, which makes it a secondary preference.
+      matching_score: 7
     Department of Legal Studies:
       City: BERLIN
       Description: No description available.
       Subject: Unknown Subject
+      matching_reason: This subject is not closely aligned with Barbora's main interests
+        in design, engineering, and architecture. While it may still offer some value,
+        it's not as well-matched with her goals.
+      matching_score: 4
     Department of Police and Security Management:
       City: BERLIN
       Description: Focuses on the fundamentals of business administration, management,
         and finance.
       Subject: Business
+      matching_reason: Business is a versatile field and Barbora may find value in
+        this, especially in terms of leadership, management, and practical experience.
+        However, it's not her main area of passion, which makes it a secondary preference.
+      matching_score: 7
     Department of Public Administration:
       City: BERLIN
       Description: No description available.
       Subject: Unknown Subject
+      matching_reason: This subject is not closely aligned with Barbora's main interests
+        in design, engineering, and architecture. While it may still offer some value,
+        it's not as well-matched with her goals.
+      matching_score: 4
   European School of Management and Technology (ESMT Berlin):
     Department of Finance:
       City: BERLIN
       Description: No description available.
       Subject: Unknown Subject
+      matching_reason: This subject is not closely aligned with Barbora's main interests
+        in design, engineering, and architecture. While it may still offer some value,
+        it's not as well-matched with her goals.
+      matching_score: 4
     Department of Innovation and Entrepreneurship:
       City: BERLIN
       Description: No description available.
       Subject: Unknown Subject
+      matching_reason: This subject is not closely aligned with Barbora's main interests
+        in design, engineering, and architecture. While it may still offer some value,
+        it's not as well-matched with her goals.
+      matching_score: 4
     Department of Management:
       City: BERLIN
       Description: Focuses on the fundamentals of business administration, management,
         and finance.
       Subject: Business
+      matching_reason: Business is a versatile field and Barbora may find value in
+        this, especially in terms of leadership, management, and practical experience.
+        However, it's not her main area of passion, which makes it a secondary preference.
+      matching_score: 7
