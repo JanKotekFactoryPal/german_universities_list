@@ -5,8 +5,8 @@ def load_yaml(file_path):
     with open(file_path, 'r') as file:
         return yaml.safe_load(file)
 
-def create_node(graph, node_id, label, shape, fill):
-    graph.add_node(node_id, label=label, shape=shape, fill=fill)
+def create_node(graph, node_id, label, shape, shape_fill):
+    graph.add_node(node_id, label=label, shape=shape, shape_fill=shape_fill)
 
 def generate_graphml(data):
     graph = pyyed.Graph()
