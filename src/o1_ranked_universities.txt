@@ -1,0 +1,75 @@
+9 / Technische Universität Berlin (TU Berlin) / Faculty of Architecture
+9 / Berlin University of Applied Sciences (HTW Berlin) / School of Design and Culture
+9 / University of Applied Sciences Europe (UE) / Faculty of Art & Design
+8 / Berlin University of the Arts (UdK) / Faculty of Design
+8 / Weißensee Academy of Art Berlin / Department of Design
+8 / Technische Universität Berlin (TU Berlin) / Faculty of Planning Building Environment
+8 / University of Applied Sciences Potsdam / Faculty of Architecture and Urban Design
+8 / University of Applied Sciences Potsdam / Faculty of Design
+8 / Hochschule für Medien, Kommunikation und Wirtschaft (HMKW) Berlin / Faculty of Design
+8 / SRH Berlin University of Applied Sciences / Berlin School of Design and Communication
+8 / CODE University of Applied Sciences / Faculty of Software Engineering, Interaction Design, and Product Management
+8 / SRH University of Applied Sciences Berlin / Faculty of Engineering and Technology
+7 / Beuth University of Applied Sciences Berlin / Faculty of Architecture and Civil Engineering
+7 / Technische Universität Berlin (TU Berlin) / Faculty of Electrical Engineering and Computer Science
+7 / Technische Universität Berlin (TU Berlin) / Faculty of Mechanical Engineering and Transport Systems
+7 / Berlin University of Applied Sciences (HTW Berlin) / School of Engineering
+7 / Hochschule für Medien, Kommunikation und Wirtschaft (HMKW) Berlin / Faculty of Engineering
+7 / University of Europe for Applied Sciences (UE) / Faculty of Business, Psychology, and Media
+7 / Macromedia University of Applied Sciences / Faculty of Media and Communication
+7 / Hochschule für Technik und Wirtschaft Berlin (HTW Berlin) / School of Computing
+7 / Weißensee Academy of Art Berlin / Department of Fine Arts
+7 / University of Applied Sciences Europe (UE) / Faculty of Engineering
+6 / Technical University of Applied Sciences Wildau / Faculty of Engineering and Natural Sciences
+6 / University of Applied Sciences Potsdam / Faculty of Civil Engineering
+6 / Steinbeis University Berlin / Faculty of Engineering and Technology
+6 / Brandenburg University of Technology Cottbus-Senftenberg / Faculty of Engineering
+6 / Hochschule für nachhaltige Entwicklung Eberswalde (HNEE) / Faculty of Sustainable Business
+6 / Technische Universität Berlin (TU Berlin) / Faculty of Process Sciences
+6 / Berlin University of the Arts (UdK) / Faculty of Music
+6 / Berlin University of the Arts (UdK) / Faculty of Performing Arts
+6 / Hochschule für Schauspielkunst Ernst Busch / Faculty of Performing Arts
+6 / Beuth University of Applied Sciences Berlin / Faculty of Mathematics and Natural Sciences
+6 / Freie Universität Berlin (FU Berlin) / Department of Biology, Chemistry, and Pharmacy
+6 / Freie Universität Berlin (FU Berlin) / Department of Earth Sciences
+6 / Freie Universität Berlin (FU Berlin) / Department of Physics
+6 / Freie Universität Berlin (FU Berlin) / Department of Mathematics and Computer Science
+6 / Technische Universität Berlin (TU Berlin) / Faculty of Mathematics and Natural Sciences
+6 / Humboldt University of Berlin (HU Berlin) / Faculty of Mathematics and Natural Sciences
+6 / Hochschule für Technik und Wirtschaft Berlin (HTW Berlin) / School of Life Sciences
+6 / Brandenburg University of Technology Cottbus-Senftenberg / Faculty of Natural Sciences
+5 / Technische Universität Berlin (TU Berlin) / Faculty of Economics and Management
+5 / Technical University of Applied Sciences Wildau / Faculty of Business, Computing and Law
+5 / Freie Universität Berlin (FU Berlin) / Department of Philosophy and Humanities
+5 / Humboldt University of Berlin (HU Berlin) / Faculty of Life Sciences
+5 / University of Potsdam / Faculty of Humanities
+5 / University of Potsdam / Faculty of Law
+5 / Humboldt University of Berlin (HU Berlin) / Faculty of Agriculture and Horticulture
+4 / Berlin School of Economics and Law (HWR Berlin) / Department of Business and Economics
+4 / Berlin School of Economics and Law (HWR Berlin) / Department of Police and Security Management
+4 / European School of Management and Technology (ESMT Berlin) / Department of Management
+4 / Bard College Berlin / Department of Humanities
+4 / University of Potsdam / Faculty of Education
+4 / Alice Salomon Hochschule Berlin (ASH Berlin) / Faculty of Social Work and Health
+4 / Evangelische Hochschule Berlin (EHB) / Faculty of Social Work
+4 / Katholische Hochschule für Sozialwesen Berlin (KHSB) / Faculty of Social Work
+4 / Touro College Berlin / Faculty of Business and Psychology
+4 / SRH University of Applied Sciences Berlin / Faculty of Management
+4 / SRH Berlin University of Applied Sciences / Berlin School of Management
+4 / BSP Business and Law School Berlin / Faculty of Business and Management
+4 / Humboldt University of Berlin (HU Berlin) / Faculty of Arts and Humanities
+4 / Freie Universität Berlin (FU Berlin) / Department of History and Cultural Studies
+4 / Technische Universität Berlin (TU Berlin) / Faculty of Humanities
+3 / SRH University of Applied Sciences Berlin / Faculty of Social Sciences
+3 / Bard College Berlin / Department of Social Sciences
+3 / Freie Universität Berlin (FU Berlin) / Department of Political and Social Sciences
+3 / Humboldt University of Berlin (HU Berlin) / Faculty of Social Sciences
+3 / University of Potsdam / Faculty of Economics and Social Sciences
+3 / University of Applied Sciences Potsdam / Faculty of Social and Educational Sciences
+3 / Freie Universität Berlin (FU Berlin) / Department of Education and Psychology
+3 / Humboldt University of Berlin (HU Berlin) / Faculty of Law
+3 / Humboldt University of Berlin (HU Berlin) / Faculty of Medicine (Charité Universitätsmedizin Berlin)
+3 / MSB Medical School Berlin / Faculty of Health Sciences
+3 / Brandenburg University of Technology Cottbus-Senftenberg / Faculty of Business, Law and Social Sciences
+3 / Berlin University of Applied Sciences (HTW Berlin) / School of Economics
+2 / Humboldt University of Berlin (HU Berlin) / Faculty of Theology
