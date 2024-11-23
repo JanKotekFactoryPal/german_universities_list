@@ -1,0 +1,336 @@
+"Berlin University of the Arts (UdK) / Faculty of Design":
+  general_information:
+    field_of_study: "Design"
+    type: "Universität (Artistic University)"
+    city: "Berlin"
+    address: "Einsteinufer 43, 10587 Berlin, Germany"
+    web: "https://www.udk-berlin.de/en/"
+    description: "The Faculty of Design at UdK Berlin offers comprehensive programs in various design disciplines, fostering creativity, innovation, and interdisciplinary collaboration. Focus areas include product design, visual communication, and new media."
+    timeline_overview: "Programs typically last 4 years, including foundational studies, specialization courses, workshops, and a final thesis project."
+
+  reputation_and_quality:
+    ranking: "UdK Berlin is one of the most renowned art and design universities in Europe."
+    faculty_quality:
+      notable_professors:
+        - "Prof. Axel Kufus: Renowned product designer"
+        - "Prof. Fons Hickmann: Leading figure in graphic design"
+      individual_mentorship: "Small class sizes and studio-based learning provide opportunities for individual mentorship."
+      number_of_students: "Approximately 3,500 students across the university"
+      student_teacher_ratio: "Approximately 10:1"
+    accreditations: "Accredited by the German Council of Science and Humanities"
+
+  study_programs:
+    description: "The Faculty offers undergraduate and postgraduate programs in various design disciplines."
+    programs:
+      - name: "Bachelor of Arts in Product Design"
+        type: "Bachelor"
+        specialization: "Product Design"
+        description: "Focuses on designing functional and aesthetic products, integrating creativity with practical applications."
+        url: "https://www.udk-berlin.de/en/studies/product-design/"
+        timeline_overview: "4-year program with studio courses, workshops, and a final thesis project."
+        matching_score: "8"
+        recommendation: "Great for developing artistic design skills with practical workshops. However, it may lack the technical depth Barbora desires."
+        curriculum:
+          core_courses:
+            - "Design Principles"
+            - "Material Studies"
+          electives:
+            - "Sustainable Design"
+            - "Digital Prototyping"
+        entry_requirements: "Abitur or equivalent, portfolio submission, entrance examination"
+        duration: "4 years"
+        language_of_instruction: "German"
+
+      - name: "Bachelor of Arts in Visual Communication"
+        type: "Bachelor"
+        specialization: "Visual Communication"
+        description: "Emphasizes graphic design, typography, and visual media to convey messages effectively."
+        url: "https://www.udk-berlin.de/en/studies/visual-communication/"
+        timeline_overview: "4-year program with projects, internships, and a final thesis."
+        matching_score: "7"
+        recommendation: "Ideal for creative expression in graphic arts but may not fully meet Barbora's interest in combining technical expertise with practical, hands-on experiences."
+        curriculum:
+          core_courses:
+            - "Graphic Design"
+            - "Typography"
+          electives:
+            - "Interactive Media"
+            - "Photography"
+        entry_requirements: "Abitur or equivalent, portfolio submission, entrance examination"
+        duration: "4 years"
+        language_of_instruction: "German"
+
+  industry_partnerships:
+    partnering_companies:
+      - name: "MetaDesign"
+        description: "Collaborative projects and internships with a leading design agency."
+        collaboratoin_type: "Internships and project collaborations"
+        study_type: "Optional internships during studies"
+        matching_score: "7"
+        recommendation: "Provides industry exposure but may not offer the structured technical training Barbora seeks."
+        timeline_overview: "Internships typically arranged during semester breaks."
+        application_process:
+          requirements: "Portfolio submission and interviews with the company."
+          deadline: "Varies by company"
+          open_days: "Company open days vary; university open days in February 2025"
+
+  exchange_programs:
+    partnering_schools:
+      - name: "Royal College of Art, London"
+        description: "Exchange program offering exposure to international design perspectives."
+        structure: "One-semester abroad with collaborative projects."
+        matching_score: "8"
+        recommendation: "Provides international experience and broadens creative horizons, aligning with Barbora's interest in robust international support."
+        duration: "One semester"
+        application_process:
+          requirements: "Good academic standing, portfolio, English proficiency."
+          deadline: "Check with International Office; typically early 2025 for Winter Semester"
+          open_days: "International Office events throughout the year"
+
+  tuition_and_financials:
+    tuition_fees:
+      domestic: "No tuition fees; semester fee around €300"
+      international: "Same as domestic; no tuition fees"
+    additional_costs:
+      living: "Approximately €800-€1,000 per month"
+      transportation: "Public transport pass included in semester fee"
+      materials: "Estimated €500-€1,000 per year for supplies"
+    scholarships_and_aid:
+      available_scholarships:
+        - name: "DAAD Scholarships"
+          description: "Financial support for international students"
+          eligibility: "Academic excellence and need-based"
+          application_deadline: "Varies; check DAAD website"
+      financial_aid_options: "BAföG for eligible students, student loans, part-time work opportunities"
+
+  campus_and_student_life:
+    campus:
+      facilities:
+        - "Design Studios"
+        - "Workshops and Labs"
+        - "Libraries"
+      housing: "Limited university housing; many students find private accommodation"
+      transportation: "Excellent public transport connectivity"
+    student_live:
+      culture: "Vibrant, artistic community with a focus on creativity and collaboration"
+      setting: "Urban campus in central Berlin"
+      extracurricular_activities:
+        - "Student art exhibitions"
+        - "Workshops and seminars"
+        - "Cultural events and festivals"
+      support_services: "Academic advising, counseling services, career services"
+
+  reputation_and_ranking:
+    global_rankings:
+      QS_Ranking: "Ranked among top art and design schools"
+      THE_Ranking: "Not individually ranked"
+      ARWU_Ranking: "Not individually ranked"
+    national_rankings: "Highly regarded within Germany for arts education"
+    alumni_success: "Notable alumni include Ai Weiwei (artist), Vivienne Westwood (fashion designer)"
+
+  post_graduation_outcomes:
+    job_opportunities:
+      description: "Graduates find opportunities in various design fields, including product design, graphic design, and creative industries."
+      professions:
+        - profession_name: "Product Designer"
+          description_of_profession: "Designs and develops new products, focusing on aesthetics and functionality."
+          study_program: "Bachelor of Arts in Product Design"
+          job_market_demand: "Steady demand; competitive field"
+          starting_salaries: "Approximately €30,000 - €40,000 per year"
+          industries: "Consumer goods, technology, furniture design"
+
+        - profession_name: "Graphic Designer"
+          description_of_profession: "Creates visual concepts to communicate ideas."
+          study_program: "Bachelor of Arts in Visual Communication"
+          job_market_demand: "Good demand in various sectors"
+          starting_salaries: "Approximately €28,000 - €35,000 per year"
+          industries: "Advertising, media, publishing"
+
+    further_education: "Opportunities for Master's programs in design, fine arts, or related fields"
+
+  application_and_admission:
+    application_process:
+      contact:
+        web: "https://www.udk-berlin.de/en/application/"
+        email: "studienberatung@udk-berlin.de"
+        phone: "+49 30 3185 2457"
+      requirements:
+        academic: "Abitur or equivalent"
+        additional: "Portfolio submission, entrance examination"
+      deadline: "April 30, 2025"
+      open_days: "February 15-16, 2025"
+    admission_statistics:
+      acceptance_rate: "Competitive; varies by program"
+      average_gpa: "Not specified"
+      average_test_scores: "Not applicable"
+
+  internships_and_practical_experience:
+    dual_programs:
+      available: "No"
+      details: "Dual vocational training programs are not typically offered"
+    internships:
+      opportunities: "Internships are encouraged but not mandatory"
+      partnerships: "Students often arrange internships with design studios or companies"
+    workshops:
+      available: "Yes"
+      details: "Regular workshops and practical projects integrated into the curriculum"
+
+  additional_information:
+    FAQs: "Available on the university website"
+    testimonials: "Student experiences shared on university platforms"
+    contact_information: "International Office: international@udk-berlin.de"
+"Technische Universität Berlin (TU Berlin) / Faculty of Architecture":
+  general_information:
+    field_of_study: "Architecture"
+    type: "Technische Universität"
+    city: "Berlin"
+    address: "Straße des 17. Juni 152, 10623 Berlin, Germany"
+    web: "https://www.architektur.tu-berlin.de/"
+    description: "The Faculty of Architecture at TU Berlin combines technical expertise with creative design and urban planning. The faculty emphasizes sustainability, innovation, and interdisciplinary collaboration."
+    timeline_overview: "Bachelor's program spans 6 semesters (3 years), with an optional Master's program following."
+
+  reputation_and_quality:
+    ranking: "TU Berlin is well-ranked globally, especially in engineering and architecture."
+    faculty_quality:
+      notable_professors:
+        - "Prof. Donatella Fioretti: Award-winning architect and educator"
+        - "Prof. Dr.-Ing. Angela Million: Expert in urban design and planning"
+      individual_mentorship: "Available through studio courses and project supervision"
+      number_of_students: "Approximately 1,500 students in the faculty"
+      student_teacher_ratio: "Approximately 15:1"
+    accreditations: "Accredited by the Accreditation Agency for Study Programs in Architecture and Planning (ASAP)"
+
+  study_programs:
+    description: "Offers Bachelor's and Master's programs in Architecture and Urban Planning."
+    programs:
+      - name: "Bachelor of Science in Architecture"
+        type: "Bachelor"
+        specialization: "Architecture and Urban Planning"
+        description: "Provides foundational knowledge in architectural design, construction, and urban development."
+        url: "https://www.tu.berlin/en/studying/study-programs/all-programs-offered/study-course/architecture-b-sc/"
+        timeline_overview: "3-year program with design studios, technical courses, and a final project."
+        matching_score: "9"
+        recommendation: "Aligns well with Barbora's interests in combining creativity and technical expertise. Offers hands-on projects, teamwork, and fieldwork."
+        curriculum:
+          core_courses:
+            - "Design Studio"
+            - "Building Construction"
+          electives:
+            - "Sustainable Architecture"
+            - "Digital Design Methods"
+        entry_requirements: "Abitur or equivalent; German proficiency"
+        duration: "3 years"
+        language_of_instruction: "German"
+
+  industry_partnerships:
+    partnering_companies:
+      - name: "GMP Architekten"
+        description: "Collaboration on projects and internship opportunities with a leading architecture firm."
+        collaboratoin_type: "Internships, project collaborations"
+        study_type: "Optional internships during studies"
+        matching_score: "8"
+        recommendation: "Provides practical experience and industry exposure; beneficial for career prospects."
+        timeline_overview: "Internships typically during semester breaks or integrated into the curriculum."
+        application_process:
+          requirements: "Portfolio and application to the company."
+          deadline: "Varies by company"
+          open_days: "Company events and lectures at the university"
+
+  exchange_programs:
+    partnering_schools:
+      - name: "Politecnico di Milano, Italy"
+        description: "Exchange program focusing on international architecture and design."
+        structure: "One-semester abroad with collaborative projects."
+        matching_score: "8"
+        recommendation: "Enhances international experience and exposure to different architectural styles."
+        duration: "One semester"
+        application_process:
+          requirements: "Good academic standing, language proficiency"
+          deadline: "Check International Office; typically early 2025 for Winter Semester"
+          open_days: "International Office events"
+
+  tuition_and_financials:
+    tuition_fees:
+      domestic: "No tuition fees; semester fee around €307"
+      international: "Same as domestic; no tuition fees"
+    additional_costs:
+      living: "Approximately €800-€1,000 per month"
+      transportation: "Public transport pass included in semester fee"
+      materials: "Estimated €300-€500 per year for supplies"
+    scholarships_and_aid:
+      available_scholarships:
+        - name: "Deutschlandstipendium"
+          description: "Merit-based scholarship"
+          eligibility: "High academic achievement"
+          application_deadline: "Usually in early summer"
+      financial_aid_options: "BAföG for eligible students, student loans"
+
+  campus_and_student_life:
+    campus:
+      facilities:
+        - "Design Studios"
+        - "Workshops and Labs"
+        - "Libraries"
+      housing: "University accommodations and private rentals available"
+      transportation: "Excellent public transport connectivity"
+    student_live:
+      culture: "Dynamic and diverse community with a strong emphasis on innovation"
+      setting: "Urban campus located in central Berlin"
+      extracurricular_activities:
+        - "Student societies"
+        - "Architecture clubs"
+        - "Sports teams"
+      support_services: "Academic advising, career services, counseling"
+
+  reputation_and_ranking:
+    global_rankings:
+      QS_Ranking: "TU Berlin ranked within top 150 universities worldwide"
+      THE_Ranking: "Similar global ranking"
+      ARWU_Ranking: "Ranked among top universities globally"
+    national_rankings: "Highly regarded in Germany for engineering and architecture"
+    alumni_success: "Alumni include prominent architects and urban planners"
+
+  post_graduation_outcomes:
+    job_opportunities:
+      description: "Graduates work in architecture firms, urban planning agencies, and related fields."
+      professions:
+        - profession_name: "Architect"
+          description_of_profession: "Designs buildings and structures, ensuring functionality and aesthetics."
+          study_program: "Bachelor of Science in Architecture"
+          job_market_demand: "Steady demand with a focus on sustainable design"
+          starting_salaries: "Approximately €35,000 - €45,000 per year"
+          industries: "Architecture firms, construction companies, urban planning agencies"
+
+    further_education: "Master's programs in Architecture, Urban Planning, or related fields"
+
+  application_and_admission:
+    application_process:
+      contact:
+        web: "https://www.tu.berlin/en/studying/application-and-enrollment/"
+        email: "studienberatung@tu-berlin.de"
+        phone: "+49 30 314 29999"
+      requirements:
+        academic: "Abitur or equivalent"
+        additional: "German language proficiency (TestDaF, DSH)"
+      deadline: "July 15, 2025"
+      open_days: "April 10-11, 2025"
+    admission_statistics:
+      acceptance_rate: "Competitive; varies by year"
+      average_gpa: "Not specified"
+      average_test_scores: "Not applicable"
+
+  internships_and_practical_experience:
+    dual_programs:
+      available: "No formal dual programs"
+      details: "Dual vocational training not standard in this faculty"
+    internships:
+      opportunities: "Internships encouraged; sometimes integrated into the curriculum"
+      partnerships: "Connections with architecture firms for internships"
+    workshops:
+      available: "Yes"
+      details: "Workshops and practical projects are integral to the program"
+
+  additional_information:
+    FAQs: "Available on the university website"
+    testimonials: "Student experiences available online"
+    contact_information: "International Office: international@tu-berlin.de"
