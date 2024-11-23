@@ -857,7 +857,7 @@
 "Technische Universität Berlin (TU Berlin) / Faculty of Planning Building Environment":
   matching_score: "8"
   recommendation: "This faculty offers interdisciplinary programs that combine technical expertise with creative planning and environmental considerations, which aligns with Barbora's interest in combining creativity with practical skills. Potential professions include Urban Planner, Environmental Designer, or Landscape Architect."
-  field_of_study: "Urban Planning and Environmental Design"
+  field_of_study: "Civil Engineering, Architecture, Urban Planning and Environmental Design"
   description: "Focuses on sustainable urban development, environmental planning, and integrates technical skills with creative design processes."
   type: "Technische Universität"
   city: "Berlin"
@@ -917,6 +917,25 @@
         duration: "3 years"
         language_of_instruction: "German"
 
+      - name: "Bachelor of Science in Civil Engineering"
+        type: "Bachelor"
+        specialization: "Civil Engineering with BIM integration"
+        description: "Combines engineering principles with modern construction technologies."
+        url: "https://www.tu.berlin/en/studying/study-programs/all-programs-offered/study-course/civil-engineering-b-sc/"
+        timeline_overview: "3-year program with practical projects."
+        matching_score: "7"
+        recommendation: "Aligns with practical skills and creative interests."
+        curriculum:
+          core_courses:
+            - "Structural Analysis"
+            - "Construction Materials"
+          electives:
+            - "Building Information Modeling"
+            - "Sustainable Construction"
+        entry_requirements: "Abitur or equivalent; proficiency in German."
+        duration: "3 years."
+        language_of_instruction: "German"
+
   industry_partnerships:
     partnering_companies:
       - name: "Berlin Senate Department for Urban Development"
@@ -930,6 +949,18 @@
           requirements: "Application to the department; may require portfolio or project proposal."
           deadline: "Varies; check with the department"
           open_days: "Information sessions held periodically"
+
+      - name: "BIM GmbH"
+        description: "Collaboration on projects and internships focused on BIM."
+        collaboration_type: "Internships, workshops."
+        study_type: "Integration of BIM projects into studies."
+        matching_score: "8"
+        recommendation: "Provides hands-on experience with BIM technologies."
+        timeline_overview: "Opportunities throughout the program."
+        application_process:
+          requirements: "Application to BIM GmbH; may require portfolio."
+          deadline: "Varies; early application recommended."
+          open_days: "Company presentations at the university."
 
   exchange_programs:
     partnering_schools:
@@ -965,6 +996,7 @@
       facilities:
         - "Design Studios"
         - "GIS Labs"
+        - "Computer Labs with BIM software"
         - "Libraries"
       housing: "University accommodations and private rentals available"
       transportation: "Excellent public transport connectivity"
@@ -2427,6 +2459,8 @@
       notable_professors:
         - "Prof. Dr.-Ing. Christian Thomsen: Expert in materials science"
         - "Prof. Dr.-Ing. Katrin Wodzicki: Specialist in transport systems"
+        - "Prof. Dr.-Ing. Birgit Milius: Expert in rail vehicle technology."
+        - "Prof. Dr.-Ing. Markus Hecht: Specialist in railway systems engineering."
       individual_mentorship: "Available through project supervision and research groups"
       number_of_students: "Approximately 4,000 students in the faculty"
       student_teacher_ratio: "Approximately 20:1"
@@ -2448,6 +2482,8 @@
             - "Engineering Mechanics"
             - "Thermodynamics"
           electives:
+            - "Vehicle Technology"
+            - "Production Engineering"
             - "Renewable Energy Systems"
             - "Robotics"
         entry_requirements: "Abitur or equivalent; proficiency in German"
@@ -2475,6 +2511,17 @@
 
   industry_partnerships:
     partnering_companies:
+      - name: "ALSTOM"
+        description: "Collaboration on research projects and internships."
+        collaboration_type: "Internships, joint research."
+        study_type: "Integration of practical work into studies."
+        matching_score: "8"
+        recommendation: "Provides industry experience directly related to Barbora's interests."
+        timeline_overview: "Opportunities throughout the program."
+        application_process:
+          requirements: "Application to ALSTOM; may require interviews."
+          deadline: "Varies; early application recommended."
+          open_days: "Company presentations at the university."
       - name: "Volkswagen AG"
         description: "Collaborations on research projects and internships"
         collaboratoin_type: "Internships, joint research"
@@ -2489,6 +2536,16 @@
 
   exchange_programs:
     partnering_schools:
+      - name: "École Centrale Paris, France"
+        description: "Exchange program focusing on engineering disciplines."
+        structure: "One semester abroad with credit transfer."
+        matching_score: "7"
+        recommendation: "Offers international exposure and potential collaboration with ALSTOM in France."
+        duration: "One semester."
+        application_process:
+          requirements: "Good academic standing; proficiency in French or English."
+          deadline: "Check International Office for dates."
+          open_days: "International Office events."
       - name: "KTH Royal Institute of Technology, Sweden"
         description: "Exchange program focusing on engineering and technology"
         structure: "One semester abroad with course credit transfer"
@@ -2556,7 +2613,7 @@
   application_and_admission:
     application_process:
       contact:
-        web: "https://www.tu-berlin.de/?id=23396"
+        web: "https://www.tu.berlin/en/studying/application-and-enrollment/"
         email: "studienberatung@tu-berlin.de"
         phone: "+49 30 314 29999"
       requirements:
@@ -4557,9 +4614,38 @@
         entry_requirements: "Abitur or equivalent; proficiency in German"
         duration: "3 years"
         language_of_instruction: "German"
+      - name: "Bachelor of Science in Energy and Process Engineering"
+        type: "Bachelor"
+        specialization: "Energy Systems Engineering"
+        description: "Provides foundational knowledge in energy technologies and process engineering."
+        url: "https://www.tu.berlin/en/studying/study-programs/all-programs-offered/study-course/energy-and-process-engineering-b-sc/"
+        timeline_overview: "3-year program with practical projects."
+        matching_score: "7"
+        recommendation: "Aligns with interests in practical skills and sustainability."
+        curriculum:
+          core_courses:
+            - "Thermodynamics"
+            - "Fluid Mechanics"
+          electives:
+            - "Renewable Energy Systems"
+            - "Energy Storage Technologies"
+        entry_requirements: "Abitur or equivalent; proficiency in German."
+        duration: "3 years."
+        language_of_instruction: "German"
 
   industry_partnerships:
     partnering_companies:
+      - name: "Vattenfall"
+        description: "Collaboration on research projects, internships, and thesis work."
+        collaboration_type: "Internships, joint research."
+        study_type: "Integration of industry projects into studies."
+        matching_score: "8"
+        recommendation: "Provides direct experience in the energy sector."
+        timeline_overview: "Opportunities throughout the program."
+        application_process:
+          requirements: "Application to Vattenfall; may require academic references."
+          deadline: "Varies; early application recommended."
+          open_days: "Company presentations at the university."
       - name: "BASF SE"
         description: "Collaborations on research projects and internships"
         collaboration_type: "Internships, joint research"
@@ -4574,6 +4660,16 @@
 
   exchange_programs:
     partnering_schools:
+      - name: "KTH Royal Institute of Technology, Sweden"
+        description: "Exchange program focusing on energy and environmental engineering."
+        structure: "One semester abroad."
+        matching_score: "7"
+        recommendation: "Offers international exposure and potential collaboration with Vattenfall in Sweden."
+        duration: "One semester."
+        application_process:
+          requirements: "Good academic standing; proficiency in English."
+          deadline: "Check International Office for dates."
+          open_days: "International Office events."
       - name: "ETH Zurich, Switzerland"
         description: "Exchange program for top-performing students in process sciences"
         structure: "One semester abroad with research opportunities"
@@ -4637,6 +4733,15 @@
           starting_salaries: "Approximately €45,000 - €55,000 per year"
           industries: "Chemical industry, pharmaceuticals, energy"
     further_education: "Opportunities for Master's and PhD programs"
+    description: "Prepared for careers in the energy sector and environmental technology."
+     professions:
+        - profession_name: "Energy Engineer"
+          description_of_profession: "Develops and optimizes energy systems."
+          study_program: "Bachelor of Science in Energy and Process Engineering"
+          job_market_demand: "High due to focus on renewable energy."
+          starting_salaries: "Approximately €45,000 - €55,000 per year."
+          industries: "Energy companies, environmental agencies, engineering firms."
+    further_education: "Opportunities for Master's and PhD programs."
 
   application_and_admission:
     application_process:
@@ -6463,6 +6568,25 @@
         entry_requirements: "Abitur or equivalent; proficiency in German."
         duration: "3.5 years"
         language_of_instruction: "German"
+      - name: "Bachelor of Engineering in Aeronautical Engineering"
+        type: "Bachelor"
+        specialization: "Aircraft Systems, Avionics"
+        description: "Provides foundational knowledge in aircraft design and aviation technology."
+        url: "https://www.htw-berlin.de/en/studies/bachelor/aeronautical-engineering/"
+        timeline_overview: "3.5-year program with practical training."
+        matching_score: "7"
+        recommendation: "Aligns with technical skills relevant to DFS."
+        curriculum:
+          core_courses:
+            - "Aircraft Design"
+            - "Flight Mechanics"
+          electives:
+            - "Air Traffic Control Systems"
+            - "Aviation Safety"
+        entry_requirements: "Abitur or equivalent; proficiency in German."
+        duration: "3.5 years."
+        language_of_instruction: "German"
+
 
   industry_partnerships:
     partnering_companies:
@@ -6477,9 +6601,30 @@
           requirements: "Application to companies; may require interviews."
           deadline: "Varies by company."
           open_days: "Career fairs and networking events."
+      - name: "DFS Deutsche Flugsicherung"
+        description: "Collaboration on internships and industry projects."
+        collaboration_type: "Internships, project collaborations."
+        study_type: "Integration of practical work into studies."
+        matching_score: "8"
+        recommendation: "Provides direct experience in air traffic management."
+        timeline_overview: "Opportunities throughout the program."
+        application_process:
+          requirements: "Application to DFS; may require interviews."
+          deadline: "Varies; early application recommended."
+          open_days: "Company presentations at the university."
 
   exchange_programs:
     partnering_schools:
+      - name: "University of Applied Sciences Frankfurt"
+        description: "Exchange program focusing on aviation studies."
+        structure: "One semester abroad."
+        matching_score: "7"
+        recommendation: "Offers broader exposure to aviation management."
+        duration: "One semester."
+        application_process:
+          requirements: "Good academic standing."
+          deadline: "Check International Office for dates."
+          open_days: "International Office events."
       - name: "University of Applied Sciences Utrecht, Netherlands"
         description: "Exchange program focusing on life sciences."
         structure: "One semester abroad with credit transfer."
@@ -6512,6 +6657,8 @@
       facilities:
         - "Modern Laboratories"
         - "Research Centers"
+        - "Flight Simulators"
+        - "Engineering Laboratories"
         - "Libraries"
       housing: "Assistance provided in finding accommodations."
       transportation: "Well-connected via public transport."
@@ -6521,6 +6668,8 @@
       extracurricular_activities:
         - "Science clubs"
         - "Environmental initiatives"
+         - "Aviation clubs"
+        - "Student projects"
         - "Sports facilities"
       support_services: "Career services, academic advising, counseling."
 
@@ -6542,6 +6691,12 @@
           job_market_demand: "Growing due to advancements in biotech."
           starting_salaries: "Approximately €35,000 - €45,000 per year."
           industries: "Pharmaceuticals, agriculture, healthcare."
+        - profession_name: "Air Traffic Management Specialist"
+          description_of_profession: "Manages and monitors air traffic flow."
+          study_program: "Bachelor of Engineering in Aeronautical Engineering"
+          job_market_demand: "Stable demand in aviation industry."
+          starting_salaries: "Approximately €40,000 - €50,000 per year."
+          industries: "Air traffic control organizations, airlines."
     further_education: "Opportunities for Master's programs."
 
   application_and_admission:
