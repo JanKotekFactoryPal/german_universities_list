@@ -1,8 +1,4 @@
-Here is the updated profile for Barbora, including mathematics in her primary focus:
-
----
-
-### **Barbora's Profile**
+### **My daughter's Barbora's Profile and study and career preferrences**
 
 #### **Personal Information**
 - **Name**: Barbora
@@ -11,56 +7,29 @@ Here is the updated profile for Barbora, including mathematics in her primary fo
     - Currently completing the final year before *Abitur* at Johan Gottfried Herder Gymnasium, Berlin.
 
 #### **Academic Strengths**
-- Outstanding performance in mathematics and physics.
+- An inclination to mathematics and physics.
 - Exceptional talent in creative disciplines, such as drawing, music, and arts.
+- Great interest and talent in sports, gymnastics and dance.
 - Highly practical and hands-on problem-solving skills.
 
 #### **Personality and Skills**
 - Highly creative, combining technical precision with artistic vision.
 - Excellent social skills and teamwork capabilities.
-- Adaptable and forward-thinking, with a focus on societal and technological trends.
+- Adaptable and forward-thinking
 
 #### **Extracurricular Interests**
-- Sports and active involvement in creative and technical projects (e.g., design, architecture, engineering).
+- Sports and active involvement in creative and technical projects.
 
 ---
 
 ### **Study and Career Preferences**
-
-#### **Fields of Interest**
-1. **Primary Focus**:
-    - Mathematics, architecture, design, and practical fields like engineering.
-    - Strong preference for combining creativity with hands-on experience.
-    - Future-proof disciplines that align with societal and technological advancements.
-2. **Secondary Focus**:
-    - Physics as a complementary tool to support her primary fields of interest.
-
-#### **Preferred Study Format**
-- **Primary Preference**:
-    - Dual vocational training systems (*Duale Ausbildung*), which offer practical experience alongside theoretical education.
-- **Other Formats**:
-    - Traditional or interdisciplinary programs are considered but are secondary preferences.
-
-#### **Career Goals**
-- To develop future-proof skills that are resilient to automation and artificial intelligence.
-- To work in fields that demand a combination of creativity and technical expertise, such as:
-    - Sustainable architecture.
-    - Industrial design.
-    - Creative engineering solutions.
-    - Technology-driven design with societal impact.
-
----
-
-### **University Selection Criteria**
-1. Programs that emphasize:
-    - Mathematics, creativity, and hands-on experience.
-    - Real-world problem-solving and project-based learning.
-2. Institutions offering:
-    - Dual vocational training systems (*Duale Ausbildung*).
-    - Strong connections to industries with sustainable and future-oriented outlooks.
-3. Accessibility:
-    - Universities in or near Berlin, or robust international support if studying abroad.
-
----
-
-Let me know if you'd like further refinements!
+- her future job shuld be a combination of creativity and technical expertise.
+- less theoretical and more practical, hands-on approach.
+- she is a team player and enjoys working with others.
+- not solely sitting in front of a computer all day. Prefferably a combination of office and field work.
+- she preffers a Dual vocational training systems (*Duale Ausbildung*), which offer practical experience alongside theoretical education.
+- her studies should give here a future proof skillset that will be still competitive in the distruptive future industry.
+- the future job should be fun and develop here as a person. 
+- prefferably, the job should be multidisciplinary, so that she is not too much one-sided and remains flexible in her career.
+- prefferably universities with a good reputation and strong connections to industries.
+- prefferably universities in or near Berlin, or robust international support if studying abroad.
