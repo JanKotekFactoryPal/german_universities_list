@@ -1,42 +1,154 @@
-"Name of the university / Name of the faculty": # the yaml field will be the combination of the university name and the faculty (or department) name
-  field of study: "Field of study (e.g., Design, Engineering, Mathematics)"
-  description: "Detailed description of the faculty and its focus areas. Potential career paths associated with the faculty's programs. Description of job market competitiveness for graduates. Factors enhancing employability (e.g., industry connections, interdisciplinary learning). Risks (e.g., economic fluctuations, market saturation)"
-  type: "type of the university(e.g., Universität, Technische Universität, Fachhochschule)"
-  study_programs: # each faculty (or department) can offer multiple study programs and study groups and specializations the study programs can be categorized by specialization and by type (master, bachelor, etc.)
-    - "Study program 1 name": # list all study programs offered by the faculty
-      matching_score: "Here, ChatGPT, give a score from (1-10) on how much beneficial would it be for Barbora to consider this study program"
-      recommendation: "Here, ChatGPT, summarize the pros and the cons of why should Barbora consider this study program and what makes it unique. What proffesion and job type can Barbora expect after graduation?"
-      specialization: "Specific focus area or specialization of the program in few words"
-      type: "Type of the study program (e.g., Bachelor, Master, PhD)"
-      description: "Detailed description of the study program"
-      url: "URL for more details about each program"
-  partnering_companies: # list of companies that collaborate with the faculty in term of "Duales Ausbildung" (dual vocational training) programm
-    - "Company 1 name": # list all partnering companies
-      description: "Detailed description of the partnership with the company"
-      matching_score: "Here, ChatGPT, give a score from (1-10) on how much beneficial would it be for Barbora to consider this school for exchange"
-      recommendation: "Here, ChatGPT, summarize the pros and the cons of why should Barbora consider this exchange program. What are the benefits of working with this company? What proffesion and job type can Barbora expect in this company after graduation?"
-      collaboratoin_type: "Detailed description of how the university and company collaborate"
-      study_type: "Describe, how does the combined education typically looks like (e.g., weekly split between university and company)"
-      application_process: # duales programm can be confusing. Sometimes, it is enough to pass the interview by the partner company, sometimes by the university, sometimes by both. Here, we can provide more details about the application process
-        requirements: "Details of the company’s application process and requirements. Do I need to pass an interview both at the company and the university? Explain case by case"
-        deadline: "Till when must the application be submitted to start the university in the winter semester 2025?"
+universities:
+  "University Name / Faculty Name":
+    general_information:
+      field_of_study: "Field of study (e.g., Design, Engineering, Mathematics)"
+      type: "Type of the university (e.g., Universität, Technische Universität, Fachhochschule)"
+      city: "City where the faculty is located"
+      address: "Address of the faculty or department"
+      web: "URL of the faculty's official website"
+      description: "Detailed description of the faculty, its focus areas, and specialization."
+      timeline_overview: "Overview of key milestones throughout the program"
+
+    reputation_and_quality:
+      ranking: "World ranking of the faculty"
+      faculty_quality:
+        notable_professors:
+          - "Professor/Mentor Name: Achievements or Titles"
+        individual_mentorship: "Details about individual mentorship opportunities"
+        number_of_students: "Average number of students at the faculty"
+        student_teacher_ratio: "Ratio of students to faculty members"
+      accreditations: "Accreditations and recognitions received by the faculty"
+
+    study_programs:
+      description: "Overview of all study programs offered by the faculty"
+      programs:
+        - name: "Study Program 1 Name"
+          type: "Type of the study program (e.g., Bachelor, Master, PhD)"
+          specialization: "Specific focus area or specialization of the program"
+          description: "Detailed description of the study program"
+          url: "URL for more details about the program"
+          timeline_overview: "Overview of key milestones throughout the program"
+          matching_score: "Score from 1-10 on how beneficial it is for Barbora to consider this program"
+          recommendation: "Pros and cons, unique features, potential professions and job types post-graduation"
+          curriculum:
+            core_courses:
+              - "Core Course 1"
+              - "Core Course 2"
+            electives:
+              - "Elective Course 1"
+              - "Elective Course 2"
+          entry_requirements: "Specific admission requirements for the program"
+          duration: "Length of the program (e.g., 3 years)"
+          language_of_instruction: "Primary language used for teaching"
+
+    industry_partnerships:
+      partnering_companies:
+        - name: "Company 1 Name"
+          description: "Detailed description of the partnership with the company"
+          collaboratoin_type: "Nature of collaboration (e.g., internships, dual vocational training)"
+          study_type: "Description of combined education structure (e.g., weekly split between university and company)"
+          matching_score: "Score from 1-10 on the benefit for Barbora to consider this partnership"
+          recommendation: "Pros and cons, benefits of working with this company, potential professions and job types post-graduation"
+          timeline_overview: "Key milestones and timelines within the partnership"
+          application_process:
+            requirements: "Detailed application requirements (e.g., interviews at both company and university)"
+            deadline: "Application submission deadline for Winter Semester 2025"
+            open_days: "Dates for open days related to the partnership"
+
+    exchange_programs:
+      partnering_schools:
+        - name: "Partner School 1 Name"
+          description: "Detailed description of the partnership with the school"
+          structure: "Structure of the exchange program (e.g., semester abroad, co-designed curriculum)"
+          matching_score: "Score from 1-10 on the benefit for Barbora to consider this exchange program"
+          recommendation: "Pros and cons of the exchange program, unique opportunities available"
+          duration: "Length of the exchange period (e.g., 1 semester)"
+          application_process:
+            requirements: "Specific requirements for applying to the exchange program"
+            deadline: "Application submission deadline for Winter Semester 2025"
+            open_days: "Dates for open days related to the exchange program"
+
+    tuition_and_financials:
+      tuition_fees:
+        domestic: "Cost for domestic students"
+        international: "Cost for international students"
+      additional_costs:
+        living: "Estimated living costs"
+        transportation: "Estimated transportation costs"
+        materials: "Estimated costs for materials and supplies"
+      scholarships_and_aid:
+        available_scholarships:
+          - name: "Scholarship 1 Name"
+            description: "Details about the scholarship"
+            eligibility: "Eligibility criteria"
+            application_deadline: "Deadline for application"
+        financial_aid_options: "Other financial aid options available"
+
+    campus_and_student_life:
+      campus:
+        facilities:
+          - "Library"
+          - "Laboratories"
+          - "Sports Centers"
+        housing: "On-campus and off-campus housing options"
+        transportation: "Public transportation and campus transportation services"
+      student_live:
+        culture: "Campus culture, diversity, and inclusiveness"
+        setting: "Urban, suburban, or remote setting"
+        extracurricular_activities:
+          - "Clubs and Organizations"
+          - "Sports and Recreation"
+          - "Events and Festivals"
+        support_services: "Support services available (e.g., counseling, career services)"
+
+    reputation_and_ranking:
+      global_rankings:
+        QS_Ranking: "QS World University Ranking"
+        THE_Ranking: "Times Higher Education Ranking"
+        ARWU_Ranking: "Academic Ranking of World Universities"
+      national_rankings: "National rankings and recognitions"
+      alumni_success: "Notable alumni and their achievements"
+
+    post_graduation_outcomes:
+      job_opportunities:
+        description: "Overview of job opportunities after graduation"
+        professions:
+          - profession_name: "Job Profession 1"
+            description_of_profession: "Description and typical tasks"
+            study_program: "Study program leading to this profession"
+            job_market_demand: "Current and future job market demand"
+            starting_salaries: "Average starting salary"
+            industries: "Industries and companies hiring graduates"
+      further_education: "Opportunities for further education (e.g., Master's, PhD)"
+
+    application_and_admission:
+      application_process:
+        contact:
+          web: "URL for the application process"
+          email: "Contact email address for admissions"
+          phone: "Contact phone number for admissions"
+        requirements:
+          academic: "Academic requirements (e.g., Abitur, GPA)"
+          additional: "Additional requirements (e.g., portfolio, interviews)"
+        deadline: "Application submission deadline for Winter Semester 2025"
         open_days: "Dates for open days at the faculty or department"
-  partnering_schools: # list of partnering schools for exchange opportunities and study abroad programs
-    - "School 1 name": # list all partnering schools
-      matching_score: "Here, ChatGPT, give a score from (1-10) on how much beneficial would it be for Barbora to consider this school for exchange"
-      recommendation: "Here, ChatGPT, summarize the pros and the cons of why should Barbora consider this exchange program"
-      description: "Detailed description of the partnership with the school"
-      structure: "Structure of the partnership (e.g., semester abroad, co-designed curriculum)"
-  city: "City where the faculty is located"
-  address: "Address of the faculty or department"
-  web: "URL of the faculty's official website"
-  world_ranking: "World ranking of the faculty"
-  number_of_students: "Average Number of students at the faculty"
-  application_process:
-    contact:
-      web: "URL for the application process"
-      email: "Contact email address for admissions"
-      phone: "Contact phone number for admissions"
-    requirements: "Specific admission requirements, such as Abitur, good notes, porfolio of own work or equivalent"
-    deadline: "Till when must the application be submitted to start the university in the winter semester 2025?"
-    open_days: "Dates for open days at the faculty or department"
+      admission_statistics:
+        acceptance_rate: "Acceptance rate for the faculty or programs"
+        average_gpa: "Average GPA of admitted students"
+        average_test_scores: "Average test scores (if applicable)"
+
+    internships_and_practical_experience:
+      dual_programs:
+        available: "Yes/No"
+        details: "Description of dual vocational training programs"
+      internships:
+        opportunities: "Types of internships available"
+        partnerships: "Companies and organizations offering internships"
+      workshops:
+        available: "Yes/No"
+        details: "Description of workshops and practical training opportunities"
+
+    additional_information:
+      FAQs: "Frequently Asked Questions related to the faculty or programs"
+      testimonials: "Student or alumni testimonials"
+      contact_information: "Additional contact information or resources"

@@ -1,0 +1,37 @@
+barbora_profile:
+  personal_information:
+    name: "Barbora"
+    age: 17
+    education:
+      current_school: "Johan Gottfried Herder Gymnasium, Berlin"
+      current_status: "Completing final year before Abitur"
+
+  academic_strengths:
+    - "Strong inclination towards mathematics"
+    - "Exceptional talent in creative disciplines (e.g., drawing, arts)"
+    - "Great interest and talent in sports, gymnastics, and dance"
+    - "Highly practical and hands-on problem-solving skills"
+
+  personality_and_skills:
+    - "Highly creative, combining technical precision with artistic vision"
+    - "Excellent social skills and teamwork capabilities"
+    - "Adaptable and forward-thinking"
+
+  study_and_career_preferences:
+    future_job:
+      key_attributes:
+        - "Combines creativity and technical expertise"
+        - "Less theoretical, more practical and hands-on"
+        - "Includes teamwork and collaboration"
+        - "prefers fieldwork over desk work"
+    skills_and_goals:
+      - "Future-proof and competitive skillset for the future industries and new technologies"
+      - "Multidisciplinary, ensuring career flexibility"
+    career_expectations:
+      - "Fun and engaging work"
+      - "Opportunities for personal growth and development"
+    university_preferences:
+      - "Dual vocational training systems (Duales Ausbildung)"
+      - "Strong reputation and industry connections"
+      - "Located in or near Berlin"
+      - "Robust international support if studying abroad"
