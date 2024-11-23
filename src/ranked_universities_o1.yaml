@@ -5544,3 +5544,1346 @@
     FAQs: "Available on the university website"
     testimonials: "Student experiences shared online"
     contact_information: "International Office: international@fu-berlin.de"
+
+"Freie Universität Berlin (FU Berlin) / Department of Earth Sciences":
+  matching_score: "6"
+  recommendation: "The department offers comprehensive programs in geosciences, geography, and meteorology, with a strong emphasis on research and fieldwork. While it provides practical experience and opportunities for hands-on field studies, it may not fully align with Barbora's interest in combining creativity with technical skills in a creative field. Potential professions include Geologist, Meteorologist, or Environmental Consultant."
+  field_of_study: "Geosciences, Geography, Meteorology"
+  description: "Focuses on understanding the Earth's systems through interdisciplinary research and teaching, integrating field studies with theoretical knowledge."
+  type: "Public University"
+  city: "Berlin"
+  address: "Malteserstraße 74-100, 12249 Berlin, Germany"
+  web: "https://www.fu-berlin.de/en/einrichtungen/fachbereiche/fb/geo/index.html"
+  timeline_overview: "Bachelor programs typically span 6 semesters (3 years), with options for master's and doctoral studies."
+
+  reputation_and_quality:
+    ranking: "Well-regarded nationally and internationally for earth sciences research"
+    faculty_quality:
+      notable_professors:
+        - "Prof. Dr. Frank Riedel: Expert in paleontology and stratigraphy"
+        - "Prof. Dr. Christoph Schneider: Specialist in climatology and environmental geography"
+      individual_mentorship: "Opportunities through field projects and research groups"
+      number_of_students: "Approximately 2,000 students in the department"
+      student_teacher_ratio: "Approximately 15:1"
+    accreditations: "Programs accredited by relevant German accreditation agencies"
+
+  study_programs:
+    description: "Offers Bachelor's and Master's programs in Geology, Geography, Meteorology, and related fields"
+    programs:
+      - name: "Bachelor of Science in Geology"
+        type: "Bachelor"
+        specialization: "Geosciences"
+        description: "Provides foundational knowledge in geological processes, earth materials, and geophysics"
+        url: "https://www.fu-berlin.de/en/studium/studienangebot/bachelor/geologische-wissenschaften/index.html"
+        timeline_overview: "3-year program with lectures, laboratory courses, and field excursions"
+        matching_score: "6"
+        recommendation: "Offers practical fieldwork experience but may not include creative aspects Barbora desires"
+        curriculum:
+          core_courses:
+            - "Mineralogy"
+            - "Structural Geology"
+          electives:
+            - "Paleontology"
+            - "Environmental Geology"
+        entry_requirements: "Abitur or equivalent; proficiency in German"
+        duration: "3 years"
+        language_of_instruction: "German"
+
+      - name: "Bachelor of Science in Geography"
+        type: "Bachelor"
+        specialization: "Physical and Human Geography"
+        description: "Explores the relationship between humans and the environment, combining physical and social sciences"
+        url: "https://www.fu-berlin.de/en/studium/studienangebot/bachelor/geographie/index.html"
+        timeline_overview: "3-year program with field studies and research projects"
+        matching_score: "6"
+        recommendation: "Provides interdisciplinary knowledge but may lack focus on creative technical skills"
+        curriculum:
+          core_courses:
+            - "Physical Geography"
+            - "Human Geography"
+          electives:
+            - "Urban Planning"
+            - "Geographic Information Systems (GIS)"
+        entry_requirements: "Abitur or equivalent; proficiency in German"
+        duration: "3 years"
+        language_of_instruction: "German"
+
+  industry_partnerships:
+    partnering_companies:
+      - name: "German Federal Institute for Geosciences and Natural Resources (BGR)"
+        description: "Collaborations on research projects and internships"
+        collaboration_type: "Internships, joint research"
+        study_type: "Opportunities for practical experience in geosciences"
+        matching_score: "7"
+        recommendation: "Provides practical fieldwork experience"
+        timeline_overview: "Internships during semester breaks or integrated into studies"
+        application_process:
+          requirements: "Application to the institute; may require academic references"
+          deadline: "Varies by opportunity"
+          open_days: "Institute presentations at the university"
+
+  exchange_programs:
+    partnering_schools:
+      - name: "University of Oslo, Norway"
+        description: "Exchange program focusing on earth sciences and environmental studies"
+        structure: "One semester abroad with fieldwork opportunities"
+        matching_score: "7"
+        recommendation: "Offers international exposure and practical field experience"
+        duration: "One semester"
+        application_process:
+          requirements: "Good academic standing; proficiency in English"
+          deadline: "Check International Office for specific dates"
+          open_days: "International Office events"
+
+  tuition_and_financials:
+    tuition_fees:
+      domestic: "No tuition fees; semester fee around €311"
+      international: "Same as domestic; no tuition fees"
+    additional_costs:
+      living: "Approximately €800-€1,000 per month"
+      transportation: "Public transport pass included in semester fee"
+      materials: "Estimated €300-€500 per year for supplies and field trip expenses"
+    scholarships_and_aid:
+      available_scholarships:
+        - name: "Deutschlandstipendium"
+          description: "Merit-based scholarship"
+          eligibility: "High academic achievement"
+          application_deadline: "Usually in early summer"
+      financial_aid_options: "BAföG for eligible students, student loans"
+
+  campus_and_student_life:
+    campus:
+      facilities:
+        - "Research Laboratories"
+        - "GIS Labs"
+        - "Libraries"
+      housing: "University accommodations and private rentals available"
+      transportation: "Excellent public transport connectivity"
+    student_life:
+      culture: "Active student community with interest in environmental issues"
+      setting: "Campus located in the green district of Lankwitz"
+      extracurricular_activities:
+        - "Field trips"
+        - "Environmental clubs"
+        - "Student associations"
+      support_services: "Academic advising, career services, counseling"
+
+  reputation_and_ranking:
+    global_rankings:
+      QS_Ranking: "Ranked within top 150 universities worldwide"
+      THE_Ranking: "Similar global ranking"
+      ARWU_Ranking: "Ranked among top universities globally"
+    national_rankings: "Highly regarded in Germany for earth sciences"
+    alumni_success: "Graduates employed in environmental agencies, research institutions, and consulting firms"
+
+  post_graduation_outcomes:
+    job_opportunities:
+      description: "Graduates are prepared for careers in environmental consulting, research, and governmental agencies"
+      professions:
+        - profession_name: "Geologist"
+          description_of_profession: "Studies Earth's processes and materials"
+          study_program: "Bachelor of Science in Geology"
+          job_market_demand: "Steady demand in energy, mining, and environmental sectors"
+          starting_salaries: "Approximately €35,000 - €45,000 per year"
+          industries: "Energy companies, environmental consultancies, government agencies"
+    further_education: "Opportunities for Master's and PhD programs"
+
+  application_and_admission:
+    application_process:
+      contact:
+        web: "https://www.fu-berlin.de/en/studium/bewerbung/index.html"
+        email: "info-service@fu-berlin.de"
+        phone: "+49 30 838 70000"
+      requirements:
+        academic: "Abitur or equivalent; background in science subjects recommended"
+        additional: "German language proficiency (TestDaF, DSH)"
+      deadline: "July 15, 2025"
+      open_days: "June 2025; check website for specific dates"
+    admission_statistics:
+      acceptance_rate: "Generally accessible; varies by program"
+      average_gpa: "Not specified"
+      average_test_scores: "Not applicable"
+
+  internships_and_practical_experience:
+    dual_programs:
+      available: "No formal dual programs"
+      details: "Focus on academic studies with fieldwork components"
+    internships:
+      opportunities: "Internships encouraged; sometimes integrated into studies"
+      partnerships: "Connections with environmental agencies and research institutes"
+    workshops:
+      available: "Yes"
+      details: "Field trips and practical courses integral to the curriculum"
+
+  additional_information:
+    FAQs: "Available on the university website"
+    testimonials: "Student experiences shared online"
+    contact_information: "International Office: international@fu-berlin.de"
+
+"Freie Universität Berlin (FU Berlin) / Department of Physics":
+  matching_score: "6"
+  recommendation: "The department offers rigorous programs in physics with a strong emphasis on theoretical understanding and experimental techniques. While it provides technical knowledge and practical laboratory experience, it may not align with Barbora's interest in combining creativity with hands-on fieldwork in a creative field. Potential professions include Physicist, Research Scientist, or Data Analyst."
+  field_of_study: "Physics"
+  description: "Focuses on providing a deep understanding of physical principles through research-oriented teaching and practical laboratory work."
+  type: "Public University"
+  city: "Berlin"
+  address: "Arnimallee 14, 14195 Berlin, Germany"
+  web: "https://www.physik.fu-berlin.de/en/index.html"
+  timeline_overview: "Bachelor programs typically span 6 semesters (3 years), with options for master's and doctoral studies."
+
+  reputation_and_quality:
+    ranking: "Well-regarded nationally and internationally for physics research"
+    faculty_quality:
+      notable_professors:
+        - "Prof. Dr. Petra Schwille: Expert in biophysics and membrane dynamics"
+        - "Prof. Dr. Klaus Müllen: Specialist in nanoscience"
+      individual_mentorship: "Opportunities through research projects and seminars"
+      number_of_students: "Approximately 1,500 students in the department"
+      student_teacher_ratio: "Approximately 10:1"
+    accreditations: "Programs accredited by relevant German accreditation agencies"
+
+  study_programs:
+    description: "Offers Bachelor's and Master's programs in Physics and related fields"
+    programs:
+      - name: "Bachelor of Science in Physics"
+        type: "Bachelor"
+        specialization: "General Physics"
+        description: "Provides foundational knowledge in classical and modern physics, including mechanics, electromagnetism, and quantum physics"
+        url: "https://www.fu-berlin.de/en/studium/studienangebot/bachelor/physik/index.html"
+        timeline_overview: "3-year program with lectures, laboratory courses, and seminars"
+        matching_score: "6"
+        recommendation: "Highly technical; may not align with Barbora's creative interests"
+        curriculum:
+          core_courses:
+            - "Classical Mechanics"
+            - "Quantum Mechanics"
+          electives:
+            - "Astrophysics"
+            - "Condensed Matter Physics"
+        entry_requirements: "Abitur or equivalent; proficiency in German"
+        duration: "3 years"
+        language_of_instruction: "German"
+
+  industry_partnerships:
+    partnering_companies:
+      - name: "Max Planck Institute for Physics"
+        description: "Collaborations on research projects and internships"
+        collaboration_type: "Internships, joint research"
+        study_type: "Opportunities to work on cutting-edge research projects"
+        matching_score: "7"
+        recommendation: "Provides practical research experience in physics"
+        timeline_overview: "Internships typically during semester breaks or integrated into studies"
+        application_process:
+          requirements: "Application to the institute; may require academic references"
+          deadline: "Varies by opportunity"
+          open_days: "Institute presentations at the university"
+
+  exchange_programs:
+    partnering_schools:
+      - name: "University of Cambridge, UK"
+        description: "Exchange program for top-performing students in physics"
+        structure: "One semester abroad with research opportunities"
+        matching_score: "7"
+        recommendation: "Offers international exposure and access to leading research facilities"
+        duration: "One semester"
+        application_process:
+          requirements: "Excellent academic record; proficiency in English"
+          deadline: "Check International Office for specific dates"
+          open_days: "International Office events"
+
+  tuition_and_financials:
+    tuition_fees:
+      domestic: "No tuition fees; semester fee around €311"
+      international: "Same as domestic; no tuition fees"
+    additional_costs:
+      living: "Approximately €800-€1,000 per month"
+      transportation: "Public transport pass included in semester fee"
+      materials: "Estimated €200-€400 per year for supplies"
+    scholarships_and_aid:
+      available_scholarships:
+        - name: "Deutschlandstipendium"
+          description: "Merit-based scholarship"
+          eligibility: "High academic achievement"
+          application_deadline: "Usually in early summer"
+      financial_aid_options: "BAföG for eligible students, student loans"
+
+  campus_and_student_life:
+    campus:
+      facilities:
+        - "Advanced Laboratories"
+        - "Research Institutes"
+        - "Libraries"
+      housing: "University accommodations and private rentals available"
+      transportation: "Excellent public transport connectivity"
+    student_life:
+      culture: "Focused academic community with interest in scientific research"
+      setting: "Campus located in the green district of Dahlem"
+      extracurricular_activities:
+        - "Physics clubs"
+        - "Research seminars"
+        - "Student associations"
+      support_services: "Academic advising, career services, counseling"
+
+  reputation_and_ranking:
+    global_rankings:
+      QS_Ranking: "Ranked within top 150 universities worldwide"
+      THE_Ranking: "Similar global ranking"
+      ARWU_Ranking: "Ranked among top universities globally"
+    national_rankings: "Highly regarded in Germany for physics"
+    alumni_success: "Graduates employed in research institutions, technology companies, and academia"
+
+  post_graduation_outcomes:
+    job_opportunities:
+      description: "Graduates are well-prepared for careers in research, technology development, and data analysis"
+      professions:
+        - profession_name: "Physicist"
+          description_of_profession: "Conducts research to understand physical phenomena"
+          study_program: "Bachelor of Science in Physics"
+          job_market_demand: "Steady demand in research and high-tech industries"
+          starting_salaries: "Approximately €40,000 - €50,000 per year"
+          industries: "Research institutions, aerospace, electronics"
+    further_education: "Opportunities for Master's and PhD programs"
+
+  application_and_admission:
+    application_process:
+      contact:
+        web: "https://www.fu-berlin.de/en/studium/bewerbung/index.html"
+        email: "info-service@fu-berlin.de"
+        phone: "+49 30 838 70000"
+      requirements:
+        academic: "Abitur or equivalent; strong background in mathematics and physics"
+        additional: "German language proficiency (TestDaF, DSH)"
+      deadline: "July 15, 2025"
+      open_days: "June 2025; check website for specific dates"
+    admission_statistics:
+      acceptance_rate: "Competitive; varies by year"
+      average_gpa: "Not specified"
+      average_test_scores: "Not applicable"
+
+  internships_and_practical_experience:
+    dual_programs:
+      available: "No formal dual programs"
+      details: "Focus on academic studies with practical lab work"
+    internships:
+      opportunities: "Internships encouraged; sometimes integrated into studies"
+      partnerships: "Connections with research institutes and tech companies"
+    workshops:
+      available: "Yes"
+      details: "Laboratory sessions and practical courses integral to the curriculum"
+
+  additional_information:
+    FAQs: "Available on the university website"
+    testimonials: "Student experiences shared online"
+    contact_information: "International Office: international@fu-berlin.de"
+
+"Freie Universität Berlin (FU Berlin) / Department of Mathematics and Computer Science":
+  matching_score: "6"
+  recommendation: "The department offers comprehensive programs in mathematics and computer science, emphasizing theoretical foundations and practical applications. While it provides technical knowledge and opportunities in programming and problem-solving, it may not align with Barbora's interest in combining creativity with hands-on fieldwork in a creative field. Potential professions include Software Developer, Mathematician, or Data Scientist."
+  field_of_study: "Mathematics, Computer Science"
+  description: "Focuses on providing a strong foundation in mathematical theories and computer science principles, integrating research with practical applications."
+  type: "Public University"
+  city: "Berlin"
+  address: "Takustr. 9, 14195 Berlin, Germany"
+  web: "https://www.mi.fu-berlin.de/en/index.html"
+  timeline_overview: "Bachelor programs typically span 6 semesters (3 years), with options for master's and doctoral studies."
+
+  reputation_and_quality:
+    ranking: "Well-regarded nationally and internationally for mathematics and computer science research"
+    faculty_quality:
+      notable_professors:
+        - "Prof. Dr. Günter M. Ziegler: Expert in discrete mathematics"
+        - "Prof. Dr. Raúl Rojas: Specialist in artificial intelligence and robotics"
+      individual_mentorship: "Opportunities through research projects and seminars"
+      number_of_students: "Approximately 2,500 students in the department"
+      student_teacher_ratio: "Approximately 15:1"
+    accreditations: "Programs accredited by relevant German accreditation agencies"
+
+  study_programs:
+    description: "Offers Bachelor's and Master's programs in Mathematics, Computer Science, Bioinformatics, and related fields"
+    programs:
+      - name: "Bachelor of Science in Computer Science"
+        type: "Bachelor"
+        specialization: "General Computer Science"
+        description: "Provides foundational knowledge in programming, algorithms, and system design"
+        url: "https://www.fu-berlin.de/en/studium/studienangebot/bachelor/informatik/index.html"
+        timeline_overview: "3-year program with lectures, practical exercises, and projects"
+        matching_score: "6"
+        recommendation: "Offers technical skills but may lack the creative and artistic elements Barbora prefers"
+        curriculum:
+          core_courses:
+            - "Programming"
+            - "Algorithms and Data Structures"
+          electives:
+            - "Artificial Intelligence"
+            - "Human-Computer Interaction"
+        entry_requirements: "Abitur or equivalent; proficiency in German"
+        duration: "3 years"
+        language_of_instruction: "German"
+
+      - name: "Bachelor of Science in Mathematics"
+        type: "Bachelor"
+        specialization: "Pure and Applied Mathematics"
+        description: "Covers fundamental mathematical theories and methods"
+        url: "https://www.fu-berlin.de/en/studium/studienangebot/bachelor/mathematik/index.html"
+        timeline_overview: "3-year program with lectures and seminars"
+        matching_score: "6"
+        recommendation: "Highly theoretical; may not align with Barbora's interest in practical, hands-on learning"
+        curriculum:
+          core_courses:
+            - "Analysis"
+            - "Linear Algebra"
+          electives:
+            - "Numerical Methods"
+            - "Probability Theory"
+        entry_requirements: "Abitur or equivalent; strong background in mathematics"
+        duration: "3 years"
+        language_of_instruction: "German"
+
+  industry_partnerships:
+    partnering_companies:
+      - name: "SAP SE"
+        description: "Collaborations on research projects and internships"
+        collaboration_type: "Internships, joint research"
+        study_type: "Opportunities for practical experience in software development"
+        matching_score: "7"
+        recommendation: "Provides practical experience in technology but may lack creative aspects"
+        timeline_overview: "Internships typically during semester breaks or integrated into studies"
+        application_process:
+          requirements: "Application to the company; may require academic references"
+          deadline: "Varies by company"
+          open_days: "Company presentations at the university"
+
+  exchange_programs:
+    partnering_schools:
+      - name: "Massachusetts Institute of Technology (MIT), USA"
+        description: "Exchange program for top-performing students in computer science and mathematics"
+        structure: "One semester abroad with research opportunities"
+        matching_score: "7"
+        recommendation: "Offers international exposure and access to leading research facilities"
+        duration: "One semester"
+        application_process:
+          requirements: "Excellent academic record; proficiency in English"
+          deadline: "Check International Office for specific dates"
+          open_days: "International Office events"
+
+  tuition_and_financials:
+    tuition_fees:
+      domestic: "No tuition fees; semester fee around €311"
+      international: "Same as domestic; no tuition fees"
+    additional_costs:
+      living: "Approximately €800-€1,000 per month"
+      transportation: "Public transport pass included in semester fee"
+      materials: "Estimated €200-€400 per year for supplies"
+    scholarships_and_aid:
+      available_scholarships:
+        - name: "Deutschlandstipendium"
+          description: "Merit-based scholarship"
+          eligibility: "High academic achievement"
+          application_deadline: "Usually in early summer"
+      financial_aid_options: "BAföG for eligible students, student loans"
+
+  campus_and_student_life:
+    campus:
+      facilities:
+        - "Computer Labs"
+        - "Research Institutes"
+        - "Libraries"
+      housing: "University accommodations and private rentals available"
+      transportation: "Excellent public transport connectivity"
+    student_life:
+      culture: "Diverse and international community with a focus on technology and innovation"
+      setting: "Campus located in the green district of Dahlem"
+      extracurricular_activities:
+        - "Coding clubs"
+        - "Hackathons"
+        - "Student associations"
+      support_services: "Academic advising, career services, counseling"
+
+  reputation_and_ranking:
+    global_rankings:
+      QS_Ranking: "Ranked within top 150 universities worldwide"
+      THE_Ranking: "Similar global ranking"
+      ARWU_Ranking: "Ranked among top universities globally"
+    national_rankings: "Highly regarded in Germany for computer science and mathematics"
+    alumni_success: "Graduates employed in leading tech companies, research institutions, and academia"
+
+  post_graduation_outcomes:
+    job_opportunities:
+      description: "Graduates are well-prepared for careers in software development, data analysis, and research"
+      professions:
+        - profession_name: "Software Developer"
+          description_of_profession: "Designs and develops software applications"
+          study_program: "Bachelor of Science in Computer Science"
+          job_market_demand: "High demand across various industries"
+          starting_salaries: "Approximately €45,000 - €55,000 per year"
+          industries: "Technology companies, finance, healthcare"
+    further_education: "Opportunities for Master's and PhD programs"
+
+  application_and_admission:
+    application_process:
+      contact:
+        web: "https://www.fu-berlin.de/en/studium/bewerbung/index.html"
+        email: "info-service@fu-berlin.de"
+        phone: "+49 30 838 70000"
+      requirements:
+        academic: "Abitur or equivalent; strong background in mathematics"
+        additional: "German language proficiency (TestDaF, DSH)"
+      deadline: "July 15, 2025"
+      open_days: "June 2025; check website for specific dates"
+    admission_statistics:
+      acceptance_rate: "Competitive; varies by program"
+      average_gpa: "Not specified"
+      average_test_scores: "Not applicable"
+
+  internships_and_practical_experience:
+    dual_programs:
+      available: "No formal dual programs"
+      details: "Focus on academic studies with practical projects"
+    internships:
+      opportunities: "Internships encouraged; sometimes integrated into studies"
+      partnerships: "Connections with tech companies and research institutes"
+    workshops:
+      available: "Yes"
+      details: "Programming labs and practical courses integral to the curriculum"
+
+  additional_information:
+    FAQs: "Available on the university website"
+    testimonials: "Student experiences shared online"
+    contact_information: "International Office: international@fu-berlin.de"
+
+"Technische Universität Berlin (TU Berlin) / Faculty of Mathematics and Natural Sciences":
+  matching_score: "6"
+  recommendation: "The faculty offers rigorous programs in mathematics and natural sciences, emphasizing theoretical understanding and research. While it provides strong analytical and technical skills, it may not fully align with Barbora's interest in combining creativity with practical, hands-on fieldwork in a creative field. Potential professions include Mathematician, Physicist, or Research Scientist."
+  field_of_study: "Mathematics and Natural Sciences"
+  description: "Provides comprehensive education in mathematics, physics, chemistry, and other natural sciences, focusing on foundational theories and research methodologies."
+  type: "Technische Universität"
+  city: "Berlin"
+  address: "Straße des 17. Juni 135, 10623 Berlin, Germany"
+  web: "https://www.tu.berlin/"
+  timeline_overview: "Bachelor programs typically span 6 semesters (3 years), with options for Master's and doctoral studies."
+
+  reputation_and_quality:
+    ranking: "TU Berlin is ranked among the top engineering and science universities globally."
+    faculty_quality:
+      notable_professors:
+        - "Prof. Dr. Christian Thomsen: Expert in solid-state physics"
+        - "Prof. Dr. Günter M. Ziegler: Renowned mathematician and former president of the German Mathematical Society"
+      individual_mentorship: "Opportunities through research projects and seminars"
+      number_of_students: "Approximately 34,000 students across the university"
+      student_teacher_ratio: "Varies by program; generally around 20:1"
+    accreditations: "Accredited by relevant German accreditation agencies"
+
+  study_programs:
+    description: "Offers Bachelor's and Master's programs in Mathematics, Physics, Chemistry, and related fields."
+    programs:
+      - name: "Bachelor of Science in Mathematics"
+        type: "Bachelor"
+        specialization: "Pure and Applied Mathematics"
+        description: "Provides foundational knowledge in mathematical theories and methods, preparing students for careers in research and industry."
+        url: "https://www.tu.berlin/en/studying/study-programs/all-programs-offered/study-course/mathematics-b-sc/"
+        timeline_overview: "3-year program with lectures and seminars."
+        matching_score: "6"
+        recommendation: "Highly theoretical; may not align with Barbora's interest in practical, hands-on learning."
+        curriculum:
+          core_courses:
+            - "Analysis"
+            - "Linear Algebra"
+          electives:
+            - "Numerical Methods"
+            - "Probability Theory"
+        entry_requirements: "Abitur or equivalent; strong background in mathematics."
+        duration: "3 years"
+        language_of_instruction: "German"
+
+      - name: "Bachelor of Science in Physics"
+        type: "Bachelor"
+        specialization: "General Physics"
+        description: "Covers fundamental concepts in physics, including mechanics, electromagnetism, and quantum physics."
+        url: "https://www.tu.berlin/en/studying/study-programs/all-programs-offered/study-course/physics-b-sc/"
+        timeline_overview: "3-year program with laboratory work and seminars."
+        matching_score: "6"
+        recommendation: "Highly technical; may not align with Barbora's creative interests."
+        curriculum:
+          core_courses:
+            - "Classical Mechanics"
+            - "Quantum Mechanics"
+          electives:
+            - "Astrophysics"
+            - "Condensed Matter Physics"
+        entry_requirements: "Abitur or equivalent; proficiency in German."
+        duration: "3 years"
+        language_of_instruction: "German"
+
+  industry_partnerships:
+    partnering_companies:
+      - name: "Siemens AG"
+        description: "Collaboration on research projects and internships."
+        collaboration_type: "Internships, joint research."
+        study_type: "Opportunities to work on industry-relevant projects."
+        matching_score: "7"
+        recommendation: "Provides practical experience in technical fields but may lack creative aspects."
+        timeline_overview: "Internships typically during semester breaks."
+        application_process:
+          requirements: "Application to the company; may require academic references."
+          deadline: "Varies by company."
+          open_days: "Company presentations at the university."
+
+  exchange_programs:
+    partnering_schools:
+      - name: "ETH Zurich, Switzerland"
+        description: "Exchange program focusing on mathematics and natural sciences."
+        structure: "One semester abroad with research opportunities."
+        matching_score: "7"
+        recommendation: "Offers international exposure and access to leading research facilities."
+        duration: "One semester."
+        application_process:
+          requirements: "Excellent academic record; proficiency in English."
+          deadline: "Check International Office for specific dates."
+          open_days: "International Office events."
+
+  tuition_and_financials:
+    tuition_fees:
+      domestic: "No tuition fees; semester fee around €307."
+      international: "Same as domestic; no tuition fees."
+    additional_costs:
+      living: "Approximately €800-€1,000 per month."
+      transportation: "Public transport pass included in semester fee."
+      materials: "Estimated €200-€400 per year for supplies."
+    scholarships_and_aid:
+      available_scholarships:
+        - name: "Deutschlandstipendium"
+          description: "Merit-based scholarship."
+          eligibility: "High academic achievement."
+          application_deadline: "Usually in early summer."
+      financial_aid_options: "BAföG for eligible students, student loans."
+
+  campus_and_student_life:
+    campus:
+      facilities:
+        - "Advanced Laboratories"
+        - "Research Institutes"
+        - "Libraries"
+      housing: "University accommodations and private rentals available."
+      transportation: "Excellent public transport connectivity."
+    student_life:
+      culture: "Diverse and international community with a focus on research and innovation."
+      setting: "Urban campus in central Berlin."
+      extracurricular_activities:
+        - "Science clubs"
+        - "Research seminars"
+        - "Student associations"
+      support_services: "Academic advising, career services, counseling."
+
+  reputation_and_ranking:
+    global_rankings:
+      QS_Ranking: "Ranked within top 150 universities worldwide."
+      THE_Ranking: "Similar global ranking."
+      ARWU_Ranking: "Ranked among top universities globally."
+    national_rankings: "Highly regarded in Germany for engineering and sciences."
+    alumni_success: "Graduates employed in research institutions, technology companies, and academia."
+
+  post_graduation_outcomes:
+    job_opportunities:
+      description: "Graduates are well-prepared for careers in research, technology development, and academia."
+      professions:
+        - profession_name: "Mathematician"
+          description_of_profession: "Works on theoretical or applied mathematical problems."
+          study_program: "Bachelor of Science in Mathematics"
+          job_market_demand: "Steady demand in finance, technology, and research."
+          starting_salaries: "Approximately €40,000 - €50,000 per year."
+          industries: "Finance, technology companies, research institutions."
+    further_education: "Opportunities for Master's and PhD programs."
+
+  application_and_admission:
+    application_process:
+      contact:
+        web: "https://www.tu.berlin/en/studying/application-and-enrollment/"
+        email: "studienberatung@tu-berlin.de"
+        phone: "+49 30 314 29999"
+      requirements:
+        academic: "Abitur or equivalent; strong background in mathematics and sciences."
+        additional: "German language proficiency (TestDaF, DSH)."
+      deadline: "July 15 (for winter semester)."
+      open_days: "April; check website for specific dates."
+    admission_statistics:
+      acceptance_rate: "Competitive; varies by program."
+      average_gpa: "Not specified."
+      average_test_scores: "Not applicable."
+
+  internships_and_practical_experience:
+    dual_programs:
+      available: "No formal dual programs."
+      details: "Focus on academic studies with practical lab work."
+    internships:
+      opportunities: "Internships encouraged; sometimes integrated into studies."
+      partnerships: "Connections with research institutes and tech companies."
+    workshops:
+      available: "Yes."
+      details: "Laboratory sessions and practical courses integral to the curriculum."
+
+  additional_information:
+    FAQs: "Available on the university website."
+    testimonials: "Student experiences shared online."
+    contact_information: "International Office: international@tu-berlin.de"
+
+"Humboldt University of Berlin (HU Berlin) / Faculty of Mathematics and Natural Sciences":
+  matching_score: "6"
+  recommendation: "The faculty offers comprehensive programs in mathematics, physics, chemistry, and biology, emphasizing research and theoretical foundations. While it provides strong analytical and technical skills, it may not fully align with Barbora's interest in combining creativity with practical, hands-on fieldwork in a creative field. Potential professions include Mathematician, Physicist, Biologist, or Chemist."
+  field_of_study: "Mathematics and Natural Sciences"
+  description: "Focuses on high-level education and research in natural sciences, preparing students for careers in academia and industry."
+  type: "Public University"
+  city: "Berlin"
+  address: "Unter den Linden 6, 10099 Berlin, Germany"
+  web: "https://www.hu-berlin.de/en"
+  timeline_overview: "Bachelor programs typically span 6 semesters (3 years), with options for Master's and doctoral studies."
+
+  reputation_and_quality:
+    ranking: "HU Berlin is one of Germany's leading universities, especially renowned for its contributions to science and research."
+    faculty_quality:
+      notable_professors:
+        - "Prof. Dr. Jürgen P. Rabe: Expert in physics and materials science"
+        - "Prof. Dr. Beatrice Rammstedt: Specialist in mathematics education"
+      individual_mentorship: "Opportunities through seminars and research projects"
+      number_of_students: "Approximately 35,000 students across the university"
+      student_teacher_ratio: "Varies by program; generally around 20:1"
+    accreditations: "Accredited by relevant German accreditation agencies"
+
+  study_programs:
+    description: "Offers Bachelor's and Master's programs in Mathematics, Physics, Chemistry, Biology, and related fields."
+    programs:
+      - name: "Bachelor of Science in Mathematics"
+        type: "Bachelor"
+        specialization: "Pure and Applied Mathematics"
+        description: "Provides foundational knowledge in mathematical theories and methods."
+        url: "https://www.hu-berlin.de/en/studies/counselling/course-catalogue/programme-descriptions/bachelor-of-science/mathematics"
+        timeline_overview: "3-year program with lectures and seminars."
+        matching_score: "6"
+        recommendation: "Highly theoretical; may not align with Barbora's practical interests."
+        curriculum:
+          core_courses:
+            - "Analysis"
+            - "Algebra"
+          electives:
+            - "Topology"
+            - "Numerical Analysis"
+        entry_requirements: "Abitur or equivalent; strong background in mathematics."
+        duration: "3 years"
+        language_of_instruction: "German"
+
+      - name: "Bachelor of Science in Biology"
+        type: "Bachelor"
+        specialization: "General Biology"
+        description: "Covers fundamental concepts in biological sciences."
+        url: "https://www.hu-berlin.de/en/studies/counselling/course-catalogue/programme-descriptions/bachelor-of-science/biology"
+        timeline_overview: "3-year program with laboratory work and field studies."
+        matching_score: "6"
+        recommendation: "Offers practical lab experience but may lack creative aspects."
+        curriculum:
+          core_courses:
+            - "Cell Biology"
+            - "Genetics"
+          electives:
+            - "Ecology"
+            - "Neurobiology"
+        entry_requirements: "Abitur or equivalent; proficiency in German."
+        duration: "3 years"
+        language_of_instruction: "German"
+
+  industry_partnerships:
+    partnering_companies:
+      - name: "Max Delbrück Center for Molecular Medicine"
+        description: "Collaboration on research projects and internships."
+        collaboration_type: "Internships, joint research."
+        study_type: "Opportunities for practical research experience."
+        matching_score: "7"
+        recommendation: "Provides hands-on experience in scientific research."
+        timeline_overview: "Internships during semester breaks."
+        application_process:
+          requirements: "Application to the institute; may require references."
+          deadline: "Varies by opportunity."
+          open_days: "Research institute presentations at the university."
+
+  exchange_programs:
+    partnering_schools:
+      - name: "University of Cambridge, UK"
+        description: "Exchange program focusing on natural sciences."
+        structure: "One semester abroad."
+        matching_score: "7"
+        recommendation: "Offers international exposure and research opportunities."
+        duration: "One semester."
+        application_process:
+          requirements: "Excellent academic record; proficiency in English."
+          deadline: "Check International Office for dates."
+          open_days: "International Office events."
+
+  tuition_and_financials:
+    tuition_fees:
+      domestic: "No tuition fees; semester fee around €315."
+      international: "Same as domestic; no tuition fees."
+    additional_costs:
+      living: "Approximately €800-€1,000 per month."
+      transportation: "Public transport pass included in semester fee."
+      materials: "Estimated €200-€400 per year."
+    scholarships_and_aid:
+      available_scholarships:
+        - name: "Deutschlandstipendium"
+          description: "Merit-based scholarship."
+          eligibility: "High academic achievement."
+          application_deadline: "Varies."
+      financial_aid_options: "BAföG, student loans."
+
+  campus_and_student_life:
+    campus:
+      facilities:
+        - "State-of-the-art Laboratories"
+        - "Research Centers"
+        - "Extensive Libraries"
+      housing: "Assistance provided in finding accommodations."
+      transportation: "Excellent public transport connectivity."
+    student_life:
+      culture: "Rich academic tradition with vibrant student activities."
+      setting: "Historic campus in central Berlin."
+      extracurricular_activities:
+        - "Student clubs"
+        - "Cultural events"
+        - "Academic societies"
+      support_services: "Academic advising, career services, counseling."
+
+  reputation_and_ranking:
+    global_rankings:
+      QS_Ranking: "Ranked within top 120 universities worldwide."
+      THE_Ranking: "Similar global ranking."
+      ARWU_Ranking: "Ranked among top universities globally."
+    national_rankings: "Highly regarded in Germany for sciences and humanities."
+    alumni_success: "Graduates employed in academia, research, and industry."
+
+  post_graduation_outcomes:
+    job_opportunities:
+      description: "Graduates have strong prospects in research and industry."
+      professions:
+        - profession_name: "Research Scientist"
+          description_of_profession: "Conducts experiments and studies in specific fields."
+          study_program: "Bachelor of Science in Biology or Chemistry"
+          job_market_demand: "Steady demand in biotech and pharma."
+          starting_salaries: "Approximately €35,000 - €45,000 per year."
+          industries: "Pharmaceuticals, biotechnology, academia."
+    further_education: "Opportunities for Master's and PhD programs."
+
+  application_and_admission:
+    application_process:
+      contact:
+        web: "https://www.hu-berlin.de/en/studies/compass"
+        email: "study@hu-berlin.de"
+        phone: "+49 30 2093 70333"
+      requirements:
+        academic: "Abitur or equivalent."
+        additional: "German language proficiency (TestDaF, DSH)."
+      deadline: "July 15 (for winter semester)."
+      open_days: "June; check website for dates."
+    admission_statistics:
+      acceptance_rate: "Competitive; varies by program."
+      average_gpa: "Not specified."
+      average_test_scores: "Not applicable."
+
+  internships_and_practical_experience:
+    dual_programs:
+      available: "No formal dual programs."
+      details: "Focus on academic studies with research opportunities."
+    internships:
+      opportunities: "Internships encouraged; sometimes integrated."
+      partnerships: "Connections with research institutes."
+    workshops:
+      available: "Yes."
+      details: "Seminars and lab work integral to programs."
+
+  additional_information:
+    FAQs: "Available on the university website."
+    testimonials: "Student experiences shared online."
+    contact_information: "International Office: international-office@hu-berlin.de"
+
+"Hochschule für Technik und Wirtschaft Berlin (HTW Berlin) / School of Life Sciences":
+  matching_score: "6"
+  recommendation: "The School offers practical-oriented programs in life sciences, including biotechnology and environmental engineering. It provides technical knowledge and hands-on experience, which may align with Barbora's interest in practical fieldwork, but may lack the creative and artistic focus she prefers. Potential professions include Biotechnologist, Environmental Engineer, or Laboratory Technician."
+  field_of_study: "Life Sciences, Biotechnology, Environmental Engineering"
+  description: "Focuses on applied sciences in biology and environmental studies, integrating laboratory work with real-world applications."
+  type: "University of Applied Sciences"
+  city: "Berlin"
+  address: "Wilhelminenhofstraße 75A, 12459 Berlin, Germany"
+  web: "https://www.htw-berlin.de/en/"
+  timeline_overview: "Bachelor programs typically span 7 semesters, including practical semesters and a thesis project."
+
+  reputation_and_quality:
+    ranking: "Well-regarded among German universities of applied sciences."
+    faculty_quality:
+      notable_professors:
+        - "Prof. Dr. Ralf-Peter Ryser: Expert in biotechnology."
+        - "Prof. Dr. Sabine Möller: Specialist in environmental sciences."
+      individual_mentorship: "Personalized support through small class sizes."
+      number_of_students: "Approximately 14,000 students across the university."
+      student_teacher_ratio: "Approximately 20:1."
+    accreditations: "Programs accredited by relevant German agencies."
+
+  study_programs:
+    description: "Offers Bachelor's programs in Biotechnology, Environmental Engineering, and Renewable Energy."
+    programs:
+      - name: "Bachelor of Science in Biotechnology"
+        type: "Bachelor"
+        specialization: "Applied Biotechnology"
+        description: "Combines biology and technology to develop products and processes."
+        url: "https://www.htw-berlin.de/en/studies/bachelor/biotechnology/"
+        timeline_overview: "3.5-year program with laboratory work and internships."
+        matching_score: "6"
+        recommendation: "Provides practical skills but may lack creative elements Barbora prefers."
+        curriculum:
+          core_courses:
+            - "Microbiology"
+            - "Genetic Engineering"
+          electives:
+            - "Pharmaceutical Biotechnology"
+            - "Bioinformatics"
+        entry_requirements: "Abitur or equivalent; proficiency in German."
+        duration: "3.5 years"
+        language_of_instruction: "German"
+
+      - name: "Bachelor of Engineering in Environmental Engineering"
+        type: "Bachelor"
+        specialization: "Environmental Protection Technologies"
+        description: "Focuses on engineering solutions for environmental challenges."
+        url: "https://www.htw-berlin.de/en/studies/bachelor/environmental-engineering/"
+        timeline_overview: "3.5-year program with practical training."
+        matching_score: "6"
+        recommendation: "Offers fieldwork experience but may not align with creative interests."
+        curriculum:
+          core_courses:
+            - "Waste Management"
+            - "Water Treatment"
+          electives:
+            - "Renewable Energy Systems"
+            - "Air Pollution Control"
+        entry_requirements: "Abitur or equivalent; proficiency in German."
+        duration: "3.5 years"
+        language_of_instruction: "German"
+
+  industry_partnerships:
+    partnering_companies:
+      - name: "Biotech and Environmental Firms"
+        description: "Collaboration on projects and internships."
+        collaboration_type: "Internships, project collaborations."
+        study_type: "Integration of practical work into studies."
+        matching_score: "7"
+        recommendation: "Provides practical experience in relevant industries."
+        timeline_overview: "Opportunities throughout the program."
+        application_process:
+          requirements: "Application to companies; may require interviews."
+          deadline: "Varies by company."
+          open_days: "Career fairs and networking events."
+
+  exchange_programs:
+    partnering_schools:
+      - name: "University of Applied Sciences Utrecht, Netherlands"
+        description: "Exchange program focusing on life sciences."
+        structure: "One semester abroad with credit transfer."
+        matching_score: "7"
+        recommendation: "Offers international exposure and practical learning."
+        duration: "One semester."
+        application_process:
+          requirements: "Good academic standing; proficiency in English."
+          deadline: "Check International Office for dates."
+          open_days: "International Office events."
+
+  tuition_and_financials:
+    tuition_fees:
+      domestic: "No tuition fees; semester fee around €300."
+      international: "Same as domestic; no tuition fees."
+    additional_costs:
+      living: "Approximately €800-€1,000 per month."
+      transportation: "Public transport pass included in semester fee."
+      materials: "Estimated €200-€400 per year."
+    scholarships_and_aid:
+      available_scholarships:
+        - name: "Deutschlandstipendium"
+          description: "Merit-based scholarship."
+          eligibility: "High academic achievement."
+          application_deadline: "Varies."
+      financial_aid_options: "BAföG, student loans, part-time work."
+
+  campus_and_student_life:
+    campus:
+      facilities:
+        - "Modern Laboratories"
+        - "Research Centers"
+        - "Libraries"
+      housing: "Assistance provided in finding accommodations."
+      transportation: "Well-connected via public transport."
+    student_life:
+      culture: "Practical and industry-focused environment."
+      setting: "Urban campus with modern facilities."
+      extracurricular_activities:
+        - "Science clubs"
+        - "Environmental initiatives"
+        - "Sports facilities"
+      support_services: "Career services, academic advising, counseling."
+
+  reputation_and_ranking:
+    global_rankings:
+      QS_Ranking: "Not individually ranked globally."
+      THE_Ranking: "Not ranked."
+      ARWU_Ranking: "Not ranked."
+    national_rankings: "Well-regarded among German universities of applied sciences."
+    alumni_success: "Graduates working in biotech companies, environmental agencies, and research institutions."
+
+  post_graduation_outcomes:
+    job_opportunities:
+      description: "Graduates are equipped with practical skills for immediate entry into the workforce."
+      professions:
+        - profession_name: "Biotechnologist"
+          description_of_profession: "Develops products and processes using biological organisms."
+          study_program: "Bachelor of Science in Biotechnology"
+          job_market_demand: "Growing due to advancements in biotech."
+          starting_salaries: "Approximately €35,000 - €45,000 per year."
+          industries: "Pharmaceuticals, agriculture, healthcare."
+    further_education: "Opportunities for Master's programs."
+
+  application_and_admission:
+    application_process:
+      contact:
+        web: "https://www.htw-berlin.de/en/studies/applying/"
+        email: "studienberatung@htw-berlin.de"
+        phone: "+49 30 5019 2255"
+      requirements:
+        academic: "Abitur or equivalent; proficiency in German."
+        additional: "Possibly entrance examination for certain programs."
+      deadline: "July 15 (for winter semester)."
+      open_days: "May; check website for dates."
+    admission_statistics:
+      acceptance_rate: "Varies by program; generally accessible."
+      average_gpa: "Not specified."
+      average_test_scores: "Not applicable."
+
+  internships_and_practical_experience:
+    dual_programs:
+      available: "Yes."
+      details: "Dual study programs combining study and work."
+    internships:
+      opportunities: "Mandatory internships integrated into the curriculum."
+      partnerships: "Strong connections with relevant industries."
+    workshops:
+      available: "Yes."
+      details: "Workshops and practical training integral to programs."
+
+  additional_information:
+    FAQs: "Available on the university website."
+    testimonials: "Student experiences shared online."
+    contact_information: "International Office: international@htw-berlin.de"
+
+"Brandenburg University of Technology Cottbus-Senftenberg / Faculty of Natural Sciences":
+  matching_score: "6"
+  recommendation: "The faculty offers comprehensive programs in natural sciences with a focus on applied research. While it provides technical expertise and hands-on experience, it may lack the creative and artistic focus that Barbora prefers. Potential professions include Chemist, Biotechnologist, or Environmental Scientist."
+  field_of_study: "Natural Sciences"
+  description: "Provides interdisciplinary education in natural sciences, integrating research and practical skills to address environmental and technological challenges."
+  type: "Public University"
+  city: "Cottbus and Senftenberg"
+  address: "Platz der Deutschen Einheit 1, 03046 Cottbus, Germany"
+  web: "https://www.b-tu.de/en/"
+  timeline_overview: "Bachelor programs typically span 6-7 semesters, including practical projects and internships."
+
+  reputation_and_quality:
+    ranking: "Well-regarded for engineering and natural sciences."
+    faculty_quality:
+      notable_professors:
+        - "Prof. Dr. Peter Jepsen: Expert in physics and nanotechnology."
+        - "Prof. Dr. Ulrike Pascher: Specialist in environmental chemistry."
+      individual_mentorship: "Opportunities through research projects and labs."
+      number_of_students: "Approximately 7,000 students across campuses."
+      student_teacher_ratio: "Approximately 15:1."
+    accreditations: "Programs accredited by relevant German agencies."
+
+  study_programs:
+    description: "Offers Bachelor's programs in Biotechnology, Chemistry, Physics, and Environmental Sciences."
+    programs:
+      - name: "Bachelor of Science in Biotechnology"
+        type: "Bachelor"
+        specialization: "Biotechnology"
+        description: "Focuses on the application of biological processes in technology."
+        url: "https://www.b-tu.de/en/study/bachelor/biotechnology"
+        timeline_overview: "3.5-year program with laboratory work and internships."
+        matching_score: "6"
+        recommendation: "Provides practical skills but may not align with creative interests."
+        curriculum:
+          core_courses:
+            - "Molecular Biology"
+            - "Bioprocess Engineering"
+          electives:
+            - "Medical Biotechnology"
+            - "Environmental Biotechnology"
+        entry_requirements: "Abitur or equivalent; proficiency in German."
+        duration: "3.5 years"
+        language_of_instruction: "German"
+
+  industry_partnerships:
+    partnering_companies:
+      - name: "LEAG (Lausitz Energie Bergbau AG)"
+        description: "Collaborations on research projects and internships."
+        collaboration_type: "Internships, joint research."
+        study_type: "Opportunities for practical experience."
+        matching_score: "7"
+        recommendation: "Provides industry connections and practical experience."
+        timeline_overview: "Internships during semester breaks."
+        application_process:
+          requirements: "Application to the company; may require academic references."
+          deadline: "Varies by company."
+          open_days: "Company presentations and university career fairs."
+
+  exchange_programs:
+    partnering_schools:
+      - name: "University of Eastern Finland"
+        description: "Exchange program focusing on natural sciences."
+        structure: "One semester abroad with fieldwork opportunities."
+        matching_score: "7"
+        recommendation: "Offers international exposure in natural sciences."
+        duration: "One semester."
+        application_process:
+          requirements: "Good academic standing; proficiency in English."
+          deadline: "Check International Office for dates."
+          open_days: "International Office events."
+
+  tuition_and_financials:
+    tuition_fees:
+      domestic: "No tuition fees; semester fee around €300."
+      international: "Same as domestic; no tuition fees."
+    additional_costs:
+      living: "Approximately €600-€800 per month."
+      transportation: "Public transport pass included in semester fee."
+      materials: "Estimated €200-€400 per year."
+    scholarships_and_aid:
+      available_scholarships:
+        - name: "Deutschlandstipendium"
+          description: "Merit-based scholarship."
+          eligibility: "High academic achievement."
+          application_deadline: "Varies."
+      financial_aid_options: "BAföG, student loans, part-time work."
+
+  campus_and_student_life:
+    campus:
+      facilities:
+        - "Modern Laboratories"
+        - "Research Centers"
+        - "Libraries"
+      housing: "Student residences available at reasonable costs."
+      transportation: "Good public transport within the city."
+    student_life:
+      culture: "Close-knit community with diverse student organizations."
+      setting: "Campus in a smaller city with focus on sustainability."
+      extracurricular_activities:
+        - "Science clubs"
+        - "Cultural events"
+        - "Sports facilities"
+      support_services: "Academic advising, career services, counseling."
+
+  reputation_and_ranking:
+    global_rankings:
+      QS_Ranking: "Not prominently ranked globally."
+      THE_Ranking: "Not ranked."
+      ARWU_Ranking: "Not ranked."
+    national_rankings: "Recognized for engineering and natural science programs."
+    alumni_success: "Graduates working in biotech firms, research institutions."
+
+  post_graduation_outcomes:
+    job_opportunities:
+      description: "Prepared for technical roles in natural sciences."
+      professions:
+        - profession_name: "Biotechnologist"
+          description_of_profession: "Applies biological processes to technology."
+          study_program: "Bachelor of Science in Biotechnology"
+          job_market_demand: "Growing due to biotech advancements."
+          starting_salaries: "Approximately €35,000 - €45,000 per year."
+          industries: "Pharmaceuticals, agriculture, environmental tech."
+    further_education: "Opportunities for Master's and PhD programs."
+
+  application_and_admission:
+    application_process:
+      contact:
+        web: "https://www.b-tu.de/en/study/applying"
+        email: "study@b-tu.de"
+        phone: "+49 355 69 2800"
+      requirements:
+        academic: "Abitur or equivalent; proficiency in German."
+        additional: "Possibly entrance examination for certain programs."
+      deadline: "July 15 (for winter semester)."
+      open_days: "May; check website for dates."
+    admission_statistics:
+      acceptance_rate: "Generally accessible; varies by program."
+      average_gpa: "Not specified."
+      average_test_scores: "Not applicable."
+
+  internships_and_practical_experience:
+    dual_programs:
+      available: "Yes."
+      details: "Dual study programs combining study and work."
+    internships:
+      opportunities: "Mandatory internships integrated into the curriculum."
+      partnerships: "Strong connections with regional industries."
+    workshops:
+      available: "Yes."
+      details: "Workshops and practical training integral to programs."
+
+  additional_information:
+    FAQs: "Available on the university website."
+    testimonials: "Student experiences shared online."
+    contact_information: "International Office: international+studentsupport@b-tu.de"
+
+"Technische Universität Berlin (TU Berlin) / Faculty of Economics and Management":
+  matching_score: "5"
+  recommendation: "The faculty offers programs in economics, business administration, and industrial engineering. While it provides strong analytical skills and knowledge in management, it may not align with Barbora's interest in combining creativity with practical, hands-on fieldwork in a creative field. Potential professions include Economist, Business Analyst, or Industrial Engineer."
+  field_of_study: "Economics, Business Administration, Industrial Engineering"
+  description: "Integrates technical and economic education, focusing on the management aspects of technology-oriented companies."
+  type: "Technische Universität"
+  city: "Berlin"
+  address: "Straße des 17. Juni 135, 10623 Berlin, Germany"
+  web: "https://www.tu.berlin/"
+  timeline_overview: "Bachelor programs typically span 6 semesters (3 years), with options for Master's studies."
+
+  reputation_and_quality:
+    ranking: "TU Berlin is well-regarded for engineering and economics education."
+    faculty_quality:
+      notable_professors:
+        - "Prof. Dr. Günther Seliger: Expert in sustainable production"
+        - "Prof. Dr. Jan Kratzer: Specialist in entrepreneurship"
+      individual_mentorship: "Opportunities through seminars and project supervision"
+      number_of_students: "Approximately 34,000 students across the university"
+      student_teacher_ratio: "Varies by program; generally around 20:1"
+    accreditations: "Accredited by relevant German agencies"
+
+  study_programs:
+    description: "Offers Bachelor's programs in Economics, Business Administration, and Industrial Engineering."
+    programs:
+      - name: "Bachelor of Science in Industrial Engineering and Management"
+        type: "Bachelor"
+        specialization: "Combines engineering principles with business management."
+        description: "Prepares students for roles at the intersection of technology and management."
+        url: "https://www.tu.berlin/en/studying/study-programs/all-programs-offered/study-course/industrial-engineering-and-management-b-sc/"
+        timeline_overview: "3-year program with technical and economic courses."
+        matching_score: "5"
+        recommendation: "Technical and managerial focus may not align with Barbora's creative interests."
+        curriculum:
+          core_courses:
+            - "Engineering Basics"
+            - "Business Administration"
+          electives:
+            - "Project Management"
+            - "Innovation Management"
+        entry_requirements: "Abitur or equivalent; proficiency in German."
+        duration: "3 years"
+        language_of_instruction: "German"
+
+  industry_partnerships:
+    partnering_companies:
+      - name: "Siemens AG"
+        description: "Collaboration on projects and internships."
+        collaboration_type: "Internships, project collaborations."
+        study_type: "Integration of practical work into studies."
+        matching_score: "6"
+        recommendation: "Provides industry exposure but may lack creative aspects."
+        timeline_overview: "Internships typically during semester breaks."
+        application_process:
+          requirements: "Application to company; may require interviews."
+          deadline: "Varies by company."
+          open_days: "Company presentations at the university."
+
+  exchange_programs:
+    partnering_schools:
+      - name: "University of California, Berkeley, USA"
+        description: "Exchange program focusing on economics and management."
+        structure: "One semester abroad."
+        matching_score: "6"
+        recommendation: "Offers international exposure in business studies."
+        duration: "One semester."
+        application_process:
+          requirements: "Good academic standing; proficiency in English."
+          deadline: "Check International Office for dates."
+          open_days: "International Office events."
+
+  tuition_and_financials:
+    tuition_fees:
+      domestic: "No tuition fees; semester fee around €307."
+      international: "Same as domestic; no tuition fees."
+    additional_costs:
+      living: "Approximately €800-€1,000 per month."
+      transportation: "Public transport pass included in semester fee."
+      materials: "Estimated €200-€400 per year."
+    scholarships_and_aid:
+      available_scholarships:
+        - name: "Deutschlandstipendium"
+          description: "Merit-based scholarship."
+          eligibility: "High academic achievement."
+          application_deadline: "Usually in early summer."
+      financial_aid_options: "BAföG, student loans."
+
+  campus_and_student_life:
+    campus:
+      facilities:
+        - "Lecture Halls"
+        - "Libraries"
+        - "Study Spaces"
+      housing: "University accommodations and private rentals available."
+      transportation: "Excellent public transport connectivity."
+    student_life:
+      culture: "International community with a focus on technology and management."
+      setting: "Urban campus in central Berlin."
+      extracurricular_activities:
+        - "Business clubs"
+        - "Entrepreneurship events"
+        - "Student associations"
+      support_services: "Academic advising, career services, counseling."
+
+  reputation_and_ranking:
+    global_rankings:
+      QS_Ranking: "Ranked within top 150 universities worldwide."
+      THE_Ranking: "Similar global ranking."
+      ARWU_Ranking: "Ranked among top universities globally."
+    national_rankings: "Highly regarded in Germany for engineering and management."
+    alumni_success: "Graduates employed in technology firms, consulting, and management roles."
+
+  post_graduation_outcomes:
+    job_opportunities:
+      description: "Graduates are prepared for management roles in technical industries."
+      professions:
+        - profession_name: "Industrial Engineer"
+          description_of_profession: "Optimizes complex processes and systems."
+          study_program: "Bachelor of Science in Industrial Engineering and Management"
+          job_market_demand: "High demand in manufacturing and technology sectors."
+          starting_salaries: "Approximately €45,000 - €55,000 per year."
+          industries: "Manufacturing, logistics, consulting."
+    further_education: "Opportunities for Master's programs."
+
+  application_and_admission:
+    application_process:
+      contact:
+        web: "https://www.tu.berlin/en/studying/application-and-enrollment/"
+        email: "studienberatung@tu-berlin.de"
+        phone: "+49 30 314 29999"
+      requirements:
+        academic: "Abitur or equivalent; proficiency in German."
+        additional: "Strong background in mathematics recommended."
+      deadline: "July 15 (for winter semester)."
+      open_days: "April; check website for dates."
+    admission_statistics:
+      acceptance_rate: "Competitive; varies by program."
+      average_gpa: "Not specified."
+      average_test_scores: "Not applicable."
+
+  internships_and_practical_experience:
+    dual_programs:
+      available: "No formal dual programs."
+      details: "Focus on academic studies with practical projects."
+    internships:
+      opportunities: "Internships encouraged; sometimes integrated."
+      partnerships: "Connections with tech and management companies."
+    workshops:
+      available: "Yes."
+      details: "Seminars and case studies integral to programs."
+
+  additional_information:
+    FAQs: "Available on the university website."
+    testimonials: "Student experiences shared online."
+    contact_information: "International Office: international@tu-berlin.de"
