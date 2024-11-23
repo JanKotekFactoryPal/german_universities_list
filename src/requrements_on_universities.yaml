@@ -1,0 +1,42 @@
+"Name of the university / Name of the faculty": # the yaml field will be the combination of the university name and the faculty (or department) name
+  field of study: "Field of study (e.g., Design, Engineering, Mathematics)"
+  description: "Detailed description of the faculty and its focus areas. Potential career paths associated with the faculty's programs. Description of job market competitiveness for graduates. Factors enhancing employability (e.g., industry connections, interdisciplinary learning). Risks (e.g., economic fluctuations, market saturation)"
+  type: "type of the university(e.g., Universität, Technische Universität, Fachhochschule)"
+  study_programs: # each faculty (or department) can offer multiple study programs and study groups and specializations the study programs can be categorized by specialization and by type (master, bachelor, etc.)
+    - "Study program 1 name": # list all study programs offered by the faculty
+      matching_score: "Here, ChatGPT, give a score from (1-10) on how much beneficial would it be for Barbora to consider this study program"
+      recommendation: "Here, ChatGPT, summarize the pros and the cons of why should Barbora consider this study program and what makes it unique. What proffesion and job type can Barbora expect after graduation?"
+      specialization: "Specific focus area or specialization of the program in few words"
+      type: "Type of the study program (e.g., Bachelor, Master, PhD)"
+      description: "Detailed description of the study program"
+      url: "URL for more details about each program"
+  partnering_companies: # list of companies that collaborate with the faculty in term of "Duales Ausbildung" (dual vocational training) programm
+    - "Company 1 name": # list all partnering companies
+      description: "Detailed description of the partnership with the company"
+      matching_score: "Here, ChatGPT, give a score from (1-10) on how much beneficial would it be for Barbora to consider this school for exchange"
+      recommendation: "Here, ChatGPT, summarize the pros and the cons of why should Barbora consider this exchange program. What are the benefits of working with this company? What proffesion and job type can Barbora expect in this company after graduation?"
+      collaboratoin_type: "Detailed description of how the university and company collaborate"
+      study_type: "Describe, how does the combined education typically looks like (e.g., weekly split between university and company)"
+      application_process: # duales programm can be confusing. Sometimes, it is enough to pass the interview by the partner company, sometimes by the university, sometimes by both. Here, we can provide more details about the application process
+        requirements: "Details of the company’s application process and requirements. Do I need to pass an interview both at the company and the university? Explain case by case"
+        deadline: "Till when must the application be submitted to start the university in the winter semester 2025?"
+        open_days: "Dates for open days at the faculty or department"
+  partnering_schools: # list of partnering schools for exchange opportunities and study abroad programs
+    - "School 1 name": # list all partnering schools
+      matching_score: "Here, ChatGPT, give a score from (1-10) on how much beneficial would it be for Barbora to consider this school for exchange"
+      recommendation: "Here, ChatGPT, summarize the pros and the cons of why should Barbora consider this exchange program"
+      description: "Detailed description of the partnership with the school"
+      structure: "Structure of the partnership (e.g., semester abroad, co-designed curriculum)"
+  city: "City where the faculty is located"
+  address: "Address of the faculty or department"
+  web: "URL of the faculty's official website"
+  world_ranking: "World ranking of the faculty"
+  number_of_students: "Average Number of students at the faculty"
+  application_process:
+    contact:
+      web: "URL for the application process"
+      email: "Contact email address for admissions"
+      phone: "Contact phone number for admissions"
+    requirements: "Specific admission requirements, such as Abitur, good notes, porfolio of own work or equivalent"
+    deadline: "Till when must the application be submitted to start the university in the winter semester 2025?"
+    open_days: "Dates for open days at the faculty or department"
