@@ -2916,4 +2916,2631 @@
     testimonials: "Student experiences shared online"
     contact_information: "International Office: international@hmkw.de"
 
+"University of Europe for Applied Sciences (UE) / Faculty of Business, Psychology, and Media":
+  matching_score: "7"
+  recommendation: "The Faculty offers interdisciplinary programs that combine business, psychology, and media, emphasizing practical skills and industry connections. While the programs may not focus heavily on technical engineering skills, they provide opportunities to blend creativity with practical applications, which aligns with some of Barbora's interests. Potential professions include Media Manager, Marketing Specialist, or Business Analyst."
+  field_of_study: "Business, Psychology, and Media"
+  description: "Focuses on integrating business principles with psychology and media studies, preparing students for dynamic roles in various industries."
+  type: "Private University of Applied Sciences"
+  city: "Berlin"
+  address: "Dessauer Str. 3-5, 10963 Berlin, Germany"
+  web: "https://www.ue-germany.com/"
+  timeline_overview: "Bachelor programs typically span 6 semesters, including practical projects and internships."
 
+  reputation_and_quality:
+    ranking: "Recognized for innovative and interdisciplinary education"
+    faculty_quality:
+      notable_professors:
+        - "Prof. Dr. habil. Thorsten Pleger: Expert in business psychology"
+        - "Prof. Dr. Jens-Michael Lang: Specialist in media management"
+      individual_mentorship: "Strong emphasis on personal development and mentorship due to small class sizes"
+      number_of_students: "Approximately 2,000 students across campuses"
+      student_teacher_ratio: "Approximately 15:1"
+    accreditations: "Accredited by the German Council of Science and Humanities"
+
+  study_programs:
+    description: "Offers Bachelor's programs integrating business, psychology, and media studies"
+    programs:
+      - name: "Bachelor of Science in Business Psychology"
+        type: "Bachelor"
+        specialization: "Business Psychology, Human Resources"
+        description: "Combines psychological principles with business strategies to understand consumer behavior and organizational dynamics."
+        url: "https://www.ue-germany.com/programmes/business-psychology/bachelor/business-psychology"
+        timeline_overview: "3-year program with practical projects and internships"
+        matching_score: "7"
+        recommendation: "Provides insights into human behavior in business contexts, offering practical skills but may lack the technical focus Barbora desires."
+        curriculum:
+          core_courses:
+            - "Organizational Psychology"
+            - "Marketing and Consumer Behavior"
+          electives:
+            - "Human Resource Management"
+            - "Market Research"
+        entry_requirements: "Abitur or equivalent; proficiency in English or German"
+        duration: "3 years"
+        language_of_instruction: "English or German"
+
+      - name: "Bachelor of Science in Digital Business & Data Science"
+        type: "Bachelor"
+        specialization: "Digital Business, Data Analysis"
+        description: "Focuses on digital transformation in business, integrating data science and technology."
+        url: "https://www.ue-germany.com/programmes/business/bachelor/digital-business-and-data-science"
+        timeline_overview: "3-year program with industry projects"
+        matching_score: "7"
+        recommendation: "Offers technical skills related to data analysis and digital business, aligning with Barbora's interest in technology but may be less creative."
+        curriculum:
+          core_courses:
+            - "Data Analytics"
+            - "Digital Business Models"
+          electives:
+            - "Artificial Intelligence"
+            - "Digital Marketing"
+        entry_requirements: "Abitur or equivalent; proficiency in English"
+        duration: "3 years"
+        language_of_instruction: "English"
+
+  industry_partnerships:
+    partnering_companies:
+      - name: "Business and Media Companies"
+        description: "Collaboration on projects and internships"
+        collaboration_type: "Internships, project collaborations"
+        study_type: "Integration of real-world projects into coursework"
+        matching_score: "7"
+        recommendation: "Provides industry exposure and practical experience, beneficial for career development."
+        timeline_overview: "Opportunities throughout the program"
+        application_process:
+          requirements: "Standard university application; internship applications submitted separately"
+          deadline: "Rolling admissions; early application recommended"
+          open_days: "April 15-16, 2025"
+
+  exchange_programs:
+    partnering_schools:
+      - name: "University of California, Berkeley, USA"
+        description: "Exchange program offering international perspectives in business and psychology"
+        structure: "One semester abroad"
+        matching_score: "8"
+        recommendation: "Enhances international exposure and offers diverse learning experiences."
+        duration: "One semester"
+        application_process:
+          requirements: "Good academic standing, proficiency in English"
+          deadline: "Check International Office for specific dates"
+          open_days: "International Office events throughout the year"
+
+  tuition_and_financials:
+    tuition_fees:
+      domestic: "Approximately €8,940 per year"
+      international: "Approximately €10,340 per year"
+    additional_costs:
+      living: "Approximately €800-€1,000 per month"
+      transportation: "Public transport pass around €60-€80 per month"
+      materials: "Estimated €300-€500 per year for supplies"
+    scholarships_and_aid:
+      available_scholarships:
+        - name: "UE Scholarship"
+          description: "Merit-based scholarships for outstanding students"
+          eligibility: "Academic excellence and strong motivation"
+          application_deadline: "Varies; check university website"
+      financial_aid_options: "Student loans, installment payment plans"
+
+  campus_and_student_life:
+    campus:
+      facilities:
+        - "Modern Classrooms"
+        - "Media Labs"
+        - "Libraries"
+      housing: "Assistance provided in finding private accommodations"
+      transportation: "Well-connected via public transport"
+    student_live:
+      culture: "International community with a focus on interdisciplinary learning"
+      setting: "Urban campus in Berlin's creative district"
+      extracurricular_activities:
+        - "Business clubs"
+        - "Psychology workshops"
+        - "Student initiatives"
+      support_services: "Academic advising, career services, counseling"
+
+  reputation_and_ranking:
+    global_rankings:
+      QS_Ranking: "Not prominently ranked globally"
+      THE_Ranking: "Not ranked"
+      ARWU_Ranking: "Not ranked"
+    national_rankings: "Recognized for innovative and interdisciplinary programs"
+    alumni_success: "Graduates working in multinational companies and various industries"
+
+  post_graduation_outcomes:
+    job_opportunities:
+      description: "Graduates are prepared for roles in business, psychology, and media sectors"
+      professions:
+        - profession_name: "Business Analyst"
+          description_of_profession: "Analyzes business processes to improve efficiency"
+          study_program: "Bachelor of Science in Business Psychology"
+          job_market_demand: "Steady demand in various industries"
+          starting_salaries: "Approximately €35,000 - €45,000 per year"
+          industries: "Consulting, corporate firms, startups"
+    further_education: "Opportunities for Master's programs in Business, Psychology, or related fields"
+
+  application_and_admission:
+    application_process:
+      contact:
+        web: "https://www.ue-germany.com/admissions"
+        email: "admissions.berlin@ue-germany.com"
+        phone: "+49 30 338 539 510"
+      requirements:
+        academic: "Abitur or equivalent"
+        additional: "Motivation letter; possibly an interview"
+      deadline: "Rolling admissions; early application recommended"
+      open_days: "April 15-16, 2025"
+    admission_statistics:
+      acceptance_rate: "Selective; exact rate not specified"
+      average_gpa: "Not specified"
+      average_test_scores: "Not applicable"
+
+  internships_and_practical_experience:
+    dual_programs:
+      available: "No"
+      details: "Dual vocational training programs are not typically offered"
+    internships:
+      opportunities: "Internships are integral to the curriculum"
+      partnerships: "Collaborations with business and media companies"
+    workshops:
+      available: "Yes"
+      details: "Workshops and practical projects integrated into programs"
+
+  additional_information:
+    FAQs: "Available on the university website"
+    testimonials: "Student experiences shared online"
+    contact_information: "International Office: international@ue-germany.com"
+
+"Macromedia University of Applied Sciences / Faculty of Media and Communication":
+  matching_score: "7"
+  recommendation: "Macromedia University offers programs that integrate media, communication, and management, emphasizing practical skills and industry connections. While it may not focus heavily on technical engineering skills, it provides opportunities to combine creativity with practical applications, aligning with some of Barbora's interests. Potential professions include Media Manager, Content Creator, or Communication Specialist."
+  field_of_study: "Media and Communication"
+  description: "Focuses on preparing students for careers in the media and communication industries through practice-oriented education and close industry ties."
+  type: "Private University of Applied Sciences"
+  city: "Berlin"
+  address: "Mehringdamm 33, 10961 Berlin, Germany"
+  web: "https://www.macromedia-university.com/"
+  timeline_overview: "Bachelor programs typically span 7 semesters, including practical projects and internships."
+
+  reputation_and_quality:
+    ranking: "Known for strong industry connections and practical education"
+    faculty_quality:
+      notable_professors:
+        - "Prof. Dr. Gernot Wolfram: Expert in media management"
+        - "Prof. Dr. Sabine Schmidt: Specialist in communication studies"
+      individual_mentorship: "Emphasis on mentorship due to small class sizes"
+      number_of_students: "Approximately 4,000 students across campuses"
+      student_teacher_ratio: "Approximately 20:1"
+    accreditations: "Accredited by the German Council of Science and Humanities"
+
+  study_programs:
+    description: "Offers Bachelor's programs in Media Management, Communication Design, and Journalism"
+    programs:
+      - name: "Bachelor of Arts in Media Management"
+        type: "Bachelor"
+        specialization: "Media Management, Marketing"
+        description: "Combines media studies with management principles, focusing on the business side of media industries."
+        url: "https://www.macromedia-university.com/en/programs/media-management-ba/"
+        timeline_overview: "3.5-year program with practical projects and internships"
+        matching_score: "7"
+        recommendation: "Provides practical skills in media and management, aligning with Barbora's interest in combining creativity with practical applications."
+        curriculum:
+          core_courses:
+            - "Media Economics"
+            - "Marketing and Brand Management"
+          electives:
+            - "Digital Media Strategies"
+            - "Event Management"
+        entry_requirements: "Abitur or equivalent; proficiency in English or German"
+        duration: "3.5 years"
+        language_of_instruction: "English or German"
+
+      - name: "Bachelor of Arts in Communication Design"
+        type: "Bachelor"
+        specialization: "Graphic Design, Visual Communication"
+        description: "Focuses on creative design skills and visual communication techniques."
+        url: "https://www.macromedia-university.com/en/programs/communication-design-ba/"
+        timeline_overview: "3.5-year program with workshops and projects"
+        matching_score: "7"
+        recommendation: "Aligns with Barbora's creative talents, offering practical, hands-on learning, though it may be less technical."
+        curriculum:
+          core_courses:
+            - "Design Principles"
+            - "Digital Media Design"
+          electives:
+            - "Typography"
+            - "Motion Design"
+        entry_requirements: "Abitur or equivalent; portfolio submission; interview"
+        duration: "3.5 years"
+        language_of_instruction: "English or German"
+
+  industry_partnerships:
+    partnering_companies:
+      - name: "Media and Communication Companies"
+        description: "Collaboration on projects and internships"
+        collaboration_type: "Internships, project collaborations"
+        study_type: "Integration of real-world projects into coursework"
+        matching_score: "7"
+        recommendation: "Provides industry exposure and practical experience, beneficial for career development."
+        timeline_overview: "Opportunities throughout the program"
+        application_process:
+          requirements: "Standard university application; internship applications submitted separately"
+          deadline: "Rolling admissions; early application recommended"
+          open_days: "May 10-11, 2025"
+
+  exchange_programs:
+    partnering_schools:
+      - name: "University of Westminster, UK"
+        description: "Exchange program offering international perspectives in media and communication"
+        structure: "One semester abroad"
+        matching_score: "7"
+        recommendation: "Enhances international exposure and offers diverse learning experiences."
+        duration: "One semester"
+        application_process:
+          requirements: "Good academic standing, language proficiency"
+          deadline: "Check International Office for specific dates"
+          open_days: "International Office events throughout the year"
+
+  tuition_and_financials:
+    tuition_fees:
+      domestic: "Approximately €6,500 per semester"
+      international: "Approximately €6,500 per semester"
+    additional_costs:
+      living: "Approximately €800-€1,000 per month"
+      transportation: "Public transport pass around €60-€80 per month"
+      materials: "Estimated €300-€500 per year for supplies"
+    scholarships_and_aid:
+      available_scholarships:
+        - name: "Macromedia Scholarship"
+          description: "Financial support for outstanding students"
+          eligibility: "Academic excellence and strong motivation"
+          application_deadline: "Varies; check university website"
+      financial_aid_options: "Student loans, installment payment plans"
+
+  campus_and_student_life:
+    campus:
+      facilities:
+        - "Media Labs"
+        - "Design Studios"
+        - "Libraries"
+      housing: "Assistance provided in finding private accommodations"
+      transportation: "Excellent public transport connections"
+    student_live:
+      culture: "Dynamic community with a focus on media and creativity"
+      setting: "Urban campus in central Berlin"
+      extracurricular_activities:
+        - "Media projects"
+        - "Design workshops"
+        - "Student clubs"
+      support_services: "Academic advising, career services, counseling"
+
+  reputation_and_ranking:
+    global_rankings:
+      QS_Ranking: "Not prominently ranked globally"
+      THE_Ranking: "Not ranked"
+      ARWU_Ranking: "Not ranked"
+    national_rankings: "Recognized for practical media and communication education"
+    alumni_success: "Graduates working in media companies, advertising agencies, and creative industries"
+
+  post_graduation_outcomes:
+    job_opportunities:
+      description: "Graduates are prepared for various roles in the media and communication sectors"
+      professions:
+        - profession_name: "Media Manager"
+          description_of_profession: "Oversees media projects and strategies"
+          study_program: "Bachelor of Arts in Media Management"
+          job_market_demand: "Steady demand in media industries"
+          starting_salaries: "Approximately €35,000 - €45,000 per year"
+          industries: "Media companies, advertising, marketing"
+    further_education: "Opportunities for Master's programs in Media, Communication, or related fields"
+
+  application_and_admission:
+    application_process:
+      contact:
+        web: "https://www.macromedia-university.com/en/admission/"
+        email: "info@macromedia.de"
+        phone: "+49 89 544151 0"
+      requirements:
+        academic: "Abitur or equivalent"
+        additional: "Portfolio submission for design programs; possibly an interview"
+      deadline: "Rolling admissions; early application recommended"
+      open_days: "May 10-11, 2025"
+    admission_statistics:
+      acceptance_rate: "Selective; exact rate not specified"
+      average_gpa: "Not specified"
+      average_test_scores: "Not applicable"
+
+  internships_and_practical_experience:
+    dual_programs:
+      available: "No"
+      details: "Dual vocational training programs are not typically offered"
+    internships:
+      opportunities: "Internships are integral to the curriculum"
+      partnerships: "Collaborations with media and communication companies"
+    workshops:
+      available: "Yes"
+      details: "Workshops and practical projects integrated into programs"
+
+  additional_information:
+    FAQs: "Available on the university website"
+    testimonials: "Student experiences shared online"
+    contact_information: "International Office: international@macromedia.de"
+
+"Hochschule für Technik und Wirtschaft Berlin (HTW Berlin) / School of Computing":
+  matching_score: "7"
+  recommendation: "HTW Berlin's School of Computing offers practical-oriented programs in computer science and related fields. The emphasis on applied sciences and hands-on learning aligns with Barbora's preference for practical, field-oriented education. However, the programs are highly technical and may not focus on the creative aspects she enjoys. Potential professions include Software Developer, IT Specialist, or Data Analyst."
+  field_of_study: "Computer Science and Applied Computing"
+  description: "Focuses on providing students with practical skills in computer science, software development, and information technology through applied learning and industry collaborations."
+  type: "Fachhochschule (University of Applied Sciences)"
+  city: "Berlin"
+  address: "Wilhelminenhofstraße 75A, 12459 Berlin, Germany"
+  web: "https://www.htw-berlin.de/en/"
+  timeline_overview: "Bachelor programs typically span 7 semesters, including practical projects and internships."
+
+  reputation_and_quality:
+    ranking: "HTW Berlin is one of the largest and highly regarded universities of applied sciences in Germany"
+    faculty_quality:
+      notable_professors:
+        - "Prof. Dr. Thomas Köhler: Expert in software engineering"
+        - "Prof. Dr. Sabine Müller: Specialist in data science"
+      individual_mentorship: "Personalized support through small class sizes and project supervision"
+      number_of_students: "Approximately 14,000 students across the university"
+      student_teacher_ratio: "Approximately 20:1"
+    accreditations: "Programs accredited by relevant German accreditation agencies"
+
+  study_programs:
+    description: "Offers Bachelor's programs in Computer Science, Business Informatics, and Applied Computing"
+    programs:
+      - name: "Bachelor of Science in Applied Computer Science"
+        type: "Bachelor"
+        specialization: "Software Development, IT Systems"
+        description: "Provides practical skills in software development, programming, and IT systems management."
+        url: "https://www.htw-berlin.de/en/studies/bachelor/applied-computer-science/"
+        timeline_overview: "3.5-year program with practical training and a mandatory internship"
+        matching_score: "7"
+        recommendation: "Offers practical skills and hands-on learning but may lack creative and artistic elements Barbora prefers."
+        curriculum:
+          core_courses:
+            - "Programming Languages"
+            - "Database Systems"
+          electives:
+            - "Mobile App Development"
+            - "Cybersecurity"
+        entry_requirements: "Abitur or equivalent; proficiency in German"
+        duration: "3.5 years"
+        language_of_instruction: "German"
+
+      - name: "Bachelor of Science in Business Informatics"
+        type: "Bachelor"
+        specialization: "IT and Business Processes"
+        description: "Integrates computer science with business management to optimize business processes through IT solutions."
+        url: "https://www.htw-berlin.de/en/studies/bachelor/business-informatics/"
+        timeline_overview: "3.5-year program with industry projects and internships"
+        matching_score: "6"
+        recommendation: "Provides practical and technical skills but may not align with Barbora's creative interests."
+        curriculum:
+          core_courses:
+            - "Business Process Management"
+            - "Information Systems"
+          electives:
+            - "E-Commerce"
+            - "Data Analytics"
+        entry_requirements: "Abitur or equivalent; proficiency in German"
+        duration: "3.5 years"
+        language_of_instruction: "German"
+
+  industry_partnerships:
+    partnering_companies:
+      - name: "SAP SE"
+        description: "Collaboration on projects and internships"
+        collaboration_type: "Internships, dual study options"
+        study_type: "Integration of practical work experience into studies"
+        matching_score: "8"
+        recommendation: "Provides valuable industry experience and practical skills, aligning with Barbora's hands-on learning preference."
+        timeline_overview: "Opportunities available throughout the program"
+        application_process:
+          requirements: "Application to both university and company; may require interviews"
+          deadline: "Varies; early application recommended"
+          open_days: "Company open days and university career fairs"
+
+  exchange_programs:
+    partnering_schools:
+      - name: "Dublin City University, Ireland"
+        description: "Exchange program focusing on computer science disciplines"
+        structure: "One semester abroad with course credit transfer"
+        matching_score: "7"
+        recommendation: "Offers international exposure and practical learning experiences."
+        duration: "One semester"
+        application_process:
+          requirements: "Good academic standing; proficiency in English"
+          deadline: "Check International Office for dates"
+          open_days: "International Office events"
+
+  tuition_and_financials:
+    tuition_fees:
+      domestic: "No tuition fees; semester fee around €300"
+      international: "Same as domestic; no tuition fees"
+    additional_costs:
+      living: "Approximately €800-€1,000 per month"
+      transportation: "Public transport pass included in semester fee"
+      materials: "Estimated €200-€400 per year for supplies"
+    scholarships_and_aid:
+      available_scholarships:
+        - name: "Deutschlandstipendium"
+          description: "Merit-based scholarship"
+          eligibility: "High academic achievement"
+          application_deadline: "Varies"
+      financial_aid_options: "BAföG, student loans, part-time work opportunities"
+
+  campus_and_student_life:
+    campus:
+      facilities:
+        - "Computer Labs"
+        - "Innovation Hubs"
+        - "Libraries"
+      housing: "Assistance provided in finding accommodations"
+      transportation: "Well-connected via public transport"
+    student_live:
+      culture: "Practical and industry-focused environment"
+      setting: "Urban campus with modern facilities"
+      extracurricular_activities:
+        - "Coding clubs"
+        - "Hackathons"
+        - "Sports facilities"
+      support_services: "Career services, academic advising, counseling"
+
+  reputation_and_ranking:
+    global_rankings:
+      QS_Ranking: "Not individually ranked globally"
+      THE_Ranking: "Not ranked"
+      ARWU_Ranking: "Not ranked"
+    national_rankings: "Well-regarded among German universities of applied sciences"
+    alumni_success: "Graduates working in leading tech companies and IT departments"
+
+  post_graduation_outcomes:
+    job_opportunities:
+      description: "Graduates are equipped with practical skills for immediate entry into the IT workforce"
+      professions:
+        - profession_name: "Software Developer"
+          description_of_profession: "Develops and maintains software applications"
+          study_program: "Bachelor of Science in Applied Computer Science"
+          job_market_demand: "High demand in various sectors"
+          starting_salaries: "Approximately €40,000 - €50,000 per year"
+          industries: "IT companies, finance, healthcare"
+    further_education: "Opportunities for Master's programs in Computer Science"
+
+  application_and_admission:
+    application_process:
+      contact:
+        web: "https://www.htw-berlin.de/en/studies/applying/"
+        email: "studienberatung@htw-berlin.de"
+        phone: "+49 30 5019 2255"
+      requirements:
+        academic: "Abitur or equivalent; proficiency in German"
+        additional: "Possibly entrance examination for certain programs"
+      deadline: "July 15, 2025"
+      open_days: "May 5-6, 2025"
+    admission_statistics:
+      acceptance_rate: "Varies by program; generally accessible"
+      average_gpa: "Not specified"
+      average_test_scores: "Not applicable"
+
+  internships_and_practical_experience:
+    dual_programs:
+      available: "Yes"
+      details: "Dual study programs with industry partners combining study and work"
+    internships:
+      opportunities: "Mandatory internships integrated into the curriculum"
+      partnerships: "Strong connections with tech companies"
+    workshops:
+      available: "Yes"
+      details: "Workshops and practical training integral to programs"
+
+  additional_information:
+    FAQs: "Available on the university website"
+    testimonials: "Student experiences shared online"
+    contact_information: "International Office: international@htw-berlin.de"
+
+"Weißensee Academy of Art Berlin / Department of Fine Arts":
+  matching_score: "7"
+  recommendation: "The Department of Fine Arts offers intensive programs that foster individual artistic development across various mediums. This aligns with Barbora's exceptional drawing skills and desire for creative expression. However, it may lack emphasis on practical technical skills and hands-on fieldwork. Potential professions include Visual Artist, Sculptor, or Art Educator."
+  field_of_study: "Fine Arts"
+  description: "The department encourages experimental and conceptual artistic practices, offering specializations in painting, sculpture, and new media. It emphasizes personal artistic growth and critical engagement."
+  type: "Art Academy (Kunsthochschule)"
+  city: "Berlin"
+  address: "Bühringstr. 20, 13086 Berlin, Germany"
+  web: "https://kh-berlin.de/"
+  timeline_overview: "Programs typically span 10 semesters, integrating foundational studies and specialization."
+
+  reputation_and_quality:
+    ranking: "Highly respected within the German and international art community."
+    faculty_quality:
+      notable_professors:
+        - "Prof. Friederike Feldmann: Renowned painter and artist."
+        - "Prof. Eran Schaerf: Known for interdisciplinary art practices."
+      individual_mentorship: "Strong focus on personal artistic mentorship and development."
+      number_of_students: "Approximately 850 students."
+      student_teacher_ratio: "Approximately 8:1."
+    accreditations: "Accredited by the German Council of Science and Humanities."
+
+  study_programs:
+    description: "Offers Diploma programs in Fine Arts with various specializations."
+    programs:
+      - name: "Diploma in Fine Arts"
+        type: "Diploma"
+        specialization: "Painting, Sculpture, Media Art"
+        description: "An intensive program fostering individual artistic development across various mediums."
+        url: "https://kh-berlin.de/en/studies/study-programmes/fine-arts.html"
+        timeline_overview: "5-year program including foundation studies and advanced artistic practice."
+        matching_score: "7"
+        recommendation: "Excellent for developing artistic skills but may lack technical and practical fieldwork elements."
+        curriculum:
+          core_courses:
+            - "Artistic Practice"
+            - "Art Theory and History"
+          electives:
+            - "New Media"
+            - "Interdisciplinary Projects"
+        entry_requirements: "Abitur or equivalent, extensive portfolio, entrance examination."
+        duration: "5 years"
+        language_of_instruction: "German"
+
+  industry_partnerships:
+    partnering_companies: []
+    # Focuses more on individual artistic development rather than formal industry partnerships.
+
+  exchange_programs:
+    partnering_schools:
+      - name: "International Exchange Programs"
+        description: "Opportunities to study abroad at partner art schools."
+        structure: "One semester or year abroad."
+        matching_score: "7"
+        recommendation: "Provides international exposure and diverse artistic influences."
+        duration: "One semester or one year."
+        application_process:
+          requirements: "Good academic standing, portfolio, language proficiency."
+          deadline: "Varies; consult International Office."
+          open_days: "Information sessions held by the International Office."
+
+  tuition_and_financials:
+    tuition_fees:
+      domestic: "No tuition fees; semester fee around €300."
+      international: "Same as domestic; no tuition fees."
+    additional_costs:
+      living: "Approximately €800-€1,000 per month."
+      transportation: "Public transport pass included in semester fee."
+      materials: "Estimated €1,000-€2,000 per year for art supplies."
+    scholarships_and_aid:
+      available_scholarships:
+        - name: "DAAD Scholarships"
+          description: "Financial support for international students."
+          eligibility: "Academic excellence and need-based."
+          application_deadline: "Varies; check DAAD website."
+      financial_aid_options: "Limited scholarships; opportunities for part-time work."
+
+  campus_and_student_life:
+    campus:
+      facilities:
+        - "Art Studios"
+        - "Workshops"
+        - "Exhibition Spaces"
+      housing: "Limited student housing; assistance provided in finding accommodation."
+      transportation: "Good public transport connections."
+    student_live:
+      culture: "Collaborative and vibrant artistic community."
+      setting: "Located in a serene area conducive to creative work."
+      extracurricular_activities:
+        - "Art exhibitions"
+        - "Workshops"
+        - "Student initiatives"
+      support_services: "Academic advising, technical support."
+
+  reputation_and_ranking:
+    global_rankings:
+      QS_Ranking: "Not prominently ranked globally."
+      THE_Ranking: "Not ranked."
+      ARWU_Ranking: "Not ranked."
+    national_rankings: "Highly respected among German art academies."
+    alumni_success: "Graduates exhibiting internationally and contributing to contemporary art scenes."
+
+  post_graduation_outcomes:
+    job_opportunities:
+      description: "Graduates often pursue careers as independent artists or in art-related fields."
+      professions:
+        - profession_name: "Visual Artist"
+          description_of_profession: "Creates original artworks for exhibition and sale."
+          study_program: "Diploma in Fine Arts"
+          job_market_demand: "Competitive; success often depends on individual recognition."
+          starting_salaries: "Variable; depends on sales and commissions."
+          industries: "Art galleries, exhibitions, freelance."
+    further_education: "Opportunities for Master's programs or postgraduate studies."
+
+  application_and_admission:
+    application_process:
+      contact:
+        web: "https://kh-berlin.de/en/studies/application/"
+        email: "studienberatung@kh-berlin.de"
+        phone: "+49 30 47705 342"
+      requirements:
+        academic: "Abitur or equivalent."
+        additional: "Extensive portfolio, entrance examination."
+      deadline: "March 10, 2025."
+      open_days: "February 20-21, 2025."
+    admission_statistics:
+      acceptance_rate: "Highly competitive; exact rates not specified."
+      average_gpa: "Not specified."
+      average_test_scores: "Not applicable."
+
+  internships_and_practical_experience:
+    dual_programs:
+      available: "No."
+      details: "Dual vocational training programs are not offered."
+    internships:
+      opportunities: "Internships are self-arranged and encouraged."
+      partnerships: "Limited formal partnerships; students may seek opportunities independently."
+    workshops:
+      available: "Yes."
+      details: "Workshops and studio practice are central to the curriculum."
+
+  additional_information:
+    FAQs: "Available on the academy's website."
+    testimonials: "Student and alumni experiences shared online."
+    contact_information: "International Office: international@kh-berlin.de"
+
+"University of Applied Sciences Europe (UE) / Faculty of Engineering":
+  matching_score: "7"
+  recommendation: "As of my knowledge cutoff in October 2023, UE primarily offers programs in Business, Psychology, Media, and Art & Design. There is no specific Faculty of Engineering. However, they may offer technology-related programs that integrate aspects of engineering, such as Digital Business or Data Science. Potential professions include Business Analyst, Data Scientist, or Technology Consultant."
+  field_of_study: "Business and Technology"
+  description: "UE focuses on interdisciplinary education, combining business principles with technological advancements to prepare students for the digital economy."
+  type: "Private University of Applied Sciences"
+  city: "Berlin"
+  address: "Dessauer Str. 3-5, 10963 Berlin, Germany"
+  web: "https://www.ue-germany.com/"
+  timeline_overview: "Bachelor programs typically span 6 semesters, including practical projects and internships."
+
+  reputation_and_quality:
+    ranking: "Recognized for innovative and interdisciplinary programs."
+    faculty_quality:
+      notable_professors:
+        - "Prof. Dr. habil. Thorsten Pleger: Expert in business psychology."
+        - "Prof. Dr. Ulf Gartzke: Specialist in international business."
+      individual_mentorship: "Strong emphasis on personal development due to small class sizes."
+      number_of_students: "Approximately 2,000 students across campuses."
+      student_teacher_ratio: "Approximately 15:1."
+    accreditations: "Accredited by the German Council of Science and Humanities."
+
+  study_programs:
+    description: "Offers Bachelor's programs integrating business with technology."
+    programs:
+      - name: "Bachelor of Science in Digital Business & Data Science"
+        type: "Bachelor"
+        specialization: "Digital Business, Data Analysis"
+        description: "Focuses on digital transformation in business, integrating data science and technology."
+        url: "https://www.ue-germany.com/programmes/business/bachelor/digital-business-and-data-science"
+        timeline_overview: "3-year program with industry projects."
+        matching_score: "7"
+        recommendation: "Aligns with Barbora's interest in technology but may be less focused on traditional engineering."
+        curriculum:
+          core_courses:
+            - "Data Analytics"
+            - "Digital Business Models"
+          electives:
+            - "Artificial Intelligence"
+            - "Digital Marketing"
+        entry_requirements: "Abitur or equivalent; proficiency in English."
+        duration: "3 years"
+        language_of_instruction: "English"
+
+  industry_partnerships:
+    partnering_companies:
+      - name: "Tech and Business Companies"
+        description: "Collaboration on projects and internships."
+        collaboration_type: "Internships, project collaborations."
+        study_type: "Integration of real-world projects into coursework."
+        matching_score: "7"
+        recommendation: "Provides industry exposure and practical experience."
+        timeline_overview: "Opportunities throughout the program."
+        application_process:
+          requirements: "Standard university application; internships applied for separately."
+          deadline: "Rolling admissions; early application recommended."
+          open_days: "April 15-16, 2025."
+
+  exchange_programs:
+    partnering_schools:
+      - name: "University of California, Berkeley, USA"
+        description: "Exchange program offering international perspectives in business and technology."
+        structure: "One semester abroad."
+        matching_score: "8"
+        recommendation: "Enhances international exposure."
+        duration: "One semester."
+        application_process:
+          requirements: "Good academic standing, proficiency in English."
+          deadline: "Check International Office for specific dates."
+          open_days: "International Office events throughout the year."
+
+  tuition_and_financials:
+    tuition_fees:
+      domestic: "Approximately €8,940 per year."
+      international: "Approximately €10,340 per year."
+    additional_costs:
+      living: "Approximately €800-€1,000 per month."
+      transportation: "Public transport pass around €60-€80 per month."
+      materials: "Estimated €300-€500 per year for supplies."
+    scholarships_and_aid:
+      available_scholarships:
+        - name: "UE Scholarship"
+          description: "Merit-based scholarships for outstanding students."
+          eligibility: "Academic excellence and strong motivation."
+          application_deadline: "Varies; check university website."
+      financial_aid_options: "Student loans, installment payment plans."
+
+  campus_and_student_life:
+    campus:
+      facilities:
+        - "Modern Classrooms"
+        - "Computer Labs"
+        - "Libraries"
+      housing: "Assistance provided in finding private accommodations."
+      transportation: "Well-connected via public transport."
+    student_live:
+      culture: "International community with interdisciplinary focus."
+      setting: "Urban campus in Berlin's creative district."
+      extracurricular_activities:
+        - "Business clubs"
+        - "Technology workshops"
+        - "Student initiatives"
+      support_services: "Academic advising, career services, counseling."
+
+  reputation_and_ranking:
+    global_rankings:
+      QS_Ranking: "Not prominently ranked globally."
+      THE_Ranking: "Not ranked."
+      ARWU_Ranking: "Not ranked."
+    national_rankings: "Recognized for innovative and interdisciplinary programs."
+    alumni_success: "Graduates working in multinational companies and various industries."
+
+  post_graduation_outcomes:
+    job_opportunities:
+      description: "Prepared for roles in business, technology, and consulting sectors."
+      professions:
+        - profession_name: "Technology Consultant"
+          description_of_profession: "Advises businesses on technology strategies."
+          study_program: "Bachelor of Science in Digital Business & Data Science"
+          job_market_demand: "Growing due to digital transformation."
+          starting_salaries: "Approximately €40,000 - €50,000 per year."
+          industries: "Consulting firms, tech companies, corporate IT departments."
+    further_education: "Opportunities for Master's programs in related fields."
+
+  application_and_admission:
+    application_process:
+      contact:
+        web: "https://www.ue-germany.com/admissions"
+        email: "admissions.berlin@ue-germany.com"
+        phone: "+49 30 338 539 510"
+      requirements:
+        academic: "Abitur or equivalent."
+        additional: "Motivation letter; possibly an interview."
+      deadline: "Rolling admissions; early application recommended."
+      open_days: "April 15-16, 2025."
+    admission_statistics:
+      acceptance_rate: "Selective; exact rate not specified."
+      average_gpa: "Not specified."
+      average_test_scores: "Not applicable."
+
+  internships_and_practical_experience:
+    dual_programs:
+      available: "No."
+      details: "Dual vocational training programs are not typically offered."
+    internships:
+      opportunities: "Internships are integral to the curriculum."
+      partnerships: "Collaborations with business and tech companies."
+    workshops:
+      available: "Yes."
+      details: "Workshops and practical projects integrated into programs."
+
+  additional_information:
+    FAQs: "Available on the university website."
+    testimonials: "Student experiences shared online."
+    contact_information: "International Office: international@ue-germany.com"
+
+"Technical University of Applied Sciences Wildau / Faculty of Engineering and Natural Sciences":
+  matching_score: "6"
+  recommendation: "The faculty offers practical programs in engineering and natural sciences with an emphasis on applied research. It provides technical expertise and hands-on experience but may be less focused on the creative and artistic aspects Barbora enjoys. Potential professions include Mechanical Engineer, Environmental Engineer, or Biotechnologist."
+  field_of_study: "Engineering and Natural Sciences"
+  description: "Provides applied knowledge in engineering disciplines and natural sciences, integrating theoretical foundations with practical applications."
+  type: "University of Applied Sciences"
+  city: "Wildau (near Berlin)"
+  address: "Hochschulring 1, 15745 Wildau, Germany"
+  web: "https://en.th-wildau.de/"
+  timeline_overview: "Bachelor programs typically span 7 semesters, including practical semesters and a thesis project."
+
+  reputation_and_quality:
+    ranking: "Well-regarded among German universities of applied sciences."
+    faculty_quality:
+      notable_professors:
+        - "Prof. Dr.-Ing. Jörg Reiff-Stephan: Expert in mechanical engineering."
+        - "Prof. Dr. Sabine Möller: Specialist in biosystems technology."
+      individual_mentorship: "Personalized support through small class sizes."
+      number_of_students: "Approximately 4,000 students."
+      student_teacher_ratio: "Approximately 20:1."
+    accreditations: "Programs accredited by relevant German agencies."
+
+  study_programs:
+    description: "Offers Bachelor's programs in Mechanical Engineering, Biosystems Engineering, and Telematics."
+    programs:
+      - name: "Bachelor of Engineering in Mechanical Engineering"
+        type: "Bachelor"
+        specialization: "Mechanical Engineering"
+        description: "Focuses on design, production, and maintenance of mechanical systems."
+        url: "https://en.th-wildau.de/study/study-programmes/bachelor/mechanical-engineering-beng/"
+        timeline_overview: "3.5-year program with practical training and internship."
+        matching_score: "6"
+        recommendation: "Offers practical skills but may lack creative elements Barbora prefers."
+        curriculum:
+          core_courses:
+            - "Engineering Mechanics"
+            - "Materials Science"
+          electives:
+            - "Renewable Energy Systems"
+            - "Automotive Engineering"
+        entry_requirements: "Abitur or equivalent; proficiency in German."
+        duration: "3.5 years"
+        language_of_instruction: "German"
+
+  industry_partnerships:
+    partnering_companies:
+      - name: "Siemens AG"
+        description: "Collaboration on projects and internships."
+        collaboration_type: "Internships, dual study options."
+        study_type: "Integration of practical work into studies."
+        matching_score: "7"
+        recommendation: "Provides industry experience aligning with Barbora's hands-on preference."
+        timeline_overview: "Opportunities throughout the program."
+        application_process:
+          requirements: "Application to both university and company; may require interviews."
+          deadline: "Varies; early application recommended."
+          open_days: "Company open days and career fairs."
+
+  exchange_programs:
+    partnering_schools:
+      - name: "Dublin City University, Ireland"
+        description: "Exchange program focusing on engineering disciplines."
+        structure: "One semester abroad with credit transfer."
+        matching_score: "6"
+        recommendation: "Offers international exposure."
+        duration: "One semester."
+        application_process:
+          requirements: "Good academic standing; proficiency in English."
+          deadline: "Check International Office for dates."
+          open_days: "International Office events."
+
+  tuition_and_financials:
+    tuition_fees:
+      domestic: "No tuition fees; semester fee around €300."
+      international: "Same as domestic; no tuition fees."
+    additional_costs:
+      living: "Approximately €700-€900 per month."
+      transportation: "Public transport pass included in semester fee."
+      materials: "Estimated €200-€400 per year for supplies."
+    scholarships_and_aid:
+      available_scholarships:
+        - name: "Deutschlandstipendium"
+          description: "Merit-based scholarship."
+          eligibility: "High academic achievement."
+          application_deadline: "Varies."
+      financial_aid_options: "BAföG, student loans, part-time work."
+
+  campus_and_student_life:
+    campus:
+      facilities:
+        - "Engineering Workshops"
+        - "Laboratories"
+        - "Libraries"
+      housing: "Assistance provided; student residences available."
+      transportation: "Connected to Berlin via public transport."
+    student_live:
+      culture: "Community-oriented with applied learning focus."
+      setting: "Suburban campus with modern facilities."
+      extracurricular_activities:
+        - "Engineering clubs"
+        - "Student projects"
+        - "Sports facilities"
+      support_services: "Career services, academic advising, counseling."
+
+  reputation_and_ranking:
+    global_rankings:
+      QS_Ranking: "Not individually ranked globally."
+      THE_Ranking: "Not ranked."
+      ARWU_Ranking: "Not ranked."
+    national_rankings: "Well-regarded among German universities of applied sciences."
+    alumni_success: "Graduates working in engineering firms and research institutions."
+
+  post_graduation_outcomes:
+    job_opportunities:
+      description: "Prepared for immediate entry into the engineering workforce."
+      professions:
+        - profession_name: "Mechanical Engineer"
+          description_of_profession: "Designs and maintains mechanical systems."
+          study_program: "Bachelor of Engineering in Mechanical Engineering"
+          job_market_demand: "High in manufacturing and industrial sectors."
+          starting_salaries: "Approximately €40,000 - €50,000 per year."
+          industries: "Manufacturing, automotive, energy."
+    further_education: "Opportunities for Master's programs."
+
+  application_and_admission:
+    application_process:
+      contact:
+        web: "https://en.th-wildau.de/study/application-and-admission/"
+        email: "study@th-wildau.de"
+        phone: "+49 3375 508 300"
+      requirements:
+        academic: "Abitur or equivalent; proficiency in German."
+        additional: "Possibly entrance examination."
+      deadline: "July 15, 2025."
+      open_days: "May 5-6, 2025."
+    admission_statistics:
+      acceptance_rate: "Varies by program; generally accessible."
+      average_gpa: "Not specified."
+      average_test_scores: "Not applicable."
+
+  internships_and_practical_experience:
+    dual_programs:
+      available: "Yes."
+      details: "Dual study programs combining study and work."
+    internships:
+      opportunities: "Mandatory internships integrated into curriculum."
+      partnerships: "Strong connections with engineering firms."
+    workshops:
+      available: "Yes."
+      details: "Workshops and practical training integral to programs."
+
+  additional_information:
+    FAQs: "Available on the university website."
+    testimonials: "Student experiences shared online."
+    contact_information: "International Office: international@th-wildau.de"
+
+"University of Applied Sciences Potsdam / Faculty of Civil Engineering":
+  matching_score: "6"
+  recommendation: "As of my knowledge cutoff in October 2023, the university does not have a dedicated Faculty of Civil Engineering. However, they offer programs in Architecture and Urban Planning, which may align with Barbora's interests in combining creativity with practical skills. Potential professions include Urban Planner, Construction Manager, or Architectural Technologist."
+  field_of_study: "Architecture and Urban Planning"
+  description: "Focuses on innovative architectural education with an emphasis on sustainability and practical application."
+  type: "University of Applied Sciences"
+  city: "Potsdam"
+  address: "Kiepenheuerallee 5, 14469 Potsdam, Germany"
+  web: "https://www.fh-potsdam.de/"
+  timeline_overview: "Bachelor programs typically span 8 semesters, including practical projects and internships."
+
+  reputation_and_quality:
+    ranking: "Well-regarded nationally among universities of applied sciences."
+    faculty_quality:
+      notable_professors:
+        - "Prof. Katja Thoring: Expert in design thinking."
+        - "Prof. Jan Edler: Known for experimental architecture."
+      individual_mentorship: "Emphasis on mentorship through small class sizes."
+      number_of_students: "Approximately 3,500 students."
+      student_teacher_ratio: "Approximately 15:1."
+    accreditations: "Accredited by relevant German agencies."
+
+  study_programs:
+    description: "Offers Bachelor's programs in Architecture and Urban Design."
+    programs:
+      - name: "Bachelor of Arts in Architecture"
+        type: "Bachelor"
+        specialization: "Architecture"
+        description: "Combines creative design with technical skills, focusing on sustainable solutions."
+        url: "https://www.fh-potsdam.de/studium/architektur-ba"
+        timeline_overview: "4-year program with design studios and projects."
+        matching_score: "8"
+        recommendation: "Aligns with Barbora's desire for practical, hands-on learning."
+        curriculum:
+          core_courses:
+            - "Design Studio"
+            - "Building Technology"
+          electives:
+            - "Sustainable Architecture"
+            - "Digital Fabrication"
+        entry_requirements: "Abitur or equivalent; portfolio submission."
+        duration: "4 years"
+        language_of_instruction: "German"
+
+  industry_partnerships:
+    partnering_companies:
+      - name: "Local Architecture Firms"
+        description: "Collaboration on projects and internships."
+        collaboration_type: "Internships, project collaborations."
+        study_type: "Optional internships during studies."
+        matching_score: "8"
+        recommendation: "Provides practical experience and industry connections."
+        timeline_overview: "Internships typically during semester breaks."
+        application_process:
+          requirements: "Application to firms; may require portfolio."
+          deadline: "Varies by firm."
+          open_days: "Company open days and career fairs."
+
+  exchange_programs:
+    partnering_schools:
+      - name: "Aalto University, Finland"
+        description: "Exchange program focusing on innovative design."
+        structure: "One semester abroad with collaborative projects."
+        matching_score: "8"
+        recommendation: "Offers international exposure."
+        duration: "One semester."
+        application_process:
+          requirements: "Good academic standing, language proficiency."
+          deadline: "Check International Office."
+          open_days: "International Office events."
+
+  tuition_and_financials:
+    tuition_fees:
+      domestic: "No tuition fees; semester fee around €300."
+      international: "Same as domestic; no tuition fees."
+    additional_costs:
+      living: "Approximately €700-€900 per month."
+      transportation: "Public transport pass included in semester fee."
+      materials: "Estimated €300-€500 per year for supplies."
+    scholarships_and_aid:
+      available_scholarships:
+        - name: "Deutschlandstipendium"
+          description: "Merit-based scholarship."
+          eligibility: "High academic achievement."
+          application_deadline: "Varies."
+      financial_aid_options: "BAföG, student loans."
+
+  campus_and_student_life:
+    campus:
+      facilities:
+        - "Design Studios"
+        - "Workshops"
+        - "Libraries"
+      housing: "Limited student housing; assistance provided."
+      transportation: "Good public transport connections to Berlin."
+    student_live:
+      culture: "Collaborative and innovative environment."
+      setting: "Suburban campus in a historic city."
+      extracurricular_activities:
+        - "Design groups"
+        - "Cultural events"
+        - "Sports facilities"
+      support_services: "Academic advising, career services, counseling."
+
+  reputation_and_ranking:
+    global_rankings:
+      QS_Ranking: "Not prominently ranked globally."
+      THE_Ranking: "Not ranked."
+      ARWU_Ranking: "Not ranked."
+    national_rankings: "Well-regarded among German universities of applied sciences."
+    alumni_success: "Graduates working in architecture firms and urban projects."
+
+  post_graduation_outcomes:
+    job_opportunities:
+      description: "Prepared for careers in architecture and urban design."
+      professions:
+        - profession_name: "Architect"
+          description_of_profession: "Designs buildings focusing on functionality and aesthetics."
+          study_program: "Bachelor of Arts in Architecture"
+          job_market_demand: "Steady with emphasis on sustainability."
+          starting_salaries: "Approximately €35,000 - €45,000 per year."
+          industries: "Architecture firms, construction companies."
+    further_education: "Opportunities for Master's programs."
+
+  application_and_admission:
+    application_process:
+      contact:
+        web: "https://www.fh-potsdam.de/bewerbung"
+        email: "studienberatung@fh-potsdam.de"
+        phone: "+49 331 580 2091"
+      requirements:
+        academic: "Abitur or equivalent."
+        additional: "Portfolio submission; possibly entrance examination."
+      deadline: "May 15, 2025."
+      open_days: "April 2025; check website for dates."
+    admission_statistics:
+      acceptance_rate: "Selective; varies by program."
+      average_gpa: "Not specified."
+      average_test_scores: "Not applicable."
+
+  internships_and_practical_experience:
+    dual_programs:
+      available: "No formal dual programs."
+      details: "Practical experience emphasized."
+    internships:
+      opportunities: "Encouraged and sometimes integrated."
+      partnerships: "Connections with local firms."
+    workshops:
+      available: "Yes."
+      details: "Integral to programs."
+
+  additional_information:
+    FAQs: "Available on the university website."
+    testimonials: "Student experiences shared online."
+    contact_information: "International Office: international@fh-potsdam.de"
+
+"Steinbeis University Berlin / Faculty of Engineering and Technology":
+  matching_score: "6"
+  recommendation: "Steinbeis University Berlin offers practice-oriented programs with a strong emphasis on industry collaboration and project-based learning. While it may provide opportunities to combine practical skills with technical knowledge, the focus is primarily on business and management rather than engineering or creative fields. Potential professions include Project Manager, Business Engineer, or Technology Consultant."
+  field_of_study: "Business Engineering and Technology Management"
+  description: "Specializes in dual-degree programs that integrate academic studies with real-world projects, often in collaboration with industry partners."
+  type: "Private University"
+  city: "Berlin"
+  address: "Gartenstraße 1, 10115 Berlin, Germany"
+  web: "https://www.steinbeis-hochschule.de/"
+  timeline_overview: "Bachelor programs typically span 6 semesters, combining studies with practical projects."
+
+  reputation_and_quality:
+    ranking: "Known for its industry-oriented programs and project competence approach"
+    faculty_quality:
+      notable_professors:
+        - "Prof. Dr. Markus Würfel: Expert in business engineering"
+        - "Prof. Dr. Dr. h.c. mult. Johann Löhn: Founder of Steinbeis University"
+      individual_mentorship: "Strong mentorship due to small class sizes and project supervision"
+      number_of_students: "Approximately 8,000 students across Germany"
+      student_teacher_ratio: "Approximately 15:1"
+    accreditations: "State-recognized university; programs accredited by FIBAA"
+
+  study_programs:
+    description: "Offers Bachelor's and Master's programs integrating business and technology"
+    programs:
+      - name: "Bachelor of Science in Business Engineering"
+        type: "Bachelor"
+        specialization: "Business Engineering and Technology Management"
+        description: "Combines engineering principles with business management, focusing on practical application in industry projects."
+        url: "https://www.steinbeis-hochschule.de/studium/bachelor/business-engineering.html"
+        timeline_overview: "3-year program with integrated industry projects"
+        matching_score: "6"
+        recommendation: "May align with Barbora's interest in practical skills but lacks emphasis on creativity and hands-on fieldwork in creative fields."
+        curriculum:
+          core_courses:
+            - "Engineering Basics"
+            - "Business Administration"
+          electives:
+            - "Project Management"
+            - "Technology Innovation"
+        entry_requirements: "Abitur or equivalent; interview"
+        duration: "3 years"
+        language_of_instruction: "German"
+
+  industry_partnerships:
+    partnering_companies:
+      - name: "Various Industry Partners"
+        description: "Collaboration through dual-study programs and projects"
+        collaboration_type: "Integrated industry projects, internships"
+        study_type: "Dual-study model combining work and study"
+        matching_score: "7"
+        recommendation: "Provides practical experience and industry connections"
+        timeline_overview: "Throughout the program"
+        application_process:
+          requirements: "Employment contract with a partner company"
+          deadline: "Varies; early application recommended"
+          open_days: "Company open days and university info sessions"
+
+  exchange_programs:
+    partnering_schools: []
+    # Steinbeis University focuses more on industry collaboration than academic exchanges.
+
+  tuition_and_financials:
+    tuition_fees:
+      domestic: "Tuition fees vary; approximately €7,000 - €10,000 per year"
+      international: "Same as domestic"
+    additional_costs:
+      living: "Approximately €800-€1,000 per month"
+      transportation: "Public transport pass around €60-€80 per month"
+      materials: "Estimated €300-€500 per year"
+    scholarships_and_aid:
+      available_scholarships:
+        - name: "Company-sponsored programs"
+          description: "Financial support through partner companies"
+          eligibility: "Employment with a partner company"
+          application_deadline: "Varies"
+      financial_aid_options: "Student loans, installment payment plans"
+
+  campus_and_student_life:
+    campus:
+      facilities:
+        - "Modern Classrooms"
+        - "Project Spaces"
+        - "Libraries"
+      housing: "Assistance provided in finding accommodations"
+      transportation: "Well-connected via public transport"
+    student_life:
+      culture: "Professional environment with focus on industry projects"
+      setting: "Urban campus in central Berlin"
+      extracurricular_activities:
+        - "Networking events"
+        - "Workshops"
+        - "Career fairs"
+      support_services: "Academic advising, career services, mentoring"
+
+  reputation_and_ranking:
+    global_rankings:
+      QS_Ranking: "Not ranked"
+      THE_Ranking: "Not ranked"
+      ARWU_Ranking: "Not ranked"
+    national_rankings: "Known for strong industry connections and practical education"
+    alumni_success: "Graduates employed in various industries, often with partner companies"
+
+  post_graduation_outcomes:
+    job_opportunities:
+      description: "High employability due to practical experience and industry connections"
+      professions:
+        - profession_name: "Business Engineer"
+          description_of_profession: "Bridges the gap between engineering and business management"
+          study_program: "Bachelor of Science in Business Engineering"
+          job_market_demand: "Steady demand in various industries"
+          starting_salaries: "Approximately €40,000 - €50,000 per year"
+          industries: "Manufacturing, technology firms, consulting"
+    further_education: "Opportunities for Master's programs"
+
+  application_and_admission:
+    application_process:
+      contact:
+        web: "https://www.steinbeis-hochschule.de/bewerbung/"
+        email: "info@steinbeis-hochschule.de"
+        phone: "+49 30 86320670"
+      requirements:
+        academic: "Abitur or equivalent"
+        additional: "Employment with a partner company; interview"
+      deadline: "Varies; early application recommended"
+      open_days: "Info sessions throughout the year"
+    admission_statistics:
+      acceptance_rate: "Selective; exact rate not specified"
+      average_gpa: "Not specified"
+      average_test_scores: "Not applicable"
+
+  internships_and_practical_experience:
+    dual_programs:
+      available: "Yes"
+      details: "Dual-study model with integrated employment"
+    internships:
+      opportunities: "Integral part of the program"
+      partnerships: "With partner companies"
+    workshops:
+      available: "Yes"
+      details: "Workshops focused on practical skills and industry needs"
+
+  additional_information:
+    FAQs: "Available on the university website"
+    testimonials: "Student experiences shared online"
+    contact_information: "Admissions Office: info@steinbeis-hochschule.de"
+
+"Brandenburg University of Technology Cottbus-Senftenberg / Faculty of Engineering":
+  matching_score: "6"
+  recommendation: "The Faculty of Engineering offers comprehensive programs in various engineering disciplines with a strong emphasis on research and practical application. While it provides technical expertise and hands-on experience, it may lack the creative and artistic focus that Barbora prefers. Potential professions include Mechanical Engineer, Electrical Engineer, or Environmental Engineer."
+  field_of_study: "Engineering"
+  description: "BTU Cottbus-Senftenberg focuses on interdisciplinary engineering education, integrating research and practical skills to address current technological challenges."
+  type: "Public University"
+  city: "Cottbus and Senftenberg"
+  address: "Platz der Deutschen Einheit 1, 03046 Cottbus, Germany"
+  web: "https://www.b-tu.de/en/"
+  timeline_overview: "Bachelor programs typically span 6-7 semesters, including practical projects and internships."
+
+  reputation_and_quality:
+    ranking: "Well-regarded for engineering and environmental sciences"
+    faculty_quality:
+      notable_professors:
+        - "Prof. Dr.-Ing. Johannes Schwanitz: Expert in mechanical engineering"
+        - "Prof. Dr. Matthias Koziol: Specialist in materials science"
+      individual_mentorship: "Opportunities through research projects and labs"
+      number_of_students: "Approximately 7,000 students across campuses"
+      student_teacher_ratio: "Approximately 15:1"
+    accreditations: "Programs accredited by relevant German accreditation agencies"
+
+  study_programs:
+    description: "Offers Bachelor's and Master's programs in Mechanical Engineering, Electrical Engineering, Environmental Engineering, and more"
+    programs:
+      - name: "Bachelor of Science in Mechanical Engineering"
+        type: "Bachelor"
+        specialization: "Mechanical Engineering"
+        description: "Provides foundational knowledge in mechanics, materials, and design, with practical lab work"
+        url: "https://www.b-tu.de/en/study/bachelor/mechanical-engineering"
+        timeline_overview: "3.5-year program with internships"
+        matching_score: "6"
+        recommendation: "Offers practical skills but may not align with Barbora's creative interests"
+        curriculum:
+          core_courses:
+            - "Engineering Mechanics"
+            - "Thermodynamics"
+          electives:
+            - "Renewable Energy Systems"
+            - "Automotive Engineering"
+        entry_requirements: "Abitur or equivalent; proficiency in German"
+        duration: "3.5 years"
+        language_of_instruction: "German"
+
+  industry_partnerships:
+    partnering_companies:
+      - name: "LEAG (Lausitz Energie Bergbau AG)"
+        description: "Collaborations on research projects and internships"
+        collaboration_type: "Internships, joint research"
+        study_type: "Opportunities for practical experience"
+        matching_score: "7"
+        recommendation: "Provides industry connections and practical experience"
+        timeline_overview: "Internships during semester breaks or integrated into studies"
+        application_process:
+          requirements: "Application to the company; may require academic references"
+          deadline: "Varies by company"
+          open_days: "Company presentations and university career fairs"
+
+  exchange_programs:
+    partnering_schools:
+      - name: "Warsaw University of Technology, Poland"
+        description: "Exchange program focusing on engineering disciplines"
+        structure: "One semester abroad with credit transfer"
+        matching_score: "7"
+        recommendation: "Offers international exposure and collaboration opportunities"
+        duration: "One semester"
+        application_process:
+          requirements: "Good academic standing; proficiency in English or Polish"
+          deadline: "Check International Office for dates"
+          open_days: "International Office events"
+
+  tuition_and_financials:
+    tuition_fees:
+      domestic: "No tuition fees; semester fee around €300"
+      international: "Same as domestic; no tuition fees"
+    additional_costs:
+      living: "Approximately €600-€800 per month (lower cost of living than Berlin)"
+      transportation: "Public transport pass included in semester fee"
+      materials: "Estimated €200-€400 per year for supplies"
+    scholarships_and_aid:
+      available_scholarships:
+        - name: "Deutschlandstipendium"
+          description: "Merit-based scholarship"
+          eligibility: "High academic achievement"
+          application_deadline: "Varies"
+      financial_aid_options: "BAföG, student loans, part-time work opportunities"
+
+  campus_and_student_life:
+    campus:
+      facilities:
+        - "Modern Laboratories"
+        - "Research Centers"
+        - "Libraries"
+      housing: "Student residences available at reasonable costs"
+      transportation: "Good public transport within the city"
+    student_life:
+      culture: "Close-knit community with diverse student organizations"
+      setting: "Campus in a smaller city with a focus on sustainability"
+      extracurricular_activities:
+        - "Engineering clubs"
+        - "Cultural events"
+        - "Sports facilities"
+      support_services: "Academic advising, career services, counseling"
+
+  reputation_and_ranking:
+    global_rankings:
+      QS_Ranking: "Not prominently ranked globally"
+      THE_Ranking: "Not ranked"
+      ARWU_Ranking: "Not ranked"
+    national_rankings: "Recognized for engineering and environmental programs"
+    alumni_success: "Graduates working in engineering firms and research institutions"
+
+  post_graduation_outcomes:
+    job_opportunities:
+      description: "Graduates are prepared for technical roles in various engineering sectors"
+      professions:
+        - profession_name: "Mechanical Engineer"
+          description_of_profession: "Designs and develops mechanical systems"
+          study_program: "Bachelor of Science in Mechanical Engineering"
+          job_market_demand: "High demand in manufacturing and industrial sectors"
+          starting_salaries: "Approximately €40,000 - €50,000 per year"
+          industries: "Manufacturing, automotive, energy"
+    further_education: "Opportunities for Master's and PhD programs"
+
+  application_and_admission:
+    application_process:
+      contact:
+        web: "https://www.b-tu.de/en/study/applying"
+        email: "study@b-tu.de"
+        phone: "+49 355 69 2800"
+      requirements:
+        academic: "Abitur or equivalent; proficiency in German"
+        additional: "Possibly entrance examination for certain programs"
+      deadline: "July 15, 2025"
+      open_days: "May 5-6, 2025"
+    admission_statistics:
+      acceptance_rate: "Generally accessible; varies by program"
+      average_gpa: "Not specified"
+      average_test_scores: "Not applicable"
+
+  internships_and_practical_experience:
+    dual_programs:
+      available: "Yes"
+      details: "Dual study programs combining study and work"
+    internships:
+      opportunities: "Mandatory internships integrated into the curriculum"
+      partnerships: "Strong connections with regional industries"
+    workshops:
+      available: "Yes"
+      details: "Workshops and practical training integral to programs"
+
+  additional_information:
+    FAQs: "Available on the university website"
+    testimonials: "Student experiences shared online"
+    contact_information: "International Office: international+studentsupport@b-tu.de"
+
+"Hochschule für nachhaltige Entwicklung Eberswalde (HNEE) / Faculty of Sustainable Business":
+  matching_score: "6"
+  recommendation: "HNEE specializes in sustainability and environmental studies, with a focus on practical applications in business and management. While it aligns with Barbora's interest in fieldwork and practical skills, it may lack emphasis on creative or artistic aspects. Potential professions include Sustainable Business Manager, Environmental Consultant, or Project Coordinator in sustainability projects."
+  field_of_study: "Sustainable Business and Management"
+  description: "The faculty focuses on integrating sustainability principles into business practices, preparing students to address environmental challenges through economic activities."
+  type: "University of Applied Sciences"
+  city: "Eberswalde"
+  address: "Schicklerstraße 5, 16225 Eberswalde, Germany"
+  web: "https://www.hnee.de/"
+  timeline_overview: "Bachelor programs typically span 6-7 semesters, including practical projects and internships."
+
+  reputation_and_quality:
+    ranking: "Renowned for its focus on sustainability and applied sciences"
+    faculty_quality:
+      notable_professors:
+        - "Prof. Dr. Jens Pape: Expert in sustainable tourism"
+        - "Prof. Dr. Vera Moser: Specialist in sustainable business management"
+      individual_mentorship: "Emphasis on small group learning and mentorship"
+      number_of_students: "Approximately 2,300 students"
+      student_teacher_ratio: "Approximately 15:1"
+    accreditations: "Programs accredited by relevant German agencies"
+
+  study_programs:
+    description: "Offers Bachelor's programs in Sustainable Business Management, Forestry, and Environmental Studies"
+    programs:
+      - name: "Bachelor of Arts in Sustainable Business Management"
+        type: "Bachelor"
+        specialization: "Sustainable Business Practices"
+        description: "Combines business administration with sustainability principles, focusing on ecological and social responsibility"
+        url: "https://www.hnee.de/en/Studies/Courses-of-study/Bachelor/Sustainable-Business-Management/Sustainable-Business-Management-E2756.htm"
+        timeline_overview: "3.5-year program with practical projects"
+        matching_score: "6"
+        recommendation: "Provides practical skills and fieldwork opportunities but may lack creative and artistic focus"
+        curriculum:
+          core_courses:
+            - "Business Economics"
+            - "Sustainability Management"
+          electives:
+            - "Renewable Resources"
+            - "Corporate Social Responsibility"
+        entry_requirements: "Abitur or equivalent; proficiency in German"
+        duration: "3.5 years"
+        language_of_instruction: "German"
+
+  industry_partnerships:
+    partnering_companies:
+      - name: "Sustainable Businesses and NGOs"
+        description: "Collaboration on projects and internships"
+        collaboration_type: "Internships, project collaborations"
+        study_type: "Integration of practical work into studies"
+        matching_score: "7"
+        recommendation: "Provides practical experience in sustainability projects"
+        timeline_overview: "Opportunities throughout the program"
+        application_process:
+          requirements: "Application to organizations; may require interviews"
+          deadline: "Varies by organization"
+          open_days: "Career fairs and networking events"
+
+  exchange_programs:
+    partnering_schools:
+      - name: "University of Eastern Finland"
+        description: "Exchange program focusing on environmental and sustainability studies"
+        structure: "One semester abroad with credit transfer"
+        matching_score: "7"
+        recommendation: "Offers international exposure in sustainability practices"
+        duration: "One semester"
+        application_process:
+          requirements: "Good academic standing; proficiency in English"
+          deadline: "Check International Office for dates"
+          open_days: "International Office events"
+
+  tuition_and_financials:
+    tuition_fees:
+      domestic: "No tuition fees; semester fee around €300"
+      international: "Same as domestic; no tuition fees"
+    additional_costs:
+      living: "Approximately €600-€800 per month"
+      transportation: "Public transport pass included in semester fee"
+      materials: "Estimated €200-€400 per year for supplies"
+    scholarships_and_aid:
+      available_scholarships:
+        - name: "Deutschlandstipendium"
+          description: "Merit-based scholarship"
+          eligibility: "High academic achievement"
+          application_deadline: "Varies"
+      financial_aid_options: "BAföG, student loans, part-time work opportunities"
+
+  campus_and_student_life:
+    campus:
+      facilities:
+        - "Eco-friendly Buildings"
+        - "Research Laboratories"
+        - "Libraries"
+      housing: "Student residences available"
+      transportation: "Good public transport; bicycle-friendly city"
+    student_life:
+      culture: "Strong community focus on sustainability and environmental activism"
+      setting: "Small city surrounded by forests and natural reserves"
+      extracurricular_activities:
+        - "Environmental clubs"
+        - "Community projects"
+        - "Outdoor activities"
+      support_services: "Academic advising, career services, counseling"
+
+  reputation_and_ranking:
+    global_rankings:
+      QS_Ranking: "Not ranked"
+      THE_Ranking: "Not ranked"
+      ARWU_Ranking: "Not ranked"
+    national_rankings: "Highly regarded for sustainability education"
+    alumni_success: "Graduates working in NGOs, sustainable businesses, and governmental agencies"
+
+  post_graduation_outcomes:
+    job_opportunities:
+      description: "Graduates are equipped to implement sustainable practices in various business contexts"
+      professions:
+        - profession_name: "Sustainability Manager"
+          description_of_profession: "Oversees and implements sustainability strategies within organizations"
+          study_program: "Bachelor of Arts in Sustainable Business Management"
+          job_market_demand: "Growing demand due to increased focus on sustainability"
+          starting_salaries: "Approximately €35,000 - €45,000 per year"
+          industries: "Corporate firms, NGOs, government agencies"
+    further_education: "Opportunities for Master's programs in sustainability or environmental management"
+
+  application_and_admission:
+    application_process:
+      contact:
+        web: "https://www.hnee.de/en/Studies/Application-Admission/Application-Admission-K3865.htm"
+        email: "studieren@hnee.de"
+        phone: "+49 3334 657 124"
+      requirements:
+        academic: "Abitur or equivalent; proficiency in German"
+        additional: "Possibly a motivation letter"
+      deadline: "July 15, 2025"
+      open_days: "June 2025; check website for specific dates"
+    admission_statistics:
+      acceptance_rate: "Selective; varies by program"
+      average_gpa: "Not specified"
+      average_test_scores: "Not applicable"
+
+  internships_and_practical_experience:
+    dual_programs:
+      available: "Yes"
+      details: "Dual study options with partner organizations"
+    internships:
+      opportunities: "Mandatory internships integrated into the curriculum"
+      partnerships: "Strong connections with sustainability-focused organizations"
+    workshops:
+      available: "Yes"
+      details: "Workshops and field projects integral to programs"
+
+  additional_information:
+    FAQs: "Available on the university website"
+    testimonials: "Student experiences shared online"
+    contact_information: "International Office: international@hnee.de"
+
+"Technische Universität Berlin (TU Berlin) / Faculty of Process Sciences":
+  matching_score: "6"
+  recommendation: "The Faculty of Process Sciences offers rigorous programs in chemical engineering, biotechnology, and food technology. While it provides strong technical expertise and laboratory experience, it may not align with Barbora's interest in combining creativity with hands-on fieldwork in creative fields. Potential professions include Chemical Engineer, Bioprocess Engineer, or Food Technologist."
+  field_of_study: "Process Sciences"
+  description: "Focuses on the development and optimization of chemical and biological processes, integrating engineering principles with practical applications."
+  type: "Technische Universität"
+  city: "Berlin"
+  address: "Straße des 17. Juni 135, 10623 Berlin, Germany"
+  web: "https://www.tu.berlin/en/faculty-iii"
+  timeline_overview: "Bachelor programs typically span 6 semesters (3 years), with options for master's studies."
+
+  reputation_and_quality:
+    ranking: "TU Berlin is ranked among the top engineering universities globally"
+    faculty_quality:
+      notable_professors:
+        - "Prof. Dr.-Ing. Peter Neubauer: Expert in bioprocess engineering"
+        - "Prof. Dr.-Ing. Andrea Büttner: Specialist in food chemistry"
+      individual_mentorship: "Available through research projects and lab groups"
+      number_of_students: "Approximately 2,500 students in the faculty"
+      student_teacher_ratio: "Approximately 20:1"
+    accreditations: "Accredited by relevant German accreditation agencies"
+
+  study_programs:
+    description: "Offers Bachelor's and Master's programs in Chemical Engineering, Biotechnology, Food Technology, and related fields"
+    programs:
+      - name: "Bachelor of Science in Chemical Engineering"
+        type: "Bachelor"
+        specialization: "Chemical and Process Engineering"
+        description: "Provides foundational knowledge in chemistry, thermodynamics, and process design"
+        url: "https://www.tu.berlin/en/studying/study-programs/all-programs-offered/study-course/chemical-engineering-b-sc/"
+        timeline_overview: "3-year program with laboratory work and internships"
+        matching_score: "6"
+        recommendation: "Highly technical; may not align with Barbora's creative interests"
+        curriculum:
+          core_courses:
+            - "Organic Chemistry"
+            - "Process Engineering"
+          electives:
+            - "Environmental Engineering"
+            - "Materials Science"
+        entry_requirements: "Abitur or equivalent; proficiency in German"
+        duration: "3 years"
+        language_of_instruction: "German"
+
+  industry_partnerships:
+    partnering_companies:
+      - name: "BASF SE"
+        description: "Collaborations on research projects and internships"
+        collaboration_type: "Internships, joint research"
+        study_type: "Opportunities to work on industry-relevant projects"
+        matching_score: "7"
+        recommendation: "Provides practical experience in engineering but less focus on creativity"
+        timeline_overview: "Internships typically during semester breaks"
+        application_process:
+          requirements: "Application to the company; may require academic references"
+          deadline: "Varies by company"
+          open_days: "Company presentations at the university"
+
+  exchange_programs:
+    partnering_schools:
+      - name: "ETH Zurich, Switzerland"
+        description: "Exchange program for top-performing students in process sciences"
+        structure: "One semester abroad with research opportunities"
+        matching_score: "7"
+        recommendation: "Offers international exposure and access to leading research facilities"
+        duration: "One semester"
+        application_process:
+          requirements: "Excellent academic record; proficiency in English"
+          deadline: "Typically early 2025 for Winter Semester"
+          open_days: "International Office events"
+
+  tuition_and_financials:
+    tuition_fees:
+      domestic: "No tuition fees; semester fee around €307"
+      international: "Same as domestic; no tuition fees"
+    additional_costs:
+      living: "Approximately €800-€1,000 per month"
+      transportation: "Public transport pass included in semester fee"
+      materials: "Estimated €200-€400 per year for supplies"
+    scholarships_and_aid:
+      available_scholarships:
+        - name: "Deutschlandstipendium"
+          description: "Merit-based scholarship"
+          eligibility: "High academic achievement"
+          application_deadline: "Usually in early summer"
+      financial_aid_options: "BAföG for eligible students, student loans"
+
+  campus_and_student_life:
+    campus:
+      facilities:
+        - "Advanced Laboratories"
+        - "Research Centers"
+        - "Libraries"
+      housing: "University accommodations and private rentals available"
+      transportation: "Excellent public transport connectivity"
+    student_life:
+      culture: "Diverse and international community with a focus on research"
+      setting: "Urban campus in central Berlin"
+      extracurricular_activities:
+        - "Science clubs"
+        - "Research groups"
+        - "Student associations"
+      support_services: "Academic advising, career services, counseling"
+
+  reputation_and_ranking:
+    global_rankings:
+      QS_Ranking: "TU Berlin ranked within top 150 universities worldwide"
+      THE_Ranking: "Similar global ranking"
+      ARWU_Ranking: "Ranked among top universities globally"
+    national_rankings: "Highly regarded in Germany for engineering and sciences"
+    alumni_success: "Graduates employed in leading chemical and biotech companies"
+
+  post_graduation_outcomes:
+    job_opportunities:
+      description: "Graduates are well-prepared for careers in chemical engineering and biotechnology"
+      professions:
+        - profession_name: "Chemical Engineer"
+          description_of_profession: "Designs and optimizes chemical processes"
+          study_program: "Bachelor of Science in Chemical Engineering"
+          job_market_demand: "Strong demand in various industries"
+          starting_salaries: "Approximately €45,000 - €55,000 per year"
+          industries: "Chemical industry, pharmaceuticals, energy"
+    further_education: "Opportunities for Master's and PhD programs"
+
+  application_and_admission:
+    application_process:
+      contact:
+        web: "https://www.tu.berlin/en/studying/application-and-enrollment/"
+        email: "studienberatung@tu-berlin.de"
+        phone: "+49 30 314 29999"
+      requirements:
+        academic: "Abitur or equivalent; strong background in chemistry and mathematics"
+        additional: "German language proficiency (TestDaF, DSH)"
+      deadline: "July 15, 2025"
+      open_days: "April 10-11, 2025"
+    admission_statistics:
+      acceptance_rate: "Competitive; varies by year"
+      average_gpa: "Not specified"
+      average_test_scores: "Not applicable"
+
+  internships_and_practical_experience:
+    dual_programs:
+      available: "No formal dual programs"
+      details: "Focus on academic studies with practical lab work"
+    internships:
+      opportunities: "Internships encouraged; sometimes integrated into studies"
+      partnerships: "Connections with chemical and biotech companies"
+    workshops:
+      available: "Yes"
+      details: "Laboratory sessions and practical courses integral to the curriculum"
+
+  additional_information:
+    FAQs: "Available on the university website"
+    testimonials: "Student experiences shared online"
+    contact_information: "International Office: international@tu-berlin.de"
+
+"Berlin University of the Arts (UdK) / Faculty of Music":
+  matching_score: "6"
+  recommendation: "The Faculty of Music at UdK Berlin offers comprehensive programs for aspiring musicians, focusing on performance, composition, and music education. While it aligns with Barbora's creative talents, it may not fully match her interest in combining creativity with technical skills in a practical, hands-on field outside of music. Potential professions include Professional Musician, Composer, or Music Educator."
+  field_of_study: "Music Performance, Composition, Music Education"
+  description: "Provides high-level artistic education in various musical disciplines, fostering individual artistic development and excellence."
+  type: "Artistic University (Kunsthochschule)"
+  city: "Berlin"
+  address: "Bundesallee 1-12, 10719 Berlin, Germany"
+  web: "https://www.udk-berlin.de/en/"
+  timeline_overview: "Bachelor programs typically span 8 semesters, focusing on intensive artistic training and performances."
+
+  reputation_and_quality:
+    ranking: "Highly prestigious institution for music and arts in Germany and internationally"
+    faculty_quality:
+      notable_professors:
+        - "Prof. Daniel Barenboim: Renowned conductor and pianist"
+        - "Prof. Tabea Zimmermann: Acclaimed violist"
+      individual_mentorship: "Strong emphasis on one-on-one instruction and personalized mentorship"
+      number_of_students: "Approximately 3,500 students across all faculties"
+      student_teacher_ratio: "Low student-to-teacher ratio for individualized attention"
+    accreditations: "Accredited by the German Council of Science and Humanities"
+
+  study_programs:
+    description: "Offers Bachelor's and Master's programs in various musical disciplines"
+    programs:
+      - name: "Bachelor of Music in Instrumental Performance"
+        type: "Bachelor"
+        specialization: "Instrumental Performance"
+        description: "Focuses on developing technical proficiency and artistic expression on a chosen instrument"
+        url: "https://www.udk-berlin.de/en/studies/all-courses/faculty-of-music/"
+        timeline_overview: "4-year program with regular performances and recitals"
+        matching_score: "6"
+        recommendation: "Provides high-level artistic training but may not align with Barbora's interest in combining creativity with technical, hands-on fieldwork outside of music"
+        curriculum:
+          core_courses:
+            - "Instrumental Instruction"
+            - "Music Theory"
+          electives:
+            - "Chamber Music"
+            - "Contemporary Music"
+        entry_requirements: "Abitur or equivalent; entrance examination including performance audition"
+        duration: "4 years"
+        language_of_instruction: "German"
+
+      - name: "Bachelor of Music in Composition"
+        type: "Bachelor"
+        specialization: "Composition"
+        description: "Emphasizes the development of individual compositional style and techniques"
+        url: "https://www.udk-berlin.de/en/studies/all-courses/faculty-of-music/"
+        timeline_overview: "4-year program with opportunities for public performances of compositions"
+        matching_score: "6"
+        recommendation: "Offers creative expression but may not align with Barbora's technical and practical fieldwork interests"
+        curriculum:
+          core_courses:
+            - "Composition Techniques"
+            - "Orchestration"
+          electives:
+            - "Electronic Music"
+            - "Film Scoring"
+        entry_requirements: "Abitur or equivalent; submission of compositions; entrance examination"
+        duration: "4 years"
+        language_of_instruction: "German"
+
+  industry_partnerships:
+    partnering_companies:
+      - name: "Berlin Philharmonic"
+        description: "Collaborations for performances and masterclasses"
+        collaboration_type: "Masterclasses, workshops"
+        study_type: "Opportunities to learn from professional musicians"
+        matching_score: "7"
+        recommendation: "Provides exposure to professional music environments"
+        timeline_overview: "Events scheduled throughout the academic year"
+        application_process:
+          requirements: "Participation based on selection; may require auditions"
+          deadline: "Varies per event"
+          open_days: "Concerts and open rehearsals available to students"
+
+  exchange_programs:
+    partnering_schools:
+      - name: "Juilliard School, USA"
+        description: "Exchange program offering international artistic perspectives"
+        structure: "One semester or one year abroad"
+        matching_score: "7"
+        recommendation: "Provides international exposure in music education"
+        duration: "One semester or one academic year"
+        application_process:
+          requirements: "Excellent academic and performance record; language proficiency"
+          deadline: "Check International Office for specific dates"
+          open_days: "Information sessions held by International Office"
+
+  tuition_and_financials:
+    tuition_fees:
+      domestic: "No tuition fees; semester fee around €320"
+      international: "Same as domestic; no tuition fees"
+    additional_costs:
+      living: "Approximately €800-€1,000 per month"
+      transportation: "Public transport pass included in semester fee"
+      materials: "Costs for instrument maintenance, sheet music"
+    scholarships_and_aid:
+      available_scholarships:
+        - name: "Deutschlandstipendium"
+          description: "Merit-based scholarship"
+          eligibility: "High academic and artistic achievement"
+          application_deadline: "Varies; check university website"
+      financial_aid_options: "BAföG, student loans, part-time work opportunities"
+
+  campus_and_student_life:
+    campus:
+      facilities:
+        - "Practice Rooms"
+        - "Concert Halls"
+        - "Music Libraries"
+      housing: "Assistance provided in finding accommodations"
+      transportation: "Excellent public transport connections"
+    student_life:
+      culture: "Vibrant artistic community with frequent performances"
+      setting: "Urban campus located in central Berlin"
+      extracurricular_activities:
+        - "Student ensembles"
+        - "Workshops"
+        - "Masterclasses"
+      support_services: "Academic advising, career services, counseling"
+
+  reputation_and_ranking:
+    global_rankings:
+      QS_Ranking: "Ranked among top institutions for performing arts"
+      THE_Ranking: "Not specifically ranked"
+      ARWU_Ranking: "Not ranked"
+    national_rankings: "Highly prestigious for music and arts education"
+    alumni_success: "Graduates performing in leading orchestras and ensembles worldwide"
+
+  post_graduation_outcomes:
+    job_opportunities:
+      description: "Graduates pursue careers as professional musicians, composers, or educators"
+      professions:
+        - profession_name: "Professional Musician"
+          description_of_profession: "Performs solo or with ensembles"
+          study_program: "Bachelor of Music in Instrumental Performance"
+          job_market_demand: "Competitive; requires exceptional talent and dedication"
+          starting_salaries: "Variable; depends on engagements and positions"
+          industries: "Orchestras, opera houses, freelance"
+    further_education: "Opportunities for Master's and advanced studies"
+
+  application_and_admission:
+    application_process:
+      contact:
+        web: "https://www.udk-berlin.de/en/application/"
+        email: "admissions@udk-berlin.de"
+        phone: "+49 30 3185 2454"
+      requirements:
+        academic: "Abitur or equivalent"
+        additional: "Entrance examination, auditions, portfolio (for composition)"
+      deadline: "December 1, 2024 (for the following academic year)"
+      open_days: "November 2024; check website for specific dates"
+    admission_statistics:
+      acceptance_rate: "Highly competitive; exact rates not specified"
+      average_gpa: "Not specified"
+      average_test_scores: "Not applicable"
+
+  internships_and_practical_experience:
+    dual_programs:
+      available: "No"
+      details: "Focus is on full-time artistic training"
+    internships:
+      opportunities: "Masterclasses and collaborations with professional institutions"
+      partnerships: "Berlin Philharmonic, Staatsoper Berlin"
+    workshops:
+      available: "Yes"
+      details: "Regular workshops with visiting artists and professors"
+
+  additional_information:
+    FAQs: "Available on the university website"
+    testimonials: "Student and alumni experiences shared online"
+    contact_information: "International Office: international@udk-berlin.de"
+
+"Berlin University of the Arts (UdK) / Faculty of Performing Arts":
+  matching_score: "6"
+  recommendation: "The Faculty of Performing Arts offers programs in theater, acting, directing, and dance. While it aligns with Barbora's creative talents, it may not fully meet her interest in combining creativity with technical skills in a practical, hands-on field outside of performing arts. Potential professions include Actor, Director, or Choreographer."
+  field_of_study: "Theater, Acting, Directing, Dance"
+  description: "Provides comprehensive artistic education in performing arts, emphasizing individual artistic development and practical stage experience."
+  type: "Artistic University (Kunsthochschule)"
+  city: "Berlin"
+  address: "Bundesallee 1-12, 10719 Berlin, Germany"
+  web: "https://www.udk-berlin.de/en/"
+  timeline_overview: "Bachelor programs typically span 8 semesters, with intensive practical training and performances."
+
+  reputation_and_quality:
+    ranking: "Highly respected institution for performing arts education"
+    faculty_quality:
+      notable_professors:
+        - "Prof. Dr. hc. Boyan Danovski: Renowned theater director"
+        - "Prof. Vivienne Newport: Acclaimed choreographer"
+      individual_mentorship: "Strong focus on personalized coaching and mentorship"
+      number_of_students: "Approximately 3,500 students across all faculties"
+      student_teacher_ratio: "Low student-to-teacher ratio for individualized instruction"
+    accreditations: "Accredited by the German Council of Science and Humanities"
+
+  study_programs:
+    description: "Offers Bachelor's and Master's programs in Acting, Directing, and Dance"
+    programs:
+      - name: "Bachelor of Arts in Acting"
+        type: "Bachelor"
+        specialization: "Acting"
+        description: "Focuses on developing acting skills for theater, film, and television"
+        url: "https://www.udk-berlin.de/en/studies/all-courses/faculty-of-performing-arts/"
+        timeline_overview: "4-year program with stage performances and workshops"
+        matching_score: "6"
+        recommendation: "Provides creative expression but may not align with Barbora's interest in technical skills and fieldwork outside of performing arts"
+        curriculum:
+          core_courses:
+            - "Acting Techniques"
+            - "Voice and Speech"
+          electives:
+            - "Camera Acting"
+            - "Movement and Dance"
+        entry_requirements: "Abitur or equivalent; entrance examination including auditions"
+        duration: "4 years"
+        language_of_instruction: "German"
+
+      - name: "Bachelor of Arts in Directing"
+        type: "Bachelor"
+        specialization: "Theater Directing"
+        description: "Develops skills in directing for theater productions, focusing on artistic vision and leadership"
+        url: "https://www.udk-berlin.de/en/studies/all-courses/faculty-of-performing-arts/"
+        timeline_overview: "4-year program with opportunities to direct student productions"
+        matching_score: "6"
+        recommendation: "Encourages creativity but may not provide the technical and practical fieldwork Barbora seeks"
+        curriculum:
+          core_courses:
+            - "Directing Techniques"
+            - "Dramaturgy"
+          electives:
+            - "Stage Design"
+            - "Playwriting"
+        entry_requirements: "Abitur or equivalent; entrance examination including project proposals"
+        duration: "4 years"
+        language_of_instruction: "German"
+
+  industry_partnerships:
+    partnering_companies:
+      - name: "Berlin Theaters and Performing Arts Venues"
+        description: "Collaborations for performances and internships"
+        collaboration_type: "Internships, guest lectures"
+        study_type: "Opportunities to work with professionals in the industry"
+        matching_score: "7"
+        recommendation: "Provides industry exposure but focused on performing arts"
+        timeline_overview: "Opportunities available throughout the program"
+        application_process:
+          requirements: "Varies; may require auditions or interviews"
+          deadline: "Varies per opportunity"
+          open_days: "Performances and showcases open to the public"
+
+  exchange_programs:
+    partnering_schools:
+      - name: "Royal Academy of Dramatic Art (RADA), UK"
+        description: "Exchange program offering international perspectives in performing arts"
+        structure: "One semester abroad"
+        matching_score: "7"
+        recommendation: "Enhances international exposure in performing arts"
+        duration: "One semester"
+        application_process:
+          requirements: "Good academic standing; auditions may be required"
+          deadline: "Check International Office for specific dates"
+          open_days: "Information sessions held by International Office"
+
+  tuition_and_financials:
+    tuition_fees:
+      domestic: "No tuition fees; semester fee around €320"
+      international: "Same as domestic; no tuition fees"
+    additional_costs:
+      living: "Approximately €800-€1,000 per month"
+      transportation: "Public transport pass included in semester fee"
+      materials: "Costs for scripts, costumes, personal equipment"
+    scholarships_and_aid:
+      available_scholarships:
+        - name: "Deutschlandstipendium"
+          description: "Merit-based scholarship"
+          eligibility: "High academic and artistic achievement"
+          application_deadline: "Varies; check university website"
+      financial_aid_options: "BAföG, student loans, part-time work opportunities"
+
+  campus_and_student_life:
+    campus:
+      facilities:
+        - "Rehearsal Rooms"
+        - "Theater Stages"
+        - "Dance Studios"
+      housing: "Assistance provided in finding accommodations"
+      transportation: "Excellent public transport connections"
+    student_life:
+      culture: "Dynamic artistic community with frequent performances"
+      setting: "Urban campus located in central Berlin"
+      extracurricular_activities:
+        - "Student productions"
+        - "Workshops"
+        - "Festivals"
+      support_services: "Academic advising, career services, counseling"
+
+  reputation_and_ranking:
+    global_rankings:
+      QS_Ranking: "Ranked among top institutions for performing arts"
+      THE_Ranking: "Not specifically ranked"
+      ARWU_Ranking: "Not ranked"
+    national_rankings: "Highly prestigious for performing arts education"
+    alumni_success: "Graduates working in theaters, film, and television both nationally and internationally"
+
+  post_graduation_outcomes:
+    job_opportunities:
+      description: "Graduates pursue careers in theater, film, television, and related fields"
+      professions:
+        - profession_name: "Actor"
+          description_of_profession: "Performs roles in theater, film, or television"
+          study_program: "Bachelor of Arts in Acting"
+          job_market_demand: "Highly competitive; success depends on talent and networking"
+          starting_salaries: "Variable; freelance and contract-based"
+          industries: "Theater companies, film productions, television"
+    further_education: "Opportunities for Master's programs and specialized training"
+
+  application_and_admission:
+    application_process:
+      contact:
+        web: "https://www.udk-berlin.de/en/application/"
+        email: "admissions@udk-berlin.de"
+        phone: "+49 30 3185 2454"
+      requirements:
+        academic: "Abitur or equivalent"
+        additional: "Entrance examination, auditions, project proposals"
+      deadline: "December 1, 2024 (for the following academic year)"
+      open_days: "November 2024; check website for specific dates"
+    admission_statistics:
+      acceptance_rate: "Highly competitive; exact rates not specified"
+      average_gpa: "Not specified"
+      average_test_scores: "Not applicable"
+
+  internships_and_practical_experience:
+    dual_programs:
+      available: "No"
+      details: "Focus is on full-time artistic training"
+    internships:
+      opportunities: "Possible internships with theaters and production companies"
+      partnerships: "Local and national theaters, film studios"
+    workshops:
+      available: "Yes"
+      details: "Workshops with industry professionals and guest artists"
+
+  additional_information:
+    FAQs: "Available on the university website"
+    testimonials: "Student and alumni experiences shared online"
+    contact_information: "International Office: international@udk-berlin.de"
+
+"Hochschule für Schauspielkunst Ernst Busch / Faculty of Performing Arts":
+  matching_score: "6"
+  recommendation: "This institution specializes in performing arts, including acting, directing, puppetry, and choreography. While it aligns with Barbora's creative abilities, it may not fully meet her desire to combine creativity with technical skills in a practical, hands-on field outside of performing arts. Potential professions include Actor, Director, or Puppeteer."
+  field_of_study: "Acting, Directing, Puppetry, Choreography"
+  description: "Provides intensive training in performing arts, emphasizing artistic excellence and innovation."
+  type: "Artistic University (Kunsthochschule)"
+  city: "Berlin"
+  address: "Zinnowitzer Str. 11, 10115 Berlin, Germany"
+  web: "https://www.hfs-berlin.de/"
+  timeline_overview: "Diploma programs typically span 8 semesters, focusing on practical training and stage experience."
+
+  reputation_and_quality:
+    ranking: "Highly respected institution for performing arts in Germany"
+    faculty_quality:
+      notable_professors:
+        - "Prof. Dr. Jens Becker: Renowned theater director"
+        - "Prof. Gabriele Heinz: Acclaimed actress"
+      individual_mentorship: "Strong emphasis on individual coaching and mentorship"
+      number_of_students: "Approximately 250 students"
+      student_teacher_ratio: "Very low, allowing for personalized instruction"
+    accreditations: "Accredited by the German Council of Science and Humanities"
+
+  study_programs:
+    description: "Offers Diploma programs in Acting, Directing, Puppetry, and Choreography"
+    programs:
+      - name: "Diploma in Acting"
+        type: "Diploma"
+        specialization: "Acting"
+        description: "Focuses on developing acting skills for stage and screen"
+        url: "https://www.hfs-berlin.de/en/studies/acting/"
+        timeline_overview: "4-year program with intensive training and performances"
+        matching_score: "6"
+        recommendation: "Provides artistic training but may not align with Barbora's interest in technical skills outside of performing arts"
+        curriculum:
+          core_courses:
+            - "Acting Techniques"
+            - "Voice and Speech"
+          electives:
+            - "Camera Acting"
+            - "Movement and Dance"
+        entry_requirements: "Abitur or equivalent; entrance examination including auditions"
+        duration: "4 years"
+        language_of_instruction: "German"
+
+      - name: "Diploma in Puppetry"
+        type: "Diploma"
+        specialization: "Puppetry"
+        description: "Unique program focusing on the art of puppetry in theater"
+        url: "https://www.hfs-berlin.de/en/studies/puppetry/"
+        timeline_overview: "4-year program with practical projects and performances"
+        matching_score: "6"
+        recommendation: "Offers a creative niche field but may not meet Barbora's technical and practical fieldwork interests"
+        curriculum:
+          core_courses:
+            - "Puppet Construction"
+            - "Puppetry Performance"
+          electives:
+            - "Storytelling"
+            - "Stage Design"
+        entry_requirements: "Abitur or equivalent; entrance examination including practical tasks"
+        duration: "4 years"
+        language_of_instruction: "German"
+
+  industry_partnerships:
+    partnering_companies:
+      - name: "Berliner Ensemble"
+        description: "Collaborations for student performances and internships"
+        collaboration_type: "Internships, guest performances"
+        study_type: "Opportunities to engage with professional theater productions"
+        matching_score: "7"
+        recommendation: "Provides industry experience within performing arts"
+        timeline_overview: "Opportunities available throughout the program"
+        application_process:
+          requirements: "Varies; may require auditions or interviews"
+          deadline: "Varies per opportunity"
+          open_days: "Performances and showcases open to the public"
+
+  exchange_programs:
+    partnering_schools:
+      - name: "Russian Institute of Theatre Arts (GITIS), Russia"
+        description: "Exchange program offering international perspectives in theater"
+        structure: "One semester abroad"
+        matching_score: "6"
+        recommendation: "Offers international exposure but may be challenging due to language barriers"
+        duration: "One semester"
+        application_process:
+          requirements: "Good academic standing; proficiency in Russian recommended"
+          deadline: "Check International Office for specific dates"
+          open_days: "Information sessions held by International Office"
+
+  tuition_and_financials:
+    tuition_fees:
+      domestic: "No tuition fees; semester fee around €300"
+      international: "Same as domestic; no tuition fees"
+    additional_costs:
+      living: "Approximately €800-€1,000 per month"
+      transportation: "Public transport pass included in semester fee"
+      materials: "Costs for scripts, costumes, materials for puppetry"
+    scholarships_and_aid:
+      available_scholarships:
+        - name: "Deutschlandstipendium"
+          description: "Merit-based scholarship"
+          eligibility: "High academic and artistic achievement"
+          application_deadline: "Varies; check university website"
+      financial_aid_options: "BAföG, student loans, part-time work opportunities"
+
+  campus_and_student_life:
+    campus:
+      facilities:
+        - "Rehearsal Spaces"
+        - "Theater Studios"
+        - "Workshops for Puppetry"
+      housing: "Assistance provided in finding accommodations"
+      transportation: "Excellent public transport connections"
+    student_life:
+      culture: "Intimate artistic community with collaborative projects"
+      setting: "Located in central Berlin with access to cultural venues"
+      extracurricular_activities:
+        - "Student productions"
+        - "Workshops"
+        - "Festivals"
+      support_services: "Academic advising, career services, counseling"
+
+  reputation_and_ranking:
+    global_rankings:
+      QS_Ranking: "Not ranked"
+      THE_Ranking: "Not ranked"
+      ARWU_Ranking: "Not ranked"
+    national_rankings: "Highly regarded for specialized performing arts education"
+    alumni_success: "Graduates working in prominent theaters and cultural institutions"
+
+  post_graduation_outcomes:
+    job_opportunities:
+      description: "Graduates pursue careers in theater, film, television, and specialized fields like puppetry"
+      professions:
+        - profession_name: "Actor"
+          description_of_profession: "Performs in theatrical productions and media"
+          study_program: "Diploma in Acting"
+          job_market_demand: "Competitive; success depends on talent and opportunities"
+          starting_salaries: "Variable; often project-based"
+          industries: "Theater companies, film and television productions"
+    further_education: "Opportunities for advanced studies and specialization"
+
+  application_and_admission:
+    application_process:
+      contact:
+        web: "https://www.hfs-berlin.de/en/application/"
+        email: "studienberatung@hfs-berlin.de"
+        phone: "+49 30 755417 0"
+      requirements:
+        academic: "Abitur or equivalent"
+        additional: "Entrance examination, auditions, practical tests"
+      deadline: "February 15, 2025 (for the following academic year)"
+      open_days: "January 2025; check website for specific dates"
+    admission_statistics:
+      acceptance_rate: "Highly selective; limited spots available"
+      average_gpa: "Not specified"
+      average_test_scores: "Not applicable"
+
+  internships_and_practical_experience:
+    dual_programs:
+      available: "No"
+      details: "Focused on full-time artistic training"
+    internships:
+      opportunities: "Possible internships with theaters and cultural institutions"
+      partnerships: "Local theaters, festivals, international collaborations"
+    workshops:
+      available: "Yes"
+      details: "Workshops with guest artists and industry professionals"
+
+  additional_information:
+    FAQs: "Available on the university website"
+    testimonials: "Student and alumni experiences shared online"
+    contact_information: "International Office: international@hfs-berlin.de"
+
+"Berliner Hochschule für Technik (BHT) / Faculty of Mathematics and Natural Sciences":
+  matching_score: "6"
+  recommendation: "The faculty offers practical-oriented programs in mathematics, physics, chemistry, and environmental sciences. While it provides technical knowledge and practical laboratory experience, it may not align with Barbora's interest in combining creativity with hands-on fieldwork in a creative field. Potential professions include Mathematician, Laboratory Technician, or Environmental Scientist."
+  field_of_study: "Mathematics, Natural Sciences, Environmental Sciences"
+  description: "Focuses on applied sciences, integrating theoretical knowledge with practical skills to address real-world problems."
+  type: "University of Applied Sciences"
+  city: "Berlin"
+  address: "Luxemburger Str. 10, 13353 Berlin, Germany"
+  web: "https://www.bht-berlin.de/"
+  timeline_overview: "Bachelor programs typically span 7 semesters, including practical projects and internships."
+
+  reputation_and_quality:
+    ranking: "Well-regarded among German universities of applied sciences"
+    faculty_quality:
+      notable_professors:
+        - "Prof. Dr. Martin Kügler: Expert in applied mathematics"
+        - "Prof. Dr. Sabine Klinkusch: Specialist in environmental chemistry"
+      individual_mentorship: "Personalized support through small class sizes"
+      number_of_students: "Approximately 12,000 students across the university"
+      student_teacher_ratio: "Approximately 20:1"
+    accreditations: "Programs accredited by relevant German agencies"
+
+  study_programs:
+    description: "Offers Bachelor's programs in Applied Mathematics, Applied Chemistry, and Environmental Engineering"
+    programs:
+      - name: "Bachelor of Science in Applied Mathematics"
+        type: "Bachelor"
+        specialization: "Mathematics with practical applications in technology and engineering"
+        description: "Provides a strong foundation in mathematical theories with applications in various industries"
+        url: "https://www.bht-berlin.de/applied-mathematics"
+        timeline_overview: "3.5-year program with practical projects"
+        matching_score: "6"
+        recommendation: "Offers technical skills but may lack the creative and hands-on elements Barbora prefers"
+        curriculum:
+          core_courses:
+            - "Calculus"
+            - "Linear Algebra"
+          electives:
+            - "Numerical Methods"
+            - "Data Analysis"
+        entry_requirements: "Abitur or equivalent; proficiency in German"
+        duration: "3.5 years"
+        language_of_instruction: "German"
+
+      - name: "Bachelor of Science in Environmental Engineering"
+        type: "Bachelor"
+        specialization: "Environmental Protection and Sustainability"
+        description: "Focuses on engineering solutions for environmental challenges"
+        url: "https://www.bht-berlin.de/environmental-engineering"
+        timeline_overview: "3.5-year program with laboratory work and field projects"
+        matching_score: "7"
+        recommendation: "Provides practical and fieldwork experience in environmental sciences, which may align with Barbora's hands-on interests"
+        curriculum:
+          core_courses:
+            - "Environmental Chemistry"
+            - "Waste Management"
+          electives:
+            - "Renewable Energy"
+            - "Water Treatment"
+        entry_requirements: "Abitur or equivalent; proficiency in German"
+        duration: "3.5 years"
+        language_of_instruction: "German"
+
+  industry_partnerships:
+    partnering_companies:
+      - name: "Environmental Agencies and Tech Companies"
+        description: "Collaboration on projects and internships"
+        collaboration_type: "Internships, project collaborations"
+        study_type: "Integration of practical work into studies"
+        matching_score: "7"
+        recommendation: "Provides practical experience, aligning with Barbora's hands-on learning preference"
+        timeline_overview: "Opportunities available throughout the program"
+        application_process:
+          requirements: "Application to companies; may require interviews"
+          deadline: "Varies by company"
+          open_days: "Career fairs and networking events"
+
+  exchange_programs:
+    partnering_schools:
+      - name: "University of Applied Sciences Utrecht, Netherlands"
+        description: "Exchange program focusing on applied sciences"
+        structure: "One semester abroad with credit transfer"
+        matching_score: "7"
+        recommendation: "Offers international exposure and practical learning experiences"
+        duration: "One semester"
+        application_process:
+          requirements: "Good academic standing; proficiency in English"
+          deadline: "Check International Office for dates"
+          open_days: "International Office events"
+
+  tuition_and_financials:
+    tuition_fees:
+      domestic: "No tuition fees; semester fee around €300"
+      international: "Same as domestic; no tuition fees"
+    additional_costs:
+      living: "Approximately €800-€1,000 per month"
+      transportation: "Public transport pass included in semester fee"
+      materials: "Estimated €200-€400 per year for supplies"
+    scholarships_and_aid:
+      available_scholarships:
+        - name: "Deutschlandstipendium"
+          description: "Merit-based scholarship"
+          eligibility: "High academic achievement"
+          application_deadline: "Varies"
+      financial_aid_options: "BAföG, student loans, part-time work opportunities"
+
+  campus_and_student_life:
+    campus:
+      facilities:
+        - "Laboratories"
+        - "Computer Labs"
+        - "Libraries"
+      housing: "Assistance provided in finding accommodations"
+      transportation: "Well-connected via public transport"
+    student_life:
+      culture: "Practical and industry-focused environment"
+      setting: "Urban campus with modern facilities"
+      extracurricular_activities:
+        - "Science clubs"
+        - "Research projects"
+        - "Sports facilities"
+      support_services: "Career services, academic advising, counseling"
+
+  reputation_and_ranking:
+    global_rankings:
+      QS_Ranking: "Not individually ranked globally"
+      THE_Ranking: "Not ranked"
+      ARWU_Ranking: "Not ranked"
+    national_rankings: "Well-regarded among German universities of applied sciences"
+    alumni_success: "Graduates working in various industries, research institutions, and environmental agencies"
+
+  post_graduation_outcomes:
+    job_opportunities:
+      description: "Graduates are equipped with practical skills for immediate entry into the workforce"
+      professions:
+        - profession_name: "Environmental Engineer"
+          description_of_profession: "Develops solutions to environmental problems"
+          study_program: "Bachelor of Science in Environmental Engineering"
+          job_market_demand: "Growing due to environmental concerns"
+          starting_salaries: "Approximately €40,000 - €50,000 per year"
+          industries: "Environmental agencies, consulting firms, government"
+    further_education: "Opportunities for Master's programs in related fields"
+
+  application_and_admission:
+    application_process:
+      contact:
+        web: "https://www.bht-berlin.de/en/studies/application-and-admission/"
+        email: "studienberatung@bht-berlin.de"
+        phone: "+49 30 4504 0"
+      requirements:
+        academic: "Abitur or equivalent; proficiency in German"
+        additional: "Possibly entrance examination for certain programs"
+      deadline: "July 15, 2025"
+      open_days: "May 5-6, 2025"
+    admission_statistics:
+      acceptance_rate: "Varies by program; generally accessible"
+      average_gpa: "Not specified"
+      average_test_scores: "Not applicable"
+
+  internships_and_practical_experience:
+    dual_programs:
+      available: "Yes"
+      details: "Dual study programs with industry partners combining study and work"
+    internships:
+      opportunities: "Mandatory internships integrated into the curriculum"
+      partnerships: "Strong connections with industries and agencies"
+    workshops:
+      available: "Yes"
+      details: "Workshops and practical training integral to programs"
+
+  additional_information:
+    FAQs: "Available on the university website"
+    testimonials: "Student experiences shared online"
+    contact_information: "International Office: international@bht-berlin.de"
+
+"Freie Universität Berlin (FU Berlin) / Department of Biology, Chemistry, and Pharmacy":
+  matching_score: "6"
+  recommendation: "The department offers comprehensive programs in biological sciences, chemistry, and pharmacy, with a strong emphasis on research and laboratory work. While it provides technical knowledge and practical laboratory experience, it may not align with Barbora's interest in combining creativity with hands-on fieldwork in a creative field. Potential professions include Biologist, Chemist, Pharmacist, or Research Scientist."
+  field_of_study: "Biology, Chemistry, Pharmacy"
+  description: "Focuses on providing a deep understanding of the natural sciences through research-oriented teaching and practical laboratory work, aiming to prepare students for careers in science and research."
+  type: "Public University"
+  city: "Berlin"
+  address: "Takustr. 3, 14195 Berlin, Germany"
+  web: "https://www.fu-berlin.de/en/einrichtungen/fachbereiche/fachbereich-biologie-chemie-pharmazie/index.html"
+  timeline_overview: "Bachelor programs typically span 6 semesters (3 years), with options for master's and doctoral studies."
+
+  reputation_and_quality:
+    ranking: "Well-regarded nationally and internationally for research in natural sciences"
+    faculty_quality:
+      notable_professors:
+        - "Prof. Dr. Volker Haucke: Expert in biochemistry and molecular biology"
+        - "Prof. Dr. Beate Paulus: Specialist in theoretical chemistry"
+      individual_mentorship: "Opportunities through research projects and seminars"
+      number_of_students: "Approximately 3,500 students in the department"
+      student_teacher_ratio: "Approximately 15:1"
+    accreditations: "Programs accredited by relevant German accreditation agencies"
+
+  study_programs:
+    description: "Offers Bachelor's and Master's programs in Biology, Chemistry, Biochemistry, Pharmacy, and related fields"
+    programs:
+      - name: "Bachelor of Science in Biology"
+        type: "Bachelor"
+        specialization: "General Biology"
+        description: "Provides foundational knowledge in biological sciences, including cell biology, genetics, and ecology"
+        url: "https://www.fu-berlin.de/en/studium/studienangebot/bachelor/biologie/index.html"
+        timeline_overview: "3-year program with lectures, laboratory courses, and field trips"
+        matching_score: "6"
+        recommendation: "Offers practical laboratory experience but may not align with Barbora's interest in creative and artistic aspects"
+        curriculum:
+          core_courses:
+            - "Cell Biology"
+            - "Genetics"
+          electives:
+            - "Marine Biology"
+            - "Neurobiology"
+        entry_requirements: "Abitur or equivalent; proficiency in German"
+        duration: "3 years"
+        language_of_instruction: "German"
+
+      - name: "Bachelor of Science in Chemistry"
+        type: "Bachelor"
+        specialization: "General Chemistry"
+        description: "Covers fundamental concepts in inorganic, organic, and physical chemistry"
+        url: "https://www.fu-berlin.de/en/studium/studienangebot/bachelor/chemie/index.html"
+        timeline_overview: "3-year program with laboratory work and seminars"
+        matching_score: "6"
+        recommendation: "Highly technical; may not align with Barbora's creative interests"
+        curriculum:
+          core_courses:
+            - "Inorganic Chemistry"
+            - "Organic Chemistry"
+          electives:
+            - "Materials Chemistry"
+            - "Biochemistry"
+        entry_requirements: "Abitur or equivalent; proficiency in German"
+        duration: "3 years"
+        language_of_instruction: "German"
+
+  industry_partnerships:
+    partnering_companies:
+      - name: "Bayer AG"
+        description: "Collaborations on research projects and internships"
+        collaboration_type: "Internships, joint research"
+        study_type: "Opportunities to work on industry-relevant projects"
+        matching_score: "7"
+        recommendation: "Provides practical experience in scientific research but less focus on creativity"
+        timeline_overview: "Internships typically during semester breaks"
+        application_process:
+          requirements: "Application to the company; may require academic references"
+          deadline: "Varies by company"
+          open_days: "Company presentations at the university"
+
+  exchange_programs:
+    partnering_schools:
+      - name: "University of Oxford, UK"
+        description: "Exchange program for top-performing students in natural sciences"
+        structure: "One semester abroad with research opportunities"
+        matching_score: "7"
+        recommendation: "Offers international exposure and access to leading research facilities"
+        duration: "One semester"
+        application_process:
+          requirements: "Excellent academic record; proficiency in English"
+          deadline: "Check International Office for specific dates"
+          open_days: "International Office events"
+
+  tuition_and_financials:
+    tuition_fees:
+      domestic: "No tuition fees; semester fee around €311"
+      international: "Same as domestic; no tuition fees"
+    additional_costs:
+      living: "Approximately €800-€1,000 per month"
+      transportation: "Public transport pass included in semester fee"
+      materials: "Estimated €200-€400 per year for supplies"
+    scholarships_and_aid:
+      available_scholarships:
+        - name: "Deutschlandstipendium"
+          description: "Merit-based scholarship"
+          eligibility: "High academic achievement"
+          application_deadline: "Usually in early summer"
+      financial_aid_options: "BAföG for eligible students, student loans"
+
+  campus_and_student_life:
+    campus:
+      facilities:
+        - "Modern Laboratories"
+        - "Research Institutes"
+        - "Libraries"
+      housing: "University accommodations and private rentals available"
+      transportation: "Excellent public transport connectivity"
+    student_life:
+      culture: "Diverse and international community with a focus on research"
+      setting: "Campus located in the green district of Dahlem"
+      extracurricular_activities:
+        - "Science clubs"
+        - "Research seminars"
+        - "Student associations"
+      support_services: "Academic advising, career services, counseling"
+
+  reputation_and_ranking:
+    global_rankings:
+      QS_Ranking: "Ranked within top 150 universities worldwide"
+      THE_Ranking: "Similar global ranking"
+      ARWU_Ranking: "Ranked among top universities globally"
+    national_rankings: "Highly regarded in Germany for natural sciences"
+    alumni_success: "Graduates employed in research institutions, pharmaceutical companies, and academia"
+
+  post_graduation_outcomes:
+    job_opportunities:
+      description: "Graduates are well-prepared for careers in scientific research, pharmaceuticals, and related fields"
+      professions:
+        - profession_name: "Biologist"
+          description_of_profession: "Conducts research in biological sciences"
+          study_program: "Bachelor of Science in Biology"
+          job_market_demand: "Steady demand in research and development"
+          starting_salaries: "Approximately €35,000 - €45,000 per year"
+          industries: "Research institutions, biotech companies, academia"
+    further_education: "Opportunities for Master's and PhD programs"
+
+  application_and_admission:
+    application_process:
+      contact:
+        web: "https://www.fu-berlin.de/en/studium/bewerbung/index.html"
+        email: "info-service@fu-berlin.de"
+        phone: "+49 30 838 70000"
+      requirements:
+        academic: "Abitur or equivalent; strong background in science subjects"
+        additional: "German language proficiency (TestDaF, DSH)"
+      deadline: "July 15, 2025"
+      open_days: "June 2025; check website for specific dates"
+    admission_statistics:
+      acceptance_rate: "Competitive; varies by program"
+      average_gpa: "Not specified"
+      average_test_scores: "Not applicable"
+
+  internships_and_practical_experience:
+    dual_programs:
+      available: "No formal dual programs"
+      details: "Focus on academic studies with practical lab work"
+    internships:
+      opportunities: "Internships encouraged; sometimes integrated into studies"
+      partnerships: "Connections with research institutes and companies"
+    workshops:
+      available: "Yes"
+      details: "Laboratory sessions and practical courses integral to the curriculum"
+
+  additional_information:
+    FAQs: "Available on the university website"
+    testimonials: "Student experiences shared online"
+    contact_information: "International Office: international@fu-berlin.de"
