@@ -1,15 +1,689 @@
-"Berlin University of the Arts (UdK) / Faculty of Design":
-  general_information:
-    field_of_study: "Design"
-    type: "Universität (Artistic University)"
-    city: "Berlin"
-    address: "Einsteinufer 43, 10587 Berlin, Germany"
-    web: "https://www.udk-berlin.de/en/"
-    description: "The Faculty of Design at UdK Berlin offers comprehensive programs in various design disciplines, fostering creativity, innovation, and interdisciplinary collaboration. Focus areas include product design, visual communication, and new media."
-    timeline_overview: "Programs typically last 4 years, including foundational studies, specialization courses, workshops, and a final thesis project."
+"Technische Universität Berlin (TU Berlin) / Faculty of Architecture":
+  matching_score: "9"
+  recommendation: "The Faculty of Architecture at TU Berlin combines technical expertise with creative design and urban planning, aligning well with Barbora's desire for a multidisciplinary and hands-on program. It offers practical experience through projects and fieldwork, and emphasizes teamwork. Potential professions include Architect, Urban Planner, or Sustainable Design Consultant."
+  field_of_study: "Architecture"
+  description: "The faculty focuses on sustainable architecture, urban planning, and integrates technical skills with creative design processes. It encourages innovative thinking and practical application of architectural concepts."
+  type: "Technische Universität"
+  city: "Berlin"
+  address: "Straße des 17. Juni 152, 10623 Berlin, Germany"
+  web: "https://www.architektur.tu-berlin.de/"
+  timeline_overview: "Bachelor's program spans 6 semesters (3 years), with an optional Master's program following."
 
   reputation_and_quality:
-    ranking: "UdK Berlin is one of the most renowned art and design universities in Europe."
+    ranking: "TU Berlin is well-ranked globally, especially in engineering and architecture."
+    faculty_quality:
+      notable_professors:
+        - "Prof. Donatella Fioretti: Award-winning architect and educator"
+        - "Prof. Dr.-Ing. Angela Million: Expert in urban design and planning"
+      individual_mentorship: "Available through studio courses and project supervision"
+      number_of_students: "Approximately 1,500 students in the faculty"
+      student_teacher_ratio: "Approximately 15:1"
+    accreditations: "Accredited by the Accreditation Agency for Study Programs in Architecture and Planning (ASAP)"
+
+  study_programs:
+    description: "Offers Bachelor's and Master's programs in Architecture and Urban Planning."
+    programs:
+      - name: "Bachelor of Science in Architecture"
+        type: "Bachelor"
+        specialization: "Architecture and Urban Planning"
+        description: "Provides foundational knowledge in architectural design, construction, and urban development."
+        url: "https://www.tu.berlin/en/studying/study-programs/all-programs-offered/study-course/architecture-b-sc/"
+        timeline_overview: "3-year program with design studios, technical courses, and a final project."
+        matching_score: "9"
+        recommendation: "Aligns well with Barbora's interests in combining creativity and technical skills. Offers hands-on projects, teamwork, and fieldwork components."
+        curriculum:
+          core_courses:
+            - "Design Studio"
+            - "Building Construction"
+          electives:
+            - "Sustainable Architecture"
+            - "Digital Design Methods"
+        entry_requirements: "Abitur or equivalent; German proficiency"
+        duration: "3 years"
+        language_of_instruction: "German"
+
+  industry_partnerships:
+    partnering_companies:
+      - name: "GMP Architekten"
+        description: "Collaboration on projects and internship opportunities with a leading architecture firm."
+        collaboratoin_type: "Internships, project collaborations"
+        study_type: "Optional internships during studies"
+        matching_score: "8"
+        recommendation: "Provides practical experience and industry exposure; beneficial for career prospects."
+        timeline_overview: "Internships typically during semester breaks or integrated into the curriculum."
+        application_process:
+          requirements: "Portfolio and application to the company."
+          deadline: "Varies by company"
+          open_days: "Company events and lectures at the university"
+
+  exchange_programs:
+    partnering_schools:
+      - name: "Politecnico di Milano, Italy"
+        description: "Exchange program focusing on international architecture and design."
+        structure: "One-semester abroad with collaborative projects."
+        matching_score: "8"
+        recommendation: "Enhances international experience and exposure to different architectural styles."
+        duration: "One semester"
+        application_process:
+          requirements: "Good academic standing, language proficiency"
+          deadline: "Typically early 2025 for Winter Semester"
+          open_days: "International Office events"
+
+  tuition_and_financials:
+    tuition_fees:
+      domestic: "No tuition fees; semester fee around €307"
+      international: "Same as domestic; no tuition fees"
+    additional_costs:
+      living: "Approximately €800-€1,000 per month"
+      transportation: "Public transport pass included in semester fee"
+      materials: "Estimated €300-€500 per year for supplies"
+    scholarships_and_aid:
+      available_scholarships:
+        - name: "Deutschlandstipendium"
+          description: "Merit-based scholarship"
+          eligibility: "High academic achievement"
+          application_deadline: "Usually in early summer"
+      financial_aid_options: "BAföG for eligible students, student loans"
+
+  campus_and_student_life:
+    campus:
+      facilities:
+        - "Design Studios"
+        - "Workshops and Labs"
+        - "Libraries"
+      housing: "University accommodations and private rentals available"
+      transportation: "Excellent public transport connectivity"
+    student_live:
+      culture: "Dynamic and diverse community with a strong emphasis on innovation"
+      setting: "Urban campus located in central Berlin"
+      extracurricular_activities:
+        - "Student societies"
+        - "Architecture clubs"
+        - "Sports teams"
+      support_services: "Academic advising, career services, counseling"
+
+  reputation_and_ranking:
+    global_rankings:
+      QS_Ranking: "TU Berlin ranked within top 150 universities worldwide"
+      THE_Ranking: "Similar global ranking"
+      ARWU_Ranking: "Ranked among top universities globally"
+    national_rankings: "Highly regarded in Germany for engineering and architecture"
+    alumni_success: "Alumni include prominent architects and urban planners"
+
+  post_graduation_outcomes:
+    job_opportunities:
+      description: "Graduates work in architecture firms, urban planning agencies, and related fields."
+      professions:
+        - profession_name: "Architect"
+          description_of_profession: "Designs buildings and structures, ensuring functionality and aesthetics."
+          study_program: "Bachelor of Science in Architecture"
+          job_market_demand: "Steady demand with a focus on sustainable design"
+          starting_salaries: "Approximately €35,000 - €45,000 per year"
+          industries: "Architecture firms, construction companies, urban planning agencies"
+
+    further_education: "Master's programs in Architecture, Urban Planning, or related fields"
+
+  application_and_admission:
+    application_process:
+      contact:
+        web: "https://www.tu.berlin/en/studying/application-and-enrollment/"
+        email: "studienberatung@tu-berlin.de"
+        phone: "+49 30 314 29999"
+      requirements:
+        academic: "Abitur or equivalent"
+        additional: "German language proficiency (TestDaF, DSH)"
+      deadline: "July 15, 2025"
+      open_days: "April 10-11, 2025"
+    admission_statistics:
+      acceptance_rate: "Competitive; varies by year"
+      average_gpa: "Not specified"
+      average_test_scores: "Not applicable"
+
+  internships_and_practical_experience:
+    dual_programs:
+      available: "No formal dual programs"
+      details: "Dual vocational training not standard in this faculty"
+    internships:
+      opportunities: "Internships encouraged; sometimes integrated into the curriculum"
+      partnerships: "Connections with architecture firms for internships"
+    workshops:
+      available: "Yes"
+      details: "Workshops and practical projects are integral to the program"
+
+  additional_information:
+    FAQs: "Available on the university website"
+    testimonials: "Student experiences available online"
+    contact_information: "International Office: international@tu-berlin.de"
+
+"University of Applied Sciences Europe (UE) / Faculty of Art & Design":
+  matching_score: "9"
+  recommendation: "The Faculty of Art & Design at UE offers a multidisciplinary approach that aligns well with Barbora's desire to combine creativity with practical skills and technical knowledge. The programs emphasize hands-on learning, teamwork, and industry connections. Potential professions include Multimedia Designer, Creative Technologist, or Art Director."
+  field_of_study: "Art & Design"
+  description: "The faculty focuses on innovative and interdisciplinary art and design education, integrating technology and creativity. It offers programs that blend traditional design principles with modern digital techniques."
+  type: "Fachhochschule (University of Applied Sciences)"
+  city: "Berlin"
+  address: "Dessauer Str. 3-5, 10963 Berlin, Germany"
+  web: "https://www.ue-germany.com/"
+  timeline_overview: "Bachelor programs typically span 7 semesters, including practical projects and internships."
+
+  reputation_and_quality:
+    ranking: "Recognized for innovative design education; not prominently ranked globally"
+    faculty_quality:
+      notable_professors:
+        - "Prof. Heike Ollertz: Acclaimed photographer and visual artist"
+        - "Prof. Christian Poschner: Expert in communication design"
+      individual_mentorship: "Strong emphasis on personal development and mentorship due to small class sizes."
+      number_of_students: "Approximately 2,000 students across all campuses"
+      student_teacher_ratio: "Approximately 15:1"
+    accreditations: "Accredited by the German Council of Science and Humanities"
+
+  study_programs:
+    description: "Offers Bachelor's and Master's programs in various art and design disciplines."
+    programs:
+      - name: "Bachelor of Arts in Communication Design"
+        type: "Bachelor"
+        specialization: "Visual Communication and Digital Media"
+        description: "Combines traditional graphic design with digital media, emphasizing practical skills and creative thinking."
+        url: "https://www.ue-germany.com/programmes/art-design/bachelor/communication-design"
+        timeline_overview: "3.5-year program with internships and real-world projects."
+        matching_score: "9"
+        recommendation: "Aligns well with Barbora's creative talents and interest in practical, hands-on learning. Offers opportunities for teamwork and fieldwork."
+        curriculum:
+          core_courses:
+            - "Design Fundamentals"
+            - "Digital Media Design"
+          electives:
+            - "User Experience Design"
+            - "Motion Graphics"
+        entry_requirements: "Abitur or equivalent, portfolio submission, and interview"
+        duration: "3.5 years"
+        language_of_instruction: "English or German"
+
+      - name: "Bachelor of Arts in Illustration"
+        type: "Bachelor"
+        specialization: "Illustration and Visual Storytelling"
+        description: "Focuses on developing drawing skills and visual storytelling techniques for various media."
+        url: "https://www.ue-germany.com/programmes/art-design/bachelor/illustration"
+        timeline_overview: "3.5-year program with studio work and projects."
+        matching_score: "8"
+        recommendation: "Excellent for enhancing artistic skills but may lack the technical emphasis Barbora desires."
+        curriculum:
+          core_courses:
+            - "Illustration Techniques"
+            - "Visual Narratives"
+          electives:
+            - "Comic and Graphic Novel"
+            - "Digital Illustration"
+        entry_requirements: "Abitur or equivalent, portfolio submission, and interview"
+        duration: "3.5 years"
+        language_of_instruction: "English or German"
+
+  industry_partnerships:
+    partnering_companies:
+      - name: "MetaDesign"
+        description: "Collaborates on projects and offers internships to students."
+        collaboratoin_type: "Project partnerships and internships"
+        study_type: "Integration of real-world projects into coursework"
+        matching_score: "9"
+        recommendation: "Provides practical experience and industry exposure, aligning with Barbora's hands-on learning preference."
+        timeline_overview: "Opportunities throughout the program"
+        application_process:
+          requirements: "Standard university application and portfolio; internship applications submitted separately"
+          deadline: "Rolling admissions; early application recommended"
+          open_days: "April 15-16, 2025"
+
+  exchange_programs:
+    partnering_schools:
+      - name: "University of the Arts London"
+        description: "Exchange program offering international perspectives in art and design."
+        structure: "One semester abroad"
+        matching_score: "8"
+        recommendation: "Enhances international exposure and creative development, aligning with Barbora's interest in international opportunities."
+        duration: "One semester"
+        application_process:
+          requirements: "Good academic standing, language proficiency"
+          deadline: "Check with the International Office for specific dates"
+          open_days: "International Office events throughout the year"
+
+  tuition_and_financials:
+    tuition_fees:
+      domestic: "Approximately €8,940 per year"
+      international: "Approximately €10,340 per year"
+    additional_costs:
+      living: "Approximately €800-€1,000 per month"
+      transportation: "Public transport pass around €60-€80 per month"
+      materials: "Estimated €500-€1,000 per year for supplies"
+    scholarships_and_aid:
+      available_scholarships:
+        - name: "UE Scholarship"
+          description: "Merit-based scholarships for outstanding students"
+          eligibility: "Academic excellence and strong portfolio"
+          application_deadline: "Varies; check university website"
+      financial_aid_options: "Student loans, installment payment plans"
+
+  campus_and_student_life:
+    campus:
+      facilities:
+        - "Modern Design Studios"
+        - "Media Labs"
+        - "Exhibition Spaces"
+      housing: "Assistance provided in finding private accommodations; no on-campus housing"
+      transportation: "Well-connected via public transport"
+    student_live:
+      culture: "International community with a focus on creativity and innovation"
+      setting: "Urban campus in Berlin's creative district"
+      extracurricular_activities:
+        - "Art exhibitions"
+        - "Design workshops"
+        - "Student clubs"
+      support_services: "Academic advising, career services, counseling"
+
+  reputation_and_ranking:
+    global_rankings:
+      QS_Ranking: "Not prominently ranked globally"
+      THE_Ranking: "Not ranked"
+      ARWU_Ranking: "Not ranked"
+    national_rankings: "Recognized for innovative approaches in art and design education"
+    alumni_success: "Graduates working in leading design firms and creative industries globally"
+
+  post_graduation_outcomes:
+    job_opportunities:
+      description: "Graduates are prepared for various roles in the creative industries, benefiting from the university's industry connections."
+      professions:
+        - profession_name: "Multimedia Designer"
+          description_of_profession: "Creates content across various digital platforms."
+          study_program: "Bachelor of Arts in Communication Design"
+          job_market_demand: "High demand in digital agencies and media companies"
+          starting_salaries: "Approximately €35,000 - €45,000 per year"
+          industries: "Media, advertising, technology firms"
+    further_education: "Opportunities for Master's programs in related fields"
+
+  application_and_admission:
+    application_process:
+      contact:
+        web: "https://www.ue-germany.com/admissions"
+        email: "admissions.berlin@ue-germany.com"
+        phone: "+49 30 338 539 510"
+      requirements:
+        academic: "Abitur or equivalent"
+        additional: "Portfolio submission and interview"
+      deadline: "Rolling admissions; early application recommended"
+      open_days: "April 15-16, 2025"
+    admission_statistics:
+      acceptance_rate: "Selective; exact rate not specified"
+      average_gpa: "Not specified"
+      average_test_scores: "Not applicable"
+
+  internships_and_practical_experience:
+    dual_programs:
+      available: "No"
+      details: "Dual vocational training programs are not typically offered"
+    internships:
+      opportunities: "Internships are integral to the curriculum"
+      partnerships: "Collaborations with design agencies and tech companies"
+    workshops:
+      available: "Yes"
+      details: "Regular workshops and practical projects integrated into programs"
+
+  additional_information:
+    FAQs: "Available on the university website"
+    testimonials: "Student experiences shared online"
+    contact_information: "International Office: international@ue-germany.com"
+
+"Berlin University of Applied Sciences (HTW Berlin) / School of Design and Culture":
+  matching_score: "9"
+  recommendation: "HTW Berlin's School of Design and Culture offers programs that blend creativity with practical skills and technical knowledge. With a strong emphasis on hands-on learning, teamwork, and industry connections, it aligns well with Barbora's preferences. Potential careers include Media Designer, Communication Designer, or User Experience Designer."
+  field_of_study: "Design and Culture"
+  description: "Focuses on applied design disciplines, integrating technology, creativity, and cultural studies. Programs emphasize practical skills and industry relevance, preparing students for careers in the creative industries."
+  type: "Fachhochschule (University of Applied Sciences)"
+  city: "Berlin"
+  address: "Wilhelminenhofstraße 75A, 12459 Berlin, Germany"
+  web: "https://www.htw-berlin.de/en/"
+  timeline_overview: "Bachelor programs typically span 7 semesters, including a practical semester."
+
+  reputation_and_quality:
+    ranking: "HTW Berlin is one of the largest and highly regarded universities of applied sciences in Germany."
+    faculty_quality:
+      notable_professors:
+        - "Prof. Dr. Uwe Eisenbeis: Expert in interface design"
+        - "Prof. Heike Willingham: Renowned in sustainable design"
+      individual_mentorship: "Strong focus on student support with accessible faculty"
+      number_of_students: "Approximately 14,000 students across the university"
+      student_teacher_ratio: "Approximately 20:1"
+    accreditations: "Programs accredited by relevant German accreditation agencies"
+
+  study_programs:
+    description: "Offers Bachelor's programs in Communication Design, Industrial Design, and Fashion Design."
+    programs:
+      - name: "Bachelor of Arts in Communication Design"
+        type: "Bachelor"
+        specialization: "Visual Communication and Media Design"
+        description: "Combines graphic design, digital media, and communication strategies with practical projects."
+        url: "https://www.htw-berlin.de/en/studies/bachelor/communication-design/"
+        timeline_overview: "3.5-year program with a mandatory internship semester."
+        matching_score: "8"
+        recommendation: "Offers hands-on experience and practical skills, but may be more focused on media than technical expertise."
+        curriculum:
+          core_courses:
+            - "Design Principles"
+            - "Digital Media"
+          electives:
+            - "User Experience Design"
+            - "Interactive Media"
+        entry_requirements: "Abitur or equivalent; portfolio; possibly entrance exam"
+        duration: "3.5 years"
+        language_of_instruction: "German"
+
+      - name: "Bachelor of Arts in Industrial Design"
+        type: "Bachelor"
+        specialization: "Product and Interface Design"
+        description: "Focuses on designing user-centered products and interfaces, blending creativity with technology."
+        url: "https://www.htw-berlin.de/en/studies/bachelor/industrial-design/"
+        timeline_overview: "3.5-year program including practical projects and internships."
+        matching_score: "9"
+        recommendation: "Aligns well with Barbora's desire to combine creativity and technical skills, with a strong emphasis on practical, hands-on learning."
+        curriculum:
+          core_courses:
+            - "Product Design"
+            - "Interface Design"
+          electives:
+            - "Sustainable Design"
+            - "Prototyping Techniques"
+        entry_requirements: "Abitur or equivalent; portfolio; possibly entrance exam"
+        duration: "3.5 years"
+        language_of_instruction: "German"
+
+  industry_partnerships:
+    partnering_companies:
+      - name: "Siemens AG"
+        description: "Offers dual study programs combining academic studies with practical work experience."
+        collaboratoin_type: "Dual vocational training with paid work placements"
+        study_type: "Alternating periods of university study and company work"
+        matching_score: "10"
+        recommendation: "Provides valuable industry experience, strong technical training, and a direct career pathway, aligning perfectly with Barbora's preferences."
+        timeline_overview: "Integrated throughout the duration of the program"
+        application_process:
+          requirements: "Application to both HTW Berlin and Siemens; interviews with both institutions."
+          deadline: "April 30, 2025"
+          open_days: "Company open days in March 2025; university open days in May 2025"
+
+  exchange_programs:
+    partnering_schools:
+      - name: "University of the Arts London"
+        description: "Exchange program focusing on international design perspectives."
+        structure: "One semester abroad with collaborative projects"
+        matching_score: "8"
+        recommendation: "Enhances international exposure and offers diverse creative approaches."
+        duration: "One semester"
+        application_process:
+          requirements: "Good academic standing, language proficiency"
+          deadline: "Check International Office"
+          open_days: "International Office events"
+
+  tuition_and_financials:
+    tuition_fees:
+      domestic: "No tuition fees; semester fee around €300"
+      international: "Same as domestic; no tuition fees"
+    additional_costs:
+      living: "Approximately €800-€1,000 per month"
+      transportation: "Public transport pass included in semester fee"
+      materials: "Estimated €500-€1,000 per year for supplies"
+    scholarships_and_aid:
+      available_scholarships:
+        - name: "Deutschlandstipendium"
+          description: "Merit-based scholarship"
+          eligibility: "High academic achievement"
+          application_deadline: "Varies"
+      financial_aid_options: "BAföG, student loans, part-time work opportunities"
+
+  campus_and_student_life:
+    campus:
+      facilities:
+        - "Design Studios"
+        - "Media Labs"
+        - "Libraries"
+      housing: "Student dormitories and private accommodations"
+      transportation: "Well-connected via public transport"
+    student_live:
+      culture: "Practical and career-focused environment with collaborative projects"
+      setting: "Urban campus with modern facilities"
+      extracurricular_activities:
+        - "Design clubs"
+        - "Cultural events"
+        - "Sports facilities"
+      support_services: "Career services, academic advising, counseling"
+
+  reputation_and_ranking:
+    global_rankings:
+      QS_Ranking: "Not individually ranked globally"
+      THE_Ranking: "Not individually ranked"
+      ARWU_Ranking: "Not ranked"
+    national_rankings: "Well-regarded among German universities of applied sciences"
+    alumni_success: "Graduates working at leading design and tech companies"
+
+  post_graduation_outcomes:
+    job_opportunities:
+      description: "Graduates find employment in design agencies, media companies, and technology firms."
+      professions:
+        - profession_name: "User Experience (UX) Designer"
+          description_of_profession: "Designs user-friendly digital products and interfaces."
+          study_program: "Bachelor of Arts in Communication Design"
+          job_market_demand: "High demand due to the growing tech industry"
+          starting_salaries: "Approximately €40,000 - €50,000 per year"
+          industries: "Technology, media, design agencies"
+
+    further_education: "Opportunities for Master's programs in design or related fields"
+
+  application_and_admission:
+    application_process:
+      contact:
+        web: "https://www.htw-berlin.de/en/studies/applying/"
+        email: "studienberatung@htw-berlin.de"
+        phone: "+49 30 5019 2255"
+      requirements:
+        academic: "Abitur or equivalent"
+        additional: "Portfolio submission; possibly entrance examination"
+      deadline: "July 15, 2025"
+      open_days: "May 5-6, 2025"
+    admission_statistics:
+      acceptance_rate: "Competitive; varies by program"
+      average_gpa: "Not specified"
+      average_test_scores: "Not applicable"
+
+  internships_and_practical_experience:
+    dual_programs:
+      available: "Yes"
+      details: "Dual vocational training programs with industry partners"
+    internships:
+      opportunities: "Mandatory internships integrated into the curriculum"
+      partnerships: "Strong industry connections offering internships"
+    workshops:
+      available: "Yes"
+      details: "Regular workshops and practical projects integral to programs"
+
+  additional_information:
+    FAQs: "Available on the university website"
+    testimonials: "Student experiences shared online"
+    contact_information: "International Office: international@htw-berlin.de"
+
+"Weißensee Academy of Art Berlin / Department of Design":
+  matching_score: "8"
+  recommendation: "Weißensee offers an interdisciplinary approach to design education with a strong emphasis on creativity and hands-on projects. It provides an excellent environment for artistic development, aligning with Barbora's exceptional drawing skills. However, it may be less focused on technical expertise. Potential professions include Product Designer, Textile Designer, or Art Director."
+  field_of_study: "Design"
+  description: "The department fosters creative exploration across various design disciplines, encouraging experimental and conceptual work. It emphasizes artistic individuality and innovation."
+  type: "Art Academy (Kunsthochschule)"
+  city: "Berlin"
+  address: "Bühringstr. 20, 13086 Berlin, Germany"
+  web: "https://kh-berlin.de/"
+  timeline_overview: "Programs typically span 10 semesters, integrating foundational studies and specialization."
+
+  reputation_and_quality:
+    ranking: "Reputable institution within the art and design community"
+    faculty_quality:
+      notable_professors:
+        - "Prof. Judith Seng: Known for experimental design methods"
+        - "Prof. Stephan Thiel: Expert in interaction design"
+      individual_mentorship: "Strong emphasis on personal artistic development through close mentorship"
+      number_of_students: "Approximately 850 students"
+      student_teacher_ratio: "Approximately 8:1"
+    accreditations: "Accredited by the German Council of Science and Humanities"
+
+  study_programs:
+    description: "Offers Diploma programs in various design disciplines"
+    programs:
+      - name: "Diploma in Product Design"
+        type: "Diploma"
+        specialization: "Product Design"
+        description: "Focuses on creating innovative and sustainable products with artistic and functional value."
+        url: "https://kh-berlin.de/en/studies/study-programmes/product-design.html"
+        timeline_overview: "5-year program with project-based learning."
+        matching_score: "7"
+        recommendation: "Excellent for creative development but may lack the technical and practical industry connections Barbora seeks."
+        curriculum:
+          core_courses:
+            - "Design Concepts"
+            - "Material Experimentation"
+          electives:
+            - "Sustainable Design"
+            - "Digital Fabrication"
+        entry_requirements: "Abitur or equivalent, extensive portfolio, entrance examination"
+        duration: "5 years"
+        language_of_instruction: "German"
+
+      - name: "Diploma in Textile and Surface Design"
+        type: "Diploma"
+        specialization: "Textile Design"
+        description: "Explores materials, patterns, and techniques in textile creation."
+        url: "https://kh-berlin.de/en/studies/study-programmes/textile-and-surface-design.html"
+        timeline_overview: "5-year program with studio work."
+        matching_score: "6"
+        recommendation: "Great for artistic expression but may not align with Barbora's technical interests."
+        curriculum:
+          core_courses:
+            - "Textile Techniques"
+            - "Surface Design"
+          electives:
+            - "Digital Textile Printing"
+            - "Experimental Materials"
+        entry_requirements: "Abitur or equivalent, extensive portfolio, entrance examination"
+        duration: "5 years"
+        language_of_instruction: "German"
+
+  industry_partnerships:
+    partnering_companies: []
+    # Weißensee focuses more on artistic development and less on formal industry partnerships.
+
+  exchange_programs:
+    partnering_schools:
+      - name: "Central Saint Martins, London"
+        description: "Exchange program offering international design perspectives."
+        structure: "One semester abroad"
+        matching_score: "8"
+        recommendation: "Provides international exposure and creative collaboration opportunities."
+        duration: "One semester"
+        application_process:
+          requirements: "Good academic standing, portfolio, English proficiency"
+          deadline: "Typically early 2025 for Winter Semester"
+          open_days: "International Office events"
+
+  tuition_and_financials:
+    tuition_fees:
+      domestic: "No tuition fees; semester fee around €300"
+      international: "Same as domestic; no tuition fees"
+    additional_costs:
+      living: "Approximately €800-€1,000 per month"
+      transportation: "Public transport pass included in semester fee"
+      materials: "Estimated €500-€1,000 per year for supplies"
+    scholarships_and_aid:
+      available_scholarships:
+        - name: "DAAD Scholarships"
+          description: "Financial support for international students"
+          eligibility: "Academic excellence and need-based"
+          application_deadline: "Varies; check DAAD website"
+      financial_aid_options: "Limited scholarships; part-time work opportunities"
+
+  campus_and_student_life:
+    campus:
+      facilities:
+        - "Studios"
+        - "Workshops"
+        - "Material Labs"
+      housing: "Limited student housing; assistance provided"
+      transportation: "Good public transport connections"
+    student_live:
+      culture: "Close-knit artistic community with collaborative spirit"
+      setting: "Suburban campus with serene surroundings"
+      extracurricular_activities:
+        - "Workshops"
+        - "Exhibitions"
+        - "Student initiatives"
+      support_services: "Academic advising, workshops"
+
+  reputation_and_ranking:
+    global_rankings:
+      QS_Ranking: "Not prominently ranked globally"
+      THE_Ranking: "Not ranked"
+      ARWU_Ranking: "Not ranked"
+    national_rankings: "Highly respected within Germany's art and design circles"
+    alumni_success: "Graduates exhibiting in international galleries and working in renowned design studios"
+
+  post_graduation_outcomes:
+    job_opportunities:
+      description: "Graduates pursue careers in various creative fields, often in innovative and experimental roles."
+      professions:
+        - profession_name: "Product Designer"
+          description_of_profession: "Designs and develops new products with an emphasis on form and user experience."
+          study_program: "Diploma in Product Design"
+          job_market_demand: "Competitive field with opportunities in specialized firms"
+          starting_salaries: "Approximately €30,000 - €40,000 per year"
+          industries: "Design studios, manufacturing companies, freelance"
+    further_education: "Opportunities for Master's programs or specialized postgraduate studies"
+
+  application_and_admission:
+    application_process:
+      contact:
+        web: "https://kh-berlin.de/en/studies/application/"
+        email: "studienberatung@kh-berlin.de"
+        phone: "+49 30 47705 342"
+      requirements:
+        academic: "Abitur or equivalent"
+        additional: "Extensive portfolio, entrance examination"
+      deadline: "March 10, 2025"
+      open_days: "February 20-21, 2025"
+    admission_statistics:
+      acceptance_rate: "Highly competitive; exact rates not specified"
+      average_gpa: "Not specified"
+      average_test_scores: "Not applicable"
+
+  internships_and_practical_experience:
+    dual_programs:
+      available: "No"
+      details: "Dual vocational training programs are not offered"
+    internships:
+      opportunities: "Internships encouraged but self-arranged"
+      partnerships: "Limited formal partnerships; students often find opportunities independently"
+    workshops:
+      available: "Yes"
+      details: "Workshops and practical projects are central to the curriculum"
+
+  additional_information:
+    FAQs: "Available on the academy's website"
+    testimonials: "Student and alumni experiences shared online"
+    contact_information: "International Office: international@kh-berlin.de"
+
+"Berlin University of the Arts (UdK) / Faculty of Design":
+  matching_score: "8"
+  recommendation: "The Faculty of Design at UdK offers a creative environment that aligns well with Barbora's exceptional talent in drawing and arts. The program emphasizes practical and hands-on learning with opportunities for collaborative projects. However, it may be more art-focused and less technical, which might not fully satisfy her desire to combine creativity with technical expertise in a highly technical way. Potential professions include Graphic Designer, Product Designer, or Creative Director."
+  field_of_study: "Design"
+  description: "The Faculty of Design at UdK Berlin is renowned for its innovative and interdisciplinary approach to art and design education. It fosters creativity and critical thinking, encouraging students to develop unique artistic expressions across various design disciplines."
+  type: "Universität (Artistic University)"
+  city: "Berlin"
+  address: "Einsteinufer 43, 10587 Berlin, Germany"
+  web: "https://www.udk-berlin.de/en/"
+  timeline_overview: "Programs typically last 4 years, including foundational studies, specialization courses, workshops, and a final thesis project."
+
+  reputation_and_quality:
+    ranking: "One of the most prestigious art and design universities in Europe"
     faculty_quality:
       notable_professors:
         - "Prof. Axel Kufus: Renowned product designer"
@@ -29,7 +703,7 @@
         url: "https://www.udk-berlin.de/en/studies/product-design/"
         timeline_overview: "4-year program with studio courses, workshops, and a final thesis project."
         matching_score: "8"
-        recommendation: "Great for developing artistic design skills with practical workshops. However, it may lack the technical depth Barbora desires."
+        recommendation: "Great for developing artistic design skills with practical workshops. However, it may lack the technical depth Barbora desires to combine with her creativity."
         curriculum:
           core_courses:
             - "Design Principles"
@@ -84,7 +758,7 @@
         duration: "One semester"
         application_process:
           requirements: "Good academic standing, portfolio, English proficiency."
-          deadline: "Check with International Office; typically early 2025 for Winter Semester"
+          deadline: "Typically early 2025 for Winter Semester"
           open_days: "International Office events throughout the year"
 
   tuition_and_financials:
@@ -179,74 +853,95 @@
     FAQs: "Available on the university website"
     testimonials: "Student experiences shared on university platforms"
     contact_information: "International Office: international@udk-berlin.de"
-"Technische Universität Berlin (TU Berlin) / Faculty of Architecture":
-  general_information:
-    field_of_study: "Architecture"
-    type: "Technische Universität"
-    city: "Berlin"
-    address: "Straße des 17. Juni 152, 10623 Berlin, Germany"
-    web: "https://www.architektur.tu-berlin.de/"
-    description: "The Faculty of Architecture at TU Berlin combines technical expertise with creative design and urban planning. The faculty emphasizes sustainability, innovation, and interdisciplinary collaboration."
-    timeline_overview: "Bachelor's program spans 6 semesters (3 years), with an optional Master's program following."
+
+"Technische Universität Berlin (TU Berlin) / Faculty of Planning Building Environment":
+  matching_score: "8"
+  recommendation: "This faculty offers interdisciplinary programs that combine technical expertise with creative planning and environmental considerations, which aligns with Barbora's interest in combining creativity with practical skills. Potential professions include Urban Planner, Environmental Designer, or Landscape Architect."
+  field_of_study: "Urban Planning and Environmental Design"
+  description: "Focuses on sustainable urban development, environmental planning, and integrates technical skills with creative design processes."
+  type: "Technische Universität"
+  city: "Berlin"
+  address: "Straße des 17. Juni 135, 10623 Berlin, Germany"
+  web: "https://www.planen-bauen-umwelt.tu-berlin.de/"
+  timeline_overview: "Bachelor programs typically span 6 semesters (3 years), with options for master's studies."
 
   reputation_and_quality:
-    ranking: "TU Berlin is well-ranked globally, especially in engineering and architecture."
+    ranking: "TU Berlin is well-ranked globally, especially in engineering and environmental sciences."
     faculty_quality:
       notable_professors:
-        - "Prof. Donatella Fioretti: Award-winning architect and educator"
         - "Prof. Dr.-Ing. Angela Million: Expert in urban design and planning"
-      individual_mentorship: "Available through studio courses and project supervision"
-      number_of_students: "Approximately 1,500 students in the faculty"
+        - "Prof. Dr. Harald A. Mieg: Known for sustainable urban development"
+      individual_mentorship: "Available through project-based courses and research opportunities"
+      number_of_students: "Approximately 2,000 students in the faculty"
       student_teacher_ratio: "Approximately 15:1"
-    accreditations: "Accredited by the Accreditation Agency for Study Programs in Architecture and Planning (ASAP)"
+    accreditations: "Programs accredited by relevant German accreditation agencies"
 
   study_programs:
-    description: "Offers Bachelor's and Master's programs in Architecture and Urban Planning."
+    description: "Offers Bachelor's and Master's programs in Urban Planning, Landscape Architecture, and Environmental Planning."
     programs:
-      - name: "Bachelor of Science in Architecture"
+      - name: "Bachelor of Science in Urban and Regional Planning"
         type: "Bachelor"
-        specialization: "Architecture and Urban Planning"
-        description: "Provides foundational knowledge in architectural design, construction, and urban development."
-        url: "https://www.tu.berlin/en/studying/study-programs/all-programs-offered/study-course/architecture-b-sc/"
-        timeline_overview: "3-year program with design studios, technical courses, and a final project."
-        matching_score: "9"
-        recommendation: "Aligns well with Barbora's interests in combining creativity and technical expertise. Offers hands-on projects, teamwork, and fieldwork."
+        specialization: "Urban Planning and Development"
+        description: "Provides foundational knowledge in urban planning, design, and sustainable development."
+        url: "https://www.tu.berlin/en/studying/study-programs/all-programs-offered/study-course/urban-and-regional-planning-b-sc/"
+        timeline_overview: "3-year program with project work and practical exercises."
+        matching_score: "8"
+        recommendation: "Offers a blend of creative and technical skills; suitable for Barbora's interests in hands-on, practical learning."
         curriculum:
           core_courses:
-            - "Design Studio"
-            - "Building Construction"
+            - "Urban Design"
+            - "Planning Law"
           electives:
-            - "Sustainable Architecture"
-            - "Digital Design Methods"
+            - "Sustainable Development"
+            - "GIS Applications"
+        entry_requirements: "Abitur or equivalent; German proficiency"
+        duration: "3 years"
+        language_of_instruction: "German"
+
+      - name: "Bachelor of Science in Landscape Architecture"
+        type: "Bachelor"
+        specialization: "Landscape Design and Planning"
+        description: "Focuses on designing outdoor spaces, integrating environmental and aesthetic considerations."
+        url: "https://www.tu.berlin/en/studying/study-programs/all-programs-offered/study-course/landscape-architecture-b-sc/"
+        timeline_overview: "3-year program with design studios and fieldwork."
+        matching_score: "7"
+        recommendation: "Good for combining creativity with environmental awareness, but may be less technical."
+        curriculum:
+          core_courses:
+            - "Plant Knowledge"
+            - "Landscape Design"
+          electives:
+            - "Ecological Planning"
+            - "Landscape Ecology"
         entry_requirements: "Abitur or equivalent; German proficiency"
         duration: "3 years"
         language_of_instruction: "German"
 
   industry_partnerships:
     partnering_companies:
-      - name: "GMP Architekten"
-        description: "Collaboration on projects and internship opportunities with a leading architecture firm."
+      - name: "Berlin Senate Department for Urban Development"
+        description: "Collaboration on projects and internships in urban planning."
         collaboratoin_type: "Internships, project collaborations"
         study_type: "Optional internships during studies"
         matching_score: "8"
-        recommendation: "Provides practical experience and industry exposure; beneficial for career prospects."
-        timeline_overview: "Internships typically during semester breaks or integrated into the curriculum."
+        recommendation: "Provides practical experience in real-world urban development projects."
+        timeline_overview: "Internships typically during semester breaks or integrated into studies."
         application_process:
-          requirements: "Portfolio and application to the company."
-          deadline: "Varies by company"
-          open_days: "Company events and lectures at the university"
+          requirements: "Application to the department; may require portfolio or project proposal."
+          deadline: "Varies; check with the department"
+          open_days: "Information sessions held periodically"
 
   exchange_programs:
     partnering_schools:
-      - name: "Politecnico di Milano, Italy"
-        description: "Exchange program focusing on international architecture and design."
-        structure: "One-semester abroad with collaborative projects."
+      - name: "Delft University of Technology, Netherlands"
+        description: "Exchange program focusing on urban planning and design."
+        structure: "One semester abroad with collaborative projects"
         matching_score: "8"
-        recommendation: "Enhances international experience and exposure to different architectural styles."
+        recommendation: "Offers international perspective and exposure to innovative planning practices."
         duration: "One semester"
         application_process:
           requirements: "Good academic standing, language proficiency"
-          deadline: "Check International Office; typically early 2025 for Winter Semester"
+          deadline: "Typically early 2025 for Winter Semester"
           open_days: "International Office events"
 
   tuition_and_financials:
@@ -269,17 +964,17 @@
     campus:
       facilities:
         - "Design Studios"
-        - "Workshops and Labs"
+        - "GIS Labs"
         - "Libraries"
       housing: "University accommodations and private rentals available"
       transportation: "Excellent public transport connectivity"
     student_live:
-      culture: "Dynamic and diverse community with a strong emphasis on innovation"
-      setting: "Urban campus located in central Berlin"
+      culture: "Dynamic and diverse community with a focus on sustainability and innovation"
+      setting: "Urban campus in central Berlin"
       extracurricular_activities:
-        - "Student societies"
-        - "Architecture clubs"
-        - "Sports teams"
+        - "Student planning societies"
+        - "Environmental clubs"
+        - "Workshops and seminars"
       support_services: "Academic advising, career services, counseling"
 
   reputation_and_ranking:
@@ -287,21 +982,20 @@
       QS_Ranking: "TU Berlin ranked within top 150 universities worldwide"
       THE_Ranking: "Similar global ranking"
       ARWU_Ranking: "Ranked among top universities globally"
-    national_rankings: "Highly regarded in Germany for engineering and architecture"
-    alumni_success: "Alumni include prominent architects and urban planners"
+    national_rankings: "Highly regarded in Germany for planning and environmental studies"
+    alumni_success: "Graduates hold positions in government agencies and leading planning firms"
 
   post_graduation_outcomes:
     job_opportunities:
-      description: "Graduates work in architecture firms, urban planning agencies, and related fields."
+      description: "Graduates work in urban planning offices, government agencies, and environmental consultancies."
       professions:
-        - profession_name: "Architect"
-          description_of_profession: "Designs buildings and structures, ensuring functionality and aesthetics."
-          study_program: "Bachelor of Science in Architecture"
-          job_market_demand: "Steady demand with a focus on sustainable design"
+        - profession_name: "Urban Planner"
+          description_of_profession: "Develops plans and programs for land use in urban areas."
+          study_program: "Bachelor of Science in Urban and Regional Planning"
+          job_market_demand: "Steady demand with growing emphasis on sustainable development"
           starting_salaries: "Approximately €35,000 - €45,000 per year"
-          industries: "Architecture firms, construction companies, urban planning agencies"
-
-    further_education: "Master's programs in Architecture, Urban Planning, or related fields"
+          industries: "Government agencies, planning firms, NGOs"
+    further_education: "Master's programs in Urban Planning, Environmental Management, or related fields"
 
   application_and_admission:
     application_process:
@@ -321,11 +1015,11 @@
 
   internships_and_practical_experience:
     dual_programs:
-      available: "No formal dual programs"
+      available: "No"
       details: "Dual vocational training not standard in this faculty"
     internships:
-      opportunities: "Internships encouraged; sometimes integrated into the curriculum"
-      partnerships: "Connections with architecture firms for internships"
+      opportunities: "Internships encouraged and sometimes integrated into the curriculum"
+      partnerships: "Connections with government agencies and planning firms"
     workshops:
       available: "Yes"
       details: "Workshops and practical projects are integral to the program"
@@ -334,3 +1028,1892 @@
     FAQs: "Available on the university website"
     testimonials: "Student experiences available online"
     contact_information: "International Office: international@tu-berlin.de"
+
+"University of Applied Sciences Potsdam / Faculty of Architecture and Urban Design":
+  matching_score: "8"
+  recommendation: "The faculty offers programs that combine creative design with practical skills, emphasizing hands-on learning and teamwork. This aligns well with Barbora's preferences. Potential careers include Architect, Urban Designer, or Sustainable Design Consultant."
+  field_of_study: "Architecture and Urban Design"
+  description: "Focuses on innovative architectural education with an emphasis on sustainability, urban development, and practical application."
+  type: "Fachhochschule (University of Applied Sciences)"
+  city: "Potsdam"
+  address: "Kiepenheuerallee 5, 14469 Potsdam, Germany"
+  web: "https://www.fh-potsdam.de/"
+  timeline_overview: "Bachelor programs typically span 8 semesters, including practical projects and internships."
+
+  reputation_and_quality:
+    ranking: "Well-regarded nationally among universities of applied sciences"
+    faculty_quality:
+      notable_professors:
+        - "Prof. Katja Thoring: Expert in design thinking and innovation"
+        - "Prof. Jan Edler: Known for experimental architecture"
+      individual_mentorship: "Strong emphasis on mentorship through small class sizes and project-based learning"
+      number_of_students: "Approximately 3,500 students across the university"
+      student_teacher_ratio: "Approximately 15:1"
+    accreditations: "Accredited by relevant German accreditation agencies"
+
+  study_programs:
+    description: "Offers Bachelor's programs in Architecture and Urban Design"
+    programs:
+      - name: "Bachelor of Arts in Architecture"
+        type: "Bachelor"
+        specialization: "Architecture"
+        description: "Combines creative design with technical skills, focusing on sustainable and innovative architectural solutions."
+        url: "https://www.fh-potsdam.de/studium/architektur-ba"
+        timeline_overview: "4-year program with design studios, technical courses, and practical projects."
+        matching_score: "8"
+        recommendation: "Aligns well with Barbora's desire for practical, hands-on learning and combining creativity with technical skills."
+        curriculum:
+          core_courses:
+            - "Design Studio"
+            - "Building Technology"
+          electives:
+            - "Sustainable Architecture"
+            - "Digital Fabrication"
+        entry_requirements: "Abitur or equivalent; portfolio submission"
+        duration: "4 years"
+        language_of_instruction: "German"
+
+      - name: "Bachelor of Arts in Urban Design"
+        type: "Bachelor"
+        specialization: "Urban Design and Planning"
+        description: "Focuses on designing and planning urban spaces with an emphasis on sustainability and social impact."
+        url: "https://www.fh-potsdam.de/studium/stadtplanung-ba"
+        timeline_overview: "4-year program with project work and internships."
+        matching_score: "7"
+        recommendation: "Suitable for combining creative and technical skills, but may be less focused on the artistic aspects Barbora enjoys."
+        curriculum:
+          core_courses:
+            - "Urban Design"
+            - "Spatial Planning"
+          electives:
+            - "Community Development"
+            - "GIS Applications"
+        entry_requirements: "Abitur or equivalent; portfolio may be required"
+        duration: "4 years"
+        language_of_instruction: "German"
+
+  industry_partnerships:
+    partnering_companies:
+      - name: "Local Architecture Firms"
+        description: "Collaboration on projects and internship opportunities"
+        collaboratoin_type: "Internships, project collaborations"
+        study_type: "Optional internships during studies"
+        matching_score: "8"
+        recommendation: "Provides practical experience and industry connections, beneficial for Barbora's hands-on learning preference."
+        timeline_overview: "Internships typically during semester breaks"
+        application_process:
+          requirements: "Application to firms; may require portfolio"
+          deadline: "Varies by firm"
+          open_days: "Company open days and career fairs"
+
+  exchange_programs:
+    partnering_schools:
+      - name: "Aalto University, Finland"
+        description: "Exchange program focusing on innovative design and architecture"
+        structure: "One semester abroad with collaborative projects"
+        matching_score: "8"
+        recommendation: "Offers international exposure and aligns with Barbora's interest in robust international support."
+        duration: "One semester"
+        application_process:
+          requirements: "Good academic standing, language proficiency"
+          deadline: "Check International Office"
+          open_days: "International Office events"
+
+  tuition_and_financials:
+    tuition_fees:
+      domestic: "No tuition fees; semester fee around €300"
+      international: "Same as domestic; no tuition fees"
+    additional_costs:
+      living: "Approximately €700-€900 per month in Potsdam"
+      transportation: "Public transport pass included in semester fee"
+      materials: "Estimated €300-€500 per year for supplies"
+    scholarships_and_aid:
+      available_scholarships:
+        - name: "Deutschlandstipendium"
+          description: "Merit-based scholarship"
+          eligibility: "High academic achievement"
+          application_deadline: "Varies"
+      financial_aid_options: "BAföG, student loans"
+
+  campus_and_student_life:
+    campus:
+      facilities:
+        - "Design Studios"
+        - "Workshops and Labs"
+        - "Libraries"
+      housing: "Limited student housing; assistance provided"
+      transportation: "Good public transport connections to Berlin"
+    student_live:
+      culture: "Collaborative and innovative environment"
+      setting: "Suburban campus in a historic city"
+      extracurricular_activities:
+        - "Student design groups"
+        - "Cultural events"
+        - "Sports facilities"
+      support_services: "Academic advising, career services, counseling"
+
+  reputation_and_ranking:
+    global_rankings:
+      QS_Ranking: "Not prominently ranked globally"
+      THE_Ranking: "Not ranked"
+      ARWU_Ranking: "Not ranked"
+    national_rankings: "Well-regarded among German universities of applied sciences"
+    alumni_success: "Graduates working in notable architecture firms and urban development projects"
+
+  post_graduation_outcomes:
+    job_opportunities:
+      description: "Graduates are prepared for careers in architecture, urban design, and related fields."
+      professions:
+        - profession_name: "Architect"
+          description_of_profession: "Designs buildings and structures with a focus on functionality and aesthetics."
+          study_program: "Bachelor of Arts in Architecture"
+          job_market_demand: "Steady demand with emphasis on sustainable design"
+          starting_salaries: "Approximately €35,000 - €45,000 per year"
+          industries: "Architecture firms, construction companies"
+    further_education: "Opportunities for Master's programs in Architecture or Urban Design"
+
+  application_and_admission:
+    application_process:
+      contact:
+        web: "https://www.fh-potsdam.de/bewerbung"
+        email: "studienberatung@fh-potsdam.de"
+        phone: "+49 331 580 2091"
+      requirements:
+        academic: "Abitur or equivalent"
+        additional: "Portfolio submission; possibly entrance examination"
+      deadline: "May 15, 2025"
+      open_days: "April 2025; check website for specific dates"
+    admission_statistics:
+      acceptance_rate: "Selective; varies by program"
+      average_gpa: "Not specified"
+      average_test_scores: "Not applicable"
+
+  internships_and_practical_experience:
+    dual_programs:
+      available: "No formal dual programs"
+      details: "Dual vocational training not standard but practical experience emphasized"
+    internships:
+      opportunities: "Internships encouraged and sometimes integrated into studies"
+      partnerships: "Connections with local architecture and design firms"
+    workshops:
+      available: "Yes"
+      details: "Workshops and practical projects are integral to programs"
+
+  additional_information:
+    FAQs: "Available on the university website"
+    testimonials: "Student experiences shared online"
+    contact_information: "International Office: international@fh-potsdam.de"
+
+"University of Applied Sciences Potsdam / Faculty of Design":
+  matching_score: "8"
+  recommendation: "The Faculty of Design offers interdisciplinary programs that combine creativity with practical skills and technical knowledge. It emphasizes hands-on learning, teamwork, and innovative approaches, aligning well with Barbora's preferences. Potential professions include Communication Designer, Product Designer, or User Experience Designer."
+  field_of_study: "Design"
+  description: "The faculty focuses on contemporary design education, integrating traditional design principles with modern technologies. It encourages experimental approaches and collaboration across disciplines."
+  type: "Fachhochschule (University of Applied Sciences)"
+  city: "Potsdam"
+  address: "Kiepenheuerallee 5, 14469 Potsdam, Germany"
+  web: "https://www.fh-potsdam.de/"
+  timeline_overview: "Bachelor programs typically span 7 semesters, including practical projects and internships."
+
+  reputation_and_quality:
+    ranking: "Well-regarded nationally among universities of applied sciences"
+    faculty_quality:
+      notable_professors:
+        - "Prof. Katja Thoring: Expert in design thinking and innovation"
+        - "Prof. Dr. Heike Klussmann: Known for material and surface research"
+      individual_mentorship: "Emphasis on mentorship through small class sizes and project-based learning"
+      number_of_students: "Approximately 3,500 students across the university"
+      student_teacher_ratio: "Approximately 15:1"
+    accreditations: "Accredited by relevant German accreditation agencies"
+
+  study_programs:
+    description: "Offers Bachelor's programs in Interface Design and Product Design"
+    programs:
+      - name: "Bachelor of Arts in Interface Design"
+        type: "Bachelor"
+        specialization: "Interaction Design and User Experience"
+        description: "Focuses on designing interactive systems and user interfaces with a human-centered approach."
+        url: "https://www.fh-potsdam.de/studium/interface-design-ba"
+        timeline_overview: "3.5-year program with practical projects and internships."
+        matching_score: "9"
+        recommendation: "Aligns closely with Barbora's interest in combining creativity with technical skills and hands-on learning."
+        curriculum:
+          core_courses:
+            - "Interaction Design"
+            - "User Experience"
+          electives:
+            - "Physical Computing"
+            - "Information Visualization"
+        entry_requirements: "Abitur or equivalent; portfolio submission"
+        duration: "3.5 years"
+        language_of_instruction: "German"
+
+      - name: "Bachelor of Arts in Product Design"
+        type: "Bachelor"
+        specialization: "Product Development and Design"
+        description: "Emphasizes designing innovative products with a focus on functionality and aesthetics."
+        url: "https://www.fh-potsdam.de/studium/produktdesign-ba"
+        timeline_overview: "3.5-year program with workshops and practical training."
+        matching_score: "8"
+        recommendation: "Suitable for Barbora's creative and practical interests, offering hands-on experience."
+        curriculum:
+          core_courses:
+            - "Design Methods"
+            - "Material Science"
+          electives:
+            - "Sustainable Design"
+            - "Prototyping Techniques"
+        entry_requirements: "Abitur or equivalent; portfolio submission"
+        duration: "3.5 years"
+        language_of_instruction: "German"
+
+  industry_partnerships:
+    partnering_companies:
+      - name: "Local Design Agencies"
+        description: "Collaboration on projects and internship opportunities"
+        collaboratoin_type: "Internships, project collaborations"
+        study_type: "Optional internships during studies"
+        matching_score: "8"
+        recommendation: "Provides practical industry experience, aligning with Barbora's hands-on learning preference."
+        timeline_overview: "Internships typically during semester breaks"
+        application_process:
+          requirements: "Application to agencies; may require portfolio"
+          deadline: "Varies by agency"
+          open_days: "Company open days and career fairs"
+
+  exchange_programs:
+    partnering_schools:
+      - name: "Aalto University, Finland"
+        description: "Exchange program focusing on innovative design education"
+        structure: "One semester abroad with collaborative projects"
+        matching_score: "8"
+        recommendation: "Offers international exposure and aligns with Barbora's interest in robust international support."
+        duration: "One semester"
+        application_process:
+          requirements: "Good academic standing, language proficiency"
+          deadline: "Check International Office"
+          open_days: "International Office events"
+
+  tuition_and_financials:
+    tuition_fees:
+      domestic: "No tuition fees; semester fee around €300"
+      international: "Same as domestic; no tuition fees"
+    additional_costs:
+      living: "Approximately €700-€900 per month in Potsdam"
+      transportation: "Public transport pass included in semester fee"
+      materials: "Estimated €500-€1,000 per year for supplies"
+    scholarships_and_aid:
+      available_scholarships:
+        - name: "Deutschlandstipendium"
+          description: "Merit-based scholarship"
+          eligibility: "High academic achievement"
+          application_deadline: "Varies"
+      financial_aid_options: "BAföG, student loans, part-time work opportunities"
+
+  campus_and_student_life:
+    campus:
+      facilities:
+        - "Design Studios"
+        - "Media Labs"
+        - "Workshops"
+      housing: "Limited student housing; assistance provided"
+      transportation: "Good public transport connections to Berlin"
+    student_live:
+      culture: "Innovative and collaborative environment"
+      setting: "Suburban campus in a historic city"
+      extracurricular_activities:
+        - "Design clubs"
+        - "Cultural events"
+        - "Sports facilities"
+      support_services: "Academic advising, career services, counseling"
+
+  reputation_and_ranking:
+    global_rankings:
+      QS_Ranking: "Not prominently ranked globally"
+      THE_Ranking: "Not ranked"
+      ARWU_Ranking: "Not ranked"
+    national_rankings: "Well-regarded among German universities of applied sciences"
+    alumni_success: "Graduates working in leading design firms and tech companies"
+
+  post_graduation_outcomes:
+    job_opportunities:
+      description: "Graduates are prepared for various roles in the design industry."
+      professions:
+        - profession_name: "Interaction Designer"
+          description_of_profession: "Designs interactive digital products and services."
+          study_program: "Bachelor of Arts in Interface Design"
+          job_market_demand: "High demand in tech and media industries"
+          starting_salaries: "Approximately €35,000 - €45,000 per year"
+          industries: "Technology firms, design agencies, startups"
+    further_education: "Opportunities for Master's programs in related fields"
+
+  application_and_admission:
+    application_process:
+      contact:
+        web: "https://www.fh-potsdam.de/bewerbung"
+        email: "studienberatung@fh-potsdam.de"
+        phone: "+49 331 580 2091"
+      requirements:
+        academic: "Abitur or equivalent"
+        additional: "Portfolio submission; possibly entrance examination"
+      deadline: "May 15, 2025"
+      open_days: "April 2025; check website for specific dates"
+    admission_statistics:
+      acceptance_rate: "Selective; varies by program"
+      average_gpa: "Not specified"
+      average_test_scores: "Not applicable"
+
+  internships_and_practical_experience:
+    dual_programs:
+      available: "No formal dual programs"
+      details: "Dual vocational training not standard but practical experience emphasized"
+    internships:
+      opportunities: "Internships encouraged and sometimes integrated into studies"
+      partnerships: "Connections with local design agencies and tech companies"
+    workshops:
+      available: "Yes"
+      details: "Workshops and practical projects are integral to programs"
+
+  additional_information:
+    FAQs: "Available on the university website"
+    testimonials: "Student experiences shared online"
+    contact_information: "International Office: international@fh-potsdam.de"
+
+"Hochschule für Medien, Kommunikation und Wirtschaft (HMKW) Berlin / Faculty of Design":
+  matching_score: "8"
+  recommendation: "HMKW offers practice-oriented programs that blend creativity with technical skills, aligning well with Barbora's interests. Emphasis on media and communication design provides hands-on learning and industry connections. Potential professions include Media Designer, Graphic Designer, or Communication Specialist."
+  field_of_study: "Design and Media"
+  description: "The faculty focuses on integrating design with media and communication, providing students with practical skills for the digital age. Programs emphasize interdisciplinary learning and real-world applications."
+  type: "Fachhochschule (University of Applied Sciences)"
+  city: "Berlin"
+  address: "Ackerstraße 76, 13355 Berlin, Germany"
+  web: "https://www.hmkw.de/en/"
+  timeline_overview: "Bachelor programs typically span 6 semesters, including practical projects and internships."
+
+  reputation_and_quality:
+    ranking: "Recognized for industry-oriented education in media and design"
+    faculty_quality:
+      notable_professors:
+        - "Prof. Dr. Ronald Freytag: Expert in communication and media studies"
+        - "Prof. Heike Ollertz: Acclaimed photographer and visual artist"
+      individual_mentorship: "Personalized support through small class sizes and dedicated faculty"
+      number_of_students: "Approximately 1,500 students across campuses"
+      student_teacher_ratio: "Approximately 20:1"
+    accreditations: "Accredited by the German Accreditation Council"
+
+  study_programs:
+    description: "Offers Bachelor's programs in Graphic Design and Visual Communication"
+    programs:
+      - name: "Bachelor of Arts in Graphic Design and Visual Communication"
+        type: "Bachelor"
+        specialization: "Graphic Design, Communication Design"
+        description: "Combines traditional design principles with modern digital media, focusing on practical applications."
+        url: "https://www.hmkw.de/en/study/graphic-design-and-visual-communication-ba/"
+        timeline_overview: "3-year program with internships and real-world projects."
+        matching_score: "8"
+        recommendation: "Aligns with Barbora's creative talents and desire for practical, hands-on learning."
+        curriculum:
+          core_courses:
+            - "Design Basics"
+            - "Digital Design"
+          electives:
+            - "Web Design"
+            - "Motion Graphics"
+        entry_requirements: "Abitur or equivalent; portfolio submission; interview"
+        duration: "3 years"
+        language_of_instruction: "English or German"
+
+  industry_partnerships:
+    partnering_companies:
+      - name: "Media Companies and Design Agencies"
+        description: "Collaboration on projects and internships"
+        collaboratoin_type: "Internships, project collaborations"
+        study_type: "Integration of real-world projects into coursework"
+        matching_score: "8"
+        recommendation: "Provides industry exposure and practical experience, aligning with Barbora's preferences."
+        timeline_overview: "Opportunities throughout the program"
+        application_process:
+          requirements: "Standard university application; internship applications submitted separately"
+          deadline: "Rolling admissions; early application recommended"
+          open_days: "April 15-16, 2025"
+
+  exchange_programs:
+    partnering_schools:
+      - name: "University of Westminster, UK"
+        description: "Exchange program offering international perspectives in media and design"
+        structure: "One semester abroad"
+        matching_score: "7"
+        recommendation: "Offers international exposure and broadens creative horizons."
+        duration: "One semester"
+        application_process:
+          requirements: "Good academic standing, language proficiency"
+          deadline: "Check International Office for specific dates"
+          open_days: "International Office events throughout the year"
+
+  tuition_and_financials:
+    tuition_fees:
+      domestic: "Approximately €6,000 per year"
+      international: "Approximately €6,000 per year"
+    additional_costs:
+      living: "Approximately €800-€1,000 per month"
+      transportation: "Public transport pass around €60-€80 per month"
+      materials: "Estimated €500-€1,000 per year for supplies"
+    scholarships_and_aid:
+      available_scholarships:
+        - name: "HMKW Scholarship"
+          description: "Financial support for outstanding students"
+          eligibility: "Academic excellence and strong portfolio"
+          application_deadline: "Varies; check university website"
+      financial_aid_options: "Student loans, installment payment plans"
+
+  campus_and_student_life:
+    campus:
+      facilities:
+        - "Media Labs"
+        - "Design Studios"
+        - "Libraries"
+      housing: "Assistance provided in finding private accommodations"
+      transportation: "Excellent public transport connections"
+    student_live:
+      culture: "Vibrant community with a focus on media and design"
+      setting: "Urban campus in central Berlin"
+      extracurricular_activities:
+        - "Student media projects"
+        - "Workshops and seminars"
+        - "Cultural events"
+      support_services: "Academic advising, career services, counseling"
+
+  reputation_and_ranking:
+    global_rankings:
+      QS_Ranking: "Not prominently ranked globally"
+      THE_Ranking: "Not ranked"
+      ARWU_Ranking: "Not ranked"
+    national_rankings: "Recognized for practical media and design education"
+    alumni_success: "Graduates working in media companies and creative agencies"
+
+  post_graduation_outcomes:
+    job_opportunities:
+      description: "Graduates are equipped for various roles in the media and design industries."
+      professions:
+        - profession_name: "Graphic Designer"
+          description_of_profession: "Creates visual concepts for communication."
+          study_program: "Bachelor of Arts in Graphic Design and Visual Communication"
+          job_market_demand: "Steady demand in various sectors"
+          starting_salaries: "Approximately €30,000 - €40,000 per year"
+          industries: "Advertising, publishing, digital media"
+    further_education: "Opportunities for Master's programs in related fields"
+
+  application_and_admission:
+    application_process:
+      contact:
+        web: "https://www.hmkw.de/en/study/admission/"
+        email: "study-berlin@hmkw.de"
+        phone: "+49 30 467 769 00"
+      requirements:
+        academic: "Abitur or equivalent"
+        additional: "Portfolio submission; interview"
+      deadline: "Rolling admissions; early application recommended"
+      open_days: "April 15-16, 2025"
+    admission_statistics:
+      acceptance_rate: "Selective; exact rate not specified"
+      average_gpa: "Not specified"
+      average_test_scores: "Not applicable"
+
+  internships_and_practical_experience:
+    dual_programs:
+      available: "No"
+      details: "Dual vocational training programs are not offered"
+    internships:
+      opportunities: "Internships are integral to the curriculum"
+      partnerships: "Collaborations with media companies and design agencies"
+    workshops:
+      available: "Yes"
+      details: "Workshops and practical projects integrated into programs"
+
+  additional_information:
+    FAQs: "Available on the university website"
+    testimonials: "Student experiences shared online"
+    contact_information: "International Office: international@hmkw.de"
+
+"SRH Berlin University of Applied Sciences / Berlin School of Design and Communication":
+  matching_score: "8"
+  recommendation: "The school offers interdisciplinary programs that combine creativity with practical skills and technical knowledge. Emphasis on hands-on learning, teamwork, and industry connections aligns well with Barbora's preferences. Potential professions include Art Director, Communication Designer, or Media Producer."
+  field_of_study: "Design and Communication"
+  description: "Focuses on innovative and practice-oriented education in design and communication fields. Encourages creative thinking and collaboration across disciplines."
+  type: "Fachhochschule (University of Applied Sciences)"
+  city: "Berlin"
+  address: "Ernst-Reuter-Platz 10, 10587 Berlin, Germany"
+  web: "https://www.srh-berlin.de/en/"
+  timeline_overview: "Bachelor programs typically span 7 semesters, including internships and practical projects."
+
+  reputation_and_quality:
+    ranking: "Recognized for its innovative teaching methods and industry connections"
+    faculty_quality:
+      notable_professors:
+        - "Prof. Clemens Behr: Renowned installation artist"
+        - "Prof. Dr. Christian Zöllner: Expert in design research"
+      individual_mentorship: "Strong emphasis on mentorship due to small class sizes"
+      number_of_students: "Approximately 2,000 students across campuses"
+      student_teacher_ratio: "Approximately 15:1"
+    accreditations: "Accredited by the German Council of Science and Humanities"
+
+  study_programs:
+    description: "Offers Bachelor's programs in Advertising & Brand Communication and Film & Motion Design"
+    programs:
+      - name: "Bachelor of Arts in Advertising & Brand Communication"
+        type: "Bachelor"
+        specialization: "Advertising, Branding, Communication Strategies"
+        description: "Combines creative design with marketing and communication strategies."
+        url: "https://www.srh-berlin.de/en/academics/programs/advertising-and-brand-communication-ba/"
+        timeline_overview: "3.5-year program with practical projects and internships."
+        matching_score: "8"
+        recommendation: "Suitable for Barbora's interests in creativity, practical skills, and teamwork."
+        curriculum:
+          core_courses:
+            - "Brand Management"
+            - "Creative Campaigning"
+          electives:
+            - "Digital Marketing"
+            - "Social Media Strategies"
+        entry_requirements: "Abitur or equivalent; portfolio; interview"
+        duration: "3.5 years"
+        language_of_instruction: "English or German"
+
+      - name: "Bachelor of Arts in Film & Motion Design"
+        type: "Bachelor"
+        specialization: "Film Production, Motion Graphics"
+        description: "Focuses on storytelling through film and motion design, integrating technical skills with creativity."
+        url: "https://www.srh-berlin.de/en/academics/programs/film-and-motion-design-ba/"
+        timeline_overview: "3.5-year program with hands-on projects."
+        matching_score: "7"
+        recommendation: "Great for creative expression, but may be less focused on technical expertise outside of film and animation."
+        curriculum:
+          core_courses:
+            - "Cinematography"
+            - "Animation Techniques"
+          electives:
+            - "Visual Effects"
+            - "Interactive Media"
+        entry_requirements: "Abitur or equivalent; portfolio; interview"
+        duration: "3.5 years"
+        language_of_instruction: "English or German"
+
+  industry_partnerships:
+    partnering_companies:
+      - name: "Media and Advertising Agencies"
+        description: "Collaboration on projects and internships"
+        collaboratoin_type: "Internships, live projects"
+        study_type: "Integration of industry projects into coursework"
+        matching_score: "8"
+        recommendation: "Provides valuable industry experience and networking opportunities."
+        timeline_overview: "Opportunities available throughout the program"
+        application_process:
+          requirements: "Standard university application; internship applications submitted separately"
+          deadline: "Rolling admissions; early application recommended"
+          open_days: "March 20-21, 2025"
+
+  exchange_programs:
+    partnering_schools:
+      - name: "Savannah College of Art and Design, USA"
+        description: "Exchange program offering international perspectives in design"
+        structure: "One semester abroad"
+        matching_score: "8"
+        recommendation: "Enhances international exposure and aligns with Barbora's interest in global opportunities."
+        duration: "One semester"
+        application_process:
+          requirements: "Good academic standing, language proficiency"
+          deadline: "Check International Office for dates"
+          open_days: "International Office events"
+
+  tuition_and_financials:
+    tuition_fees:
+      domestic: "Approximately €7,500 per year"
+      international: "Approximately €7,500 per year"
+    additional_costs:
+      living: "Approximately €800-€1,000 per month"
+      transportation: "Public transport pass around €60-€80 per month"
+      materials: "Estimated €500-€1,000 per year for supplies"
+    scholarships_and_aid:
+      available_scholarships:
+        - name: "SRH Scholarship"
+          description: "Financial support for outstanding students"
+          eligibility: "Academic excellence and strong portfolio"
+          application_deadline: "Varies; check university website"
+      financial_aid_options: "Student loans, installment payment plans"
+
+  campus_and_student_life:
+    campus:
+      facilities:
+        - "Media Labs"
+        - "Film Studios"
+        - "Design Workshops"
+      housing: "Assistance provided in finding accommodations"
+      transportation: "Excellent public transport connections"
+    student_live:
+      culture: "Creative and international community"
+      setting: "Urban campus in central Berlin"
+      extracurricular_activities:
+        - "Art exhibitions"
+        - "Film screenings"
+        - "Student clubs"
+      support_services: "Academic advising, career services, counseling"
+
+  reputation_and_ranking:
+    global_rankings:
+      QS_Ranking: "Not prominently ranked globally"
+      THE_Ranking: "Not ranked"
+      ARWU_Ranking: "Not ranked"
+    national_rankings: "Recognized for innovative teaching methods"
+    alumni_success: "Graduates working in creative industries worldwide"
+
+  post_graduation_outcomes:
+    job_opportunities:
+      description: "Graduates are prepared for diverse roles in design and communication."
+      professions:
+        - profession_name: "Art Director"
+          description_of_profession: "Leads creative teams in developing visual concepts."
+          study_program: "Bachelor of Arts in Advertising & Brand Communication"
+          job_market_demand: "Competitive field with opportunities in various industries"
+          starting_salaries: "Approximately €40,000 - €50,000 per year"
+          industries: "Advertising, media, design agencies"
+    further_education: "Opportunities for Master's programs in related fields"
+
+  application_and_admission:
+    application_process:
+      contact:
+        web: "https://www.srh-berlin.de/en/admissions/"
+        email: "studyinberlin@srh.de"
+        phone: "+49 30 374 374 0"
+      requirements:
+        academic: "Abitur or equivalent"
+        additional: "Portfolio submission; interview"
+      deadline: "Rolling admissions; early application recommended"
+      open_days: "March 20-21, 2025"
+    admission_statistics:
+      acceptance_rate: "Selective; exact rate not specified"
+      average_gpa: "Not specified"
+      average_test_scores: "Not applicable"
+
+  internships_and_practical_experience:
+    dual_programs:
+      available: "No"
+      details: "Dual vocational training programs are not offered"
+    internships:
+      opportunities: "Internships are integral to the curriculum"
+      partnerships: "Collaborations with media companies and agencies"
+    workshops:
+      available: "Yes"
+      details: "Workshops and practical projects integrated into programs"
+
+  additional_information:
+    FAQs: "Available on the university website"
+    testimonials: "Student experiences shared online"
+    contact_information: "International Office: internationaloffice.hsbe@srh.de"
+
+"CODE University of Applied Sciences / Faculty of Software Engineering, Interaction Design, and Product Management":
+  matching_score: "8"
+  recommendation: "CODE offers innovative programs that blend creativity with technology, emphasizing hands-on projects and collaboration. The Interaction Design program aligns well with Barbora's interests in combining creativity with technical expertise. Potential professions include Interaction Designer, Product Manager, or UX/UI Designer."
+  field_of_study: "Software Engineering, Interaction Design, and Product Management"
+  description: "An accredited university focusing on digital product development, combining technical skills with creative problem-solving in an interdisciplinary environment."
+  type: "Private University of Applied Sciences"
+  city: "Berlin"
+  address: "Lohmühlenstraße 65, 12435 Berlin, Germany"
+  web: "https://code.berlin/en/"
+  timeline_overview: "Bachelor programs typically span 6 semesters, project-based learning is emphasized."
+
+  reputation_and_quality:
+    ranking: "Innovative institution with growing recognition in tech education"
+    faculty_quality:
+      notable_professors:
+        - "Prof. Dr. Jonathan Klahr: Expert in software development"
+        - "Prof. Kerstin Hormann: Specialist in interaction design"
+      individual_mentorship: "Strong mentorship due to small cohorts and project-based approach"
+      number_of_students: "Approximately 400 students"
+      student_teacher_ratio: "Approximately 10:1"
+    accreditations: "Accredited by the Berlin Senate Department for Science and Research"
+
+  study_programs:
+    description: "Offers Bachelor's programs in Interaction Design, Software Engineering, and Product Management"
+    programs:
+      - name: "Bachelor of Arts in Interaction Design"
+        type: "Bachelor"
+        specialization: "Interaction Design, User Experience"
+        description: "Focuses on designing intuitive interfaces and interactive experiences, combining creativity with technology."
+        url: "https://code.berlin/en/study/interactions/"
+        timeline_overview: "3-year program with project-based learning and industry collaborations."
+        matching_score: "9"
+        recommendation: "Highly aligns with Barbora's desire to combine creativity with technical skills in a hands-on environment."
+        curriculum:
+          core_courses:
+            - "Design Thinking"
+            - "Human-Computer Interaction"
+          electives:
+            - "Augmented Reality"
+            - "Interactive Prototyping"
+        entry_requirements: "Abitur or equivalent; motivation letter; interview"
+        duration: "3 years"
+        language_of_instruction: "English"
+
+      - name: "Bachelor of Science in Product Management"
+        type: "Bachelor"
+        specialization: "Product Development, Project Management"
+        description: "Emphasizes the development and management of digital products, integrating business and technical skills."
+        url: "https://code.berlin/en/study/product-management/"
+        timeline_overview: "3-year program with interdisciplinary projects."
+        matching_score: "7"
+        recommendation: "Good for combining technical and managerial skills, but may be less focused on creative design."
+        curriculum:
+          core_courses:
+            - "Agile Project Management"
+            - "Business Models"
+          electives:
+            - "Data Analytics"
+            - "Marketing Strategies"
+        entry_requirements: "Abitur or equivalent; motivation letter; interview"
+        duration: "3 years"
+        language_of_instruction: "English"
+
+  industry_partnerships:
+    partnering_companies:
+      - name: "Tech Startups and Companies"
+        description: "Collaboration on projects, internships, and mentorship"
+        collaboratoin_type: "Industry projects, internships"
+        study_type: "Integration of real-world projects into curriculum"
+        matching_score: "9"
+        recommendation: "Provides hands-on experience and industry connections, aligning with Barbora's preferences."
+        timeline_overview: "Opportunities available throughout the program"
+        application_process:
+          requirements: "Standard university application; internships applied for separately"
+          deadline: "Rolling admissions; early application encouraged"
+          open_days: "March 25-26, 2025"
+
+  exchange_programs:
+    partnering_schools:
+      - name: "No formal exchange programs but international collaborations"
+        description: "Collaborations with international institutions and companies"
+        structure: "International projects and potential for study abroad arrangements"
+        matching_score: "7"
+        recommendation: "Offers global exposure through collaborations, but limited formal exchange programs."
+        duration: "Varies"
+        application_process:
+          requirements: "Depends on the specific collaboration"
+          deadline: "Varies"
+          open_days: "Information sessions held periodically"
+
+  tuition_and_financials:
+    tuition_fees:
+      domestic: "Income-based repayment model or €9,800 per year"
+      international: "Same as domestic"
+    additional_costs:
+      living: "Approximately €800-€1,000 per month"
+      transportation: "Public transport pass around €60-€80 per month"
+      materials: "Minimal additional costs; most resources are digital"
+    scholarships_and_aid:
+      available_scholarships:
+        - name: "CODE Scholarship"
+          description: "Financial support based on merit and need"
+          eligibility: "Academic excellence, motivation"
+          application_deadline: "Varies; check university website"
+      financial_aid_options: "Income Share Agreements, student loans"
+
+  campus_and_student_life:
+    campus:
+      facilities:
+        - "Modern Workspaces"
+        - "Tech Labs"
+        - "Event Spaces"
+      housing: "Assistance provided in finding accommodations"
+      transportation: "Well-connected via public transport"
+    student_live:
+      culture: "Innovative, startup-like environment with collaborative culture"
+      setting: "Urban campus in a vibrant district of Berlin"
+      extracurricular_activities:
+        - "Hackathons"
+        - "Tech Meetups"
+        - "Startup Events"
+      support_services: "Mentorship programs, career services, counseling"
+
+  reputation_and_ranking:
+    global_rankings:
+      QS_Ranking: "Not ranked"
+      THE_Ranking: "Not ranked"
+      ARWU_Ranking: "Not ranked"
+    national_rankings: "Gaining recognition for innovative education model"
+    alumni_success: "Graduates working in leading tech companies and startups"
+
+  post_graduation_outcomes:
+    job_opportunities:
+      description: "High employability in tech and design sectors due to practical skills and industry connections"
+      professions:
+        - profession_name: "Interaction Designer"
+          description_of_profession: "Designs interactive products focusing on user experience."
+          study_program: "Bachelor of Arts in Interaction Design"
+          job_market_demand: "High demand in tech industries"
+          starting_salaries: "Approximately €40,000 - €50,000 per year"
+          industries: "Technology companies, design agencies, startups"
+    further_education: "Opportunities for Master's programs in related fields"
+
+  application_and_admission:
+    application_process:
+      contact:
+        web: "https://code.berlin/en/apply/"
+        email: "admissions@code.berlin"
+        phone: "+49 30 1208 9720"
+      requirements:
+        academic: "Abitur or equivalent"
+        additional: "Motivation letter, interview, possibly portfolio"
+      deadline: "Rolling admissions; early application encouraged"
+      open_days: "March 25-26, 2025"
+    admission_statistics:
+      acceptance_rate: "Selective; exact rate not specified"
+      average_gpa: "Not specified"
+      average_test_scores: "Not applicable"
+
+  internships_and_practical_experience:
+    dual_programs:
+      available: "No formal dual programs"
+      details: "Emphasis on practical projects and industry collaboration instead"
+    internships:
+      opportunities: "Strongly encouraged and supported"
+      partnerships: "Extensive network with tech companies and startups"
+    workshops:
+      available: "Yes"
+      details: "Workshops and project sprints integral to the curriculum"
+
+  additional_information:
+    FAQs: "Available on the university website"
+    testimonials: "Student and alumni stories shared online"
+    contact_information: "Admissions Office: admissions@code.berlin"
+
+"SRH University of Applied Sciences Berlin / Faculty of Engineering and Technology":
+  matching_score: "8"
+  recommendation: "The Faculty of Engineering and Technology at SRH Berlin offers practice-oriented programs that blend technical skills with creativity and innovation. It aligns well with Barbora's interest in combining practical skills with technical expertise in a hands-on environment. The university emphasizes teamwork, project-based learning, and industry connections. Potential professions include Industrial Engineer, Mechanical Engineer, or Technology Project Manager."
+  field_of_study: "Engineering and Technology"
+  description: "The faculty focuses on modern engineering disciplines, offering programs that integrate theoretical knowledge with practical application. Emphasis is placed on innovation, sustainability, and preparing students for the demands of the global technology market."
+  type: "Private University of Applied Sciences"
+  city: "Berlin"
+  address: "Ernst-Reuter-Platz 10, 10587 Berlin, Germany"
+  web: "https://www.srh-berlin.de/en/"
+  timeline_overview: "Bachelor programs typically span 7 semesters, including internships and practical projects."
+
+  reputation_and_quality:
+    ranking: "Recognized for its innovative teaching methods and industry partnerships"
+    faculty_quality:
+      notable_professors:
+        - "Prof. Dr.-Ing. Daniel Weiss: Expert in renewable energy systems"
+        - "Prof. Dr. Petra Schaper-Rinkel: Specialist in innovation and technology management"
+      individual_mentorship: "Strong emphasis on mentorship due to small class sizes and personalized learning"
+      number_of_students: "Approximately 2,000 students across campuses"
+      student_teacher_ratio: "Approximately 15:1"
+    accreditations: "Accredited by the German Council of Science and Humanities"
+
+  study_programs:
+    description: "Offers Bachelor's and Master's programs in Engineering and Technology fields"
+    programs:
+      - name: "Bachelor of Engineering in Renewable Energy"
+        type: "Bachelor"
+        specialization: "Renewable Energy Systems and Technologies"
+        description: "Focuses on sustainable energy solutions, integrating technical engineering skills with environmental considerations."
+        url: "https://www.srh-berlin.de/en/academics/programs/renewable-energy-beng/"
+        timeline_overview: "3.5-year program with practical projects and internships"
+        matching_score: "8"
+        recommendation: "Aligns with Barbora's desire for hands-on learning and combining technical expertise with practical applications. Emphasizes teamwork and innovative projects."
+        curriculum:
+          core_courses:
+            - "Energy Systems"
+            - "Electrical Engineering"
+          electives:
+            - "Solar Energy"
+            - "Wind Energy Technologies"
+        entry_requirements: "Abitur or equivalent; proficiency in English"
+        duration: "3.5 years"
+        language_of_instruction: "English"
+
+      - name: "Bachelor of Engineering in Engineering and Sustainable Technology Management"
+        type: "Bachelor"
+        specialization: "Mechanical Engineering and Sustainability"
+        description: "Combines mechanical engineering principles with sustainable technology management practices."
+        url: "https://www.srh-berlin.de/en/academics/programs/engineering-and-sustainable-technology-management-beng/"
+        timeline_overview: "3.5-year program with industry projects"
+        matching_score: "7"
+        recommendation: "Offers a blend of technical and management skills but may be less focused on the creative aspects Barbora enjoys."
+        curriculum:
+          core_courses:
+            - "Mechanical Engineering Fundamentals"
+            - "Technology Management"
+          electives:
+            - "Sustainable Manufacturing"
+            - "Innovation Management"
+        entry_requirements: "Abitur or equivalent; proficiency in English"
+        duration: "3.5 years"
+        language_of_instruction: "English"
+
+  industry_partnerships:
+    partnering_companies:
+      - name: "Siemens AG"
+        description: "Collaboration on projects, internships, and guest lectures"
+        collaboratoin_type: "Internships, joint projects"
+        study_type: "Integration of industry projects into curriculum"
+        matching_score: "9"
+        recommendation: "Provides valuable industry experience and networking opportunities, aligning with Barbora's hands-on and practical learning preferences."
+        timeline_overview: "Opportunities available throughout the program"
+        application_process:
+          requirements: "Application to the company; may require interviews and academic references"
+          deadline: "Varies by opportunity; early application recommended"
+          open_days: "Company open days and university career fairs in March 2025"
+
+  exchange_programs:
+    partnering_schools:
+      - name: "University of Technology Sydney, Australia"
+        description: "Exchange program offering international engineering perspectives"
+        structure: "One semester abroad with credit transfer"
+        matching_score: "8"
+        recommendation: "Enhances international exposure and offers unique learning experiences, aligning with Barbora's interest in global opportunities."
+        duration: "One semester"
+        application_process:
+          requirements: "Good academic standing; proficiency in English"
+          deadline: "April 30, 2025"
+          open_days: "International Office events in January 2025"
+
+  tuition_and_financials:
+    tuition_fees:
+      domestic: "Approximately €7,500 per year"
+      international: "Approximately €7,500 per year"
+    additional_costs:
+      living: "Approximately €800-€1,000 per month"
+      transportation: "Public transport pass around €60-€80 per month"
+      materials: "Estimated €300-€500 per year for supplies"
+    scholarships_and_aid:
+      available_scholarships:
+        - name: "SRH Scholarship"
+          description: "Financial support for outstanding students"
+          eligibility: "Academic excellence and motivation"
+          application_deadline: "Varies; check university website"
+      financial_aid_options: "Student loans, installment payment plans"
+
+  campus_and_student_life:
+    campus:
+      facilities:
+        - "Engineering Labs"
+        - "Innovation Hubs"
+        - "Libraries"
+      housing: "Assistance provided in finding accommodations"
+      transportation: "Excellent public transport connections"
+    student_live:
+      culture: "International and collaborative environment with a focus on innovation"
+      setting: "Urban campus in central Berlin"
+      extracurricular_activities:
+        - "Engineering clubs"
+        - "Entrepreneurship workshops"
+        - "Cultural events"
+      support_services: "Academic advising, career services, counseling"
+
+  reputation_and_ranking:
+    global_rankings:
+      QS_Ranking: "Not prominently ranked globally"
+      THE_Ranking: "Not ranked"
+      ARWU_Ranking: "Not ranked"
+    national_rankings: "Recognized for innovative education and industry partnerships"
+    alumni_success: "Graduates working in leading engineering firms and tech companies"
+
+  post_graduation_outcomes:
+    job_opportunities:
+      description: "Graduates are prepared for roles in engineering sectors, with strong industry connections enhancing employability."
+      professions:
+        - profession_name: "Renewable Energy Engineer"
+          description_of_profession: "Designs and implements sustainable energy solutions."
+          study_program: "Bachelor of Engineering in Renewable Energy"
+          job_market_demand: "Growing demand due to emphasis on sustainability"
+          starting_salaries: "Approximately €40,000 - €50,000 per year"
+          industries: "Energy companies, environmental consultancies"
+    further_education: "Opportunities for Master's programs in Engineering or related fields"
+
+  application_and_admission:
+    application_process:
+      contact:
+        web: "https://www.srh-berlin.de/en/admissions/"
+        email: "engineering@srh.de"
+        phone: "+49 30 374 374 0"
+      requirements:
+        academic: "Abitur or equivalent; proficiency in English (IELTS or TOEFL)"
+        additional: "Motivation letter; possibly an interview"
+      deadline: "Rolling admissions; early application recommended"
+      open_days: "March 20-21, 2025"
+    admission_statistics:
+      acceptance_rate: "Selective; exact rate not specified"
+      average_gpa: "Not specified"
+      average_test_scores: "IELTS 6.5 or equivalent"
+
+  internships_and_practical_experience:
+    dual_programs:
+      available: "No"
+      details: "Dual vocational training programs are not offered"
+    internships:
+      opportunities: "Internships are integral to the curriculum"
+      partnerships: "Collaborations with engineering firms and tech companies"
+    workshops:
+      available: "Yes"
+      details: "Workshops and practical projects integrated into programs"
+
+  additional_information:
+    FAQs: "Available on the university website"
+    testimonials: "Student experiences shared online"
+    contact_information: "International Office: internationaloffice.hsbe@srh.de"
+
+"Beuth University of Applied Sciences Berlin / Faculty of Architecture and Civil Engineering":
+  matching_score: "7"
+  recommendation: "While the faculty offers strong technical programs with practical components, it may lean more towards engineering and less towards the creative aspects Barbora desires. Potential careers include Civil Engineer or Construction Manager, but these may not fully align with her interest in combining creativity with technical expertise in a hands-on, field-oriented environment."
+  field_of_study: "Architecture and Civil Engineering"
+  description: "The faculty offers practical-oriented programs in architecture and civil engineering, focusing on technical aspects of construction, design, and infrastructure development."
+  type: "Fachhochschule (University of Applied Sciences)"
+  city: "Berlin"
+  address: "Luxemburger Str. 10, 13353 Berlin, Germany"
+  web: "https://www.beuth-hochschule.de/"
+  timeline_overview: "Bachelor programs span 7 semesters, including practical semesters."
+
+  reputation_and_quality:
+    ranking: "Beuth University is well-regarded for its practical engineering education."
+    faculty_quality:
+      notable_professors:
+        - "Prof. Dr.-Ing. Karlheinz Lange: Expert in structural analysis"
+      individual_mentorship: "Available through small group projects and accessible faculty"
+      number_of_students: "Approximately 12,000 students across the university"
+      student_teacher_ratio: "Approximately 25:1"
+    accreditations: "Programs accredited by relevant German accreditation agencies"
+
+  study_programs:
+    description: "Offers Bachelor's programs in Civil Engineering and Architecture."
+    programs:
+      - name: "Bachelor of Engineering in Civil Engineering"
+        type: "Bachelor"
+        specialization: "Structural Engineering"
+        description: "Covers technical and practical aspects of civil engineering projects."
+        url: "https://www.beuth-hochschule.de/1283/"
+        timeline_overview: "3.5-year program with practical training."
+        matching_score: "6"
+        recommendation: "Highly technical and practical but may lack the creative component Barbora is seeking."
+        curriculum:
+          core_courses:
+            - "Statics"
+            - "Construction Materials"
+          electives:
+            - "Environmental Engineering"
+            - "Project Management"
+        entry_requirements: "Abitur or equivalent; strong mathematics background"
+        duration: "3.5 years"
+        language_of_instruction: "German"
+
+      - name: "Bachelor of Arts in Architecture"
+        type: "Bachelor"
+        specialization: "Architecture"
+        description: "Combines architectural design with technical construction knowledge."
+        url: "https://www.beuth-hochschule.de/4820/"
+        timeline_overview: "4-year program including design studios and practical experience."
+        matching_score: "7"
+        recommendation: "Offers practical and technical education in architecture; may be more technical than creative compared to other options."
+        curriculum:
+          core_courses:
+            - "Design Studio"
+            - "Building Construction"
+          electives:
+            - "Urban Planning"
+            - "Sustainable Architecture"
+        entry_requirements: "Abitur or equivalent; portfolio; possibly entrance exam"
+        duration: "4 years"
+        language_of_instruction: "German"
+
+  industry_partnerships:
+    partnering_companies:
+      - name: "HOCHTIEF AG"
+        description: "Offers dual study opportunities in civil engineering."
+        collaboratoin_type: "Dual vocational training with on-site work experience"
+        study_type: "Alternating between university studies and company work"
+        matching_score: "7"
+        recommendation: "Provides practical experience but focuses more on engineering than creative design."
+        timeline_overview: "Integrated over the duration of the program"
+        application_process:
+          requirements: "Application to both university and company; interviews"
+          deadline: "Varies; check with company"
+          open_days: "Company open days; university open days in May 2025"
+
+  exchange_programs:
+    partnering_schools:
+      - name: "Technical University of Denmark"
+        description: "Exchange program focusing on engineering."
+        structure: "One semester abroad"
+        matching_score: "6"
+        recommendation: "Good for technical exposure but may not enhance creative skills."
+        duration: "One semester"
+        application_process:
+          requirements: "Good academic standing; language proficiency"
+          deadline: "Check International Office"
+          open_days: "International Office events"
+
+  tuition_and_financials:
+    tuition_fees:
+      domestic: "No tuition fees; semester fee around €300"
+      international: "Same as domestic; no tuition fees"
+    additional_costs:
+      living: "Approximately €800-€1,000 per month"
+      transportation: "Public transport pass included in semester fee"
+      materials: "Estimated €300-€500 per year for supplies"
+    scholarships_and_aid:
+      available_scholarships:
+        - name: "Deutschlandstipendium"
+          description: "Merit-based scholarship"
+          eligibility: "High academic achievement"
+          application_deadline: "Varies"
+      financial_aid_options: "BAföG, student loans"
+
+  campus_and_student_life:
+    campus:
+      facilities:
+        - "Engineering Labs"
+        - "Workshops"
+        - "Libraries"
+      housing: "Student housing and private accommodations"
+      transportation: "Well-connected via public transport"
+    student_live:
+      culture: "Practical and career-oriented atmosphere"
+      setting: "Urban campus in Berlin"
+      extracurricular_activities:
+        - "Engineering clubs"
+        - "Sports teams"
+        - "Student initiatives"
+      support_services: "Academic advising, career services"
+
+  reputation_and_ranking:
+    global_rankings:
+      QS_Ranking: "Not individually ranked globally"
+      THE_Ranking: "Not individually ranked"
+      ARWU_Ranking: "Not ranked"
+    national_rankings: "Recognized for practical engineering programs"
+    alumni_success: "Alumni working in major infrastructure projects"
+
+  post_graduation_outcomes:
+    job_opportunities:
+      description: "Graduates work in construction, engineering firms, and infrastructure development."
+      professions:
+        - profession_name: "Civil Engineer"
+          description_of_profession: "Designs, constructs, and maintains infrastructure projects."
+          study_program: "Bachelor of Engineering in Civil Engineering"
+          job_market_demand: "Consistently strong demand"
+          starting_salaries: "Approximately €40,000 - €50,000 per year"
+          industries: "Construction, infrastructure development, project management"
+
+    further_education: "Master's programs in Civil Engineering or related fields"
+
+  application_and_admission:
+    application_process:
+      contact:
+        web: "https://www.beuth-hochschule.de/studienberatung/"
+        email: "studienberatung@beuth-hochschule.de"
+        phone: "+49 30 4504 2999"
+      requirements:
+        academic: "Abitur or equivalent; strong in mathematics and sciences"
+        additional: "Possibly an entrance examination"
+      deadline: "July 15, 2025"
+      open_days: "May 15, 2025"
+    admission_statistics:
+      acceptance_rate: "Varies by program"
+      average_gpa: "Not specified"
+      average_test_scores: "Not applicable"
+
+  internships_and_practical_experience:
+    dual_programs:
+      available: "Yes"
+      details: "Dual vocational training programs with industry partners"
+    internships:
+      opportunities: "Internships are part of the curriculum"
+      partnerships: "Partnerships with engineering firms"
+    workshops:
+      available: "Yes"
+      details: "Practical workshops integral to the programs"
+
+  additional_information:
+    FAQs: "Available on the university website"
+    testimonials: "Student experiences shared online"
+    contact_information: "International Office: international@beuth-hochschule.de"
+
+"Technische Universität Berlin (TU Berlin) / Faculty of Electrical Engineering and Computer Science":
+  matching_score: "7"
+  recommendation: "The faculty offers rigorous programs that combine theoretical knowledge with practical applications in electrical engineering and computer science. While it provides strong technical expertise and hands-on laboratory experience, it may be less focused on the creative and artistic aspects Barbora enjoys. Potential professions include Electrical Engineer, Software Developer, or Systems Engineer."
+  field_of_study: "Electrical Engineering and Computer Science"
+  description: "The faculty is known for its research-oriented approach, offering comprehensive programs that cover fundamental principles and advanced technologies in engineering and computer science."
+  type: "Technische Universität"
+  city: "Berlin"
+  address: "Einsteinufer 17, 10587 Berlin, Germany"
+  web: "https://www.eecs.tu-berlin.de/"
+  timeline_overview: "Bachelor programs typically span 6 semesters (3 years), with options for master's studies."
+
+  reputation_and_quality:
+    ranking: "TU Berlin is ranked among the top engineering universities globally"
+    faculty_quality:
+      notable_professors:
+        - "Prof. Dr.-Ing. Anja Feldmann: Expert in Internet architecture"
+        - "Prof. Dr.-Ing. Klaus-Robert Müller: Renowned in machine learning"
+      individual_mentorship: "Opportunities through research projects and seminars"
+      number_of_students: "Approximately 5,000 students in the faculty"
+      student_teacher_ratio: "Approximately 25:1"
+    accreditations: "Accredited by relevant German accreditation agencies"
+
+  study_programs:
+    description: "Offers Bachelor's and Master's programs in Electrical Engineering, Computer Science, and related fields"
+    programs:
+      - name: "Bachelor of Science in Electrical Engineering"
+        type: "Bachelor"
+        specialization: "Electrical Engineering"
+        description: "Provides foundational knowledge in electrical engineering, electronics, and signal processing."
+        url: "https://www.tu.berlin/en/studying/study-programs/all-programs-offered/study-course/electrical-engineering-b-sc/"
+        timeline_overview: "3-year program with theoretical courses and laboratory work"
+        matching_score: "7"
+        recommendation: "Offers strong technical skills and practical experience but may lack the creative and hands-on fieldwork Barbora prefers."
+        curriculum:
+          core_courses:
+            - "Circuit Theory"
+            - "Digital Systems"
+          electives:
+            - "Renewable Energy Systems"
+            - "Communication Technology"
+        entry_requirements: "Abitur or equivalent; proficiency in German"
+        duration: "3 years"
+        language_of_instruction: "German"
+
+      - name: "Bachelor of Science in Computer Science"
+        type: "Bachelor"
+        specialization: "Computer Science"
+        description: "Covers fundamental concepts in programming, algorithms, and software development."
+        url: "https://www.tu.berlin/en/studying/study-programs/all-programs-offered/study-course/computer-science-b-sc/"
+        timeline_overview: "3-year program with lectures and practical programming exercises"
+        matching_score: "6"
+        recommendation: "Highly technical and theoretical; may not align with Barbora's interest in combining creativity with hands-on experiences."
+        curriculum:
+          core_courses:
+            - "Programming"
+            - "Data Structures"
+          electives:
+            - "Artificial Intelligence"
+            - "Human-Computer Interaction"
+        entry_requirements: "Abitur or equivalent; proficiency in German"
+        duration: "3 years"
+        language_of_instruction: "German"
+
+  industry_partnerships:
+    partnering_companies:
+      - name: "Siemens AG"
+        description: "Collaborations on research projects and internships"
+        collaboratoin_type: "Internships, research collaborations"
+        study_type: "Opportunities to work on industry-relevant projects"
+        matching_score: "7"
+        recommendation: "Provides practical experience in engineering but may focus less on creative aspects."
+        timeline_overview: "Internships typically during semester breaks"
+        application_process:
+          requirements: "Application to the company; may require academic references"
+          deadline: "Varies by company"
+          open_days: "Company presentations at the university throughout the year"
+
+  exchange_programs:
+    partnering_schools:
+      - name: "Massachusetts Institute of Technology (MIT), USA"
+        description: "Exchange program for top-performing students in engineering"
+        structure: "One semester abroad with research opportunities"
+        matching_score: "8"
+        recommendation: "Offers international exposure and access to leading research facilities; beneficial for academic growth."
+        duration: "One semester"
+        application_process:
+          requirements: "Excellent academic record; proficiency in English"
+          deadline: "Typically early 2025 for Winter Semester"
+          open_days: "International Office events"
+
+  tuition_and_financials:
+    tuition_fees:
+      domestic: "No tuition fees; semester fee around €307"
+      international: "Same as domestic; no tuition fees"
+    additional_costs:
+      living: "Approximately €800-€1,000 per month"
+      transportation: "Public transport pass included in semester fee"
+      materials: "Estimated €200-€400 per year for supplies"
+    scholarships_and_aid:
+      available_scholarships:
+        - name: "Deutschlandstipendium"
+          description: "Merit-based scholarship"
+          eligibility: "High academic achievement"
+          application_deadline: "Usually in early summer"
+      financial_aid_options: "BAföG for eligible students, student loans"
+
+  campus_and_student_life:
+    campus:
+      facilities:
+        - "Advanced Laboratories"
+        - "Research Centers"
+        - "Libraries"
+      housing: "University accommodations and private rentals available"
+      transportation: "Excellent public transport connectivity"
+    student_live:
+      culture: "Diverse and international community with a focus on research"
+      setting: "Urban campus in central Berlin"
+      extracurricular_activities:
+        - "Engineering clubs"
+        - "Coding competitions"
+        - "Student associations"
+      support_services: "Academic advising, career services, counseling"
+
+  reputation_and_ranking:
+    global_rankings:
+      QS_Ranking: "TU Berlin ranked within top 150 universities worldwide"
+      THE_Ranking: "Similar global ranking"
+      ARWU_Ranking: "Ranked among top universities globally"
+    national_rankings: "Highly regarded in Germany for engineering and technology"
+    alumni_success: "Graduates employed in leading tech companies and research institutions"
+
+  post_graduation_outcomes:
+    job_opportunities:
+      description: "Graduates are well-prepared for careers in engineering, technology, and research"
+      professions:
+        - profession_name: "Electrical Engineer"
+          description_of_profession: "Designs and develops electrical systems and equipment"
+          study_program: "Bachelor of Science in Electrical Engineering"
+          job_market_demand: "Consistently strong demand in various industries"
+          starting_salaries: "Approximately €45,000 - €55,000 per year"
+          industries: "Automotive, energy, telecommunications"
+    further_education: "Opportunities for Master's and PhD programs"
+
+  application_and_admission:
+    application_process:
+      contact:
+        web: "https://www.tu.berlin/en/studying/application-and-enrollment/"
+        email: "studienberatung@tu-berlin.de"
+        phone: "+49 30 314 29999"
+      requirements:
+        academic: "Abitur or equivalent; strong background in mathematics and physics"
+        additional: "German language proficiency (TestDaF, DSH)"
+      deadline: "July 15, 2025"
+      open_days: "April 10-11, 2025"
+    admission_statistics:
+      acceptance_rate: "Competitive; varies by year"
+      average_gpa: "Not specified"
+      average_test_scores: "Not applicable"
+
+  internships_and_practical_experience:
+    dual_programs:
+      available: "No formal dual programs"
+      details: "Focus on academic studies with practical lab work"
+    internships:
+      opportunities: "Internships encouraged; sometimes integrated into studies"
+      partnerships: "Connections with tech companies for internships"
+    workshops:
+      available: "Yes"
+      details: "Workshops and lab sessions integral to the curriculum"
+
+  additional_information:
+    FAQs: "Available on the university website"
+    testimonials: "Student experiences shared online"
+    contact_information: "International Office: international@tu-berlin.de"
+
+"Technische Universität Berlin (TU Berlin) / Faculty of Mechanical Engineering and Transport Systems":
+  matching_score: "7"
+  recommendation: "This faculty offers comprehensive programs in mechanical engineering and transport systems, focusing on technical expertise and practical applications. While it provides hands-on laboratory experience and project work, it may not fully align with Barbora's interest in combining creativity with technical skills in a creative field. Potential professions include Mechanical Engineer, Automotive Engineer, or Logistics Specialist."
+  field_of_study: "Mechanical Engineering and Transport Systems"
+  description: "The faculty specializes in mechanical engineering disciplines, transport technologies, and logistics, integrating theoretical knowledge with practical applications and research."
+  type: "Technische Universität"
+  city: "Berlin"
+  address: "Straße des 17. Juni 135, 10623 Berlin, Germany"
+  web: "https://www.mbt.tu-berlin.de/"
+  timeline_overview: "Bachelor programs typically span 6 semesters (3 years), with options for master's studies."
+
+  reputation_and_quality:
+    ranking: "TU Berlin is ranked among the top engineering universities globally"
+    faculty_quality:
+      notable_professors:
+        - "Prof. Dr.-Ing. Christian Thomsen: Expert in materials science"
+        - "Prof. Dr.-Ing. Katrin Wodzicki: Specialist in transport systems"
+      individual_mentorship: "Available through project supervision and research groups"
+      number_of_students: "Approximately 4,000 students in the faculty"
+      student_teacher_ratio: "Approximately 20:1"
+    accreditations: "Accredited by relevant German accreditation agencies"
+
+  study_programs:
+    description: "Offers Bachelor's and Master's programs in Mechanical Engineering, Transport Systems, and related fields"
+    programs:
+      - name: "Bachelor of Science in Mechanical Engineering"
+        type: "Bachelor"
+        specialization: "Mechanical Engineering"
+        description: "Provides foundational knowledge in mechanics, thermodynamics, and materials science."
+        url: "https://www.tu.berlin/en/studying/study-programs/all-programs-offered/study-course/mechanical-engineering-b-sc/"
+        timeline_overview: "3-year program with theoretical courses and practical lab work"
+        matching_score: "7"
+        recommendation: "Offers strong technical skills and practical experience but may lack the creative aspects Barbora seeks."
+        curriculum:
+          core_courses:
+            - "Engineering Mechanics"
+            - "Thermodynamics"
+          electives:
+            - "Renewable Energy Systems"
+            - "Robotics"
+        entry_requirements: "Abitur or equivalent; proficiency in German"
+        duration: "3 years"
+        language_of_instruction: "German"
+
+      - name: "Bachelor of Science in Transport Systems"
+        type: "Bachelor"
+        specialization: "Transport Engineering and Logistics"
+        description: "Focuses on planning, operation, and management of transport systems."
+        url: "https://www.tu.berlin/en/studying/study-programs/all-programs-offered/study-course/transportation-system-b-sc/"
+        timeline_overview: "3-year program with lectures and practical projects"
+        matching_score: "6"
+        recommendation: "Technical and analytical focus; may not fully align with Barbora's creative interests."
+        curriculum:
+          core_courses:
+            - "Traffic Engineering"
+            - "Logistics"
+          electives:
+            - "Intelligent Transport Systems"
+            - "Urban Mobility"
+        entry_requirements: "Abitur or equivalent; proficiency in German"
+        duration: "3 years"
+        language_of_instruction: "German"
+
+  industry_partnerships:
+    partnering_companies:
+      - name: "Volkswagen AG"
+        description: "Collaborations on research projects and internships"
+        collaboratoin_type: "Internships, joint research"
+        study_type: "Opportunities to work on industry-relevant projects"
+        matching_score: "7"
+        recommendation: "Provides practical experience in engineering but may focus less on creativity."
+        timeline_overview: "Internships typically during semester breaks"
+        application_process:
+          requirements: "Application to the company; may require academic references"
+          deadline: "Varies by company"
+          open_days: "Company presentations at the university"
+
+  exchange_programs:
+    partnering_schools:
+      - name: "KTH Royal Institute of Technology, Sweden"
+        description: "Exchange program focusing on engineering and technology"
+        structure: "One semester abroad with course credit transfer"
+        matching_score: "7"
+        recommendation: "Offers international exposure and collaboration opportunities"
+        duration: "One semester"
+        application_process:
+          requirements: "Good academic standing; proficiency in English"
+          deadline: "Typically early 2025 for Winter Semester"
+          open_days: "International Office events"
+
+  tuition_and_financials:
+    tuition_fees:
+      domestic: "No tuition fees; semester fee around €307"
+      international: "Same as domestic; no tuition fees"
+    additional_costs:
+      living: "Approximately €800-€1,000 per month"
+      transportation: "Public transport pass included in semester fee"
+      materials: "Estimated €200-€400 per year for supplies"
+    scholarships_and_aid:
+      available_scholarships:
+        - name: "Deutschlandstipendium"
+          description: "Merit-based scholarship"
+          eligibility: "High academic achievement"
+          application_deadline: "Usually in early summer"
+      financial_aid_options: "BAföG for eligible students, student loans"
+
+  campus_and_student_life:
+    campus:
+      facilities:
+        - "Engineering Workshops"
+        - "Research Laboratories"
+        - "Libraries"
+      housing: "University accommodations and private rentals available"
+      transportation: "Excellent public transport connectivity"
+    student_live:
+      culture: "International community with a focus on engineering and innovation"
+      setting: "Urban campus in central Berlin"
+      extracurricular_activities:
+        - "Engineering societies"
+        - "Robotics clubs"
+        - "Student projects"
+      support_services: "Academic advising, career services, counseling"
+
+  reputation_and_ranking:
+    global_rankings:
+      QS_Ranking: "TU Berlin ranked within top 150 universities worldwide"
+      THE_Ranking: "Similar global ranking"
+      ARWU_Ranking: "Ranked among top universities globally"
+    national_rankings: "Highly regarded in Germany for mechanical engineering"
+    alumni_success: "Graduates employed in leading engineering firms and automotive companies"
+
+  post_graduation_outcomes:
+    job_opportunities:
+      description: "Graduates are well-equipped for careers in mechanical engineering and related fields"
+      professions:
+        - profession_name: "Mechanical Engineer"
+          description_of_profession: "Designs and develops mechanical systems"
+          study_program: "Bachelor of Science in Mechanical Engineering"
+          job_market_demand: "Strong demand in various industries"
+          starting_salaries: "Approximately €45,000 - €55,000 per year"
+          industries: "Automotive, manufacturing, aerospace"
+    further_education: "Opportunities for Master's and PhD programs"
+
+  application_and_admission:
+    application_process:
+      contact:
+        web: "https://www.tu-berlin.de/?id=23396"
+        email: "studienberatung@tu-berlin.de"
+        phone: "+49 30 314 29999"
+      requirements:
+        academic: "Abitur or equivalent; strong background in mathematics and physics"
+        additional: "German language proficiency (TestDaF, DSH)"
+      deadline: "July 15, 2025"
+      open_days: "April 10-11, 2025"
+    admission_statistics:
+      acceptance_rate: "Competitive; varies by year"
+      average_gpa: "Not specified"
+      average_test_scores: "Not applicable"
+
+  internships_and_practical_experience:
+    dual_programs:
+      available: "No formal dual programs"
+      details: "Focus on academic studies with practical lab work"
+    internships:
+      opportunities: "Internships encouraged; sometimes integrated into studies"
+      partnerships: "Connections with engineering firms for internships"
+    workshops:
+      available: "Yes"
+      details: "Workshops and lab sessions integral to the curriculum"
+
+  additional_information:
+    FAQs: "Available on the university website"
+    testimonials: "Student experiences shared online"
+    contact_information: "International Office: international@tu-berlin.de"
+
+"Berlin University of Applied Sciences (HTW Berlin) / School of Engineering":
+  matching_score: "7"
+  recommendation: "HTW Berlin's School of Engineering offers practical-oriented programs that combine technical skills with hands-on experience. The emphasis on applied sciences and industry connections aligns with Barbora's preference for practical, field-oriented learning. However, the programs may be more technical and less focused on creative aspects. Potential professions include Mechanical Engineer, Industrial Engineer, or Technical Project Manager."
+  field_of_study: "Engineering"
+  description: "The school focuses on applied engineering disciplines, integrating theoretical knowledge with practical skills to prepare students for the demands of the engineering industry."
+  type: "Fachhochschule (University of Applied Sciences)"
+  city: "Berlin"
+  address: "Wilhelminenhofstraße 75A, 12459 Berlin, Germany"
+  web: "https://www.htw-berlin.de/en/"
+  timeline_overview: "Bachelor programs typically span 7 semesters, including practical semesters and projects."
+
+  reputation_and_quality:
+    ranking: "HTW Berlin is one of the largest and highly regarded universities of applied sciences in Germany"
+    faculty_quality:
+      notable_professors:
+        - "Prof. Dr.-Ing. Uwe Neumann: Expert in automotive engineering"
+        - "Prof. Dr.-Ing. Gisela Lanza: Specialist in production systems"
+      individual_mentorship: "Personalized support through small class sizes and project supervision"
+      number_of_students: "Approximately 14,000 students across the university"
+      student_teacher_ratio: "Approximately 20:1"
+    accreditations: "Programs accredited by relevant German accreditation agencies"
+
+  study_programs:
+    description: "Offers Bachelor's programs in Mechanical Engineering, Automotive Engineering, and Industrial Engineering"
+    programs:
+      - name: "Bachelor of Engineering in Mechanical Engineering"
+        type: "Bachelor"
+        specialization: "Mechanical Engineering"
+        description: "Combines engineering principles with practical applications in mechanics and materials."
+        url: "https://www.htw-berlin.de/en/studies/bachelor/mechanical-engineering/"
+        timeline_overview: "3.5-year program with practical training and a mandatory internship"
+        matching_score: "7"
+        recommendation: "Aligns with Barbora's interest in hands-on learning but may lack creative and artistic elements."
+        curriculum:
+          core_courses:
+            - "Engineering Mechanics"
+            - "Material Science"
+          electives:
+            - "Renewable Energy Systems"
+            - "Robotics"
+        entry_requirements: "Abitur or equivalent; proficiency in German"
+        duration: "3.5 years"
+        language_of_instruction: "German"
+
+      - name: "Bachelor of Engineering in Industrial Engineering"
+        type: "Bachelor"
+        specialization: "Production and Management"
+        description: "Integrates engineering with business management to optimize production processes."
+        url: "https://www.htw-berlin.de/en/studies/bachelor/industrial-engineering/"
+        timeline_overview: "3.5-year program with industry projects and internships"
+        matching_score: "6"
+        recommendation: "Offers practical skills but may not align with Barbora's creative interests."
+        curriculum:
+          core_courses:
+            - "Production Engineering"
+            - "Business Administration"
+          electives:
+            - "Logistics"
+            - "Quality Management"
+        entry_requirements: "Abitur or equivalent; proficiency in German"
+        duration: "3.5 years"
+        language_of_instruction: "German"
+
+  industry_partnerships:
+    partnering_companies:
+      - name: "Siemens AG"
+        description: "Collaboration on projects and internships"
+        collaboratoin_type: "Internships, dual study options"
+        study_type: "Integration of practical work experience into studies"
+        matching_score: "8"
+        recommendation: "Provides valuable industry experience and practical skills, aligning with Barbora's hands-on learning preference."
+        timeline_overview: "Opportunities available throughout the program"
+        application_process:
+          requirements: "Application to both university and company; may require interviews"
+          deadline: "Varies; early application recommended"
+          open_days: "Company open days and university career fairs"
+
+  exchange_programs:
+    partnering_schools:
+      - name: "Dublin Institute of Technology, Ireland"
+        description: "Exchange program focusing on engineering disciplines"
+        structure: "One semester abroad with course credit transfer"
+        matching_score: "7"
+        recommendation: "Offers international exposure and practical learning experiences."
+        duration: "One semester"
+        application_process:
+          requirements: "Good academic standing; proficiency in English"
+          deadline: "Check International Office for dates"
+          open_days: "International Office events"
+
+  tuition_and_financials:
+    tuition_fees:
+      domestic: "No tuition fees; semester fee around €300"
+      international: "Same as domestic; no tuition fees"
+    additional_costs:
+      living: "Approximately €800-€1,000 per month"
+      transportation: "Public transport pass included in semester fee"
+      materials: "Estimated €200-€400 per year for supplies"
+    scholarships_and_aid:
+      available_scholarships:
+        - name: "Deutschlandstipendium"
+          description: "Merit-based scholarship"
+          eligibility: "High academic achievement"
+          application_deadline: "Varies"
+      financial_aid_options: "BAföG, student loans, part-time work opportunities"
+
+  campus_and_student_life:
+    campus:
+      facilities:
+        - "Engineering Workshops"
+        - "Laboratories"
+        - "Libraries"
+      housing: "Assistance provided in finding accommodations"
+      transportation: "Well-connected via public transport"
+    student_live:
+      culture: "Practical and industry-focused environment"
+      setting: "Urban campus with modern facilities"
+      extracurricular_activities:
+        - "Engineering clubs"
+        - "Student projects"
+        - "Sports facilities"
+      support_services: "Career services, academic advising, counseling"
+
+  reputation_and_ranking:
+    global_rankings:
+      QS_Ranking: "Not individually ranked globally"
+      THE_Ranking: "Not ranked"
+      ARWU_Ranking: "Not ranked"
+    national_rankings: "Well-regarded among German universities of applied sciences"
+    alumni_success: "Graduates working in leading engineering firms and industries"
+
+  post_graduation_outcomes:
+    job_opportunities:
+      description: "Graduates are equipped with practical skills for immediate entry into the engineering workforce"
+      professions:
+        - profession_name: "Mechanical Engineer"
+          description_of_profession: "Designs and maintains mechanical systems"
+          study_program: "Bachelor of Engineering in Mechanical Engineering"
+          job_market_demand: "High demand in manufacturing and industrial sectors"
+          starting_salaries: "Approximately €40,000 - €50,000 per year"
+          industries: "Manufacturing, automotive, energy"
+    further_education: "Opportunities for Master's programs in Engineering"
+
+  application_and_admission:
+    application_process:
+      contact:
+        web: "https://www.htw-berlin.de/en/studies/applying/"
+        email: "studienberatung@htw-berlin.de"
+        phone: "+49 30 5019 2255"
+      requirements:
+        academic: "Abitur or equivalent; proficiency in German"
+        additional: "Possibly entrance examination for certain programs"
+      deadline: "July 15, 2025"
+      open_days: "May 5-6, 2025"
+    admission_statistics:
+      acceptance_rate: "Varies by program; generally accessible"
+      average_gpa: "Not specified"
+      average_test_scores: "Not applicable"
+
+  internships_and_practical_experience:
+    dual_programs:
+      available: "Yes"
+      details: "Dual study programs with industry partners combining study and work"
+    internships:
+      opportunities: "Mandatory internships integrated into the curriculum"
+      partnerships: "Strong connections with engineering firms"
+    workshops:
+      available: "Yes"
+      details: "Workshops and practical training integral to programs"
+
+  additional_information:
+    FAQs: "Available on the university website"
+    testimonials: "Student experiences shared online"
+    contact_information: "International Office: international@htw-berlin.de"
+
+"Hochschule für Medien, Kommunikation und Wirtschaft (HMKW) Berlin / Faculty of Engineering":
+  matching_score: "7"
+  recommendation: "HMKW Berlin's Faculty of Engineering offers programs that combine technical skills with practical applications, focusing on media technology and related fields. While it provides hands-on learning and industry connections, it may not fully align with Barbora's creative interests. Potential professions include Media Engineer, Technical Project Manager, or Media Technology Specialist."
+  field_of_study: "Engineering and Media Technology"
+  description: "The faculty integrates engineering principles with media and communication technologies, preparing students for technical roles in the media industry."
+  type: "Fachhochschule (University of Applied Sciences)"
+  city: "Berlin"
+  address: "Ackerstraße 76, 13355 Berlin, Germany"
+  web: "https://www.hmkw.de/en/"
+  timeline_overview: "Bachelor programs typically span 6 semesters, including practical projects and internships."
+
+  reputation_and_quality:
+    ranking: "Recognized for industry-oriented education in media and technology"
+    faculty_quality:
+      notable_professors:
+        - "Prof. Dr.-Ing. Lutz Pottgen: Expert in media technology"
+        - "Prof. Dr. Carsten Busch: Specialist in communication and media studies"
+      individual_mentorship: "Personalized support through small class sizes and dedicated faculty"
+      number_of_students: "Approximately 1,500 students across campuses"
+      student_teacher_ratio: "Approximately 20:1"
+    accreditations: "Accredited by the German Accreditation Council"
+
+  study_programs:
+    description: "Offers Bachelor's programs in Media and Event Technology"
+    programs:
+      - name: "Bachelor of Engineering in Media and Event Technology"
+        type: "Bachelor"
+        specialization: "Media Technology, Event Technology"
+        description: "Combines technical engineering skills with media production and event management."
+        url: "https://www.hmkw.de/en/study/media-and-event-technology-beng/"
+        timeline_overview: "3-year program with internships and real-world projects."
+        matching_score: "7"
+        recommendation: "Offers practical skills and industry connections but may lack the creative design focus Barbora prefers."
+        curriculum:
+          core_courses:
+            - "Electrical Engineering"
+            - "Media Technology"
+          electives:
+            - "Audio Engineering"
+            - "Lighting Technology"
+        entry_requirements: "Abitur or equivalent; proficiency in German; possibly an interview"
+        duration: "3 years"
+        language_of_instruction: "German"
+
+  industry_partnerships:
+    partnering_companies:
+      - name: "Media Technology Companies"
+        description: "Collaboration on projects and internships"
+        collaboratoin_type: "Internships, project collaborations"
+        study_type: "Integration of real-world projects into coursework"
+        matching_score: "7"
+        recommendation: "Provides industry exposure and practical experience, aligning with Barbora's preference for hands-on learning."
+        timeline_overview: "Opportunities throughout the program"
+        application_process:
+          requirements: "Standard university application; internship applications submitted separately"
+          deadline: "Rolling admissions; early application recommended"
+          open_days: "April 15-16, 2025"
+
+  exchange_programs:
+    partnering_schools:
+      - name: "University of Westminster, UK"
+        description: "Exchange program offering international perspectives in media technology"
+        structure: "One semester abroad"
+        matching_score: "7"
+        recommendation: "Provides international exposure and enhances technical skills."
+        duration: "One semester"
+        application_process:
+          requirements: "Good academic standing, language proficiency"
+          deadline: "Check International Office for specific dates"
+          open_days: "International Office events throughout the year"
+
+  tuition_and_financials:
+    tuition_fees:
+      domestic: "Approximately €6,000 per year"
+      international: "Approximately €6,000 per year"
+    additional_costs:
+      living: "Approximately €800-€1,000 per month"
+      transportation: "Public transport pass around €60-€80 per month"
+      materials: "Estimated €300-€500 per year for supplies"
+    scholarships_and_aid:
+      available_scholarships:
+        - name: "HMKW Scholarship"
+          description: "Financial support for outstanding students"
+          eligibility: "Academic excellence and strong motivation"
+          application_deadline: "Varies; check university website"
+      financial_aid_options: "Student loans, installment payment plans"
+
+  campus_and_student_life:
+    campus:
+      facilities:
+        - "Media Labs"
+        - "Engineering Workshops"
+        - "Libraries"
+      housing: "Assistance provided in finding private accommodations"
+      transportation: "Excellent public transport connections"
+    student_live:
+      culture: "Vibrant community with a focus on media and technology"
+      setting: "Urban campus in central Berlin"
+      extracurricular_activities:
+        - "Student media projects"
+        - "Technical workshops"
+        - "Cultural events"
+      support_services: "Academic advising, career services, counseling"
+
+  reputation_and_ranking:
+    global_rankings:
+      QS_Ranking: "Not prominently ranked globally"
+      THE_Ranking: "Not ranked"
+      ARWU_Ranking: "Not ranked"
+    national_rankings: "Recognized for practical media and technology education"
+    alumni_success: "Graduates working in media technology companies and event production"
+
+  post_graduation_outcomes:
+    job_opportunities:
+      description: "Graduates are prepared for technical roles in the media and events industry."
+      professions:
+        - profession_name: "Media Engineer"
+          description_of_profession: "Oversees technical aspects of media production and events."
+          study_program: "Bachelor of Engineering in Media and Event Technology"
+          job_market_demand: "Steady demand in media and events sectors"
+          starting_salaries: "Approximately €35,000 - €45,000 per year"
+          industries: "Media production, event management, broadcasting"
+    further_education: "Opportunities for Master's programs in related fields"
+
+  application_and_admission:
+    application_process:
+      contact:
+        web: "https://www.hmkw.de/en/study/admission/"
+        email: "study-berlin@hmkw.de"
+        phone: "+49 30 467 769 00"
+      requirements:
+        academic: "Abitur or equivalent"
+        additional: "Possibly an interview; proficiency in German"
+      deadline: "Rolling admissions; early application recommended"
+      open_days: "April 15-16, 2025"
+    admission_statistics:
+      acceptance_rate: "Selective; exact rate not specified"
+      average_gpa: "Not specified"
+      average_test_scores: "Not applicable"
+
+  internships_and_practical_experience:
+    dual_programs:
+      available: "No"
+      details: "Dual vocational training programs are not offered"
+    internships:
+      opportunities: "Internships are integral to the curriculum"
+      partnerships: "Collaborations with media technology companies"
+    workshops:
+      available: "Yes"
+      details: "Workshops and practical projects integrated into programs"
+
+  additional_information:
+    FAQs: "Available on the university website"
+    testimonials: "Student experiences shared online"
+    contact_information: "International Office: international@hmkw.de"
+
+
