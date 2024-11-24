@@ -1,0 +1,179 @@
+CODE University of Applied Sciences / Faculty of Software Engineering, Interaction Design, and Product Management:
+  additional_information:
+    FAQs: Available on the university website
+    contact_information: 'Admissions Office: admissions@code.berlin'
+    testimonials: Student and alumni stories shared online
+  address: "Lohm\xC3\xBChlenstra\xC3\u0178e 65, 12435 Berlin, Germany"
+  application_and_admission:
+    admission_statistics:
+      acceptance_rate: Selective; exact rate not specified
+      average_gpa: Not specified
+      average_test_scores: Not applicable
+    application_process:
+      contact:
+        email: admissions@code.berlin
+        phone: +49 30 1208 9720
+        web: https://code.berlin/en/apply/
+      deadline: Rolling admissions; early application encouraged
+      open_days: March 25-26, 2025
+      requirements:
+        academic: Abitur or equivalent
+        additional: Motivation letter, interview, possibly portfolio
+  campus_and_student_life:
+    campus:
+      facilities:
+      - Modern Workspaces
+      - Tech Labs
+      - Event Spaces
+      housing: Assistance provided in finding accommodations
+      transportation: Well-connected via public transport
+    student_live:
+      culture: Innovative, startup-like environment with collaborative culture
+      extracurricular_activities:
+      - Hackathons
+      - Tech Meetups
+      - Startup Events
+      setting: Urban campus in a vibrant district of Berlin
+      support_services: Mentorship programs, career services, counseling
+  city: Berlin
+  description: An accredited university focusing on digital product development, combining
+    technical skills with creative problem-solving in an interdisciplinary environment.
+  exchange_programs:
+    partnering_schools:
+    - application_process:
+        deadline: Varies
+        open_days: Information sessions held periodically
+        requirements: Depends on the specific collaboration
+      description: Collaborations with international institutions and companies
+      duration: Varies
+      matching_score: '7'
+      name: No formal exchange programs but international collaborations
+      recommendation: Offers global exposure through collaborations, but limited formal
+        exchange programs.
+      structure: International projects and potential for study abroad arrangements
+  field_of_study: Software Engineering, Interaction Design, and Product Management
+  industry_partnerships:
+    partnering_companies:
+    - application_process:
+        deadline: Rolling admissions; early application encouraged
+        open_days: March 25-26, 2025
+        requirements: Standard university application; internships applied for separately
+      collaboratoin_type: Industry projects, internships
+      description: Collaboration on projects, internships, and mentorship
+      matching_score: '9'
+      name: Tech Startups and Companies
+      recommendation: Provides hands-on experience and industry connections, aligning
+        with Barbora's preferences.
+      study_type: Integration of real-world projects into curriculum
+      timeline_overview: Opportunities available throughout the program
+  internships_and_practical_experience:
+    dual_programs:
+      available: No formal dual programs
+      details: Emphasis on practical projects and industry collaboration instead
+    internships:
+      opportunities: Strongly encouraged and supported
+      partnerships: Extensive network with tech companies and startups
+    workshops:
+      available: 'Yes'
+      details: Workshops and project sprints integral to the curriculum
+  matching_score: '8'
+  post_graduation_outcomes:
+    further_education: Opportunities for Master's programs in related fields
+    job_opportunities:
+      description: High employability in tech and design sectors due to practical
+        skills and industry connections
+      professions:
+      - description_of_profession: Designs interactive products focusing on user experience.
+        industries: Technology companies, design agencies, startups
+        job_market_demand: High demand in tech industries
+        profession_name: Interaction Designer
+        starting_salaries: "Approximately \xE2\u201A\xAC40,000 - \xE2\u201A\xAC50,000\
+          \ per year"
+        study_program: Bachelor of Arts in Interaction Design
+  recommendation: CODE offers innovative programs that blend creativity with technology,
+    emphasizing hands-on projects and collaboration. The Interaction Design program
+    aligns well with Barbora's interests in combining creativity with technical expertise.
+    Potential professions include Interaction Designer, Product Manager, or UX/UI
+    Designer.
+  reputation_and_quality:
+    accreditations: Accredited by the Berlin Senate Department for Science and Research
+    faculty_quality:
+      individual_mentorship: Strong mentorship due to small cohorts and project-based
+        approach
+      notable_professors:
+      - 'Prof. Dr. Jonathan Klahr: Expert in software development'
+      - 'Prof. Kerstin Hormann: Specialist in interaction design'
+      number_of_students: Approximately 400 students
+      student_teacher_ratio: Approximately 10:1
+    ranking: Innovative institution with growing recognition in tech education
+  reputation_and_ranking:
+    alumni_success: Graduates working in leading tech companies and startups
+    global_rankings:
+      ARWU_Ranking: Not ranked
+      QS_Ranking: Not ranked
+      THE_Ranking: Not ranked
+    national_rankings: Gaining recognition for innovative education model
+  study_programs:
+    description: Offers Bachelor's programs in Interaction Design, Software Engineering,
+      and Product Management
+    programs:
+    - curriculum:
+        core_courses:
+        - Design Thinking
+        - Human-Computer Interaction
+        electives:
+        - Augmented Reality
+        - Interactive Prototyping
+      description: Focuses on designing intuitive interfaces and interactive experiences,
+        combining creativity with technology.
+      duration: 3 years
+      entry_requirements: Abitur or equivalent; motivation letter; interview
+      language_of_instruction: English
+      matching_score: '9'
+      name: Bachelor of Arts in Interaction Design
+      recommendation: Highly aligns with Barbora's desire to combine creativity with
+        technical skills in a hands-on environment.
+      specialization: Interaction Design, User Experience
+      timeline_overview: 3-year program with project-based learning and industry collaborations.
+      type: Bachelor
+      url: https://code.berlin/en/study/interactions/
+    - curriculum:
+        core_courses:
+        - Agile Project Management
+        - Business Models
+        electives:
+        - Data Analytics
+        - Marketing Strategies
+      description: Emphasizes the development and management of digital products,
+        integrating business and technical skills.
+      duration: 3 years
+      entry_requirements: Abitur or equivalent; motivation letter; interview
+      language_of_instruction: English
+      matching_score: '7'
+      name: Bachelor of Science in Product Management
+      recommendation: Good for combining technical and managerial skills, but may
+        be less focused on creative design.
+      specialization: Product Development, Project Management
+      timeline_overview: 3-year program with interdisciplinary projects.
+      type: Bachelor
+      url: https://code.berlin/en/study/product-management/
+  timeline_overview: Bachelor programs typically span 6 semesters, project-based learning
+    is emphasized.
+  tuition_and_financials:
+    additional_costs:
+      living: "Approximately \xE2\u201A\xAC800-\xE2\u201A\xAC1,000 per month"
+      materials: Minimal additional costs; most resources are digital
+      transportation: "Public transport pass around \xE2\u201A\xAC60-\xE2\u201A\xAC\
+        80 per month"
+    scholarships_and_aid:
+      available_scholarships:
+      - application_deadline: Varies; check university website
+        description: Financial support based on merit and need
+        eligibility: Academic excellence, motivation
+        name: CODE Scholarship
+      financial_aid_options: Income Share Agreements, student loans
+    tuition_fees:
+      domestic: "Income-based repayment model or \xE2\u201A\xAC9,800 per year"
+      international: Same as domestic
+  type: Private University of Applied Sciences
+  web: https://code.berlin/en/

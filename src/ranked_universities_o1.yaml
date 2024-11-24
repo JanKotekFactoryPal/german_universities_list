@@ -599,7 +599,7 @@
         language_of_instruction: "German"
 
   industry_partnerships:
-    partnering_companies: []
+    partnering_companies: [ ]
     # Weißensee focuses more on artistic development and less on formal industry partnerships.
 
   exchange_programs:
@@ -3572,7 +3572,7 @@
         language_of_instruction: "German"
 
   industry_partnerships:
-    partnering_companies: []
+    partnering_companies: [ ]
     # Focuses more on individual artistic development rather than formal industry partnerships.
 
   exchange_programs:
@@ -4200,7 +4200,7 @@
           open_days: "Company open days and university info sessions"
 
   exchange_programs:
-    partnering_schools: []
+    partnering_schools: [ ]
     # Steinbeis University focuses more on industry collaboration than academic exchanges.
 
   tuition_and_financials:
@@ -4761,9 +4761,6 @@
           job_market_demand: "Strong demand in various industries"
           starting_salaries: "Approximately €45,000 - €55,000 per year"
           industries: "Chemical industry, pharmaceuticals, energy"
-    further_education: "Opportunities for Master's and PhD programs"
-    description: "Prepared for careers in the energy sector and environmental technology."
-     professions:
         - profession_name: "Energy Engineer"
           description_of_profession: "Develops and optimizes energy systems."
           study_program: "Bachelor of Science in Energy and Process Engineering"
@@ -6697,7 +6694,7 @@
       extracurricular_activities:
         - "Science clubs"
         - "Environmental initiatives"
-         - "Aviation clubs"
+        - "Aviation clubs"
         - "Student projects"
         - "Sports facilities"
       support_services: "Career services, academic advising, counseling."

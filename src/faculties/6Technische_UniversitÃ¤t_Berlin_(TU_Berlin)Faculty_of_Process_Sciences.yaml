@@ -1,0 +1,204 @@
+"Technische Universit\xC3\xA4t Berlin (TU Berlin) / Faculty of Process Sciences":
+  additional_information:
+    FAQs: Available on the university website
+    contact_information: 'International Office: international@tu-berlin.de'
+    testimonials: Student experiences shared online
+  address: "Stra\xC3\u0178e des 17. Juni 135, 10623 Berlin, Germany"
+  application_and_admission:
+    admission_statistics:
+      acceptance_rate: Competitive; varies by year
+      average_gpa: Not specified
+      average_test_scores: Not applicable
+    application_process:
+      contact:
+        email: studienberatung@tu-berlin.de
+        phone: +49 30 314 29999
+        web: https://www.tu.berlin/en/studying/application-and-enrollment/
+      deadline: July 15, 2025
+      open_days: April 10-11, 2025
+      requirements:
+        academic: Abitur or equivalent; strong background in chemistry and mathematics
+        additional: German language proficiency (TestDaF, DSH)
+  campus_and_student_life:
+    campus:
+      facilities:
+      - Advanced Laboratories
+      - Research Centers
+      - Libraries
+      housing: University accommodations and private rentals available
+      transportation: Excellent public transport connectivity
+    student_life:
+      culture: Diverse and international community with a focus on research
+      extracurricular_activities:
+      - Science clubs
+      - Research groups
+      - Student associations
+      setting: Urban campus in central Berlin
+      support_services: Academic advising, career services, counseling
+  city: Berlin
+  description: Focuses on the development and optimization of chemical and biological
+    processes, integrating engineering principles with practical applications.
+  exchange_programs:
+    partnering_schools:
+    - application_process:
+        deadline: Check International Office for dates.
+        open_days: International Office events.
+        requirements: Good academic standing; proficiency in English.
+      description: Exchange program focusing on energy and environmental engineering.
+      duration: One semester.
+      matching_score: '7'
+      name: KTH Royal Institute of Technology, Sweden
+      recommendation: Offers international exposure and potential collaboration with
+        Vattenfall in Sweden.
+      structure: One semester abroad.
+    - application_process:
+        deadline: Typically early 2025 for Winter Semester
+        open_days: International Office events
+        requirements: Excellent academic record; proficiency in English
+      description: Exchange program for top-performing students in process sciences
+      duration: One semester
+      matching_score: '7'
+      name: ETH Zurich, Switzerland
+      recommendation: Offers international exposure and access to leading research
+        facilities
+      structure: One semester abroad with research opportunities
+  field_of_study: Process Sciences
+  industry_partnerships:
+    partnering_companies:
+    - application_process:
+        deadline: Varies; early application recommended.
+        open_days: Company presentations at the university.
+        requirements: Application to Vattenfall; may require academic references.
+      collaboration_type: Internships, joint research.
+      description: Collaboration on research projects, internships, and thesis work.
+      matching_score: '8'
+      name: Vattenfall
+      recommendation: Provides direct experience in the energy sector.
+      study_type: Integration of industry projects into studies.
+      timeline_overview: Opportunities throughout the program.
+    - application_process:
+        deadline: Varies by company
+        open_days: Company presentations at the university
+        requirements: Application to the company; may require academic references
+      collaboration_type: Internships, joint research
+      description: Collaborations on research projects and internships
+      matching_score: '7'
+      name: BASF SE
+      recommendation: Provides practical experience in engineering but less focus
+        on creativity
+      study_type: Opportunities to work on industry-relevant projects
+      timeline_overview: Internships typically during semester breaks
+  internships_and_practical_experience:
+    dual_programs:
+      available: No formal dual programs
+      details: Focus on academic studies with practical lab work
+    internships:
+      opportunities: Internships encouraged; sometimes integrated into studies
+      partnerships: Connections with chemical and biotech companies
+    workshops:
+      available: 'Yes'
+      details: Laboratory sessions and practical courses integral to the curriculum
+  matching_score: '6'
+  post_graduation_outcomes:
+    further_education: Opportunities for Master's and PhD programs.
+    job_opportunities:
+      description: Graduates are well-prepared for careers in chemical engineering
+        and biotechnology
+      professions:
+      - description_of_profession: Designs and optimizes chemical processes
+        industries: Chemical industry, pharmaceuticals, energy
+        job_market_demand: Strong demand in various industries
+        profession_name: Chemical Engineer
+        starting_salaries: "Approximately \xE2\u201A\xAC45,000 - \xE2\u201A\xAC55,000\
+          \ per year"
+        study_program: Bachelor of Science in Chemical Engineering
+      - description_of_profession: Develops and optimizes energy systems.
+        industries: Energy companies, environmental agencies, engineering firms.
+        job_market_demand: High due to focus on renewable energy.
+        profession_name: Energy Engineer
+        starting_salaries: "Approximately \xE2\u201A\xAC45,000 - \xE2\u201A\xAC55,000\
+          \ per year."
+        study_program: Bachelor of Science in Energy and Process Engineering
+  recommendation: The Faculty of Process Sciences offers rigorous programs in chemical
+    engineering, biotechnology, and food technology. While it provides strong technical
+    expertise and laboratory experience, it may not align with Barbora's interest
+    in combining creativity with hands-on fieldwork in creative fields. Potential
+    professions include Chemical Engineer, Bioprocess Engineer, or Food Technologist.
+  reputation_and_quality:
+    accreditations: Accredited by relevant German accreditation agencies
+    faculty_quality:
+      individual_mentorship: Available through research projects and lab groups
+      notable_professors:
+      - 'Prof. Dr.-Ing. Peter Neubauer: Expert in bioprocess engineering'
+      - "Prof. Dr.-Ing. Andrea B\xC3\xBCttner: Specialist in food chemistry"
+      number_of_students: Approximately 2,500 students in the faculty
+      student_teacher_ratio: Approximately 20:1
+    ranking: TU Berlin is ranked among the top engineering universities globally
+  reputation_and_ranking:
+    alumni_success: Graduates employed in leading chemical and biotech companies
+    global_rankings:
+      ARWU_Ranking: Ranked among top universities globally
+      QS_Ranking: TU Berlin ranked within top 150 universities worldwide
+      THE_Ranking: Similar global ranking
+    national_rankings: Highly regarded in Germany for engineering and sciences
+  study_programs:
+    description: Offers Bachelor's and Master's programs in Chemical Engineering,
+      Biotechnology, Food Technology, and related fields
+    programs:
+    - curriculum:
+        core_courses:
+        - Organic Chemistry
+        - Process Engineering
+        electives:
+        - Environmental Engineering
+        - Materials Science
+      description: Provides foundational knowledge in chemistry, thermodynamics, and
+        process design
+      duration: 3 years
+      entry_requirements: Abitur or equivalent; proficiency in German
+      language_of_instruction: German
+      matching_score: '6'
+      name: Bachelor of Science in Chemical Engineering
+      recommendation: Highly technical; may not align with Barbora's creative interests
+      specialization: Chemical and Process Engineering
+      timeline_overview: 3-year program with laboratory work and internships
+      type: Bachelor
+      url: https://www.tu.berlin/en/studying/study-programs/all-programs-offered/study-course/chemical-engineering-b-sc/
+    - curriculum:
+        core_courses:
+        - Thermodynamics
+        - Fluid Mechanics
+        electives:
+        - Renewable Energy Systems
+        - Energy Storage Technologies
+      description: Provides foundational knowledge in energy technologies and process
+        engineering.
+      duration: 3 years.
+      entry_requirements: Abitur or equivalent; proficiency in German.
+      language_of_instruction: German
+      matching_score: '7'
+      name: Bachelor of Science in Energy and Process Engineering
+      recommendation: Aligns with interests in practical skills and sustainability.
+      specialization: Energy Systems Engineering
+      timeline_overview: 3-year program with practical projects.
+      type: Bachelor
+      url: https://www.tu.berlin/en/studying/study-programs/all-programs-offered/study-course/energy-and-process-engineering-b-sc/
+  timeline_overview: Bachelor programs typically span 6 semesters (3 years), with
+    options for master's studies.
+  tuition_and_financials:
+    additional_costs:
+      living: "Approximately \xE2\u201A\xAC800-\xE2\u201A\xAC1,000 per month"
+      materials: "Estimated \xE2\u201A\xAC200-\xE2\u201A\xAC400 per year for supplies"
+      transportation: Public transport pass included in semester fee
+    scholarships_and_aid:
+      available_scholarships:
+      - application_deadline: Usually in early summer
+        description: Merit-based scholarship
+        eligibility: High academic achievement
+        name: Deutschlandstipendium
+      financial_aid_options: "BAf\xC3\xB6G for eligible students, student loans"
+    tuition_fees:
+      domestic: "No tuition fees; semester fee around \xE2\u201A\xAC307"
+      international: Same as domestic; no tuition fees
+  type: "Technische Universit\xC3\xA4t"
+  web: https://www.tu.berlin/en/faculty-iii

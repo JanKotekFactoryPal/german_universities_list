@@ -1,0 +1,226 @@
+"Hochschule f\xC3\xBCr Technik und Wirtschaft Berlin (HTW Berlin) / School of Life Sciences":
+  additional_information:
+    FAQs: Available on the university website.
+    contact_information: 'International Office: international@htw-berlin.de'
+    testimonials: Student experiences shared online.
+  address: "Wilhelminenhofstra\xC3\u0178e 75A, 12459 Berlin, Germany"
+  application_and_admission:
+    admission_statistics:
+      acceptance_rate: Varies by program; generally accessible.
+      average_gpa: Not specified.
+      average_test_scores: Not applicable.
+    application_process:
+      contact:
+        email: studienberatung@htw-berlin.de
+        phone: +49 30 5019 2255
+        web: https://www.htw-berlin.de/en/studies/applying/
+      deadline: July 15 (for winter semester).
+      open_days: May; check website for dates.
+      requirements:
+        academic: Abitur or equivalent; proficiency in German.
+        additional: Possibly entrance examination for certain programs.
+  campus_and_student_life:
+    campus:
+      facilities:
+      - Modern Laboratories
+      - Research Centers
+      - Flight Simulators
+      - Engineering Laboratories
+      - Libraries
+      housing: Assistance provided in finding accommodations.
+      transportation: Well-connected via public transport.
+    student_life:
+      culture: Practical and industry-focused environment.
+      extracurricular_activities:
+      - Science clubs
+      - Environmental initiatives
+      - Aviation clubs
+      - Student projects
+      - Sports facilities
+      setting: Urban campus with modern facilities.
+      support_services: Career services, academic advising, counseling.
+  city: Berlin
+  description: Focuses on applied sciences in biology and environmental studies, integrating
+    laboratory work with real-world applications.
+  exchange_programs:
+    partnering_schools:
+    - application_process:
+        deadline: Check International Office for dates.
+        open_days: International Office events.
+        requirements: Good academic standing.
+      description: Exchange program focusing on aviation studies.
+      duration: One semester.
+      matching_score: '7'
+      name: University of Applied Sciences Frankfurt
+      recommendation: Offers broader exposure to aviation management.
+      structure: One semester abroad.
+    - application_process:
+        deadline: Check International Office for dates.
+        open_days: International Office events.
+        requirements: Good academic standing; proficiency in English.
+      description: Exchange program focusing on life sciences.
+      duration: One semester.
+      matching_score: '7'
+      name: University of Applied Sciences Utrecht, Netherlands
+      recommendation: Offers international exposure and practical learning.
+      structure: One semester abroad with credit transfer.
+  field_of_study: Life Sciences, Biotechnology, Environmental Engineering
+  industry_partnerships:
+    partnering_companies:
+    - application_process:
+        deadline: Varies by company.
+        open_days: Career fairs and networking events.
+        requirements: Application to companies; may require interviews.
+      collaboration_type: Internships, project collaborations.
+      description: Collaboration on projects and internships.
+      matching_score: '7'
+      name: Biotech and Environmental Firms
+      recommendation: Provides practical experience in relevant industries.
+      study_type: Integration of practical work into studies.
+      timeline_overview: Opportunities throughout the program.
+    - application_process:
+        deadline: Varies; early application recommended.
+        open_days: Company presentations at the university.
+        requirements: Application to DFS; may require interviews.
+      collaboration_type: Internships, project collaborations.
+      description: Collaboration on internships and industry projects.
+      matching_score: '8'
+      name: DFS Deutsche Flugsicherung
+      recommendation: Provides direct experience in air traffic management.
+      study_type: Integration of practical work into studies.
+      timeline_overview: Opportunities throughout the program.
+  internships_and_practical_experience:
+    dual_programs:
+      available: Yes.
+      details: Dual study programs combining study and work.
+    internships:
+      opportunities: Mandatory internships integrated into the curriculum.
+      partnerships: Strong connections with relevant industries.
+    workshops:
+      available: Yes.
+      details: Workshops and practical training integral to programs.
+  matching_score: '6'
+  post_graduation_outcomes:
+    further_education: Opportunities for Master's programs.
+    job_opportunities:
+      description: Graduates are equipped with practical skills for immediate entry
+        into the workforce.
+      professions:
+      - description_of_profession: Develops products and processes using biological
+          organisms.
+        industries: Pharmaceuticals, agriculture, healthcare.
+        job_market_demand: Growing due to advancements in biotech.
+        profession_name: Biotechnologist
+        starting_salaries: "Approximately \xE2\u201A\xAC35,000 - \xE2\u201A\xAC45,000\
+          \ per year."
+        study_program: Bachelor of Science in Biotechnology
+      - description_of_profession: Manages and monitors air traffic flow.
+        industries: Air traffic control organizations, airlines.
+        job_market_demand: Stable demand in aviation industry.
+        profession_name: Air Traffic Management Specialist
+        starting_salaries: "Approximately \xE2\u201A\xAC40,000 - \xE2\u201A\xAC50,000\
+          \ per year."
+        study_program: Bachelor of Engineering in Aeronautical Engineering
+  recommendation: The School offers practical-oriented programs in life sciences,
+    including biotechnology and environmental engineering. It provides technical knowledge
+    and hands-on experience, which may align with Barbora's interest in practical
+    fieldwork, but may lack the creative and artistic focus she prefers. Potential
+    professions include Biotechnologist, Environmental Engineer, or Laboratory Technician.
+  reputation_and_quality:
+    accreditations: Programs accredited by relevant German agencies.
+    faculty_quality:
+      individual_mentorship: Personalized support through small class sizes.
+      notable_professors:
+      - 'Prof. Dr. Ralf-Peter Ryser: Expert in biotechnology.'
+      - "Prof. Dr. Sabine M\xC3\xB6ller: Specialist in environmental sciences."
+      number_of_students: Approximately 14,000 students across the university.
+      student_teacher_ratio: Approximately 20:1.
+    ranking: Well-regarded among German universities of applied sciences.
+  reputation_and_ranking:
+    alumni_success: Graduates working in biotech companies, environmental agencies,
+      and research institutions.
+    global_rankings:
+      ARWU_Ranking: Not ranked.
+      QS_Ranking: Not individually ranked globally.
+      THE_Ranking: Not ranked.
+    national_rankings: Well-regarded among German universities of applied sciences.
+  study_programs:
+    description: Offers Bachelor's programs in Biotechnology, Environmental Engineering,
+      and Renewable Energy.
+    programs:
+    - curriculum:
+        core_courses:
+        - Microbiology
+        - Genetic Engineering
+        electives:
+        - Pharmaceutical Biotechnology
+        - Bioinformatics
+      description: Combines biology and technology to develop products and processes.
+      duration: 3.5 years
+      entry_requirements: Abitur or equivalent; proficiency in German.
+      language_of_instruction: German
+      matching_score: '6'
+      name: Bachelor of Science in Biotechnology
+      recommendation: Provides practical skills but may lack creative elements Barbora
+        prefers.
+      specialization: Applied Biotechnology
+      timeline_overview: 3.5-year program with laboratory work and internships.
+      type: Bachelor
+      url: https://www.htw-berlin.de/en/studies/bachelor/biotechnology/
+    - curriculum:
+        core_courses:
+        - Waste Management
+        - Water Treatment
+        electives:
+        - Renewable Energy Systems
+        - Air Pollution Control
+      description: Focuses on engineering solutions for environmental challenges.
+      duration: 3.5 years
+      entry_requirements: Abitur or equivalent; proficiency in German.
+      language_of_instruction: German
+      matching_score: '6'
+      name: Bachelor of Engineering in Environmental Engineering
+      recommendation: Offers fieldwork experience but may not align with creative
+        interests.
+      specialization: Environmental Protection Technologies
+      timeline_overview: 3.5-year program with practical training.
+      type: Bachelor
+      url: https://www.htw-berlin.de/en/studies/bachelor/environmental-engineering/
+    - curriculum:
+        core_courses:
+        - Aircraft Design
+        - Flight Mechanics
+        electives:
+        - Air Traffic Control Systems
+        - Aviation Safety
+      description: Provides foundational knowledge in aircraft design and aviation
+        technology.
+      duration: 3.5 years.
+      entry_requirements: Abitur or equivalent; proficiency in German.
+      language_of_instruction: German
+      matching_score: '7'
+      name: Bachelor of Engineering in Aeronautical Engineering
+      recommendation: Aligns with technical skills relevant to DFS.
+      specialization: Aircraft Systems, Avionics
+      timeline_overview: 3.5-year program with practical training.
+      type: Bachelor
+      url: https://www.htw-berlin.de/en/studies/bachelor/aeronautical-engineering/
+  timeline_overview: Bachelor programs typically span 7 semesters, including practical
+    semesters and a thesis project.
+  tuition_and_financials:
+    additional_costs:
+      living: "Approximately \xE2\u201A\xAC800-\xE2\u201A\xAC1,000 per month."
+      materials: "Estimated \xE2\u201A\xAC200-\xE2\u201A\xAC400 per year."
+      transportation: Public transport pass included in semester fee.
+    scholarships_and_aid:
+      available_scholarships:
+      - application_deadline: Varies.
+        description: Merit-based scholarship.
+        eligibility: High academic achievement.
+        name: Deutschlandstipendium
+      financial_aid_options: "BAf\xC3\xB6G, student loans, part-time work."
+    tuition_fees:
+      domestic: "No tuition fees; semester fee around \xE2\u201A\xAC300."
+      international: Same as domestic; no tuition fees.
+  type: University of Applied Sciences
+  web: https://www.htw-berlin.de/en/
