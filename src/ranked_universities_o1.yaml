@@ -41,6 +41,24 @@
         entry_requirements: "Abitur or equivalent; German proficiency"
         duration: "3 years"
         language_of_instruction: "German"
+      - name: "Master of Science in Architecture"
+        type: "Master"
+        specialization: "Advanced Architectural Design and Urban Planning"
+        description: "Focuses on advanced design, sustainable building, and urban development."
+        url: "https://www.tu.berlin/en/studying/study-programs/all-programs-offered/study-course/architecture-m-sc/"
+        timeline_overview: "2-year program with advanced design studios, research projects, and a master's thesis."
+        matching_score: "9"
+        recommendation: "Ideal for students looking to deepen their expertise in architecture and urban planning. Emphasizes innovative design and sustainability."
+        curriculum:
+          core_courses:
+            - "Advanced Design Studio"
+            - "Sustainable Building"
+          electives:
+            - "Urban Development"
+            - "Architectural Theory"
+        entry_requirements: "Bachelor's degree in Architecture or related field; German proficiency"
+        duration: "2 years"
+        language_of_instruction: "German"
 
   industry_partnerships:
     partnering_companies:
@@ -55,6 +73,17 @@
           requirements: "Portfolio and application to the company."
           deadline: "Varies by company"
           open_days: "Company events and lectures at the university"
+      - name: "HENN GmbH"
+        description: "Partnership for research projects and internships in innovative architectural design."
+        collaboration_type: "Research projects, internships"
+        study_type: "Integrated internships and project work"
+        matching_score: "8"
+        recommendation: "Offers exposure to cutting-edge architectural practices and research."
+        timeline_overview: "Internships and projects integrated into the study program."
+        application_process:
+          requirements: "Portfolio, research proposal, and application."
+          deadline: "Varies by project"
+          open_days: "Company presentations and workshops at the university"
 
   exchange_programs:
     partnering_schools:
